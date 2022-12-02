@@ -1,0 +1,4311 @@
+[
+  {
+    "id": "631765ce99226c00195b4205",
+    "institucionDependencia": {
+      "nombre": "OPD MUSEOS EXP Y GAL JALISCO"
+    },
+    "puesto": {
+      "nombre": "JEFE DE COM DIGITAL A"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "BERNARDO ",
+    "primerApellido": "TORRES RUIZ",
+    "segundoApellido": "BRAVO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:22:54+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631765d499226c00195b4218",
+    "institucionDependencia": {
+      "nombre": "Agencia Integral para la Regulación de Emisiones",
+      "siglas": "AIRE"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR GENERAL"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Francisco Javier ",
+    "primerApellido": "Sierra ",
+    "segundoApellido": "Moreno",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:23:00+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631765f899226c00195b4232",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica ",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Subjefe Téc. Especialista"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Norma Angélica ",
+    "primerApellido": "Olivares ",
+    "segundoApellido": "Hernández",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:23:36+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631765fa99226c00195b4245",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "Secretaria de Apoyo"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Margarita",
+    "primerApellido": "Rodríguez  ",
+    "segundoApellido": "Melchor",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:23:38+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317661499226c00195b425f",
+    "institucionDependencia": {
+      "nombre": "Agencia Integral para la Regulación de Emisiones",
+      "siglas": "AIRE"
+    },
+    "puesto": {
+      "nombre": "Dirección de operaciones"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Guillermo   ",
+    "primerApellido": "Bueno ",
+    "segundoApellido": "Ibarra",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:24:04+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317663099226c00195b4272",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARÍA CONCEPCIÓN",
+    "primerApellido": "RAMÍREZ ",
+    "segundoApellido": "LEPE",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:24:32+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317664a99226c00195b4285",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica ",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Jefe de Proyecto"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Norma",
+    "primerApellido": "Lomelí",
+    "segundoApellido": "Cazares",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:24:58+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317664f99226c00195b4298",
+    "institucionDependencia": {
+      "nombre": "Fideicomiso Fondo Jalisco de Fomento Empresarial",
+      "siglas": "FOJAL"
+    },
+    "puesto": {
+      "nombre": "Director General"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Héctor Aníbal",
+    "primerApellido": "Vélez",
+    "segundoApellido": "Chong",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:25:03+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317669499226c00195b42ab",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica ",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Director de Plantel"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Paulina ",
+    "primerApellido": "Corella ",
+    "segundoApellido": "Gómez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:26:12+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631766b799226c00195b42be",
+    "institucionDependencia": {
+      "nombre": "Fideicomiso Fondo Jalisco de Fomento Empresarial",
+      "siglas": "FOJAL"
+    },
+    "puesto": {
+      "nombre": "Ejecutivo de Fondeo"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Ileana Maribel",
+    "primerApellido": "Arredondo",
+    "segundoApellido": "Sandoval",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:26:47+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631766d399226c00195b42d0",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "COORDINADORA DEL PROGRAMA "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARÍA DE LOURDES",
+    "primerApellido": "LÓPEZ ",
+    "segundoApellido": "TELLO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:27:15+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631766fd99226c00195b42e3",
+    "institucionDependencia": {
+      "nombre": "Ins. de Pensiones del Estado de Jal.",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "RECEPCIONISTA B"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "OMAR DAVID ",
+    "primerApellido": "TORRES",
+    "segundoApellido": " LOPEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:27:57+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317671699226c00195b42ef",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica ",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Subjefe Téc. Especialista"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Rey David ",
+    "primerApellido": "Cruz ",
+    "segundoApellido": "Catalán",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:28:22+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317673299226c00195b4302",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "TECNICO MEDIO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARIA DEL CARMEN",
+    "primerApellido": "HERNANDEZ ",
+    "segundoApellido": "DIAZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:28:50+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317675e99226c00195b431c",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica ",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Subjefe Téc. Especialista"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Roberto ",
+    "primerApellido": "Aguilar ",
+    "segundoApellido": "Barrios",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:29:34+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317676299226c00195b4328",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARÍA DEL PILAR",
+    "primerApellido": "MARENTES ",
+    "segundoApellido": "MARTÍNEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:29:38+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317679299226c00195b433b",
+    "institucionDependencia": {
+      "nombre": "Fideicomiso Fondo Jalisco de Fomento Empresarial",
+      "siglas": "FOJAL"
+    },
+    "puesto": {
+      "nombre": "Coord Sistemas informació"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Jesús Abraham",
+    "primerApellido": "Gutiérrez",
+    "segundoApellido": "Guerrero",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:30:26+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317679599226c00195b4342",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "Secretario"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Maria Del Rocio",
+    "primerApellido": "Alba  ",
+    "segundoApellido": "Gomez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:30:29+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631767c299226c00195b4355",
+    "institucionDependencia": {
+      "nombre": "Ins. de Pensiones del Estado de Jal.",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "DIR. RECURSOS HUMANOS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "OSCAR ALEJANDRO ",
+    "primerApellido": "CASTRO ",
+    "segundoApellido": "PEÑA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:31:14+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631767d199226c00195b4368",
+    "institucionDependencia": {
+      "nombre": "OPD MUSEOS EXP Y GAL JALISCO"
+    },
+    "puesto": {
+      "nombre": "JEFE DE JURIDICO A"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ERICK ISMAEL",
+    "primerApellido": "DIAZ",
+    "segundoApellido": "ORTIZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:31:29+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317682599226c00195b4399",
+    "institucionDependencia": {
+      "nombre": "Agencia para el Desarrollo de Industrias"
+    },
+    "puesto": {
+      "nombre": "DIRECCION JURIDICA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Ana Rosa  ",
+    "primerApellido": "Arenas ",
+    "segundoApellido": " Franco",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:32:53+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317685599226c00195b43b3",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "SECRETARIA DE APOYO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARÍA DEL ROSARIO",
+    "primerApellido": "GONZÁLEZ ",
+    "segundoApellido": "VARGAS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:33:41+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317686f99226c00195b43bf",
+    "institucionDependencia": {
+      "nombre": "Agencia para el Desarrollo de Industrias"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR GENERAL"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Antonio  ",
+    "primerApellido": "Salazar ",
+    "segundoApellido": "Gomez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:34:07+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317687299226c00195b43cd",
+    "institucionDependencia": {
+      "nombre": "OPD MUSEOS EXP Y GAL JALISCO"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR TÉCNICO C"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "IGNACIO",
+    "primerApellido": "AVILA",
+    "segundoApellido": "RODRIGUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:34:10+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317687a99226c00195b43de",
+    "institucionDependencia": {
+      "nombre": "Ins. de Pensiones del Estado de Jal.",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "Dir de operación e inver"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "PABLO ERNESTO ",
+    "primerApellido": "ZAVALA ",
+    "segundoApellido": "BOJÓRQUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:34:18+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631768a499226c00195b43ff",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica ",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Subjefe Téc. Especialista"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Roberto ",
+    "primerApellido": "Rolón ",
+    "segundoApellido": "Pérez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:35:00+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631768c199226c00195b440b",
+    "institucionDependencia": {
+      "nombre": "Agencia para el Desarrollo de Industrias"
+    },
+    "puesto": {
+      "nombre": "Enlace Administrativo H"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Raquel ",
+    "primerApellido": "Plascencia ",
+    "segundoApellido": "Heredia",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:35:29+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631768c399226c00195b4412",
+    "institucionDependencia": {
+      "nombre": "Fideicomiso Fondo Jalisco de Fomento Empresarial",
+      "siglas": "FOJAL"
+    },
+    "puesto": {
+      "nombre": "Ejecutivo Servicios Grale"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Jesús Manuel",
+    "primerApellido": "Hernández",
+    "segundoApellido": "Cruz",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:35:31+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317690999226c00195b4448",
+    "institucionDependencia": {
+      "nombre": "Bosque La Primavera"
+    },
+    "puesto": {
+      "nombre": "Director de Área"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Alejandro Concepción ",
+    "primerApellido": "Alvarado ",
+    "segundoApellido": "Guzmán",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:36:41+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317692599226c00195b446b",
+    "institucionDependencia": {
+      "nombre": "Fideicomiso Fondo Jalisco de Fomento Empresarial",
+      "siglas": "FOJAL"
+    },
+    "puesto": {
+      "nombre": "Coordinador Monito riesgo"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Karina Berenice",
+    "primerApellido": "Ruelas",
+    "segundoApellido": "Hernández",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:37:09+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317693a99226c00195b447c",
+    "institucionDependencia": {
+      "nombre": "Bosque La Primavera"
+    },
+    "puesto": {
+      "nombre": "Coordinadora Juridica"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Dalia Citlhaly ",
+    "primerApellido": "Lomeli ",
+    "segundoApellido": "Delgado",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:37:30+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317695699226c00195b448f",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "Sub Coord. administrativo"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Maria Dolores",
+    "primerApellido": "De La Mora",
+    "segundoApellido": "Bañuelos",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:37:58+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317697599226c00195b44aa",
+    "institucionDependencia": {
+      "nombre": "OPD MUSEOS EXP Y GAL JALISCO"
+    },
+    "puesto": {
+      "nombre": "JEFE RECURSOS MATERIALES"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LUIS EDUARDO",
+    "primerApellido": "IÑIGUEZ",
+    "segundoApellido": "ALCARAZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:38:29+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317697799226c00195b44b6",
+    "institucionDependencia": {
+      "nombre": "Bosque La Primavera"
+    },
+    "puesto": {
+      "nombre": "Director de Área"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Jesus ",
+    "primerApellido": "Gutierrez ",
+    "segundoApellido": "Cacique",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:38:31+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317699099226c00195b44c9",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARÍA ELENA ",
+    "primerApellido": "PÉREZ ",
+    "segundoApellido": "PACHECO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:38:56+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631769c999226c00195b44ea",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "Tramite de Prestaciones"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Maria Guadalupe",
+    "primerApellido": "Hernandez ",
+    "segundoApellido": "Mata",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:39:53+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631769d499226c00195b44fd",
+    "institucionDependencia": {
+      "nombre": "Bosque La Primavera"
+    },
+    "puesto": {
+      "nombre": "Coor Protecc Recursos Nat"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Josué Oliverio  ",
+    "primerApellido": "Alvarado",
+    "segundoApellido": "Guzmán",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:40:04+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631769dd99226c00195b4510",
+    "institucionDependencia": {
+      "nombre": "OPD MUSEOS EXP Y GAL JALISCO"
+    },
+    "puesto": {
+      "nombre": "DIR ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LUIS RICARDO",
+    "primerApellido": "MORANDO",
+    "segundoApellido": "LEON",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:40:13+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631769f399226c00195b4523",
+    "institucionDependencia": {
+      "nombre": "Fideicomiso Fondo Jalisco de Fomento Empresarial",
+      "siglas": "FOJAL"
+    },
+    "puesto": {
+      "nombre": "Ejecutivo Capital Humano"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Lidia Beatríz",
+    "primerApellido": "Magaña",
+    "segundoApellido": "Acosta",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:40:35+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176a0299226c00195b452f",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARÍA GUADALUPE",
+    "primerApellido": "MARTÍNEZ ",
+    "segundoApellido": "RESENDIZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:40:50+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176a0899226c00195b4542",
+    "institucionDependencia": {
+      "nombre": "Bosque La Primavera"
+    },
+    "puesto": {
+      "nombre": "Directora de Área"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Ma Cruz ",
+    "primerApellido": "Carrillo  ",
+    "segundoApellido": "Rodriguez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:40:56+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176a3b99226c00195b4555",
+    "institucionDependencia": {
+      "nombre": "OPD MUSEOS EXP Y GAL JALISCO"
+    },
+    "puesto": {
+      "nombre": "COORDINADORA "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARIA DEL CARMEN ",
+    "primerApellido": "ZARATE",
+    "segundoApellido": "RAMIREZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:41:47+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176a7899226c00195b457d",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica ",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Coordinador Ejecutivo II"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Roberto ",
+    "primerApellido": "Santana ",
+    "segundoApellido": "García",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:42:48+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176a8d99226c00195b4589",
+    "institucionDependencia": {
+      "nombre": "Fideicomiso Fondo Jalisco de Fomento Empresarial",
+      "siglas": "FOJAL"
+    },
+    "puesto": {
+      "nombre": "Ejecutivo de Fomento"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "María Dolores",
+    "primerApellido": "Ruíz",
+    "segundoApellido": "Gamboa",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:43:09+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176a9d99226c00195b4597",
+    "institucionDependencia": {
+      "nombre": "Bosque La Primavera"
+    },
+    "puesto": {
+      "nombre": "Edo  Dcho de Direc  Gral"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Marciano ",
+    "primerApellido": "Valtierra ",
+    "segundoApellido": "Azotla",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:43:24+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176b3499226c00195b45b6",
+    "institucionDependencia": {
+      "nombre": "Ins. de Pensiones del Estado de Jal.",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "COOR.  ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "PAOLA ALEJANDRA ",
+    "primerApellido": "MIRANDA ",
+    "segundoApellido": "SANDOVAL",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:45:56+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176b3f99226c00195b45c2",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "SECRETARIA DE APOYO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARÍA GUADALUPE",
+    "primerApellido": "MENDEZ ",
+    "segundoApellido": "ORTEGA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:46:07+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176b7e99226c00195b45e3",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "TECNICO MEDIO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARIANA  ",
+    "primerApellido": "VAZQUEZ ",
+    "segundoApellido": "DONATO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:47:10+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176b8299226c00195b45ef",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica ",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Jefe de Proyecto"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Rocío Magdalena ",
+    "primerApellido": "Benitez ",
+    "segundoApellido": "Palazuelos",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:47:14+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176bae99226c00195b4609",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "Auxiliar Administrativo"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Mariana ",
+    "primerApellido": "Carranza ",
+    "segundoApellido": "Iñiguez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:47:58+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176bc799226c00195b461c",
+    "institucionDependencia": {
+      "nombre": "Bosque La Primavera"
+    },
+    "puesto": {
+      "nombre": "CONTADORA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Maria Esther ",
+    "primerApellido": "Varela  ",
+    "segundoApellido": "Enriquez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:48:23+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176bcd99226c00195b462f",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica ",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Subjefe Téc. Especialista"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Rogelio ",
+    "primerApellido": "Ramírez ",
+    "segundoApellido": "Contreras",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:48:29+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176be099226c00195b463b",
+    "institucionDependencia": {
+      "nombre": "Fideicomiso Fondo Jalisco de Fomento Empresarial",
+      "siglas": "FOJAL"
+    },
+    "puesto": {
+      "nombre": "Coordinador Contabilidad"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Mario Abraham",
+    "primerApellido": "Rodríguez",
+    "segundoApellido": "Molina",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:48:48+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176c0099226c00195b4647",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "ADMIN. ESPECIALIZADO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARIO ALBERTO",
+    "primerApellido": "REYES ",
+    "segundoApellido": "CALDERON",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:49:20+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176c0f99226c00195b4653",
+    "institucionDependencia": {
+      "nombre": "Bosque La Primavera"
+    },
+    "puesto": {
+      "nombre": "Directora de Área"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Patricia Mgdalena ",
+    "primerApellido": "Aguilera ",
+    "segundoApellido": "Jaime",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:49:35+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176c4e99226c00195b4682",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica ",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Jefe de Proyecto"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Roger ",
+    "primerApellido": "Alcalá ",
+    "segundoApellido": "Villalobos",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:50:38+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176c5499226c00195b4689",
+    "institucionDependencia": {
+      "nombre": "Fideicomiso Fondo Jalisco de Fomento Empresarial",
+      "siglas": "FOJAL"
+    },
+    "puesto": {
+      "nombre": "Directora Adm y Finanzas"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Merlin Grisell",
+    "primerApellido": "Madrid",
+    "segundoApellido": "Arzapalo",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:50:44+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176c5a99226c00195b4690",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "Secretaria Particular"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Martha Alicia ",
+    "primerApellido": "Ávila  ",
+    "segundoApellido": "Varela",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:50:50+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176c6599226c00195b46b4",
+    "institucionDependencia": {
+      "nombre": "Bosque La Primavera"
+    },
+    "puesto": {
+      "nombre": "Coordinador Admin"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Victoria ",
+    "primerApellido": "Jimenez ",
+    "segundoApellido": "Rodriguez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:51:01+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176c7899226c00195b46c7",
+    "institucionDependencia": {
+      "nombre": "OPD MUSEOS EXP Y GAL JALISCO"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA GENERAL"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MIRIAM PAOLA",
+    "primerApellido": "VILLASEÑOR",
+    "segundoApellido": "MUÑOZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:51:20+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176ca899226c00195b46e8",
+    "institucionDependencia": {
+      "nombre": "Fideicomiso Fondo Jalisco de Fomento Empresarial",
+      "siglas": "FOJAL"
+    },
+    "puesto": {
+      "nombre": "Coord. de Fondeo"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Miguel Ángel",
+    "primerApellido": "Ponce",
+    "segundoApellido": "Reyes",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:52:08+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176cb099226c00195b46f3",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica ",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Coordinador Ejecutivo II"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ROSA MARGARITA",
+    "primerApellido": "MORENO ",
+    "segundoApellido": "CONTRERAS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:52:16+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176cc299226c00195b46ff",
+    "institucionDependencia": {
+      "nombre": "Ins. de Pensiones del Estado de Jal.",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "AU COSERV MED SUB HOS GDL"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "PAOLA YADIRA ",
+    "primerApellido": "DIAZ ",
+    "segundoApellido": "RODRIGUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:52:34+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176cfc99226c00195b4725",
+    "institucionDependencia": {
+      "nombre": "OPD MUSEOS EXP Y GAL JALISCO"
+    },
+    "puesto": {
+      "nombre": "DIR PROYECTOS EXP Y MUS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ROMAN GABRIEL",
+    "primerApellido": "DE LA TORRE",
+    "segundoApellido": "LEY ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:53:32+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176d0299226c00195b4731",
+    "institucionDependencia": {
+      "nombre": "Fideicomiso Fondo Jalisco de Fomento Empresarial",
+      "siglas": "FOJAL"
+    },
+    "puesto": {
+      "nombre": "Ejecutivo De Recuperación"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Nancy Elena",
+    "primerApellido": "Martínez",
+    "segundoApellido": "Navarro",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:53:38+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176d0299226c00195b4738",
+    "institucionDependencia": {
+      "nombre": "Centro de Coordinacion Comando y Cómputo",
+      "siglas": "C5"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR GENERAL"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Alejandro   ",
+    "primerApellido": "Plaza",
+    "segundoApellido": "Arriola",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:53:38+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176d0499226c00195b4746",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "ADMIN. ESPECIALIZADO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARTHA BEATRIZ ",
+    "primerApellido": "SANTANA ",
+    "segundoApellido": "SÁNCHEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:53:40+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176d3399226c00195b4771",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "MAESTRO TECNICO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARTHA ELENA",
+    "primerApellido": "RUELAS ",
+    "segundoApellido": "ROBLES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:54:27+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176d6399226c00195b4790",
+    "institucionDependencia": {
+      "nombre": "Centro de Coordinación Comando y Cómputo C5",
+      "siglas": "C5"
+    },
+    "puesto": {
+      "nombre": "PRESTADOR SERVICIOS PROF"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CHRISTIAN BERENICE ",
+    "primerApellido": "ORTIZ ",
+    "segundoApellido": "MUÑOZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:55:15+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176d9899226c00195b47aa",
+    "institucionDependencia": {
+      "nombre": "OPD MUSEOS EXP Y GAL JALISCO"
+    },
+    "puesto": {
+      "nombre": "JEFE DE MUSEOGRAFÍA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "SAC NICTE",
+    "primerApellido": "COUOH",
+    "segundoApellido": "MAGAÑA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:56:08+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176dca99226c00195b47c4",
+    "institucionDependencia": {
+      "nombre": "Fideicomiso Fondo Jalisco de Fomento Empresarial",
+      "siglas": "FOJAL"
+    },
+    "puesto": {
+      "nombre": "Ejecutivo Desarrollo Empr"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Natalia",
+    "primerApellido": "Neri",
+    "segundoApellido": "Martínez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:56:58+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176df599226c00195b47e6",
+    "institucionDependencia": {
+      "nombre": "ORG OPERADOR PARQUE SOLIDARIDAD"
+    },
+    "puesto": {
+      "nombre": "ENCAR DESPACHO DIR GRAL"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ARACELI",
+    "primerApellido": "RAMÍREZ",
+    "segundoApellido": "CERVANTES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:57:41+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176dfa99226c00195b47f2",
+    "institucionDependencia": {
+      "nombre": "Centro de Coordinación Comando y Cómputo C5",
+      "siglas": "C5"
+    },
+    "puesto": {
+      "nombre": "PRESTADOR SERVICIOS PROF"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "DANIEL ",
+    "primerApellido": "ATA ",
+    "segundoApellido": "ISLAS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:57:46+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176d5f99226c00195b4784",
+    "institucionDependencia": {
+      "nombre": "Ins. de Pensiones del Estado de Jal.",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA DE PROCESOS JUR"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2022-09-06T15:57:58+00:00",
+    "nombres": "PATRICIA ELIZABETH  ",
+    "primerApellido": "NAVARRO",
+    "segundoApellido": "CAMACHO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "63176e0a99226c00195b480d",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica ",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Director de Plantel"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Rosalio ",
+    "primerApellido": "Beato ",
+    "segundoApellido": "Guzmán",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:58:02+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176e3799226c00195b4835",
+    "institucionDependencia": {
+      "nombre": "Fideicomiso Fondo Jalisco de Fomento Empresarial",
+      "siglas": "FOJAL"
+    },
+    "puesto": {
+      "nombre": "Ejecutivo de Cumplimiento"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Noemí",
+    "primerApellido": "Resendiz",
+    "segundoApellido": "Ibarra",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:58:47+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176e6199226c00195b4848",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARTIN",
+    "primerApellido": "GOMEZ ",
+    "segundoApellido": "PIMENTEL",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:59:29+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176e7999226c00195b4862",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica ",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Subjefe Téc. Especialista"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Rosario del Refugio ",
+    "primerApellido": "Figueroa ",
+    "segundoApellido": "Aguilar",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:59:53+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176e7e99226c00195b486e",
+    "institucionDependencia": {
+      "nombre": "Ins. de Pensiones del Estado de Jal.",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "PAULINA ARIADNA ",
+    "primerApellido": "MORA ",
+    "segundoApellido": "MORA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:59:58+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176e8b99226c00195b487a",
+    "institucionDependencia": {
+      "nombre": "ORG OPERADOR PARQUE SOLIDARIDAD"
+    },
+    "puesto": {
+      "nombre": "DIR ADMINISTRATIVA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LIZZETH",
+    "primerApellido": "HARO",
+    "segundoApellido": "SPENCE",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:00:11+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176e9699226c00195b488d",
+    "institucionDependencia": {
+      "nombre": "Centro de Coordinación Comando y Cómputo  C5",
+      "siglas": "C5"
+    },
+    "puesto": {
+      "nombre": "JEFA EVALUACIÓN Y SEGTO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "GABRIELA DENISSE  ",
+    "primerApellido": "BRIONES",
+    "segundoApellido": "REYES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:00:22+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176e9b99226c00195b48a0",
+    "institucionDependencia": {
+      "nombre": "Fideicomiso Fondo Jalisco de Fomento Empresarial",
+      "siglas": "FOJAL"
+    },
+    "puesto": {
+      "nombre": "Coord Acelera Alto impact"
+    },
+    "nombres": "Omar Paúl",
+    "primerApellido": "Jiménez",
+    "segundoApellido": "Quintero",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:00:27+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176ea399226c00195b48b3",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "Jefe de Oficina"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Mayra Anell",
+    "primerApellido": "Guerrero  ",
+    "segundoApellido": "Padilla",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:00:35+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176eda99226c00195b48cd",
+    "institucionDependencia": {
+      "nombre": "Centro de Coordinación Comando y Cómputo C5",
+      "siglas": "C5"
+    },
+    "puesto": {
+      "nombre": "PRESTADOR SERVICIOS PROF"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LEONARDO  ",
+    "primerApellido": "VARGAS ",
+    "segundoApellido": "HERNANDEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:01:30+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176edb99226c00195b48d9",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica ",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Jefe de Proyecto"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Saúl Alberto ",
+    "primerApellido": "Cabrera ",
+    "segundoApellido": "Luna",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:01:31+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176ee099226c00195b48e5",
+    "institucionDependencia": {
+      "nombre": "Ins. de Pensiones del Estado de Jal.",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "VERIFICADOR DE HOSPITALES"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "PEDRO ",
+    "primerApellido": "CASTELLANOS ",
+    "segundoApellido": "VALENZUELA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:01:36+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176ef299226c00195b4906",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "Respon. de requerimientos"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Michel Enrique",
+    "primerApellido": "Perez  ",
+    "segundoApellido": "Robles",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:01:54+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176f1199226c00195b4919",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica ",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Jefe de Proyecto"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Sergio ",
+    "primerApellido": "Arias ",
+    "segundoApellido": "Zúñiga",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:02:25+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176f1799226c00195b4925",
+    "institucionDependencia": {
+      "nombre": "Ins. de Pensiones del Estado de Jal.",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "MÉDICO GENERAL"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "RICARDO ALONSO ",
+    "primerApellido": "HERNÁNDEZ ",
+    "segundoApellido": "GONZÁLEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:02:31+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176f3199226c00195b4938",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "PROF. SECUNDARIA TECNICA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MIGUEL ANGEL",
+    "primerApellido": "ANGUIANO ",
+    "segundoApellido": "CADENA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:02:57+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176f5699226c00195b494b",
+    "institucionDependencia": {
+      "nombre": "ORG OPERADOR PARQUE SOLIDARIDAD"
+    },
+    "puesto": {
+      "nombre": "TITULAR TRANSPARENCIA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MAYRA ELIVET",
+    "primerApellido": "CARMONA",
+    "segundoApellido": "GUTIERREZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:03:34+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176f7999226c00195b4957",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "Jefe Administrativo"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Miguel Ángel",
+    "primerApellido": "Cambron  ",
+    "segundoApellido": "Rojas",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:04:09+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176fa299226c00195b4973",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica ",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Jefe de Proyecto"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Silvia ",
+    "primerApellido": "González ",
+    "segundoApellido": "Gómez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:04:50+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176fa299226c00195b497a",
+    "institucionDependencia": {
+      "nombre": "Centro de Coordinación Comando y Cómputo C5",
+      "siglas": "C5"
+    },
+    "puesto": {
+      "nombre": "DTOR DE AREA ADMIN FINAN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ULISES RAFAEL ",
+    "primerApellido": "CHAVEZ ",
+    "segundoApellido": "SANCHEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:04:50+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176fa699226c00195b498b",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "JEFE"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MILVIA VERONICA",
+    "primerApellido": "SERVIN ",
+    "segundoApellido": "VALADEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:04:54+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176fd299226c00195b49b3",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "TECNICO MEDIO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MIREYA ",
+    "primerApellido": "JIMENEZ ",
+    "segundoApellido": "CAMPOS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:05:38+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176fd399226c00195b49ba",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica ",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Jefe de Proyecto"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Suelent Janette ",
+    "primerApellido": "Llamas ",
+    "segundoApellido": "Garcia",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:05:39+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176fd899226c00195b49d2",
+    "institucionDependencia": {
+      "nombre": "ORG OPERADOR PARQUE SOLIDARIDAD"
+    },
+    "puesto": {
+      "nombre": "ALMACENISTA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "RAMON",
+    "primerApellido": "GARCIA",
+    "segundoApellido": "PANTOJA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:05:44+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63176fdc99226c00195b49de",
+    "institucionDependencia": {
+      "nombre": "Centro de Coordinación Comando y Cómputo C5",
+      "siglas": "C5"
+    },
+    "puesto": {
+      "nombre": "PRESTADOR SERVICIOS PROF"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "YAIR ISRAEL ",
+    "primerApellido": "BECERRA ",
+    "segundoApellido": "RODRIGUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:05:48+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317702199226c00195b4a06",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "TECNICO ESPECIALISTA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MIRIAM  ",
+    "primerApellido": "VENEGAS ",
+    "segundoApellido": "FLORES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:06:57+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317703899226c00195b4a20",
+    "institucionDependencia": {
+      "nombre": "Ins. de Pensiones del Estado de Jal.",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "Supervisor A"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ROBERTO ",
+    "primerApellido": "ELIZONDO ",
+    "segundoApellido": "HERNÁNDEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:07:20+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317703a99226c00195b4a27",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica ",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Jefe de Proyecto"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "VALERIA RENATA  ",
+    "primerApellido": "HERMOSILLO ",
+    "segundoApellido": "MONTERO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:07:22+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317705299226c00195b4a46",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "Administrativo"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Miriam Elizabeth ",
+    "primerApellido": "Aldana ",
+    "segundoApellido": "Méndez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:07:46+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317706d99226c00195b4a52",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica ",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Subjefe Téc. Especialista"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "VERÓNICA ",
+    "primerApellido": "AGUILERA ",
+    "segundoApellido": "RAMÍREZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:08:13+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317707d99226c00195b4a5e",
+    "institucionDependencia": {
+      "nombre": "Ins. de Pensiones del Estado de Jal."
+    },
+    "puesto": {
+      "nombre": "VERIFICADOR DE HOSPITALES"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ROCIO GUADALUPE ",
+    "primerApellido": "ALCANTAR ",
+    "segundoApellido": "HERNANDEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:08:29+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317709499226c00195b4a78",
+    "institucionDependencia": {
+      "nombre": "PARQUE METROPOLITANO DE GDL "
+    },
+    "puesto": {
+      "nombre": "DIRECTOR GENERAL"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JORGE EDUARDO ",
+    "primerApellido": "VILLASEÑOR",
+    "segundoApellido": "PÉREZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:08:52+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631770af99226c00195b4a8b",
+    "institucionDependencia": {
+      "nombre": "Fideicomiso Fondo Jalisco de Fomento Empresarial",
+      "siglas": "FOJAL"
+    },
+    "puesto": {
+      "nombre": "Coordinador Financiamient"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Paola",
+    "primerApellido": "Sánchez",
+    "segundoApellido": "Pérez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:09:19+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631770da99226c00195b4a97",
+    "institucionDependencia": {
+      "nombre": "Centro de Coordinación Comando y Cómputo C5",
+      "siglas": "C5"
+    },
+    "puesto": {
+      "nombre": "SUBDCTOR CAPA Y DRROLLO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ANA PATRICIA ESMERALDA ",
+    "primerApellido": "AGUILAR ",
+    "segundoApellido": "MORA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:10:02+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631770f099226c00195b4ab1",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica ",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Jefe de Unidad"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Verónica Alejandra ",
+    "primerApellido": "Bass ",
+    "segundoApellido": "Buenrostro",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:10:24+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317712e99226c00195b4ac4",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica ",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Jefe de Proyecto"
+    },
+    "nombres": "Verónica ",
+    "primerApellido": "Martínez ",
+    "segundoApellido": "Cruz",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:11:26+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317712f99226c00195b4ad0",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MONICA  ",
+    "primerApellido": "GASPAR ",
+    "segundoApellido": "FLORES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:11:27+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317714599226c00195b4aef",
+    "institucionDependencia": {
+      "nombre": "Centro de Coordinación Comando y Cómputo C5",
+      "siglas": "C5"
+    },
+    "puesto": {
+      "nombre": "DIRCTORA DE AREA JURIDICA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "AURORA ITZEL ",
+    "primerApellido": "CARBONELL ",
+    "segundoApellido": "SANCHEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:11:49+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317714e99226c00195b4b02",
+    "institucionDependencia": {
+      "nombre": "Ins. de Pensiones del Estado de Jal.",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "DIR DE INFRA DE TEC INFOR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "RODRIGO  ",
+    "primerApellido": "CERVANTES ",
+    "segundoApellido": "TAMAYO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:11:58+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317716799226c00195b4b15",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica ",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Coordinador Ejecutivo II"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Verónica ",
+    "primerApellido": "Zermeño ",
+    "segundoApellido": "Torres",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:12:23+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317717599226c00195b4b28",
+    "institucionDependencia": {
+      "nombre": "PARQUE METROPOLITANO DE GDL "
+    },
+    "puesto": {
+      "nombre": "JEFE DEL DPTO  ALM Y SUM"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSE RAMON",
+    "primerApellido": "MELGOZA",
+    "segundoApellido": "GARCIA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:12:37+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631771b199226c00195b4b3b",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "JEFE DE OFICINA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MONICA KARINA",
+    "primerApellido": "MEZA ",
+    "segundoApellido": "HERNÁNDEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:13:37+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631771ca99226c00195b4b4e",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica ",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Coordinador Ejecutivo II"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Víctor  ",
+    "primerApellido": "García  ",
+    "segundoApellido": "Ramírez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:14:02+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631771df99226c00195b4b61",
+    "institucionDependencia": {
+      "nombre": "Ins. de Pensiones del Estado de Jal."
+    },
+    "puesto": {
+      "nombre": "DIR GRL DE PROM  VIVIENDA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "RODRIGO ",
+    "primerApellido": "TOSTADO ",
+    "segundoApellido": "RODRIGUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:14:23+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631771f599226c00195b4b74",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "ANALISTA EN SISTEMAS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "NADIA ",
+    "primerApellido": "LARA ",
+    "segundoApellido": "GARCÍA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:14:45+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317720499226c00195b4b80",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica ",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Director de Plantel"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Víctor ",
+    "primerApellido": "García ",
+    "segundoApellido": "López",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:15:00+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317724799226c00195b4ba3",
+    "institucionDependencia": {
+      "nombre": "PARQUE METROPOLITANO DE GDL "
+    },
+    "puesto": {
+      "nombre": "DIRECTOR ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MIGUEL ANGEL",
+    "primerApellido": "GONZALEZ",
+    "segundoApellido": "VILLA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:16:07+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317724899226c00195b4baf",
+    "institucionDependencia": {
+      "nombre": "Ins. de Pensiones del Estado de Jal."
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE SER GENERALES"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "RUBEN ALEJANDRO",
+    "primerApellido": " LEYVA ",
+    "segundoApellido": "CORDOVA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:16:08+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317725c99226c00195b4bc9",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "Directora General de Prog"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Nadia ",
+    "primerApellido": "Soto  ",
+    "segundoApellido": "Chávez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:16:28+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317727399226c00195b4be3",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica ",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Jefe de Proyecto"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Víctor Hugo ",
+    "primerApellido": "Magaña",
+    "segundoApellido": "Rubio",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:16:51+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631772b699226c00195b4bf6",
+    "institucionDependencia": {
+      "nombre": "Fideicomiso Fondo Jalisco de Fomento Empresarial",
+      "siglas": "FOJAL"
+    },
+    "puesto": {
+      "nombre": "Ejecutivo Contable"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Ricardo",
+    "primerApellido": "Casal",
+    "segundoApellido": "Silva",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:17:58+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631772ef99226c00195b4c12",
+    "institucionDependencia": {
+      "nombre": "Ins. de Pensiones del Estado de Jal."
+    },
+    "puesto": {
+      "nombre": "DIR  INF DE ING DE SOFT"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "RUBEN BERNARDO ",
+    "primerApellido": "ARÁMBULA ",
+    "segundoApellido": "PÉREZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:18:55+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631772fa99226c00195b4c1e",
+    "institucionDependencia": {
+      "nombre": "PLATAFORMA ABIERTA DE INNOVACION Y DESARROLLO JAL"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR AD"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ABRAHAM IVAN",
+    "primerApellido": "URRUTIA",
+    "segundoApellido": "DIAZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:19:06+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317730f99226c00195b4c31",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica ",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Director de Plantel"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Vladimir ",
+    "primerApellido": "Hurtado ",
+    "segundoApellido": "Burgos",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:19:27+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317733799226c00195b4c40",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "Compras"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Norma Gricelda",
+    "primerApellido": "Carbajal ",
+    "segundoApellido": "Barajas",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:20:07+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317735599226c00195b4c50",
+    "institucionDependencia": {
+      "nombre": "Ins. de Pensiones del Estado de Jal.",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "ANALISTA ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "RUTH ANGELICA ",
+    "primerApellido": "RODRIGUEZ",
+    "segundoApellido": " RIVAS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:20:37+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317739299226c00195b4c69",
+    "institucionDependencia": {
+      "nombre": "Fiscalía Estatal",
+      "siglas": "FE"
+    },
+    "puesto": {
+      "nombre": "SECRETARIA DIR DE ÁREA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ADA GRISELA",
+    "primerApellido": "CARO",
+    "segundoApellido": "GARCIA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:21:38+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631773d099226c00195b4c9a",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica ",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Subjefe Téc. Especialista"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Yanet Vanesa ",
+    "primerApellido": "López ",
+    "segundoApellido": "Peregrina",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:22:40+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631773ea99226c00195b4cb4",
+    "institucionDependencia": {
+      "nombre": "Ins. de Pensiones del Estado de Jal.",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "Auxiliar administrativo A"
+    },
+    "nombres": "SALVADOR ",
+    "primerApellido": "LOPEZ  ",
+    "segundoApellido": "SOSA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:23:06+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317740499226c00195b4cc0",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica ",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Jefe de Proyecto"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Yolanda ",
+    "primerApellido": "González ",
+    "segundoApellido": "Luna",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:23:32+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317740e99226c00195b4ccf",
+    "institucionDependencia": {
+      "nombre": "Fiscalía Estatal",
+      "siglas": "FE"
+    },
+    "puesto": {
+      "nombre": "ANALISTA A"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ANA AMERICA LIZETH",
+    "primerApellido": "CRUZ",
+    "segundoApellido": "LOZANO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:23:42+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317744699226c00195b4ce2",
+    "institucionDependencia": {
+      "nombre": "Centro de Coordinación Comando y Cómputo C5",
+      "siglas": "C5"
+    },
+    "puesto": {
+      "nombre": "DRCTOR TECNO INFO Y COMUN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CARLOS EDUARDO ",
+    "primerApellido": "GONZALEZ ",
+    "segundoApellido": "DURON",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:24:38+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317745099226c00195b4cfc",
+    "institucionDependencia": {
+      "nombre": "Ins. de Pensiones del Estado de Jal."
+    },
+    "puesto": {
+      "nombre": "VERIFICADOR DE HOSPITALES"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "SANDRA GUADALUPE ",
+    "primerApellido": "DE LEON ",
+    "segundoApellido": "ROMERO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:24:48+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317745d99226c00195b4d08",
+    "institucionDependencia": {
+      "nombre": "Colegio de Estudios Científicos y Tecnológicos ",
+      "siglas": "CECYTEJ"
+    },
+    "puesto": {
+      "nombre": "Técnico  Especializado"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Martha Beatriz  ",
+    "primerApellido": "Ramírez ",
+    "segundoApellido": "Ibarra",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:25:01+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317747b99226c00195b4d17",
+    "institucionDependencia": {
+      "nombre": "PLATAFORMA ABIERTA DE INNOVACION Y DESARROLLO JAL"
+    },
+    "puesto": {
+      "nombre": "ANALISTA ESCRITOR "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "DAVID ADRÍAN ",
+    "primerApellido": "CERVERA",
+    "segundoApellido": "ZAMBRANO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:25:31+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317747c99226c00195b4d23",
+    "institucionDependencia": {
+      "nombre": "Centro de Coordinación Comando y Cómputo C5",
+      "siglas": "C5"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR DE COMPRAS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ERICK IVAN ",
+    "primerApellido": "CAMACHO ",
+    "segundoApellido": "LOPEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:25:32+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631774a399226c00195b4d38",
+    "institucionDependencia": {
+      "nombre": "Ins. de Pensiones del Estado de Jal."
+    },
+    "puesto": {
+      "nombre": "AUXILIAR ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "SARAI TRINIDAD",
+    "primerApellido": " GOMEZ ",
+    "segundoApellido": "ALCARAZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:26:11+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631774b999226c00195b4d44",
+    "institucionDependencia": {
+      "nombre": "Fiscalía Estatal",
+      "siglas": "FE"
+    },
+    "puesto": {
+      "nombre": "Actuario Ministerio Pú"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Ana Rosa",
+    "primerApellido": "González",
+    "segundoApellido": "Maldonado",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:26:33+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317751199226c00195b4d5e",
+    "institucionDependencia": {
+      "nombre": "PLATAFORMA ABIERTA DE INNOVACION Y DESARROLLO JAL"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR JURÍDICO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "EDGAR SAÚL ",
+    "primerApellido": "ROMERO ",
+    "segundoApellido": "VILLALOBOS ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:28:01+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317751899226c00195b4d6a",
+    "institucionDependencia": {
+      "nombre": "Fiscalía Estatal",
+      "siglas": "FE"
+    },
+    "puesto": {
+      "nombre": "SECRETARIA AUXILIAR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ARELI JACQUELINE",
+    "primerApellido": "FLORES",
+    "segundoApellido": "MARTINEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:28:08+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317753999226c00195b4d84",
+    "institucionDependencia": {
+      "nombre": "Ins. de Pensiones del Estado de Jal."
+    },
+    "puesto": {
+      "nombre": "ADM ESPECIALIZADO B"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "SILVIA NATHALIE ",
+    "primerApellido": "GONZALEZ ",
+    "segundoApellido": "CISNEROS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:28:41+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317758499226c00195b4d97",
+    "institucionDependencia": {
+      "nombre": "Fiscalía Estatal",
+      "siglas": "FE"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ARTURO ARAMIS",
+    "primerApellido": "LOPEZ",
+    "segundoApellido": "LOPEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:29:56+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631775bb99226c00195b4daa",
+    "institucionDependencia": {
+      "nombre": "Ins. de Pensiones del Estado de Jal."
+    },
+    "puesto": {
+      "nombre": "Dir de Conta Vig y Proces"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "SONIA GUILLERMINA",
+    "primerApellido": " AGUILAR ",
+    "segundoApellido": "MORALES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:30:51+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631775d399226c00195b4dbd",
+    "institucionDependencia": {
+      "nombre": "Fiscalía Estatal",
+      "siglas": "FE"
+    },
+    "puesto": {
+      "nombre": "TECNICO A"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "BERENICE",
+    "primerApellido": "ALEJANDRE",
+    "segundoApellido": "MADRIGAL",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:31:15+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317761499226c00195b4dd0",
+    "institucionDependencia": {
+      "nombre": "Ins. de Pensiones del Estado de Jal."
+    },
+    "puesto": {
+      "nombre": "RECEPCIONISTA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "TERESITA DE JESUS  ",
+    "primerApellido": "SANCHEZ ",
+    "segundoApellido": "ROMERO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:32:20+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317766b99226c00195b4df8",
+    "institucionDependencia": {
+      "nombre": "Centro de Coordinación Comando y Cómputo C5",
+      "siglas": "C5"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTOR DE SISTEMAS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ERIKA JULISSA ",
+    "primerApellido": "MECIAS ",
+    "segundoApellido": "CEBALLOS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:33:47+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317768599226c00195b4e17",
+    "institucionDependencia": {
+      "nombre": "PLATAFORMA ABIERTA DE INNOVACION Y DESARROLLO JAL"
+    },
+    "puesto": {
+      "nombre": "ORGANO INTERNO DE CONTROL"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "EDUARDO JAVIER ",
+    "primerApellido": "JUÁREZ",
+    "segundoApellido": "ASCENCIO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:34:13+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317768999226c00195b4e23",
+    "institucionDependencia": {
+      "nombre": "Colegio de Estudios Científicos y Tecnológicos ",
+      "siglas": "CECYTEJ"
+    },
+    "puesto": {
+      "nombre": "Encargado Despacho OIC"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Adrian Rigoberto   ",
+    "primerApellido": "Vázquez ",
+    "segundoApellido": "Alcantar",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:34:17+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631776a499226c00195b4e40",
+    "institucionDependencia": {
+      "nombre": "Centro de Coordinación Comando y Cómputo C5",
+      "siglas": "C5"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTOR DE SOPORTE"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FERNANDO ",
+    "primerApellido": "LEYVA ",
+    "segundoApellido": "SANSON",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:34:44+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631776b699226c00195b4e47",
+    "institucionDependencia": {
+      "nombre": "PLATAFORMA ABIERTA DE INNOVACION Y DESARROLLO JAL"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR DE ALMACEN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "J JESUS",
+    "primerApellido": "GUZMAN",
+    "segundoApellido": "HERNANDEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:35:02+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631776d899226c00195b4e5f",
+    "institucionDependencia": {
+      "nombre": "Fiscalía Estatal",
+      "siglas": "FE"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR B"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": " BERENICE",
+    "primerApellido": "RODRIGUEZ",
+    "segundoApellido": "CAMPOS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:35:36+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631776eb99226c00195b4e72",
+    "institucionDependencia": {
+      "nombre": "Colegio de Estudios Científicos y Tecnológicos ",
+      "siglas": "CECYTEJ"
+    },
+    "puesto": {
+      "nombre": "Analista Especializado"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Aldo Daniel  ",
+    "primerApellido": "García ",
+    "segundoApellido": "Cuellar",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:35:55+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317770499226c00195b4e7b",
+    "institucionDependencia": {
+      "nombre": "Fiscalía Estatal",
+      "siglas": "FE"
+    },
+    "puesto": {
+      "nombre": "TECNICO A"
+    },
+    "nombres": "CARLOS FELIPE",
+    "primerApellido": "CORTÉS",
+    "segundoApellido": "DIAZ DE LEON",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:36:20+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317773f99226c00195b4ea0",
+    "institucionDependencia": {
+      "nombre": "Centro de Coordinación Comando y Cómputo C5",
+      "siglas": "C5"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR DE PROYECTOS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "GABRIELA DENISSE ",
+    "primerApellido": "BRIONES ",
+    "segundoApellido": "REYES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:37:19+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317774f99226c00195b4eb0",
+    "institucionDependencia": {
+      "nombre": "Fiscalía Estatal",
+      "siglas": "FE"
+    },
+    "puesto": {
+      "nombre": "TECNICO A"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CESAR EMMANUEL",
+    "primerApellido": "JIMENEZ",
+    "segundoApellido": "RODRIGUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:37:35+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317777799226c00195b4ec8",
+    "institucionDependencia": {
+      "nombre": "Colegio de Estudios Científicos y Tecnológicos ",
+      "siglas": "CECYTEJ"
+    },
+    "puesto": {
+      "nombre": "Técnico Especializado"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Francisco Antonio ",
+    "primerApellido": "De la Cerda ",
+    "segundoApellido": "Vázquez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:38:15+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631777bd99226c00195b4ede",
+    "institucionDependencia": {
+      "nombre": "PLATAFORMA ABIERTA DE INNOVACION Y DESARROLLO JAL"
+    },
+    "puesto": {
+      "nombre": "COORD DE RECURSOS FIN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSÉ LUIS",
+    "primerApellido": "ESPINO",
+    "segundoApellido": "GUERRERO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:39:25+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631777d999226c00195b4ef1",
+    "institucionDependencia": {
+      "nombre": "Centro de Coordinación Comando y Cómputo C5",
+      "siglas": "C5"
+    },
+    "puesto": {
+      "nombre": "DICTOR ANÁLISIS ESTRATEG"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JORGE ALEJANDRO ",
+    "primerApellido": " VAZQUEZ",
+    "segundoApellido": "RIOS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:39:53+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631777e499226c00195b4f04",
+    "institucionDependencia": {
+      "nombre": "Colegio de Estudios Científicos y Tecnológicos ",
+      "siglas": "CECYTEJ"
+    },
+    "puesto": {
+      "nombre": "Analista Especializado"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Iván ",
+    "primerApellido": "García  ",
+    "segundoApellido": "González",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:40:04+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631777f399226c00195b4f13",
+    "institucionDependencia": {
+      "nombre": "PLATAFORMA ABIERTA DE INNOVACION Y DESARROLLO JAL"
+    },
+    "puesto": {
+      "nombre": "TECNICO ADVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LUIS HUMBERTO ",
+    "primerApellido": "NUÑEZ",
+    "segundoApellido": "ENRIQUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:40:19+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317782199226c00195b4f3d",
+    "institucionDependencia": {
+      "nombre": "PLATAFORMA ABIERTA DE INNOVACION Y DESARROLLO JAL"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "NADIA PAOLA",
+    "primerApellido": "MIRELES",
+    "segundoApellido": "TORRES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:41:05+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317783b99226c00195b4f57",
+    "institucionDependencia": {
+      "nombre": "Centro de Coordinación Comando y Cómputo C5",
+      "siglas": "C5"
+    },
+    "puesto": {
+      "nombre": "SUBDIRCTOR COMUNICACIONES"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSE ANTONIO ",
+    "primerApellido": "ANGELES ",
+    "segundoApellido": "MARTINEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:41:31+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317785199226c00195b4f71",
+    "institucionDependencia": {
+      "nombre": "Fiscalía Estatal",
+      "siglas": "FE"
+    },
+    "puesto": {
+      "nombre": "ENCARGADA DE AREA B"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ERENDIRA GUADALUPE",
+    "primerApellido": "MEZA",
+    "segundoApellido": "GUZMAN",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:41:53+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317786599226c00195b4f7d",
+    "institucionDependencia": {
+      "nombre": "Colegio de Estudios Científicos y Tecnológicos ",
+      "siglas": "CECYTEJ"
+    },
+    "puesto": {
+      "nombre": "Jefe Rec Mat. Serv. Gles."
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Juan  José ",
+    "primerApellido": "Soto  ",
+    "segundoApellido": "Navarro",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:42:13+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317787399226c00195b4f91",
+    "institucionDependencia": {
+      "nombre": "Centro de Coordinación Comando y Cómputo C5",
+      "siglas": "C5"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR DE PROYECTOS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "KATIA ",
+    "primerApellido": "ZUÑIGA ",
+    "segundoApellido": "PEREZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:42:27+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631778b699226c00195b4fb4",
+    "institucionDependencia": {
+      "nombre": "Colegio de Estudios Científicos y Tecnológicos ",
+      "siglas": "CECYTEJ"
+    },
+    "puesto": {
+      "nombre": "Directora General"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Martha Alejandra  ",
+    "primerApellido": "Sánchez ",
+    "segundoApellido": "Acuña",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:43:34+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631778d699226c00195b4fce",
+    "institucionDependencia": {
+      "nombre": "Centro de Coordinación Comando y Cómputo C5",
+      "siglas": "C5"
+    },
+    "puesto": {
+      "nombre": "SUBDCTOR SERVICI DE APOYO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARBRISA ",
+    "primerApellido": "PERALTA ",
+    "segundoApellido": "PUEBLA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:44:06+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631778e999226c00195b4fe1",
+    "institucionDependencia": {
+      "nombre": "PROCURADURÍA DE DESARROLLO URBANO"
+    },
+    "puesto": {
+      "nombre": "PROCURADOR DESAROLLO URB"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CARLOS",
+    "primerApellido": "ROMERO",
+    "segundoApellido": "SANCHEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:44:25+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631778ed99226c00195b4fed",
+    "institucionDependencia": {
+      "nombre": "Colegio de Estudios Científicos y Tecnológicos ",
+      "siglas": "CECYTEJ"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARTÍN ALEJANDRO ",
+    "primerApellido": "GÓMEZ ",
+    "segundoApellido": "GUERRERO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:44:29+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631778fa99226c00195b5003",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "REPONSABLE PRESUPUESTO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "RICARDO IVANHOVE ",
+    "primerApellido": "POLANCO ",
+    "segundoApellido": "Delgado",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:44:42+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317792599226c00195b5021",
+    "institucionDependencia": {
+      "nombre": "Colegio de Estudios Científicos y Tecnológicos ",
+      "siglas": "CECYTEJ"
+    },
+    "puesto": {
+      "nombre": "ENCARGADA DE JURIDICO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "NIDIA JANNETTE  ",
+    "primerApellido": "ROMERO ",
+    "segundoApellido": "MENA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:45:25+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317792999226c00195b5029",
+    "institucionDependencia": {
+      "nombre": "Centro de Coordinación Comando y Cómputo C5",
+      "siglas": "C5"
+    },
+    "puesto": {
+      "nombre": "TITULAR OIC"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MIGUEL ",
+    "primerApellido": "FLORES ",
+    "segundoApellido": "GOMEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:45:29+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317795e99226c00195b504a",
+    "institucionDependencia": {
+      "nombre": "Colegio de Estudios Científicos y Tecnológicos ",
+      "siglas": "CECYTEJ"
+    },
+    "puesto": {
+      "nombre": "Sub-Director Admin."
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Ramón ",
+    "primerApellido": "Valencia ",
+    "segundoApellido": "Morales",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:46:22+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317796399226c00195b5051",
+    "institucionDependencia": {
+      "nombre": "Ins. de Pensiones del Estado de Jal."
+    },
+    "puesto": {
+      "nombre": "CONTROLISTA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "WENDY ELIZABETH ",
+    "primerApellido": "VELIZ ",
+    "segundoApellido": "HERNANDEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:46:27+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631779b499226c00195b506c",
+    "institucionDependencia": {
+      "nombre": "PROCURADURÍA DE DESARROLLO URBANO"
+    },
+    "puesto": {
+      "nombre": "DIR DE ADMON Y COORD"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FERNANDO",
+    "primerApellido": "PLAZA",
+    "segundoApellido": "CORDOBA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:47:48+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631779bd99226c00195b507f",
+    "institucionDependencia": {
+      "nombre": "Ins. de Pensiones del Estado de Jal."
+    },
+    "puesto": {
+      "nombre": "COMPRADOR JUNIOR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "YESSICA LIZETH ",
+    "primerApellido": "ALVAREZ ",
+    "segundoApellido": "HERNANDEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:47:57+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631779cc99226c00195b5090",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "Subsecretario de Educació"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Pedro ",
+    "primerApellido": "Diaz  ",
+    "segundoApellido": "Arias",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:48:12+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631779dc99226c00195b50a0",
+    "institucionDependencia": {
+      "nombre": "Fiscalía Estatal",
+      "siglas": "FE"
+    },
+    "puesto": {
+      "nombre": "Coordinador"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Griselda",
+    "primerApellido": "Rosales",
+    "segundoApellido": "Rodriguez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:48:28+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63177a1d99226c00195b50c1",
+    "institucionDependencia": {
+      "nombre": "Fiscalía Estatal",
+      "siglas": "FE"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR FINANCIERO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ILDEFONSO",
+    "primerApellido": "ALANIZ",
+    "segundoApellido": "RODRIGUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:49:33+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63177a2899226c00195b50d0",
+    "institucionDependencia": {
+      "nombre": "Comisión de Arbitraje Médico ",
+      "siglas": "CAMEJAL"
+    },
+    "puesto": {
+      "nombre": "SUB comisionado Jurídico"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Carlos Alberto  ",
+    "primerApellido": "Ramirez ",
+    "segundoApellido": "Anguiano",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:49:44+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63177a2b99226c00195b50dc",
+    "institucionDependencia": {
+      "nombre": "Centro de Coordinación Comando y Cómputo C5",
+      "siglas": "C5"
+    },
+    "puesto": {
+      "nombre": "DCTOR CTRO INTEGRAL COMUN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "NANCY CELINA ",
+    "primerApellido": "DIAZ ",
+    "segundoApellido": "MORA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:49:47+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63177a4899226c00195b50f6",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "RESP DE LA MIR SAD Y TRAN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ROBERTO ",
+    "primerApellido": "SILVA ",
+    "segundoApellido": "PÉREZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:50:16+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63177a5699226c00195b5102",
+    "institucionDependencia": {
+      "nombre": "Fiscalía Estatal",
+      "siglas": "FE"
+    },
+    "puesto": {
+      "nombre": "SECRETARIA AUXILIAR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JESSICA VICTORIA",
+    "primerApellido": "ESPINOZA",
+    "segundoApellido": "CORTES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:50:30+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63177a6499226c00195b5115",
+    "institucionDependencia": {
+      "nombre": "PROCURADURÍA SOCIAL DEL ESTADO "
+    },
+    "puesto": {
+      "nombre": "ADVTO ESPECIALIZADO SIIF"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ERNESTO",
+    "primerApellido": "SANCHEZ",
+    "segundoApellido": "MARTINEZ ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:50:44+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63177a6c99226c00195b5121",
+    "institucionDependencia": {
+      "nombre": "Centro de Coordinación Comando y Cómputo C5",
+      "siglas": "C5"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR AREA OPERATIVA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "RAFAEL ",
+    "primerApellido": "LOPEZ ",
+    "segundoApellido": "VILLAFAÑA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:50:52+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63177a7599226c00195b5140",
+    "institucionDependencia": {
+      "nombre": "Comisión de Arbitraje Médico ",
+      "siglas": "CAMEJAL"
+    },
+    "puesto": {
+      "nombre": "Comisionado"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FRANCISCO MARTIN  ",
+    "primerApellido": "PRECIADO ",
+    "segundoApellido": "FIGUEROA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:51:01+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63177aad99226c00195b5156",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "ESPECIALISTA TECNICO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ROSA FRANCISCA ",
+    "primerApellido": "OROZCO ",
+    "segundoApellido": "MORA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:51:57+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63177adb99226c00195b516d",
+    "institucionDependencia": {
+      "nombre": "Centro de Coordinación Comando y Cómputo C5",
+      "siglas": "C5"
+    },
+    "puesto": {
+      "nombre": "DICTOR AREA ADMIN Y FINAN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ROSA CRISTINA ",
+    "primerApellido": "CORONA ",
+    "segundoApellido": "GOMEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:52:43+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63177ae099226c00195b5179",
+    "institucionDependencia": {
+      "nombre": "Ins Estatal para la Educación de Jóvenes y Adultos ",
+      "siglas": "INEEJAD"
+    },
+    "puesto": {
+      "nombre": "Director"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Ángel Israel ",
+    "primerApellido": "Carrillo ",
+    "segundoApellido": "Macias",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:52:48+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63177b0e99226c00195b51a1",
+    "institucionDependencia": {
+      "nombre": "Fiscalía Estatal",
+      "siglas": "FE"
+    },
+    "puesto": {
+      "nombre": "DIR RECURSOS MATERIALES"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSE ISRAEL",
+    "primerApellido": "GUEVARA",
+    "segundoApellido": "BUENROSTRO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:53:34+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63177b1799226c00195b51ad",
+    "institucionDependencia": {
+      "nombre": "Comisión de Arbitraje Médico del Estado de Jalisco ",
+      "siglas": "CAMEJAL"
+    },
+    "puesto": {
+      "nombre": "Administrador"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Raul  ",
+    "primerApellido": "Hernandez  ",
+    "segundoApellido": "Alcala",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:53:43+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63177b3799226c00195b51bc",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "MAESTRO TECNICO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ROSALIA  ",
+    "primerApellido": "BERRIOS ",
+    "segundoApellido": "MOSQUEDA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:54:15+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63177b3e99226c00195b51c8",
+    "institucionDependencia": {
+      "nombre": "Centro de Coordinación Comando y Cómputo C5",
+      "siglas": "C5"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR GENERAL"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "RUTH IRAIS  ",
+    "primerApellido": " RUIZ VELASCO",
+    "segundoApellido": "CAMPOS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:54:22+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63177b4a99226c00195b51db",
+    "institucionDependencia": {
+      "nombre": "Fiscalía Estatal",
+      "siglas": "FE"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR INTENDENCIA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JUAN MANUEL",
+    "primerApellido": "DELGADO",
+    "segundoApellido": "CADENA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:54:34+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63177b8099226c00195b51f5",
+    "institucionDependencia": {
+      "nombre": "Centro de Coordinación Comando y Cómputo C5",
+      "siglas": "C5"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTOR OPERACIONES"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "SERGIO ALEJANDRO ",
+    "primerApellido": "MARTINEZ ",
+    "segundoApellido": "SANCHEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:55:28+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63177b8099226c00195b51fc",
+    "institucionDependencia": {
+      "nombre": "Comisión Estatal del Agua ",
+      "siglas": "CEA"
+    },
+    "puesto": {
+      "nombre": "Jefe Precios Unitarios"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Abraham Moises ",
+    "primerApellido": "Patiño ",
+    "segundoApellido": "Martínez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T16:55:28+00:00",
+    "__v": 0
+  }
+]

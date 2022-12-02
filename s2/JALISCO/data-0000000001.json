@@ -1,0 +1,7007 @@
+[
+  {
+    "id": "6160bcc2348a6d00198f6d9b",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "ENCARGADO ENLACE ADMVO",
+      "nivel": "23"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "SECRETARIO ADMON"
+      },
+      "nombres": "RICARDO ",
+      "primerApellido": "RODRIGUEZ",
+      "segundoApellido": "JIMENEZ"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:36:24+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "MIGUEL ANGEL ",
+    "primerApellido": "ACEVES",
+    "segundoApellido": "HUITRON",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160b192348a6d00198f6d98",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "SECRETARIO"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "GOBERNADOR"
+      },
+      "nombres": "ENRIQUE",
+      "primerApellido": "ALFARO",
+      "segundoApellido": "RAMIREZ"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:36:33+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "RICARDO",
+    "primerApellido": "RODRIGUEZ",
+    "segundoApellido": "JIMENEZ",
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 5,
+        "valor": "OTRO"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "6160bd48348a6d00198f6d9e",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR GENERAL"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "SECRETARIO ADMON"
+      },
+      "nombres": "RICARDO ",
+      "primerApellido": "RODRIGUEZ",
+      "segundoApellido": "JIMENEZ"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:37:28+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "JUAN JOSE",
+    "primerApellido": "RAMOS",
+    "segundoApellido": "FERNANDEZ",
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160bdba348a6d00198f6da1",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA DE  CONSULTIVO",
+      "nivel": "21"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRCTOR GENERAL JURIDICO",
+        "nivel": "28"
+      },
+      "nombres": "JUAN JOSE",
+      "primerApellido": "RAMOS ",
+      "segundoApellido": "FERNANDEZ"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:37:43+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "NORA AIDE",
+    "primerApellido": "NIETO",
+    "segundoApellido": "TORRES",
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160be0f348a6d00198f6da4",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR JURIDICO",
+      "nivel": "13"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRCTOR GENERAL JURIDICO",
+        "nivel": "28"
+      },
+      "nombres": "JUAN JOSE",
+      "primerApellido": "RAMOS ",
+      "segundoApellido": "FERNANDEZ"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:37:57+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "EMMA HILDITH",
+    "primerApellido": "CARRANCO",
+    "segundoApellido": "ORTIZ",
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160be89348a6d00198f6da7",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR JURIDICO A"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRCTOR GENERAL JURIDICO",
+        "nivel": "28"
+      },
+      "nombres": "JOSE JUAN ",
+      "primerApellido": "RAMOS ",
+      "segundoApellido": "FERNANDEZ"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:38:12+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "GABRIELA",
+    "primerApellido": "MERCADO",
+    "segundoApellido": "LOPEZ",
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160bfb2348a6d00198f6db2",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA GENERAL "
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "SECRETARIO ADMON"
+      },
+      "nombres": "RICARDO ",
+      "primerApellido": "RODRIGUEZ",
+      "segundoApellido": "JIMENEZ"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:38:30+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "MARIA GUADALUPE",
+    "primerApellido": "ALONSO",
+    "segundoApellido": "LOPEZ",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160c01f348a6d00198f6db5",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA DE FORMACION"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRETORA GENERAL"
+      },
+      "nombres": "MARIA GUADALUPE",
+      "primerApellido": "ALONSO",
+      "segundoApellido": "LOPEZ"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:38:44+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "ROSALIA ELENA",
+    "primerApellido": "HERRERA",
+    "segundoApellido": "GUEVARA",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160c097348a6d00198f6db8",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR GENERAL",
+      "nivel": "28"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "SECRETARIO ADMON"
+      },
+      "nombres": "RICARDO ",
+      "primerApellido": "RODRIGUEZ",
+      "segundoApellido": "JIMENEZ"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:39:01+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "DAVID",
+    "primerApellido": "MENDOZA",
+    "segundoApellido": "MARTINEZ",
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160c117348a6d00198f6dbb",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "JEFE DE ADQUISICIONES"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR GENERAL ",
+        "nivel": "28"
+      },
+      "nombres": "DAVID",
+      "primerApellido": "MENDOZA",
+      "segundoApellido": "MARTINEZ"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:39:19+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "JORGE ALBERTO",
+    "primerApellido": "ZARAGOZA",
+    "segundoApellido": "VAZQUEZ",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160c1fd348a6d00198f6dbe",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADORA GENERAL",
+      "nivel": "23"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR GENERAL ",
+        "nivel": "28"
+      },
+      "nombres": "DAVID",
+      "primerApellido": "MENDOZA",
+      "segundoApellido": "MARTINEZ"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:39:38+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "nombres": "ALMA IVETTE",
+    "primerApellido": "ESPINOZA",
+    "segundoApellido": "CASILLAS",
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160c321348a6d00198f6dc3",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADORA DE COMITE",
+      "nivel": "14"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nivel": "28"
+      },
+      "nombres": "DAVID",
+      "primerApellido": "MENDOZA",
+      "segundoApellido": "MARTINEZ"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:39:59+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "nombres": "ESTELA ",
+    "primerApellido": "GUTIERREZ",
+    "segundoApellido": "ARREGUIN",
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160c39b348a6d00198f6dc6",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DEL COMITE",
+      "nivel": "25"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR GENERAL ",
+        "nivel": "28"
+      },
+      "nombres": "DAVID",
+      "primerApellido": "MENDOZA",
+      "segundoApellido": "MARTINEZ"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:40:57+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "RAYMUNDO ",
+    "primerApellido": "ANDRADE ",
+    "segundoApellido": "BELTRAN",
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160c4d7348a6d00198f6dcc",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "CORDINADOR DE PROYECTOS",
+      "nivel": "15"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DEL COMITE",
+        "nivel": "25"
+      },
+      "nombres": "RAYMUNDO",
+      "primerApellido": "ANDRADE",
+      "segundoApellido": "BELTRAN"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:41:28+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "JACBO ISRAEL",
+    "primerApellido": "ACEVEDO",
+    "segundoApellido": "HERNANDEZ",
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "6160c53b348a6d00198f6dd1",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR DEL COMITE",
+      "nivel": "14"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DEL COMITE",
+        "nivel": "25"
+      },
+      "nombres": "RAYMUNDO",
+      "primerApellido": "ANDRADE",
+      "segundoApellido": "BELTRAN"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:41:50+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "CARLOS",
+    "primerApellido": "DELGADO",
+    "segundoApellido": "AVILA",
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "6160c58a348a6d00198f6dd4",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR TECNICO",
+      "nivel": "13"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DEL COMITE",
+        "nivel": "25"
+      },
+      "nombres": "RAYMUNDO",
+      "primerApellido": "ANDRADE",
+      "segundoApellido": "BELTRAN"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:42:09+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "JONATHAN IGANCIO",
+    "primerApellido": "ORTEGA ",
+    "segundoApellido": "RODRIGUEZ",
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "6160c5bd348a6d00198f6dd7",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADORA DEL COMITE",
+      "nivel": "14"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DEL COMITE",
+        "nivel": "25"
+      },
+      "nombres": "RAYMUNDO",
+      "primerApellido": "ANDRADE",
+      "segundoApellido": "BELTRAN"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:42:24+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "MARIA DE JESUS",
+    "primerApellido": "CARRILLO ",
+    "segundoApellido": "GALLARDO",
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "6160c607348a6d00198f6dda",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR EJECUTIVO",
+      "nivel": "14"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DEL COMITE",
+        "nivel": "25"
+      },
+      "nombres": "RAYMUNDO",
+      "primerApellido": "ANDRADE",
+      "segundoApellido": "BELTRAN"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:44:27+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "MAYRA ELIZABETH",
+    "primerApellido": "GARCIA ",
+    "segundoApellido": "CHAGOLLAN",
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "6160c653348a6d00198f6ddd",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR EJECUTIVO",
+      "nivel": "15"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DEL COMITE",
+        "nivel": "25"
+      },
+      "nombres": "RAYMUNDO",
+      "primerApellido": "ANDRADE",
+      "segundoApellido": "BELTRAN"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:44:55+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "MICHELLE MONSERRAT",
+    "primerApellido": "MORA",
+    "segundoApellido": "MARQUEZ",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "6160c6a7348a6d00198f6de0",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "JEFE DE OFICINA",
+      "nivel": "15"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DEL COMITE",
+        "nivel": "25"
+      },
+      "nombres": "RAYMUNDO",
+      "primerApellido": "ANDRADE",
+      "segundoApellido": "BELTRAN"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:45:10+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "NANCY MILAGROS",
+    "primerApellido": "RODRIGUEZ",
+    "segundoApellido": "CASILLAS",
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "6160c7be348a6d00198f6def",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "ANALISTA ESPCIALIZADO",
+      "nivel": "11"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DEL COMITE",
+        "nivel": "25"
+      },
+      "nombres": "RAYMUNDO",
+      "primerApellido": "ANDRADE",
+      "segundoApellido": "BELTRAN"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:47:23+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "RAFAEL ICHIMATSU",
+    "primerApellido": "OCHOA",
+    "segundoApellido": "NISHIMURA",
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "6160c838348a6d00198f6df2",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "ANALISTA ESPECIALIZADO",
+      "nivel": "14"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DEL COMITE",
+        "nivel": "25"
+      },
+      "nombres": "RAYMUNDO",
+      "primerApellido": "ANDRADE",
+      "segundoApellido": "BELTRAN"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:47:38+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "HUGO",
+    "primerApellido": "SANCHEZ",
+    "segundoApellido": "ESPINOSA",
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "6160c87d348a6d00198f6df5",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADORA DEL COMITE",
+      "nivel": "14"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DEL COMITE",
+        "nivel": "25"
+      },
+      "nombres": "RAYMUNDO",
+      "primerApellido": "ANDRADE",
+      "segundoApellido": "BELTRAN"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:47:54+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "MARTHA LILIAN",
+    "primerApellido": "MIRANDA",
+    "segundoApellido": "RANGEL",
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "6160c8e8348a6d00198f6df8",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR SEGUIMIENTO",
+      "nivel": "13"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DEL COMITE",
+        "nivel": "25"
+      },
+      "nombres": "RAYMUNDO",
+      "primerApellido": "ANDRADE",
+      "segundoApellido": "BELTRAN"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:48:12+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "DAVID LEONCIO",
+    "primerApellido": "DURAN",
+    "segundoApellido": "SUAREZ",
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 5,
+        "valor": "OTRO"
+      }
+    ]
+  },
+  {
+    "id": "6160c930348a6d00198f6dfb",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "TECNICO ESPECIALIZADO",
+      "nivel": "5"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DEL COMITE",
+        "nivel": "25"
+      },
+      "nombres": "RAYMUNDO",
+      "primerApellido": "ANDRADE",
+      "segundoApellido": "BELTRAN"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:48:29+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "OSCAR LEONARDO",
+    "primerApellido": "GUEVARA ",
+    "segundoApellido": "RAMIREZ",
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 5,
+        "valor": "OTRO"
+      }
+    ]
+  },
+  {
+    "id": "6160c98f348a6d00198f6dfe",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE ADQUISICIONES",
+      "nivel": "25"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR GENERAL ",
+        "nivel": "28"
+      },
+      "nombres": "DAVID",
+      "primerApellido": "MENDOZA",
+      "segundoApellido": "MARTINEZ"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:48:46+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "VERONICA DOLORES",
+    "primerApellido": "CARRANZA",
+    "segundoApellido": "GARCIA",
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "6160ca36348a6d00198f6e01",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "TECNICO ESPECIALIZADO A",
+      "nivel": "10"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DE ADQUISICIONES",
+        "nivel": "25"
+      },
+      "nombres": "VERONICA DOLORES",
+      "primerApellido": "CARRANZA",
+      "segundoApellido": "GARCIA"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:49:02+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "CARMEN RAQUEL",
+    "primerApellido": "CASTELLANOS",
+    "segundoApellido": "PINEDA",
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160cab8348a6d00198f6e04",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR EJECUTIVO",
+      "nivel": "14"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DE ADQUISICIONES",
+        "nivel": "25"
+      },
+      "nombres": "VERONICA DOLORES",
+      "primerApellido": "CARRANZA",
+      "segundoApellido": "GARCIA"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:49:18+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "ALEJANDRO JOSE",
+    "primerApellido": "MONTYA ",
+    "segundoApellido": "CASAS",
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160cb09348a6d00198f6e07",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR EJECUTIVO",
+      "nivel": "14"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DE ADQUISICIONES",
+        "nivel": "25"
+      },
+      "nombres": "VERONICA DOLORES",
+      "primerApellido": "CARRANZA",
+      "segundoApellido": "GARCIA"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:49:33+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "BIANCA",
+    "primerApellido": "BENITEZ",
+    "segundoApellido": "BENAVIDEZ",
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160cb50348a6d00198f6e0a",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR EJECUTIVO",
+      "nivel": "14"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DE ADQUISICIONES",
+        "nivel": "25"
+      },
+      "nombres": "VERONICA DOLORES",
+      "primerApellido": "CARRANZA",
+      "segundoApellido": "GARCIA"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:49:48+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "CARLOS ALEJANDRO",
+    "primerApellido": "ORQUIZ",
+    "segundoApellido": "RAMIREZ",
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160cba2348a6d00198f6e0d",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR EJECUTIVO",
+      "nivel": "14"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DE ADQUISICIONES",
+        "nivel": "25"
+      },
+      "nombres": "VERONICA DOLORES",
+      "primerApellido": "CARRANZA",
+      "segundoApellido": "GARCIA"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:50:45+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "CLAUDIA GEORGINA",
+    "primerApellido": "DELGADO",
+    "segundoApellido": "NUÑEZ",
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160cbfb348a6d00198f6e10",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR EJECUTIVO",
+      "nivel": "14"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DE ADQUISICIONES",
+        "nivel": "25"
+      },
+      "nombres": "VERONICA DOLORES",
+      "primerApellido": "CARRANZA",
+      "segundoApellido": "GARCIA"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:51:04+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "ELOISA",
+    "primerApellido": "BARRERA ",
+    "segundoApellido": "REYES",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160cc53348a6d00198f6e13",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR TECNICO",
+      "nivel": "13"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DE ADQUISICIONES",
+        "nivel": "25"
+      },
+      "nombres": "VERONICA DOLORES",
+      "primerApellido": "CARRANZA",
+      "segundoApellido": "GARCIA"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:51:21+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "JOSSUE OSVALDO",
+    "primerApellido": "SALDAÑA",
+    "segundoApellido": "MONTES",
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160ccae348a6d00198f6e16",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR EJECUTIVO",
+      "nivel": "14"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DE ADQUISICIONES",
+        "nivel": "25"
+      },
+      "nombres": "VERONICA DOLORES",
+      "primerApellido": "CARRANZA",
+      "segundoApellido": "GARCIA"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:51:38+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "JUAN IVAN",
+    "primerApellido": "HERNANDEZ",
+    "segundoApellido": "HERNANDEZ",
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160cce9348a6d00198f6e19",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR EJECUTIVO",
+      "nivel": "14"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DE ADQUISICIONES",
+        "nivel": "25"
+      },
+      "nombres": "VERONICA DOLORES",
+      "primerApellido": "CARRANZA",
+      "segundoApellido": "GARCIA"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:51:53+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "JUAN JAVIER",
+    "primerApellido": "MANZO ",
+    "segundoApellido": "LUNA",
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160cd23348a6d00198f6e1c",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR TECNICO",
+      "nivel": "13"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DE ADQUISICIONES",
+        "nivel": "25"
+      },
+      "nombres": "VERONICA DOLORES",
+      "primerApellido": "CARRANZA",
+      "segundoApellido": "GARCIA"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:52:21+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "LUIS FEIPE",
+    "primerApellido": "REYES",
+    "segundoApellido": "JASSO",
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160cd70348a6d00198f6e1f",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR EJECUTIVO",
+      "nivel": "14"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DE ADQUISICIONES",
+        "nivel": "25"
+      },
+      "nombres": "VERONICA DOLORES",
+      "primerApellido": "CARRANZA",
+      "segundoApellido": "GARCIA"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:52:39+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "LUIS ROBERTO",
+    "primerApellido": "BLANQUET",
+    "segundoApellido": "GOMEZ",
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160cdb6348a6d00198f6e22",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR DEL COMITE",
+      "nivel": "14"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DE ADQUISICIONES",
+        "nivel": "25"
+      },
+      "nombres": "VERONICA DOLORES",
+      "primerApellido": "CARRANZA",
+      "segundoApellido": "GARCIA"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:53:01+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "MARIA DEL REFUGIO ",
+    "primerApellido": "AGUILERA",
+    "segundoApellido": "COVARRUBIAS",
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160ce04348a6d00198f6e25",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR EJECUTIVO",
+      "nivel": "14"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DE ADQUISICIONES",
+        "nivel": "25"
+      },
+      "nombres": "VERONICA DOLORES",
+      "primerApellido": "CARRANZA",
+      "segundoApellido": "GARCIA"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:53:16+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "MARIA GUADALUPE",
+    "primerApellido": "CARDENA ",
+    "segundoApellido": "JIMENEZ",
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160cea7348a6d00198f6e28",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR ESPECIALIZADO",
+      "nivel": "16"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DE ADQUISICIONES",
+        "nivel": "25"
+      },
+      "nombres": "VERONICA DOLORES",
+      "primerApellido": "CARRANZA",
+      "segundoApellido": "GARCIA"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:53:36+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "MARIANA",
+    "primerApellido": "VARGAS",
+    "segundoApellido": "RODRIGUEZ",
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160cef2348a6d00198f6e2b",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR DE COMPRAS",
+      "nivel": "13"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DE ADQUISICIONES",
+        "nivel": "25"
+      },
+      "nombres": "VERONICA DOLORES",
+      "primerApellido": "CARRANZA",
+      "segundoApellido": "GARCIA"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:53:54+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "MARTIN",
+    "primerApellido": "TELLO",
+    "segundoApellido": "BALDERRAMA",
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160cf38348a6d00198f6e2e",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR TECNICO",
+      "nivel": "13"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DE ADQUISICIONES",
+        "nivel": "25"
+      },
+      "nombres": "VERONICA DOLORES",
+      "primerApellido": "CARRANZA",
+      "segundoApellido": "GARCIA"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:54:12+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "RICARDO GIOVANNI",
+    "primerApellido": "RODRIGUEZ",
+    "segundoApellido": "NERI",
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160cfb2348a6d00198f6e31",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "DIR. GENERAL OPERACIONES",
+      "nivel": "28"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "SECRETARIO ADMON"
+      },
+      "nombres": "RICARDO ",
+      "primerApellido": "RODRIGUEZ",
+      "segundoApellido": "JIMENEZ"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:57:03+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "ALVARO",
+    "primerApellido": "LADRON DE GUEVARA",
+    "segundoApellido": "MACIAS",
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "6160d030348a6d00198f6e34",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR CONSERVACION",
+      "nivel": "21"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIR. GENERAL OPERACIONES",
+        "nivel": "28"
+      },
+      "nombres": "ALVARO",
+      "primerApellido": "LADRON DE GUEVARA",
+      "segundoApellido": "MACIAS"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:57:56+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "LUIS MANUEL",
+    "primerApellido": "CABRERA",
+    "segundoApellido": "CERVANTES",
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160d0ad348a6d00198f6e37",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "CORRDINADOR DE OBRA CIVIL",
+      "nivel": "16"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DE CONSERVACION",
+        "nivel": "21"
+      },
+      "nombres": "LUIS MANUEL ",
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CERVANTES"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:58:14+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "JESUS ALEJANDRO",
+    "primerApellido": "LOPEZ",
+    "segundoApellido": "MORA",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160d102348a6d00198f6e3a",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR INSTALACIONES",
+      "nivel": "16"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DE CONSERVACION",
+        "nivel": "21"
+      },
+      "nombres": "LUIS MANUEL ",
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CERVANTES"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:58:31+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "EZEQUIEL ",
+    "primerApellido": "MIJARES",
+    "segundoApellido": "CRUZ",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160d148348a6d00198f6e3d",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR EJECUTIVO",
+      "nivel": "15"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DE CONSERVACION",
+        "nivel": "21"
+      },
+      "nombres": "LUIS MANUEL ",
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CERVANTES"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:58:47+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "REYNA ",
+    "primerApellido": "BARRAGAN",
+    "segundoApellido": "RODRIGUEZ",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160d22f348a6d00198f6e40",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR ESPECIALIZADO",
+      "nivel": "14"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DE CONSERVACION",
+        "nivel": "21"
+      },
+      "nombres": "LUIS MANUEL ",
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CERVANTES"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:59:04+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "SANDRA",
+    "primerApellido": "LOMELI",
+    "segundoApellido": "GARCIA",
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160d273348a6d00198f6e43",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "ANALISTA ESPECIALIZADO",
+      "nivel": "11"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DE CONSERVACION",
+        "nivel": "21"
+      },
+      "nombres": "LUIS MANUEL ",
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CERVANTES"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:59:23+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "JOSE JUAN ",
+    "primerApellido": "VALADEZ",
+    "segundoApellido": "HERNANDEZ",
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160d2c5348a6d00198f6e46",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR TECNICO",
+      "nivel": "13"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DE CONSERVACION",
+        "nivel": "21"
+      },
+      "nombres": "LUIS MANUEL ",
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CERVANTES"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T17:59:42+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "MARIA YANET",
+    "primerApellido": "PEREZ",
+    "segundoApellido": "VAZQUEZ",
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160d309348a6d00198f6e49",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR EJECUTIVO",
+      "nivel": "15"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DE CONSERVACION",
+        "nivel": "21"
+      },
+      "nombres": "LUIS MANUEL ",
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CERVANTES"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T18:00:04+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "KATYA AHISA",
+    "primerApellido": "GARCIA ",
+    "segundoApellido": "RAMIREZ",
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160d344348a6d00198f6e4c",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "TECNICO ESPECIALIZADO",
+      "nivel": "11"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DE CONSERVACION",
+        "nivel": "21"
+      },
+      "nombres": "LUIS MANUEL ",
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CERVANTES"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T18:00:25+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "GABRIELA",
+    "primerApellido": "BARRERA",
+    "segundoApellido": "ORTIZ",
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160d384348a6d00198f6e4f",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "ADMVO. ESPECIALIZADO",
+      "nivel": "9"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DE CONSERVACION",
+        "nivel": "21"
+      },
+      "nombres": "LUIS MANUEL ",
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CERVANTES"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T18:00:47+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "JOSE GUADALUPE",
+    "primerApellido": "ARANA ",
+    "segundoApellido": "SUAREZ",
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160d42a348a6d00198f6e52",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORD. DE RACIONALIZACION",
+      "nivel": "16"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DE CONSERVACION",
+        "nivel": "21"
+      },
+      "nombres": "LUIS MANUEL ",
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CERVANTES"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T18:01:05+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "VANESSA SELENE",
+    "primerApellido": "GARCIA",
+    "segundoApellido": "CAMPOS",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160d500348a6d00198f6e55",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "DIR. DE VEHICULOS Y COMB."
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIR. GENERAL OPERACIONES",
+        "nivel": "28"
+      },
+      "nombres": "ALVARO",
+      "primerApellido": "LADRON DE GUEVARA",
+      "segundoApellido": "MACIAS"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T18:01:31+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "ILIANA GUADALUPE",
+    "primerApellido": "RAMIREZ",
+    "segundoApellido": "PARRA",
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160d55e348a6d00198f6e58",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORD. DE COMBUSTIBLES"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIR. DE VEHICULOS Y COMB"
+      },
+      "nombres": "ILIANA GUADALUPE",
+      "primerApellido": "RAMIREZ",
+      "segundoApellido": "PARRA"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T18:01:51+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "ALEJANDRA ROSALIA",
+    "primerApellido": "AVELAR",
+    "segundoApellido": "PEDROZA",
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160d5a9348a6d00198f6e5b",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "JEFE DE EVALUACION",
+      "nivel": "18"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIR. GENERAL OPERACIONES",
+        "nivel": "28"
+      },
+      "nombres": "ALVARO",
+      "primerApellido": "LADRON DE GUEVARA",
+      "segundoApellido": "MACIAS"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T18:02:19+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "JORGE RAUL",
+    "primerApellido": "MENDOZA",
+    "segundoApellido": "GUINES",
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160d608348a6d00198f6e5e",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR TECNICO",
+      "nivel": "13"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "JEFE DE EVALUACION"
+      },
+      "nombres": "JORGE RAUL",
+      "primerApellido": "MENDOZA",
+      "segundoApellido": "GUINES"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T18:04:16+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "RAMON",
+    "primerApellido": "PEREZ",
+    "segundoApellido": "CASILLAS",
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160de65348a6d00198f6edf",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR EJECUTIVO",
+      "nivel": "14"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIR INSTRUMENTOS JURIDICO",
+        "nivel": "21"
+      },
+      "nombres": "NORA AIDE",
+      "primerApellido": "NIETO",
+      "segundoApellido": "TORRES"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T18:05:10+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "CESAR OCTAVIO",
+    "primerApellido": "AMADOR",
+    "segundoApellido": "PEREZ",
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160def4348a6d00198f6ee5",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "SECRETARIA DE DIRECCION",
+      "nivel": "7"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIR INSTRUMENTOS JURIDICO",
+        "nivel": "21"
+      },
+      "nombres": "NORA AIDE",
+      "primerApellido": "NIETO",
+      "segundoApellido": "TORRES"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T18:05:56+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "DIEGO ARMANDO ",
+    "primerApellido": "SANCHEZ",
+    "segundoApellido": "ACEVES",
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160c425348a6d00198f6dc9",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADORA DEL COMITE",
+      "nivel": "14"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DEL COMITE",
+        "nivel": "25"
+      },
+      "nombres": "RAYMUNDO",
+      "primerApellido": "ANDRADE",
+      "segundoApellido": "BELTRAN"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T18:06:19+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "ADRIANA",
+    "primerApellido": "JIMENEZ",
+    "segundoApellido": "NAVARRO",
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160df42348a6d00198f6ee8",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "ANALISTA",
+      "nivel": "7"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIR INSTRUMENTOS JURIDICO",
+        "nivel": "21"
+      },
+      "nombres": "NORA AIDE",
+      "primerApellido": "N",
+      "segundoApellido": "TORRES"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T18:06:29+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "ISAIAS OCTAVIO",
+    "primerApellido": "GARCIA ",
+    "segundoApellido": "CORTES",
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160df90348a6d00198f6eeb",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "SECRETARIA DE DIRECCION",
+      "nivel": "7"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIR INSTRUMENTOS JURIDICO",
+        "nivel": "21"
+      },
+      "nombres": "NORA AIDE",
+      "primerApellido": "NIETO",
+      "segundoApellido": "TORRES"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T18:06:43+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "ZULMA NEREIDA",
+    "primerApellido": "VENEGAS",
+    "segundoApellido": "ZUÑIGA",
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160e036348a6d00198f6ef6",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR ESPECIALIZADO",
+      "nivel": "13"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIR INSTRUMENTOS JURIDICO",
+        "nivel": "21"
+      },
+      "nombres": "NORA AIDE",
+      "primerApellido": "NIETO",
+      "segundoApellido": "TORRES"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T18:06:57+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "FABIOLA ALEJANDRA ",
+    "primerApellido": "FRANCO",
+    "segundoApellido": "RENTERIA",
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160e11a348a6d00198f6ef9",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "TECNICO ADMINISTRATIVO",
+      "nivel": "5"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIR INSTRUMENTOS JURIDICO"
+      },
+      "nombres": "NORA AIDE",
+      "primerApellido": "NIETO",
+      "segundoApellido": "TORRES"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T18:07:11+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "HILDA MARIANA",
+    "primerApellido": "NOLASCO",
+    "segundoApellido": "GONZALEZ",
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160e17c348a6d00198f6efc",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "JEFE DE INSTRUMENTOS JUR.",
+      "nivel": "18"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIR INSTRUMENTOS JURIDICO",
+        "nivel": "21"
+      },
+      "nombres": "NORA AIDE",
+      "primerApellido": "NIETO",
+      "segundoApellido": "TORRES"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T18:07:35+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "JOSUE EMANUEL",
+    "primerApellido": "CASTRO ",
+    "segundoApellido": "GRANA",
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160e1c2348a6d00198f6eff",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "ADMVO. ESPECIALIZADO",
+      "nivel": "9"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIR INSTRUMENTOS JURIDICO",
+        "nivel": "21"
+      },
+      "nombres": "NORA AIDE",
+      "primerApellido": "NIETO",
+      "segundoApellido": "TORRES"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T18:07:52+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "JOSE ANTONIO",
+    "primerApellido": "DE LA CERDA ",
+    "segundoApellido": "VIZCAINO",
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160f002348a6d00198f6f0c",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR DEL COMITE",
+      "nivel": "14"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DEL COMITE",
+        "nivel": "25"
+      },
+      "nombres": "RAYMUNDO",
+      "primerApellido": "ANDRADE",
+      "segundoApellido": "BELTRAN"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T18:08:05+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "MARIA TERESA DE JESUS",
+    "primerApellido": "RENTERIA",
+    "segundoApellido": "CONTRERAS",
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "6160f067348a6d00198f6f0f",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "JEFE DE PROCEDIMIENTOS",
+      "nivel": "18"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIR INSTRUMENTOS JURIDICO",
+        "nivel": "21"
+      },
+      "nombres": "NORA AIDE",
+      "primerApellido": "NIETO",
+      "segundoApellido": "TORRES"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T18:08:20+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "RODRIGO ",
+    "primerApellido": "PEREZ",
+    "segundoApellido": "VAZQUEZ",
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6160dead348a6d00198f6ee2",
+    "ramo": {
+      "clave": 54,
+      "valor": "SECADMON Secretaría de Administración Jalisco"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "clave": "35",
+      "siglas": "SECADMON"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR ESPECIALIZADO",
+      "nivel": "16"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIR INSTRUMENTOS JURIDICO",
+        "nivel": "21"
+      },
+      "nombres": "NORA AIDE",
+      "primerApellido": "NIETO",
+      "segundoApellido": "TORRES"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2021-10-11T18:15:26+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "JONATHAN DAVID",
+    "primerApellido": "SANCHEZ",
+    "segundoApellido": "PADILLA",
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "61e98a8f63c2de00190715ea",
+    "institucionDependencia": {
+      "nombre": "Secretaría Ejecutiva"
+    },
+    "puesto": {
+      "nombre": "Secretaria Ejecutiva"
+    },
+    "__v": 0,
+    "fechaCaptura": "2022-04-28T18:18:29+00:00",
+    "nombres": "Haimé",
+    "primerApellido": "Figueroa",
+    "segundoApellido": "Neri",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "61e98c0963c2de00190715ed",
+    "institucionDependencia": {
+      "nombre": "Secretaría Ejecutiva",
+      "siglas": "SESAJ"
+    },
+    "puesto": {
+      "nombre": "Coordinador Admon"
+    },
+    "__v": 0,
+    "fechaCaptura": "2022-04-28T18:21:46+00:00",
+    "nombres": "Martha Iraí",
+    "primerApellido": "Arriola",
+    "segundoApellido": "Flores",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 5,
+        "valor": "OTRO"
+      }
+    ]
+  },
+  {
+    "id": "61e98d4c63c2de00190715f0",
+    "institucionDependencia": {
+      "nombre": "Secretaría Ejecutiva",
+      "siglas": "SESAJ"
+    },
+    "puesto": {
+      "nombre": " Recursos Financieros"
+    },
+    "__v": 0,
+    "fechaCaptura": "2022-04-28T18:22:33+00:00",
+    "nombres": "Maria del Carmen",
+    "primerApellido": "Martínez",
+    "segundoApellido": "Zubieta",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 5,
+        "valor": "OTRO"
+      }
+    ]
+  },
+  {
+    "id": "61e98e5c63c2de00190715f3",
+    "institucionDependencia": {
+      "nombre": "Secretaría Ejecutiva",
+      "siglas": "SESAJ"
+    },
+    "puesto": {
+      "nombre": "Jefa Recursos Materiales"
+    },
+    "__v": 0,
+    "fechaCaptura": "2022-04-28T18:24:38+00:00",
+    "nombres": "Dulce Elena",
+    "primerApellido": "López",
+    "segundoApellido": "Aguirre",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 5,
+        "valor": "OTRO"
+      }
+    ]
+  },
+  {
+    "id": "61e9929163c2de00190715fb",
+    "institucionDependencia": {
+      "nombre": "Secretaría Ejecutiva",
+      "siglas": "SESAJ"
+    },
+    "puesto": {
+      "nombre": "Sub. de Análisis Jurídico"
+    },
+    "__v": 0,
+    "fechaCaptura": "2022-04-28T18:25:28+00:00",
+    "nombres": "Sergio",
+    "primerApellido": "López",
+    "segundoApellido": "Arciniega",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "61e993c263c2de00190715fe",
+    "institucionDependencia": {
+      "nombre": "Secretaría Ejecutiva",
+      "siglas": "SESAJ"
+    },
+    "puesto": {
+      "nombre": "Titular Unidad de Transp."
+    },
+    "__v": 0,
+    "fechaCaptura": "2022-04-28T18:26:18+00:00",
+    "nombres": "Miguel",
+    "primerApellido": "Navarro",
+    "segundoApellido": "Flores",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6245e3c87f06790012fa4550",
+    "institucionDependencia": {
+      "nombre": "Secretaría Ejecutiva",
+      "siglas": "SESAJ"
+    },
+    "puesto": {
+      "nombre": "Director de Tecnologías"
+    },
+    "__v": 0,
+    "fechaCaptura": "2022-04-28T18:26:48+00:00",
+    "nombres": "Carlos Alberto",
+    "primerApellido": "Franco",
+    "segundoApellido": "Reboreda",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 5,
+        "valor": "OTRO"
+      }
+    ]
+  },
+  {
+    "id": "626adcb506eee30012ab967a",
+    "institucionDependencia": {
+      "nombre": "Secretaría Ejecutiva",
+      "siglas": "SESAJ"
+    },
+    "puesto": {
+      "nombre": "Jefa de Recursos Humanos"
+    },
+    "nombres": "Marlenen Jackeline",
+    "primerApellido": "Huerta",
+    "segundoApellido": "Cruz",
+    "tipoArea": [],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [],
+    "fechaCaptura": "2022-04-28T18:28:05+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6285561b5c573a001331d60c",
+    "institucionDependencia": {
+      "nombre": "Inst de Información Estadística y Geográfica Jalis",
+      "siglas": "IIEG"
+    },
+    "puesto": {
+      "nombre": "Director General"
+    },
+    "__v": 0,
+    "fechaCaptura": "2022-05-18T21:06:00+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "Augusto",
+    "primerApellido": "Valencia",
+    "segundoApellido": "López",
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "628556d45c573a001331d61f",
+    "institucionDependencia": {
+      "nombre": "Inst de Información Estadística y Geográfica Jalis",
+      "siglas": "IIEG"
+    },
+    "puesto": {
+      "nombre": "Coor Gral Administracion"
+    },
+    "__v": 0,
+    "fechaCaptura": "2022-05-18T21:06:14+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "Ernesto",
+    "primerApellido": "Gaspar",
+    "segundoApellido": "Cabrera",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      },
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "62855cba5c573a001331d63e",
+    "institucionDependencia": {
+      "nombre": "Inst de Información Estadística y Geográfica Jalis",
+      "siglas": "IIEG"
+    },
+    "puesto": {
+      "nombre": "Coor Gral Asuntos Juridic"
+    },
+    "__v": 0,
+    "fechaCaptura": "2022-05-18T21:06:25+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "Joaquín",
+    "primerApellido": "Gallegos",
+    "segundoApellido": "Tejeda",
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "62855d235c573a001331d651",
+    "institucionDependencia": {
+      "nombre": "Inst de Información Estadística y Geográfica Jalis",
+      "siglas": "IIEG"
+    },
+    "puesto": {
+      "nombre": "Coor Gral de TI"
+    },
+    "__v": 0,
+    "fechaCaptura": "2022-05-18T21:06:38+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "nombres": "Martha Alicia",
+    "primerApellido": "Diaz",
+    "segundoApellido": "Núñez",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      },
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      },
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "62855dec5c573a001331d664",
+    "institucionDependencia": {
+      "nombre": "Inst de Información Estadística y Geográfica Jalis",
+      "siglas": "IIEG"
+    },
+    "puesto": {
+      "nombre": "Tec Especial Rec Mat"
+    },
+    "__v": 0,
+    "fechaCaptura": "2022-05-18T21:07:03+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "nombres": "Roberto",
+    "primerApellido": "Torres",
+    "segundoApellido": "Aguilar",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "62855e615c573a001331d677",
+    "institucionDependencia": {
+      "nombre": "Inst de Información Estadística y Geográfica Jalis",
+      "siglas": "IIEG"
+    },
+    "puesto": {
+      "nombre": "Coord Rec Finan y Ctrol P"
+    },
+    "__v": 0,
+    "fechaCaptura": "2022-05-18T21:07:15+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "nombres": "Mónica Nyxahtziri",
+    "primerApellido": "García",
+    "segundoApellido": "Rangel",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "62855eb05c573a001331d68a",
+    "institucionDependencia": {
+      "nombre": "Inst de Información Estadística y Geográfica Jalis",
+      "siglas": "IIEG"
+    },
+    "puesto": {
+      "nombre": "Coor Recursos Materiales"
+    },
+    "__v": 0,
+    "fechaCaptura": "2022-05-18T21:07:27+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "nombres": "Rafael",
+    "primerApellido": "Sánchez",
+    "segundoApellido": "Arias",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      },
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "62855eff5c573a001331d69d",
+    "institucionDependencia": {
+      "nombre": "Inst de Información Estadística y Geográfica Jalis",
+      "siglas": "IIEG"
+    },
+    "puesto": {
+      "nombre": "Tec Espec Compras"
+    },
+    "__v": 0,
+    "fechaCaptura": "2022-05-18T21:07:39+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "Raquel",
+    "primerApellido": "Robles",
+    "segundoApellido": "Bonilla",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6298df22c1b8820019fa6683",
+    "institucionDependencia": {
+      "nombre": "Auditoría Superior del Estado de Jalisco"
+    },
+    "puesto": {
+      "nombre": "Asistente General"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-06-02T16:16:19+00:00",
+    "nombres": "Itzel",
+    "primerApellido": "Sánchez",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "629a06b9c1b8820019fa66c0",
+    "institucionDependencia": {
+      "nombre": "Auditoría Superior del Estado de Jalisco"
+    },
+    "puesto": {
+      "nombre": "Jefe de Departamento"
+    },
+    "ejercicioFiscal": "2022",
+    "nombres": "Salvador",
+    "primerApellido": "Cárdenas",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-06-03T13:03:53+00:00",
+    "__v": 0
+  },
+  {
+    "id": "629a06fcc1b8820019fa66d3",
+    "institucionDependencia": {
+      "nombre": "Auditoría Superior del Estado de Jalisco"
+    },
+    "puesto": {
+      "nombre": "Supervisora"
+    },
+    "ejercicioFiscal": "2022",
+    "nombres": "Sandra Verónica",
+    "primerApellido": "Márquez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-06-03T13:05:00+00:00",
+    "__v": 0
+  },
+  {
+    "id": "629a076ec1b8820019fa66e6",
+    "institucionDependencia": {
+      "nombre": "Auditoría Superior del Estado de Jalisco"
+    },
+    "puesto": {
+      "nombre": "Director General Admón"
+    },
+    "ejercicioFiscal": "2022",
+    "nombres": "Salec",
+    "primerApellido": "Velazquez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-06-03T13:06:54+00:00",
+    "__v": 0
+  },
+  {
+    "id": "629a07ccc1b8820019fa6715",
+    "institucionDependencia": {
+      "nombre": "Auditoría Superior del Estado de Jalisco"
+    },
+    "puesto": {
+      "nombre": "Auxiliar Administrativo"
+    },
+    "ejercicioFiscal": "2022",
+    "nombres": "Roxana",
+    "primerApellido": "Rodríguez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-06-03T13:08:28+00:00",
+    "__v": 0
+  },
+  {
+    "id": "629a07f6c1b8820019fa6728",
+    "institucionDependencia": {
+      "nombre": "Auditoría Superior del Estado de Jalisco"
+    },
+    "puesto": {
+      "nombre": "Auxiliar Administrativo"
+    },
+    "ejercicioFiscal": "2022",
+    "nombres": "Susana",
+    "primerApellido": "Castañeda",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-06-03T13:09:10+00:00",
+    "__v": 0
+  },
+  {
+    "id": "629a082ac1b8820019fa673b",
+    "institucionDependencia": {
+      "nombre": "Auditoría Superior del Estado de Jalisco"
+    },
+    "puesto": {
+      "nombre": "Auxiliar Administrativo"
+    },
+    "ejercicioFiscal": "2022",
+    "nombres": "Leonardo Daniel",
+    "primerApellido": "Zarate",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-06-03T13:10:02+00:00",
+    "__v": 0
+  },
+  {
+    "id": "629a0a83c1b8820019fa674e",
+    "institucionDependencia": {
+      "nombre": "Auditoría Superior del Estado de Jalisco"
+    },
+    "puesto": {
+      "nombre": "Auxiliar Administrativo"
+    },
+    "ejercicioFiscal": "2022",
+    "nombres": "Leticia",
+    "primerApellido": "Cárdenas",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-06-03T13:20:03+00:00",
+    "__v": 0
+  },
+  {
+    "id": "629a0ab1c1b8820019fa6761",
+    "institucionDependencia": {
+      "nombre": "Auditoría Superior del Estado de Jalisco"
+    },
+    "puesto": {
+      "nombre": "Asistente General"
+    },
+    "ejercicioFiscal": "2022",
+    "nombres": "Gemma del Pilar",
+    "primerApellido": "Grijalva",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-06-03T13:20:49+00:00",
+    "__v": 0
+  },
+  {
+    "id": "629a0ae2c1b8820019fa6774",
+    "institucionDependencia": {
+      "nombre": "Auditoría Superior del Estado de Jalisco"
+    },
+    "puesto": {
+      "nombre": "Auxiliar Administrativo"
+    },
+    "ejercicioFiscal": "2022",
+    "nombres": "Javier",
+    "primerApellido": "Águila",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-06-03T13:21:38+00:00",
+    "__v": 0
+  },
+  {
+    "id": "629a0b2cc1b8820019fa6787",
+    "institucionDependencia": {
+      "nombre": "Auditoría Superior del Estado de Jalisco"
+    },
+    "puesto": {
+      "nombre": "Auxiliar Administrativo"
+    },
+    "ejercicioFiscal": "2022",
+    "nombres": "Raúl Alfonso",
+    "primerApellido": "Brito",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-06-03T13:22:52+00:00",
+    "__v": 0
+  },
+  {
+    "id": "629a0b52c1b8820019fa679a",
+    "institucionDependencia": {
+      "nombre": "Auditoría Superior del Estado de Jalisco"
+    },
+    "puesto": {
+      "nombre": "Auxiliar Administrativo"
+    },
+    "ejercicioFiscal": "2022",
+    "nombres": "Ricardo",
+    "primerApellido": "Hurtado",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-06-03T13:23:30+00:00",
+    "__v": 0
+  },
+  {
+    "id": "629a0b92c1b8820019fa67ad",
+    "institucionDependencia": {
+      "nombre": "Auditoría Superior del Estado de Jalisco"
+    },
+    "puesto": {
+      "nombre": "Secretaria de Depto"
+    },
+    "ejercicioFiscal": "2022",
+    "nombres": "Miriam",
+    "primerApellido": "Abarca",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-06-03T13:24:34+00:00",
+    "__v": 0
+  },
+  {
+    "id": "629a0bc8c1b8820019fa67c0",
+    "institucionDependencia": {
+      "nombre": "Auditoría Superior del Estado de Jalisco"
+    },
+    "puesto": {
+      "nombre": "Auditora"
+    },
+    "ejercicioFiscal": "2022",
+    "nombres": "María Olimpia",
+    "primerApellido": "Guzmán",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-06-03T13:25:28+00:00",
+    "__v": 0
+  },
+  {
+    "id": "629a0c89c1b8820019fa67d3",
+    "institucionDependencia": {
+      "nombre": "Auditoría Superior del Estado de Jalisco"
+    },
+    "puesto": {
+      "nombre": "Dir. Gral. Asuntos Juridi"
+    },
+    "ejercicioFiscal": "2022",
+    "nombres": "Álvaro",
+    "primerApellido": "Ramírez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-06-03T13:28:41+00:00",
+    "__v": 0
+  },
+  {
+    "id": "629a0cbcc1b8820019fa67e6",
+    "institucionDependencia": {
+      "nombre": "Auditoría Superior del Estado de Jalisco"
+    },
+    "puesto": {
+      "nombre": "Jefe de Departamento"
+    },
+    "ejercicioFiscal": "2022",
+    "nombres": "Hugo Efraín",
+    "primerApellido": "Quezada",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-06-03T13:29:32+00:00",
+    "__v": 0
+  },
+  {
+    "id": "629a0ce3c1b8820019fa67f9",
+    "institucionDependencia": {
+      "nombre": "Auditoría Superior del Estado de Jalisco"
+    },
+    "puesto": {
+      "nombre": "Auxiliar Administrativo"
+    },
+    "ejercicioFiscal": "2022",
+    "nombres": "María Elba",
+    "primerApellido": "Becerra",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-06-03T13:30:11+00:00",
+    "__v": 0
+  },
+  {
+    "id": "629a0d40c1b8820019fa6813",
+    "institucionDependencia": {
+      "nombre": "Auditoría Superior del Estado de Jalisco"
+    },
+    "puesto": {
+      "nombre": "Dir. Prof. y Seguimiento"
+    },
+    "ejercicioFiscal": "2022",
+    "nombres": "Claudia Verónica",
+    "primerApellido": "Gómez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-06-03T13:31:44+00:00",
+    "__v": 0
+  },
+  {
+    "id": "629a0d71c1b8820019fa6826",
+    "institucionDependencia": {
+      "nombre": "Auditoría Superior del Estado de Jalisco"
+    },
+    "puesto": {
+      "nombre": "Supervisor"
+    },
+    "ejercicioFiscal": "2022",
+    "nombres": "Jorge Alberto",
+    "primerApellido": "Barrón",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-06-03T13:32:33+00:00",
+    "__v": 0
+  },
+  {
+    "id": "62b60c71004dab001903fd61",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE ADQUISICIONES"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "ANA PAULA ",
+      "primerApellido": "VIRGEN",
+      "segundoApellido": "SANCHEZ"
+    },
+    "__v": 0,
+    "fechaCaptura": "2022-06-24T19:16:28+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "GONZALO ALBERTO",
+    "primerApellido": "GARCIA",
+    "segundoApellido": "AVILA",
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "62c4abae53a3820012ad93ef",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE COMPRAS"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DE ADQUISICIONES"
+      },
+      "nombres": "GONZALO ALBERTO",
+      "primerApellido": "GARCIA",
+      "segundoApellido": "AVILA"
+    },
+    "nombres": "JOSE EDUARDO",
+    "primerApellido": "TORRES",
+    "segundoApellido": "QUINTANAR",
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-07-05T21:22:54+00:00",
+    "__v": 0
+  },
+  {
+    "id": "62c617f853a3820012ad940c",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE COMPRAS"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DE ADQUISICIONES"
+      },
+      "nombres": "GONZALO ALBERTO",
+      "primerApellido": "GARCIA",
+      "segundoApellido": "AVILA"
+    },
+    "nombres": "GONZALO",
+    "primerApellido": "GUTIERREZ",
+    "segundoApellido": "REYES",
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-07-06T23:17:12+00:00",
+    "__v": 0
+  },
+  {
+    "id": "62c6189e53a3820012ad941f",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR ADMINISTRACION"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "ANA PAULA ",
+      "primerApellido": "VIRGEN",
+      "segundoApellido": "SANCHEZ"
+    },
+    "nombres": "ALEJANDRO",
+    "primerApellido": "MURUETA",
+    "segundoApellido": "ALDRETE",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-07-06T23:19:58+00:00",
+    "__v": 0
+  },
+  {
+    "id": "62c6198453a3820012ad9432",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE INNOVACION"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "ANA PAULA ",
+      "primerApellido": "VIRGEN",
+      "segundoApellido": "SANCHEZ"
+    },
+    "nombres": "ELISEO",
+    "primerApellido": "ZUÑIGA",
+    "segundoApellido": "GUTIERREZ",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-07-06T23:23:48+00:00",
+    "__v": 0
+  },
+  {
+    "id": "62c61a1653a3820012ad945d",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE PATRIMONIO"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "ANA PAULA ",
+      "primerApellido": "VIRGEN",
+      "segundoApellido": "SANCHEZ"
+    },
+    "nombres": "NOE",
+    "primerApellido": "CHAVEZ",
+    "segundoApellido": "LUEVANOS",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-07-06T23:26:14+00:00",
+    "__v": 0
+  },
+  {
+    "id": "62c61a8b53a3820012ad9470",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR RECURSOS HUMANOS"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "ANA PAULA ",
+      "primerApellido": "VIRGEN",
+      "segundoApellido": "SANCHEZ"
+    },
+    "nombres": "ELIZABETH",
+    "primerApellido": "CORTES",
+    "segundoApellido": "GUTIERREZ",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-07-06T23:28:11+00:00",
+    "__v": 0
+  },
+  {
+    "id": "62c61af153a3820012ad9484",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "ENLACE ADMINISTRATIVO"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DE ADQUISICIONES"
+      },
+      "nombres": "GONZALO ALBERTO",
+      "primerApellido": "GARCIA",
+      "segundoApellido": "AVILA"
+    },
+    "nombres": "MIGUEL",
+    "primerApellido": "RIESTRA",
+    "segundoApellido": "MORALES",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-07-06T23:29:53+00:00",
+    "__v": 0
+  },
+  {
+    "id": "62c61e4553a3820012ad9497",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "ENLACE ADMINISTRATIVO"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "ANA PAULA ",
+      "primerApellido": "VIRGEN",
+      "segundoApellido": "SANCHEZ"
+    },
+    "nombres": "ROSA MARIA",
+    "primerApellido": "MEZA",
+    "segundoApellido": "VILLALOBOS",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-07-06T23:44:05+00:00",
+    "__v": 0
+  },
+  {
+    "id": "62c6201753a3820012ad94aa",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "ENLACE ADMINISTRATIVO"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "JESUS ALEJANDRO",
+      "primerApellido": "FELIX",
+      "segundoApellido": "GASTELUM"
+    },
+    "nombres": "ALMA LILIA",
+    "primerApellido": "MICHEL",
+    "segundoApellido": "DIAZ",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-07-06T23:51:51+00:00",
+    "__v": 0
+  },
+  {
+    "id": "62c6208a53a3820012ad94bd",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR GENERAL"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "PRESIDENTE MUNICIPAL"
+      },
+      "nombres": "JESUS PABLO",
+      "primerApellido": "LEMUS",
+      "segundoApellido": "NAVARRO"
+    },
+    "nombres": "JESUS ALEJANDRO",
+    "primerApellido": "FELIX",
+    "segundoApellido": "GASTELUM",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 4,
+        "valor": "ASIGNACIÓN Y EMISION DE DICTAMENES DE AVALÚOS NACIONALES"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-07-06T23:53:46+00:00",
+    "__v": 0
+  },
+  {
+    "id": "62c623d353a3820012ad94d0",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR GENERAL"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "PRESIDENTE MUNICIPAL"
+      },
+      "nombres": "JESUS PABLO",
+      "primerApellido": "LEMUS",
+      "segundoApellido": "NAVARRO"
+    },
+    "nombres": "JOSE DAVID",
+    "primerApellido": "ESTRA",
+    "segundoApellido": "RUIZ VELAZCO",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-07-07T00:07:47+00:00",
+    "__v": 0
+  },
+  {
+    "id": "62c6247453a3820012ad94e3",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "ENLACE ADMINISTRATIVO"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "JOSE DAVID",
+      "primerApellido": "ESTRADA",
+      "segundoApellido": "RUIZ VELAZCO"
+    },
+    "nombres": "CHRISTOPHER OLDEMAR",
+    "primerApellido": "RAMIREZ",
+    "segundoApellido": "AGUILAR",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-07-07T00:10:28+00:00",
+    "__v": 0
+  },
+  {
+    "id": "62c624b953a3820012ad94f6",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR GENERAL"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "PRESIDENTE MUNICIPAL"
+      },
+      "nombres": "JESUS PABLO",
+      "primerApellido": "LEMUS",
+      "segundoApellido": "NAVARRO"
+    },
+    "nombres": "ANDREA",
+    "primerApellido": "BLANCO",
+    "segundoApellido": "CALDERON",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-07-07T00:11:37+00:00",
+    "__v": 0
+  },
+  {
+    "id": "62c6251e53a3820012ad9509",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "ENLACE ADMINISTRATIVO"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "ANDREA",
+      "primerApellido": "BLANCO ",
+      "segundoApellido": "CALDERON"
+    },
+    "nombres": "CARMEN ",
+    "primerApellido": "FONSECA",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-07-07T00:13:18+00:00",
+    "__v": 0
+  },
+  {
+    "id": "62c6265b53a3820012ad951e",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR GENERAL"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "PRESIDENTE MUNICIPAL"
+      },
+      "nombres": "JESUS PABLO",
+      "primerApellido": "LEMUS",
+      "segundoApellido": "NAVARRO"
+    },
+    "nombres": "ALFREDO",
+    "primerApellido": "ACEVES",
+    "segundoApellido": "FERNANDEZ",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-07-07T00:18:35+00:00",
+    "__v": 0
+  },
+  {
+    "id": "62c6274553a3820012ad9531",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "ENLACE ADMINISTRATIVO"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "ALFREDO",
+      "primerApellido": "ACEVES",
+      "segundoApellido": "FERNANDEZ"
+    },
+    "nombres": "LORENA ALEJANDRA",
+    "primerApellido": "VIRGEN",
+    "segundoApellido": "SANCHEZ",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-07-07T00:22:29+00:00",
+    "__v": 0
+  },
+  {
+    "id": "62c627a553a3820012ad9544",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR GENERAL"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "PRESIDENTE MUNICIPAL"
+      },
+      "nombres": "JESUS PABLO",
+      "primerApellido": "LEMUS",
+      "segundoApellido": "NAVARRO"
+    },
+    "nombres": "HECTOR ALEJANDRO",
+    "primerApellido": "HERMOSILLO",
+    "segundoApellido": "GONZALEZ",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-07-07T00:24:05+00:00",
+    "__v": 0
+  },
+  {
+    "id": "62c6293a53a3820012ad9557",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR GENERAL"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "PRESIDENTE MUNICIPAL"
+      },
+      "nombres": "JESUS PABLO",
+      "primerApellido": "LEMUS",
+      "segundoApellido": "NAVARRO"
+    },
+    "nombres": "MIGUEL",
+    "primerApellido": "ZARATE",
+    "segundoApellido": "HERNANDEZ",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-07-07T00:30:50+00:00",
+    "__v": 0
+  },
+  {
+    "id": "62c62a0153a3820012ad956a",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR GENERAL"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "PRESIDENTE MUNICIPAL"
+      },
+      "nombres": "JESUS PABLO",
+      "primerApellido": "LEMUS",
+      "segundoApellido": "NAVARRO"
+    },
+    "nombres": "ANA PAULA",
+    "primerApellido": "VIRGEN",
+    "segundoApellido": "SANCHEZ",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-07-07T00:34:09+00:00",
+    "__v": 0
+  },
+  {
+    "id": "62c74fe553a3820012ad959b",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE MOVILIDAD"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "MIGUEL",
+      "primerApellido": "ZARATE",
+      "segundoApellido": "HERNANDEZ"
+    },
+    "nombres": "JESUS CARLOS",
+    "primerApellido": "SOTO",
+    "segundoApellido": "MORFIN",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-07-07T21:28:05+00:00",
+    "__v": 0
+  },
+  {
+    "id": "62c7503453a3820012ad95ae",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "ENLACE ADMINISTRATIVO"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "MIGUEL",
+      "primerApellido": "ZARATE",
+      "segundoApellido": "HERNANDEZ"
+    },
+    "nombres": "LAURACEL HERLINDA",
+    "primerApellido": "DAVALOS",
+    "segundoApellido": "JIMENEZ",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-07-07T21:29:24+00:00",
+    "__v": 0
+  },
+  {
+    "id": "62c75c2c53a3820012ad95c1",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE CULTURA"
+    },
+    "superiorInmediato": {
+      "nombres": "ANDREA",
+      "primerApellido": "BLANCO ",
+      "segundoApellido": "CALDERON"
+    },
+    "nombres": "LUIS GERARDO",
+    "primerApellido": "ASCENCIO",
+    "segundoApellido": "RUBIO",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-07-07T22:20:28+00:00",
+    "__v": 0
+  },
+  {
+    "id": "62c75eac53a3820012ad95dd",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "ENLACE ADMINISTRATIVO"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "TESORERO"
+      },
+      "nombres": "LUIS",
+      "primerApellido": "GARCIA",
+      "segundoApellido": "SOTELO"
+    },
+    "nombres": "CARLOS ALBERTO",
+    "primerApellido": "LOPEZ",
+    "segundoApellido": "MONTAÑEZ",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-07-07T22:31:08+00:00",
+    "__v": 0
+  },
+  {
+    "id": "62c7648453a3820012ad95f0",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "AREA TECNICA"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DE INNOVACION"
+      },
+      "nombres": "ELISEO",
+      "primerApellido": "ZUÑIGA",
+      "segundoApellido": "GUTIERREZ"
+    },
+    "nombres": "JORGE OMAR",
+    "primerApellido": "ZARZOZA",
+    "segundoApellido": "CHAVEZ",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      },
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-07-07T22:56:04+00:00",
+    "__v": 0
+  },
+  {
+    "id": "62c7652b53a3820012ad9617",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "JEFATURA DE COMITE"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DE ADQUISICIONES"
+      },
+      "nombres": "GONZALO ALBERTO",
+      "primerApellido": "GARCIA",
+      "segundoApellido": "AVILA"
+    },
+    "nombres": "MICHAEL ALONSO",
+    "primerApellido": "GAMBOA",
+    "segundoApellido": "RAMOS",
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-07-07T22:58:51+00:00",
+    "__v": 0
+  },
+  {
+    "id": "62c765c253a3820012ad962a",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "COLABORADOR ESPECIALIZADO"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "JEFATURA DE COMITE"
+      },
+      "nombres": "MICHAEL ALONSO",
+      "primerApellido": "GAMBOA",
+      "segundoApellido": "RAMOS"
+    },
+    "nombres": "RAUL",
+    "primerApellido": "ENRIQUEZ",
+    "segundoApellido": "GONZALEZ",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-07-07T23:01:22+00:00",
+    "__v": 0
+  },
+  {
+    "id": "62c7676d53a3820012ad963d",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "COLABORADOR ESPECIALIZADO"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "JEFATURA DE COMITE"
+      },
+      "nombres": "MICHAEL ALONSO",
+      "primerApellido": "GAMBOA",
+      "segundoApellido": "RAMOS"
+    },
+    "nombres": "MARIO ALBERTO",
+    "primerApellido": "ESPINOSA",
+    "segundoApellido": "ZARAGOZA",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-07-07T23:08:29+00:00",
+    "__v": 0
+  },
+  {
+    "id": "62c76d8953a3820012ad9659",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "COLABORADOR ESPECIALIZADO"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "JEFATURA DE COMITE"
+      },
+      "nombres": "MICHAEL ALONSO",
+      "primerApellido": "GAMBOA",
+      "segundoApellido": "RAMOS"
+    },
+    "nombres": "PERLA NAYELI",
+    "primerApellido": "VERA",
+    "segundoApellido": "MARTINEZ",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-07-07T23:34:33+00:00",
+    "__v": 0
+  },
+  {
+    "id": "62e99cc050929a00143e3850",
+    "ramo": {
+      "clave": 44,
+      "valor": "INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES"
+    },
+    "institucionDependencia": {
+      "nombre": "INSTITUTO DE TRANSPARENCIA DE JALISCO",
+      "siglas": "ITEI"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR DE REC. MAT."
+    },
+    "nombres": "MANUEL RICARDO",
+    "primerApellido": "POTENCIANO",
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [],
+    "fechaCaptura": "2022-08-02T21:53:04+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63175eeb99226c00195b3be5",
+    "institucionDependencia": {
+      "nombre": "Agencia de Energía del Estado de Jalisco",
+      "siglas": "AEEJ"
+    },
+    "puesto": {
+      "nombre": "Encargad Dcho Direcc Gral"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Bernardo  ",
+    "primerApellido": "Macklis",
+    "segundoApellido": "Petrini",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T14:53:31+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63175eef99226c00195b3bf1",
+    "institucionDependencia": {
+      "nombre": " Colegio de Educación Profesional Tecnica",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Jefe de Proyecto"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "María Marina",
+    "primerApellido": "Villa",
+    "segundoApellido": "Ramos",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T14:53:35+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63175ef799226c00195b3bfd",
+    "institucionDependencia": {
+      "nombre": "O.P.D HOSPITAL CIVIL DE GDL "
+    },
+    "puesto": {
+      "nombre": "PROF EJECUTIVO DE SERV."
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2022-09-06T14:54:14+00:00",
+    "nombres": "ZAIRA VIRIDIANA ",
+    "primerApellido": "PARRA",
+    "segundoApellido": "ESTRADA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "63175f6d99226c00195b3c42",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica ",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Jefe de Proyecto"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Mario César ",
+    "primerApellido": "García",
+    "segundoApellido": " Leal",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T14:55:41+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63175f7699226c00195b3c4e",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "Administrativo"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Lucila Berenice",
+    "primerApellido": "Delgado",
+    "segundoApellido": "Blanco",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T14:55:50+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63175f8199226c00195b3c5a",
+    "institucionDependencia": {
+      "nombre": "Agencia de Energía del Estado de Jalisco",
+      "siglas": "AEEJ"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR DE LA U DE T"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARMELIA ",
+    "primerApellido": "CABRAL ",
+    "segundoApellido": "LÓPEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T14:56:01+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63175f8899226c00195b3c66",
+    "institucionDependencia": {
+      "nombre": "O.P.D SERVICIOS DE SALUD JALISCO"
+    },
+    "puesto": {
+      "nombre": "SOPORTE ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ABRAHAM YASIR",
+    "primerApellido": "MACIEL",
+    "segundoApellido": "MONTOYA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T14:56:08+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63175ffb99226c00195b3c9a",
+    "institucionDependencia": {
+      "nombre": "O.P.D SERVICIOS DE SALUD JALISCO "
+    },
+    "puesto": {
+      "nombre": "SOPORTE ADMINISTRATIVO "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ALEJANDRO ANTONIO ",
+    "primerApellido": "ANGELINO ",
+    "segundoApellido": "LOPEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T14:58:03+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317602b99226c00195b3ca6",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Jefe de Proyecto"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Martha Gabriela ",
+    "primerApellido": "Aguayo",
+    "segundoApellido": " Baltazar",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T14:58:51+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317604999226c00195b3cc0",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "SECRETARIA DE APOYO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LUCILA",
+    "primerApellido": "SANCHEZ",
+    "segundoApellido": "CHAVEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T14:59:21+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317609399226c00195b3cdd",
+    "institucionDependencia": {
+      "nombre": "O.P.D SERVICIOS DE SALUD JALISCO"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CARLOS SERGIO ",
+    "primerApellido": "CASILLAS",
+    "segundoApellido": "CADENA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:00:35+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317609399226c00195b3ce4",
+    "institucionDependencia": {
+      "nombre": "Agencia de Sanidad Inocuidad y Calidad Agroaliment",
+      "siglas": "ASICA"
+    },
+    "puesto": {
+      "nombre": "COOR RECURSOS FINANCIEROS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LUCIL YAMILET  ",
+    "primerApellido": "TELLES ",
+    "segundoApellido": "SWANSON",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:00:35+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631760c099226c00195b3d10",
+    "institucionDependencia": {
+      "nombre": "O.P.D SERVICIOS DE SALUD JALISCO"
+    },
+    "puesto": {
+      "nombre": "SOPORTE ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ENRIQUE",
+    "primerApellido": "COPCA",
+    "segundoApellido": "AGRAZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:01:20+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631760fc99226c00195b3d3a",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica",
+      "siglas": "conalep"
+    },
+    "puesto": {
+      "nombre": "Jefe de Proyecto"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Martín ",
+    "primerApellido": "Flores ",
+    "segundoApellido": "Villaseñor",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:02:20+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631760b499226c00195b3d04",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Jefe de Proyecto"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2022-09-06T15:02:40+00:00",
+    "nombres": "Martín Apolonio",
+    "primerApellido": "Tino ",
+    "segundoApellido": "Vaca",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6317611299226c00195b3d5f",
+    "institucionDependencia": {
+      "nombre": "Agencia de Sanidad Inocuidad y Calidad Agroaliment",
+      "siglas": "ASICA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MATEO ",
+    "primerApellido": "BONILLA ",
+    "segundoApellido": "CORONADO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:02:42+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317617b99226c00195b3da6",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "Administrativo"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Luis Antonio",
+    "primerApellido": "Frausto",
+    "segundoApellido": "Rodríguez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:04:27+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631761ab99226c00195b3dcc",
+    "institucionDependencia": {
+      "nombre": "Agencia de Sanidad Inocuidad y Calidad Agroaliment",
+      "siglas": "ASICA"
+    },
+    "puesto": {
+      "nombre": "COORA DE RECURSOS HUMANOS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MONTSERRAT ",
+    "primerApellido": "VAZQUEZ ",
+    "segundoApellido": "RIZO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:05:15+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631761bd99226c00195b3ddf",
+    "institucionDependencia": {
+      "nombre": "O.P.D SERVICIOS DE SALUD JALISCO"
+    },
+    "puesto": {
+      "nombre": "DIR GRAL ADMINISTRATIVA "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "GABRIELA",
+    "primerApellido": "SERRATOS",
+    "segundoApellido": "FERNANDEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:05:33+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631761c699226c00195b3deb",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "JEFE DE OFICINA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LUIS CLAUDIO",
+    "primerApellido": "OROZCO ",
+    "segundoApellido": "GÓMEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:05:42+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631761cd99226c00195b3df7",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica ",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Promotor Cult y Depor."
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Martín ",
+    "primerApellido": "López ",
+    "segundoApellido": "Ruíz",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:05:49+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631761f999226c00195b3e33",
+    "institucionDependencia": {
+      "nombre": "Agencia Estatal de Entretenimiento de Jalisco",
+      "siglas": "AEEJ"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "AGUSTIN  ",
+    "primerApellido": "RAMIREZ",
+    "segundoApellido": "ALDANA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:06:33+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317620d99226c00195b3e46",
+    "institucionDependencia": {
+      "nombre": "O.P.D SERVICIOS DE SALUD JALISCO"
+    },
+    "puesto": {
+      "nombre": "APOYO ADMINISTRATIVO "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSE DE JEÚS ",
+    "primerApellido": "GARCIA",
+    "segundoApellido": "NERI",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:06:53+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317620d99226c00195b3e4d",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica ",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Jefe de Proyecto"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Miguel Ángel ",
+    "primerApellido": "González ",
+    "segundoApellido": "Cedillo",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:06:53+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317623299226c00195b3e65",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "Auxiliar en ofi de pago"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Ma. Guadalupe",
+    "primerApellido": "Plazola",
+    "segundoApellido": "Delgado",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:07:30+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631760e399226c00195b3d2a",
+    "institucionDependencia": {
+      "nombre": "Fideicomiso Fondo Jalisco de Fomento Empresarial",
+      "siglas": "FOJAL"
+    },
+    "puesto": {
+      "nombre": "Director de Fomento"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2022-09-06T15:07:31+00:00",
+    "nombres": "Eduardo Javier",
+    "primerApellido": "Avelar",
+    "segundoApellido": "Aguirre",
+    "tipoProcedimiento": [
+      {
+        "clave": 4,
+        "valor": "ASIGNACIÓN Y EMISION DE DICTAMENES DE AVALÚOS NACIONALES"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 5,
+        "valor": "OTRO"
+      }
+    ]
+  },
+  {
+    "id": "6317623a99226c00195b3e7b",
+    "institucionDependencia": {
+      "nombre": "O.P.D SERVICIOS DE SALUD JALISCO"
+    },
+    "puesto": {
+      "nombre": "APOYO ADMINISTRATIVO "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JUAN PABLO",
+    "primerApellido": "MELCHOR",
+    "segundoApellido": "BELECHE",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:07:38+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317626899226c00195b3ea3",
+    "institucionDependencia": {
+      "nombre": "O.P.D SERVICIOS DE SALUD JALISCO"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA DE JURIDICO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "KARLA",
+    "primerApellido": "CORDOVA",
+    "segundoApellido": "MEDINA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:08:24+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317626e99226c00195b3eaf",
+    "institucionDependencia": {
+      "nombre": "Agencia Estatal de Entretenimiento de Jalisco",
+      "siglas": "AEEJ"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR GENERAL"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "AGUSTIN ",
+    "primerApellido": "SILVA",
+    "segundoApellido": "GUERRERO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:08:30+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317628799226c00195b3ec9",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica ",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Coordinador Ejecutivo II"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Miguel Angel ",
+    "primerApellido": "Perez ",
+    "segundoApellido": "Santana",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:08:55+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631762a399226c00195b3edc",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "ANALISTA ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MA. XOCHITL DEL CARMEN",
+    "primerApellido": "COVARRUBIAS",
+    "segundoApellido": "PÉREZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:09:23+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631762af99226c00195b3ee8",
+    "institucionDependencia": {
+      "nombre": "Agencia Estatal de Entretenimiento de Jalisco",
+      "siglas": "AEEJ"
+    },
+    "puesto": {
+      "nombre": "DIRECCIÓN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSE DOMINGO ",
+    "primerApellido": "MORALES ",
+    "segundoApellido": "BARAJAS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:09:35+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631762c099226c00195b3efb",
+    "institucionDependencia": {
+      "nombre": "O.P.D SERVICIOS DE SALUD JALISCO"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LUIS FRANCISCO",
+    "primerApellido": "LOPEZ",
+    "segundoApellido": "GONZALEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:09:52+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631762d999226c00195b3f0e",
+    "institucionDependencia": {
+      "nombre": "Ins. de Pensiones del Estado de Jal.",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "PROYECTISTA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "OLGA NOEMI  ",
+    "primerApellido": "FLORES ",
+    "segundoApellido": "CARRILLO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:10:17+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631762dc99226c00195b3f1a",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica ",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Jefe de Proyecto"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Miguel Angel ",
+    "primerApellido": "Veloz ",
+    "segundoApellido": "Avila",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:10:20+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631762ee99226c00195b3f2d",
+    "institucionDependencia": {
+      "nombre": "Agencia Estatal de Entretenimiento de Jalisco",
+      "siglas": "AEEJ"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR DE OPERACIONES"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JUAN CARLOS  ",
+    "primerApellido": "SOTO",
+    "segundoApellido": "GARCIA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:10:38+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631762f199226c00195b3f3e",
+    "institucionDependencia": {
+      "nombre": "O.P.D SERVICIOS DE SALUD JALISCO"
+    },
+    "puesto": {
+      "nombre": "APOYO ADVTO EN SALUD A"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARCOS",
+    "primerApellido": "OCAMPO",
+    "segundoApellido": "MARTINEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:10:41+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631761cd99226c00195b3dfe",
+    "institucionDependencia": {
+      "nombre": "Ins. de Pensiones del Estado de Jal.",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "VERIFICADOR DE HOSPITALES"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2022-09-06T15:11:23+00:00",
+    "nombres": "MONICA YAZMIN",
+    "primerApellido": "RIVERA",
+    "segundoApellido": "GOLLAZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6317631d99226c00195b3f78",
+    "institucionDependencia": {
+      "nombre": "O.P.D SERVICIOS DE SALUD JALISCO"
+    },
+    "puesto": {
+      "nombre": "DIR RECURSOS MATERIALES"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARIBEL ",
+    "primerApellido": "BECERRA",
+    "segundoApellido": "BAÑUELOS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:11:25+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317634799226c00195b3fa2",
+    "institucionDependencia": {
+      "nombre": "O.P.D SERVICIOS DE SALUD JALISCO"
+    },
+    "puesto": {
+      "nombre": "APOYO ADVTO EN SALUD A"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "PEDRO ARMANDO",
+    "primerApellido": "LOPEZ",
+    "segundoApellido": "GRACIANO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:12:07+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317639799226c00195b3fdc",
+    "institucionDependencia": {
+      "nombre": "Ins. de Pensiones del Estado de Jal.",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "ANALISTA ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "OLIVER ",
+    "primerApellido": "HUESO ",
+    "segundoApellido": "QUIÑONEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:13:27+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631763a099226c00195b3ff3",
+    "institucionDependencia": {
+      "nombre": "Fideicomiso Fondo Jalisco de Fomento Empresarial",
+      "siglas": "FOJAL"
+    },
+    "puesto": {
+      "nombre": "Contralor Interno"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Fátima Alejandra",
+    "primerApellido": "Íñiguez",
+    "segundoApellido": "Zermeño",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:13:36+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631763a899226c00195b3fff",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Técnica",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Aux. de Servicios Grales."
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Mijail Omar ",
+    "primerApellido": "Gomez ",
+    "segundoApellido": "Garcia",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:13:44+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631763aa99226c00195b400f",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "Administrativo"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Ma. del Rocio",
+    "primerApellido": "Ramírez",
+    "segundoApellido": "Gutiérrez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:13:46+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631763df99226c00195b4040",
+    "institucionDependencia": {
+      "nombre": "O.P.D SERVICIOS DE SALUD JALISCO"
+    },
+    "puesto": {
+      "nombre": "APOYO ADVTO EN SALUD A"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ROXANA GUADALUPE",
+    "primerApellido": "LIZARRARAS",
+    "segundoApellido": "DURAN",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:14:39+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631763e499226c00195b404c",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Técnica ",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Coordinador Ejecutivo"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Miriam Isabel ",
+    "primerApellido": "Magdaleno ",
+    "segundoApellido": "Vargas",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:14:44+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631763e499226c00195b4053",
+    "institucionDependencia": {
+      "nombre": "Agencia Estatal de Entretenimiento de Jalisco",
+      "siglas": "AEEJ"
+    },
+    "puesto": {
+      "nombre": "JEFE DE AREA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JUAN PABLO ",
+    "primerApellido": "COVARRUBIAS ",
+    "segundoApellido": "RANGEL",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:14:44+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317642099226c00195b4079",
+    "institucionDependencia": {
+      "nombre": "O.P.D SERVICIOS DE SALUD JALISCO"
+    },
+    "puesto": {
+      "nombre": "DIR GRAL DE ADMON"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "SANDRA DEYANIRA",
+    "primerApellido": "TOVAR",
+    "segundoApellido": "LOPEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:15:44+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317642599226c00195b4085",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica ",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Director de Plantel"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Moisés ",
+    "primerApellido": "Sanabria",
+    "segundoApellido": "Gálvez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:15:49+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317642999226c00195b4098",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "Dir. Gral. Delegaciones R"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Marcelino Felipe",
+    "primerApellido": "Rosas ",
+    "segundoApellido": "Hernández",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:15:53+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317644b99226c00195b40b4",
+    "institucionDependencia": {
+      "nombre": "Fideicomiso Fondo Jalisco de Fomento Empresarial",
+      "siglas": "FOJAL"
+    },
+    "puesto": {
+      "nombre": "Coord. Promoción Regional"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Federico Ángel",
+    "primerApellido": "Reyes",
+    "segundoApellido": "Navarro",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:16:27+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317645499226c00195b40c7",
+    "institucionDependencia": {
+      "nombre": "O.P.D SERVICIOS DE SALUD JALISCO"
+    },
+    "puesto": {
+      "nombre": "JEFA DE DEPARTAMENTO "
+    },
+    "nombres": "VANESSA",
+    "primerApellido": "ALVAREZ",
+    "segundoApellido": "O CONNOR",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:16:36+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317645899226c00195b40d3",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación"
+    },
+    "puesto": {
+      "nombre": "TECNICO BIBLIOTECARIO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARGARITA",
+    "primerApellido": "NAVARRO ",
+    "segundoApellido": "PULIDO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:16:40+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317648499226c00195b40ef",
+    "institucionDependencia": {
+      "nombre": "Agencia Estatal de Entretenimiento de Jalisco",
+      "siglas": "AEEJ"
+    },
+    "puesto": {
+      "nombre": "GERENTE DE COMPRAS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MIGUEL ANGEL  ",
+    "primerApellido": "TALANCON",
+    "segundoApellido": "LANGARICA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:17:24+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317649c99226c00195b410c",
+    "institucionDependencia": {
+      "nombre": "OPD MUSEOS EXP Y GAL JALISCO"
+    },
+    "puesto": {
+      "nombre": "DIR ESPACIOS EXPOSITIVOS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ADRIANA ",
+    "primerApellido": "CORDOVA",
+    "segundoApellido": "NAVARRO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:17:48+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631764c199226c00195b4132",
+    "institucionDependencia": {
+      "nombre": "Agencia Estatal de Entretenimiento de Jalisco",
+      "siglas": "AEEJ"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR COMERCIAL"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "RENE MAURICIO  ",
+    "primerApellido": "ROBLES",
+    "segundoApellido": "MARQUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:18:25+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631764cb99226c00195b4145",
+    "institucionDependencia": {
+      "nombre": "OPD MUSEOS EXP Y GAL JALISCO"
+    },
+    "puesto": {
+      "nombre": "ADVTO ESPECIALIZADO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "AGUSTIN ",
+    "primerApellido": "ROSAS",
+    "segundoApellido": "CALVILLO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:18:35+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631764d999226c00195b4151",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Jefe de Proyecto"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Mónica Araceli",
+    "primerApellido": "Arellano",
+    "segundoApellido": " Otero",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:18:49+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317651f99226c00195b4164",
+    "institucionDependencia": {
+      "nombre": "Fideicomiso Fondo Jalisco de Fomento Empresarial",
+      "siglas": "FOJAL"
+    },
+    "puesto": {
+      "nombre": "Director de Promoción"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Francisco Javier",
+    "primerApellido": "Gómez",
+    "segundoApellido": "Michel",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:19:59+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317653699226c00195b4174",
+    "institucionDependencia": {
+      "nombre": "Agencia Estatal de Entretenimiento de Jalisco",
+      "siglas": "AEEJ"
+    },
+    "puesto": {
+      "nombre": "COOR DE PATROCIN Y VENTAS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ROSSANA ",
+    "primerApellido": "PABLOS ",
+    "segundoApellido": "ESQUER",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:20:22+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317654599226c00195b4184",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Aux. de Servicios Grales."
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Nadhelly Astrid",
+    "primerApellido": "Vizcarra ",
+    "segundoApellido": "Hernandez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:20:37+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317613d99226c00195b3d8c",
+    "institucionDependencia": {
+      "nombre": "O.P.D SERVICIOS DE SALUD JALISCO"
+    },
+    "puesto": {
+      "nombre": "APOYO ADVTO SALUD A"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2022-09-06T15:20:48+00:00",
+    "nombres": "ENRIQUE RAMON",
+    "primerApellido": "AGUILAR",
+    "segundoApellido": "RAMIREZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6317618a99226c00195b3db2",
+    "institucionDependencia": {
+      "nombre": "O.P.D SERVICIOS DE SALUD JALISCO"
+    },
+    "puesto": {
+      "nombre": "APOYO ADVTO EN SALUD A"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2022-09-06T15:21:07+00:00",
+    "nombres": "FELIPE DE JESUS ",
+    "primerApellido": "TORRES",
+    "segundoApellido": "PONCE",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6317658599226c00195b41df",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Tecnica",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Directora de Plantel"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Nancy Gabriela ",
+    "primerApellido": "González ",
+    "segundoApellido": "Buz",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:21:41+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317659499226c00195b41eb",
+    "institucionDependencia": {
+      "nombre": "Agencia Integral para la Regulación de Emisiones",
+      "siglas": "AIRE"
+    },
+    "puesto": {
+      "nombre": "Dirección Administración"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Armando  ",
+    "primerApellido": "Molina  ",
+    "segundoApellido": "Villarreal",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T15:21:56+00:00",
+    "__v": 0
+  }
+]

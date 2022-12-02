@@ -1,0 +1,58 @@
+[
+  {
+    "id": "616ee08322b3267f3eae7d6a",
+    "institucionDependencia": {
+      "nombre": "COMISION DE RESPONSABILIDADES DEL CONGRESO DEL ESTADO DE DURANGO",
+      "siglas": "CRCED"
+    },
+    "servidorPublicoSancionado": {
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "nombres": "HÉCTOR GABRIEL",
+      "primerApellido": "TREJO",
+      "segundoApellido": "RANGEL",
+      "puesto": "MAGISTRADO DE LA SEGUNDA SALA ORDINARIA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE DURANGO"
+    },
+    "tipoFalta": {
+      "clave": "OJUST",
+      "valor": "OBSTRUCCIÓN DE LA JUSTICIA"
+    },
+    "resolucion": {
+      "url": "http://congresodurango.gob.mx/Archivos/LXVIII/GACETAS/Gacetas%20Comision%20Permanente/GACETA80.pdf",
+      "fechaResolucion": "2021-08-14"
+    },
+    "inhabilitacion": {
+      "plazo": "7 años",
+      "fechaInicial": "2021-08-14",
+      "fechaFinal": "2028-08-14"
+    },
+    "fechaCaptura": "2021-09-27T00:00:00Z",
+    "expediente": "C.R.LXVIII.P.J.P.03/2021",
+    "autoridadSancionadora": "CONGRESO DEL ESTADO DE DURANGO",
+    "tipoSancion": [
+      {
+        "clave": "D",
+        "valor": "DESTITUCIÓN",
+        "descripcion": "DESTITUCIÓN"
+      },
+      {
+        "clave": "I",
+        "valor": "INHABILITACIÓN",
+        "descripcion": "INHABILITACION"
+      }
+    ],
+    "causaMotivoHechos": "EJERCICIO INDEBIDO DE FUNCIONES PÚBLICAS, INFRACCION A LA CONSTITUCION FEDERAL, CAUSANDO GRAVER PERJUICIOS AL FUNCIONAMIENTO DE LAS INSTITUCIONES Y VIOLACIÓN A LOS PRINCIPIOS DEL SERVICIO PÚBLICO",
+    "documentos": [
+      {
+        "id": "C.R.LXVIII.P.J.P.03/2021",
+        "tipo": "RESOLUCION",
+        "titulo": "Resolución ",
+        "descripcion": "ACTA DE SESION ORDINARIA DEL PLENO DE LA H. LXVIII LEGISLATURA, DE FECHA 14 DE AGOSTO DE 2021 TERCERA",
+        "url": "http://congresodurango.gob.mx/Archivos/LXVIII/GACETAS/Gacetas%20Comision%20Permanente/GACETA80.pdf",
+        "fecha": "2021-08-14"
+      }
+    ]
+  }
+]

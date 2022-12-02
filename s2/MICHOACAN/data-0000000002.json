@@ -1,0 +1,2365 @@
+[
+  {
+    "curp": "AAGN750819HMNLLC04",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-10-31T12:06:00Z",
+    "finCargo": "2024-08-31",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "id": "DAS6LEK7",
+    "inicioCargo": "2021-09-01",
+    "institucionDependencia": {
+      "clave": "020",
+      "nombre": "Honorable Ayuntamiento de Cuitzeo",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "NICANDRO",
+    "observaciones": "",
+    "primerApellido": "ALVAREZ",
+    "puesto": {
+      "nivel": "DIRECTOR",
+      "nombre": "DIRECTOR DE OBRAS PÚBLICAS Y URBANISMO"
+    },
+    "ramo": {
+      "clave": 5,
+      "valor": "INFRA-ESTRUCTURA"
+    },
+    "rfc": "AAGN7508194M9",
+    "segundoApellido": "GALLEGOS",
+    "superiorInmediato": {
+      "curp": "MIPR790507MMNLNS07",
+      "nombres": "ROSA ELIA",
+      "primerApellido": "MILAN",
+      "puesto": {
+        "nivel": "PRESIDENTA",
+        "nombre": "PRESIDENTA MUNICIPAL"
+      },
+      "rfc": "MIPR790507PQ4",
+      "segundoApellido": "PINTOR"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "curp": "MEOO930327HMNNRC09",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-08-09T14:24:02Z",
+    "finCargo": "2024-08-31",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "id": "JAP7XOY1",
+    "inicioCargo": "2021-09-01",
+    "institucionDependencia": {
+      "clave": "015",
+      "nombre": "Honorable Ayuntamiento de Coalcomán de Vázquez Pallares",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "OCTAVIO",
+    "observaciones": "PARTICIPA EN LA CONTRATACION DE OBRAS PUBLICAS Y EN EL COMITE DE ADQUISICIONES",
+    "primerApellido": "MENDEZ",
+    "puesto": {
+      "nivel": "2",
+      "nombre": "DIRECTOR DE OBRAS PUBLICAS"
+    },
+    "ramo": {
+      "clave": 5,
+      "valor": "INFRA-ESTRUCTURA"
+    },
+    "rfc": "MEOO930327764",
+    "segundoApellido": "ORTIZ",
+    "superiorInmediato": {
+      "curp": "EUCO690426MCSSLB09",
+      "nombres": "MARIA OBDULIA",
+      "primerApellido": "ESQUIVEL",
+      "puesto": {
+        "nivel": "1",
+        "nombre": "PRESIDENTA MUNICIPAL"
+      },
+      "rfc": "EUCO690426MD9",
+      "segundoApellido": "COLIN"
+    },
+    "tipoArea": [
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      },
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "curp": "TOBS920601HMNRRL04",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-08-10T13:11:26Z",
+    "finCargo": "2024-08-31",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "id": "PED9WUL3",
+    "inicioCargo": "2021-09-01",
+    "institucionDependencia": {
+      "clave": "015",
+      "nombre": "Honorable Ayuntamiento de Coalcomán de Vázquez Pallares",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "SALVADOR IVAN",
+    "observaciones": "",
+    "primerApellido": "TORRES",
+    "puesto": {
+      "nivel": "1",
+      "nombre": "REGIDOR"
+    },
+    "ramo": {
+      "clave": 5,
+      "valor": "INFRA-ESTRUCTURA"
+    },
+    "rfc": "TOBS920601QQ1",
+    "segundoApellido": "BARAHONA",
+    "superiorInmediato": {
+      "curp": "EUCO690426MCSSLB09",
+      "nombres": "MARIA OBDULIA",
+      "primerApellido": "ESQUIVEL",
+      "puesto": {
+        "nivel": "1",
+        "nombre": "PRESIDENTA MUNICIPAL"
+      },
+      "rfc": "EUCO690426MD9",
+      "segundoApellido": "COLIN"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "curp": "PIGC900330HGTNNR02",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-10-31T11:54:35Z",
+    "finCargo": "2024-08-31",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "id": "HOG6XOR2",
+    "inicioCargo": "2021-09-01",
+    "institucionDependencia": {
+      "clave": "020",
+      "nombre": "Honorable Ayuntamiento de Cuitzeo",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "CARLOS DAVID",
+    "observaciones": "",
+    "primerApellido": "PINTOR",
+    "puesto": {
+      "nivel": "DIRECTOR",
+      "nombre": "DIRECTOR DE PROTECCIÓN ANIMAL"
+    },
+    "ramo": {
+      "clave": 2,
+      "valor": "BIENESTAR"
+    },
+    "rfc": "PIGC900330C95",
+    "segundoApellido": "GONZALEZ",
+    "superiorInmediato": {
+      "curp": "MIPR790507MMNLNS07",
+      "nombres": "ROSA ELIA",
+      "primerApellido": "MILAN ",
+      "puesto": {
+        "nivel": "PRESIDENTA",
+        "nombre": "PRESIDENTA MUNICIPAL"
+      },
+      "rfc": "MIPR790507PQ4",
+      "segundoApellido": "PINTOR"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "curp": "LORF970703MMNPMT07",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-08-10T13:15:21Z",
+    "finCargo": "2024-08-31",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "id": "DEB1RAF9",
+    "inicioCargo": "2021-09-01",
+    "institucionDependencia": {
+      "clave": "015",
+      "nombre": "Honorable Ayuntamiento de Coalcomán de Vázquez Pallares",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "FATIMA",
+    "observaciones": "",
+    "primerApellido": "LOPEZ",
+    "puesto": {
+      "nivel": "1",
+      "nombre": "REGIDORA"
+    },
+    "ramo": {
+      "clave": 5,
+      "valor": "INFRA-ESTRUCTURA"
+    },
+    "rfc": "LORF9707033G2",
+    "segundoApellido": "MADRIGAL",
+    "superiorInmediato": {
+      "curp": "EUCO690426MCSSLB09",
+      "nombres": "MARIA OBDULIA",
+      "primerApellido": "ESQUIVEL",
+      "puesto": {
+        "nivel": "1",
+        "nombre": "PRESIDENTA MUNICIPAL"
+      },
+      "rfc": "EUCO690426MD9",
+      "segundoApellido": "COLIN"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "curp": "OOAN750730HMNNGR09",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-10-31T11:55:47Z",
+    "finCargo": "2024-08-31",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "id": "RAF8YUB2",
+    "inicioCargo": "2021-09-01",
+    "institucionDependencia": {
+      "clave": "020",
+      "nombre": "Honorable Ayuntamiento de Cuitzeo",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "NORBERTO",
+    "observaciones": "",
+    "primerApellido": "ONOFRE",
+    "puesto": {
+      "nivel": "DIRECTOR",
+      "nombre": "DIRECTOR DE DESARROLLO RURAL"
+    },
+    "ramo": {
+      "clave": 2,
+      "valor": "BIENESTAR"
+    },
+    "rfc": "OOAN7507306CA",
+    "segundoApellido": "AGUADO",
+    "superiorInmediato": {
+      "curp": "MIPR790507MMNLNS07",
+      "nombres": "ROSA ELIA",
+      "primerApellido": "MILAN",
+      "puesto": {
+        "nivel": "PRESIDENTA",
+        "nombre": "PRESIDENTA MUNICIPAL"
+      },
+      "rfc": "MIPR790507PQ4",
+      "segundoApellido": "PINTOR"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "curp": "GULR770430HMNZPB01",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-10-31T12:00:25Z",
+    "finCargo": "2024-08-31",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "id": "XIC4PES7",
+    "inicioCargo": "2021-09-01",
+    "institucionDependencia": {
+      "clave": "020",
+      "nombre": "Honorable Ayuntamiento de Cuitzeo",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "ROBERTO",
+    "observaciones": "",
+    "primerApellido": "GUZMAN",
+    "puesto": {
+      "nivel": "DIRECTOR",
+      "nombre": "DIRECTOR DE CAPA CUITZEO"
+    },
+    "ramo": {
+      "clave": 2,
+      "valor": "BIENESTAR"
+    },
+    "rfc": "GULR770430E66",
+    "segundoApellido": "LOPEZ",
+    "superiorInmediato": {
+      "curp": "MIPR790507MMNLNS07",
+      "nombres": "ROSA ELIA",
+      "primerApellido": "MILAN",
+      "puesto": {
+        "nivel": "PRESIDENTA",
+        "nombre": "PRESIDENTA MUNICIPAL"
+      },
+      "rfc": "MIPR790507PQ4",
+      "segundoApellido": "PINTOR"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "curp": "CASR720315HMNRNM02",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-08-10T13:25:54Z",
+    "finCargo": "2024-08-31",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "id": "ZIV8TEM5",
+    "inicioCargo": "2021-09-01",
+    "institucionDependencia": {
+      "clave": "015",
+      "nombre": "Honorable Ayuntamiento de Coalcomán de Vázquez Pallares",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "RAMON CLEMENTE",
+    "observaciones": "",
+    "primerApellido": "CARRILLO",
+    "puesto": {
+      "nivel": "1",
+      "nombre": "REGIDOR"
+    },
+    "ramo": {
+      "clave": 5,
+      "valor": "INFRA-ESTRUCTURA"
+    },
+    "rfc": "CASR7203151V3",
+    "segundoApellido": "SANCHEZ",
+    "superiorInmediato": {
+      "curp": "EUCO690426MCSSLB09",
+      "nombres": "MARIA OBDULIA",
+      "primerApellido": "ESQUIVEL",
+      "puesto": {
+        "nivel": "1",
+        "nombre": "PRESIDENTA MUNICIPAL"
+      },
+      "rfc": "EUCO690426MD9",
+      "segundoApellido": "COLIN"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "curp": "FUMF881102HMNLLR08",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-10-31T11:58:54Z",
+    "finCargo": "2024-08-31",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "id": "NOF8WIW3",
+    "inicioCargo": "2021-09-01",
+    "institucionDependencia": {
+      "clave": "020",
+      "nombre": "Honorable Ayuntamiento de Cuitzeo",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "FRANCISCO JAVIER",
+    "observaciones": "",
+    "primerApellido": "FULGENCIO",
+    "puesto": {
+      "nivel": "DIRECTOR",
+      "nombre": "DIRECTOR DE DEPORTES"
+    },
+    "ramo": {
+      "clave": 2,
+      "valor": "BIENESTAR"
+    },
+    "rfc": "FUMF8811025F5",
+    "segundoApellido": "MILAN",
+    "superiorInmediato": {
+      "curp": "MIPR790507MMNLNS07",
+      "nombres": "ROSA ELIA",
+      "primerApellido": "MILAN",
+      "puesto": {
+        "nivel": "PRESIDENTA",
+        "nombre": "PRESIDENTA MUNICIPAL"
+      },
+      "rfc": "MIPR790507PQ4",
+      "segundoApellido": "PINTOR"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "curp": "CXCA950106HMNSNL00",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-08-10T14:48:06Z",
+    "finCargo": "2024-08-31",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "id": "YIL6ZUF1",
+    "inicioCargo": "2021-09-01",
+    "institucionDependencia": {
+      "clave": "015",
+      "nombre": "Honorable Ayuntamiento de Coalcomán de Vázquez Pallares",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "ALEJANDRO",
+    "observaciones": "",
+    "primerApellido": "CASTAÑEDA",
+    "puesto": {
+      "nivel": "2",
+      "nombre": "DIRECTOR DE URBANISMO"
+    },
+    "ramo": {
+      "clave": 5,
+      "valor": "INFRA-ESTRUCTURA"
+    },
+    "rfc": "CACX950106PX0",
+    "segundoApellido": "CONTRERAS",
+    "superiorInmediato": {
+      "curp": "EUCO690426MCSSLB09",
+      "nombres": "MARIA OBDULIA",
+      "primerApellido": "ESQUIVEL",
+      "puesto": {
+        "nivel": "1",
+        "nombre": "PRESIDENTA MUNICIPAL"
+      },
+      "rfc": "EUCO690426MD9",
+      "segundoApellido": "COLIN"
+    },
+    "tipoArea": [
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "curp": "HUOL880227MMNRRR07",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-08-11T14:23:35Z",
+    "finCargo": "2024-12-31",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "id": "DOY6SIW6",
+    "inicioCargo": "2022-01-01",
+    "institucionDependencia": {
+      "clave": "083",
+      "nombre": "Honorable Ayuntamiento de Tancítaro",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "LAURA ADELINA ",
+    "observaciones": "",
+    "primerApellido": "HUERTA ",
+    "puesto": {
+      "nivel": "CONTRALOR",
+      "nombre": "CONTRALORIA"
+    },
+    "ramo": {
+      "clave": 23,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "rfc": "HUOL880227S10",
+    "segundoApellido": "OROZCO ",
+    "superiorInmediato": {
+      "curp": "MOMG830425HMNRRR03",
+      "nombres": "GERARDO ",
+      "primerApellido": "MORA ",
+      "puesto": {
+        "nivel": "PRESIDENTE ",
+        "nombre": "PRESIDENCIA "
+      },
+      "rfc": "MOMG8304252RA",
+      "segundoApellido": "MORA "
+    },
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "curp": "RORK930212MMNMSR00",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-08-11T14:24:15Z",
+    "finCargo": "2024-08-31",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "id": "NEF2TOW3",
+    "inicioCargo": "2021-09-01",
+    "institucionDependencia": {
+      "clave": "083",
+      "nombre": "Honorable Ayuntamiento de Tancítaro",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "nombres": "KAREN GUADALUPE",
+    "observaciones": "",
+    "primerApellido": "ROMERO",
+    "puesto": {
+      "nivel": "SECRETARIA",
+      "nombre": "TESORERIA"
+    },
+    "ramo": {
+      "clave": 6,
+      "valor": "ECONOMIA"
+    },
+    "rfc": "RORK930212T21",
+    "segundoApellido": "RIOS ",
+    "superiorInmediato": {
+      "curp": "SIGJ861219HMNRLS07",
+      "nombres": "JESUS MISAEL ",
+      "primerApellido": "SIERRA ",
+      "puesto": {
+        "nivel": "TESORERO ",
+        "nombre": "TESORERIA "
+      },
+      "rfc": "SIGJ861219PK8",
+      "segundoApellido": "GALVAN "
+    },
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "curp": "DIBV680916MMNZLC05",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-10-31T11:56:37Z",
+    "finCargo": "2024-08-31",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "id": "HUM6SIQ5",
+    "inicioCargo": "2021-09-01",
+    "institucionDependencia": {
+      "clave": "020",
+      "nombre": "Honorable Ayuntamiento de Cuitzeo",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "VICTORIA ",
+    "observaciones": "",
+    "primerApellido": "DÍAZ ",
+    "puesto": {
+      "nivel": "DIRECTORA",
+      "nombre": "DIRECTORA DE LA INSTANCIA DE LA MUJER"
+    },
+    "ramo": {
+      "clave": 2,
+      "valor": "BIENESTAR"
+    },
+    "rfc": "DIBV680916NP7",
+    "segundoApellido": "BELMONTE",
+    "superiorInmediato": {
+      "curp": "MIPR790507MMNLNS07",
+      "nombres": "ROSA ELIA",
+      "primerApellido": "MILAN",
+      "puesto": {
+        "nivel": "PRESIDENTA",
+        "nombre": "PRESIDENTA MUNICIPAL"
+      },
+      "rfc": "MIPR790507PQ4",
+      "segundoApellido": "PINTOR"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "curp": "VIHS930716MMNRRR01",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-08-11T14:24:38Z",
+    "finCargo": "2024-08-31",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "id": "KUJ1ZEQ6",
+    "inicioCargo": "2021-09-01",
+    "institucionDependencia": {
+      "clave": "083",
+      "nombre": "Honorable Ayuntamiento de Tancítaro",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "nombres": "SARA ISABEL ",
+    "observaciones": "",
+    "primerApellido": "VIRRUETA ",
+    "puesto": {
+      "nivel": "AUXILIAR ",
+      "nombre": "TESORERIA"
+    },
+    "ramo": {
+      "clave": 6,
+      "valor": "ECONOMIA"
+    },
+    "rfc": "VIHS930716CG0",
+    "segundoApellido": "HERNANDEZ ",
+    "superiorInmediato": {
+      "curp": "SIGJ861219HMNRLS07",
+      "nombres": "JESUS MISAEL ",
+      "primerApellido": "SIERRA ",
+      "puesto": {
+        "nivel": "TESORERO  ",
+        "nombre": "TESORERIA "
+      },
+      "rfc": "SIGJ861219PK8",
+      "segundoApellido": "GALVAN "
+    },
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "curp": "PAGA900912HMNRNL00",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-08-11T14:25:53Z",
+    "finCargo": "2024-08-31",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "id": "FED5YAM1",
+    "inicioCargo": "2021-09-01",
+    "institucionDependencia": {
+      "clave": "083",
+      "nombre": "Honorable Ayuntamiento de Tancítaro",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "ALEJANDRO ",
+    "observaciones": "",
+    "primerApellido": "PARDO ",
+    "puesto": {
+      "nivel": "DIRECTOR ",
+      "nombre": "OBRAS PUBLICAS"
+    },
+    "ramo": {
+      "clave": 5,
+      "valor": "INFRA-ESTRUCTURA"
+    },
+    "rfc": "PAGA9009127Y6",
+    "segundoApellido": "GONZALEZ",
+    "superiorInmediato": {
+      "curp": "MOMG830425HMNRRR03",
+      "nombres": "GERARDO ",
+      "primerApellido": "MORA ",
+      "puesto": {
+        "nivel": "PRESIDENTE ",
+        "nombre": "PRESIDENCIA"
+      },
+      "rfc": "MOMG8304252RA",
+      "segundoApellido": "MORA "
+    },
+    "tipoArea": [
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "curp": "MORD850604HMNRSV07",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-08-11T14:28:59Z",
+    "finCargo": "2024-08-31",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "id": "PUH1QOV3",
+    "inicioCargo": "2021-09-01",
+    "institucionDependencia": {
+      "clave": "083",
+      "nombre": "Honorable Ayuntamiento de Tancítaro",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "DAVID ",
+    "observaciones": "",
+    "primerApellido": "MORALES ",
+    "puesto": {
+      "nivel": "SECRETARIO ",
+      "nombre": "SECRETARIA "
+    },
+    "ramo": {
+      "clave": 23,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "rfc": "MORD8506042T0",
+    "segundoApellido": "RIOS ",
+    "superiorInmediato": {
+      "curp": "MOMG830425HMNRRR03",
+      "nombres": "GERARDO ",
+      "primerApellido": "MORA ",
+      "puesto": {
+        "nivel": "PRESIDENTE ",
+        "nombre": "PRESIDENCIA "
+      },
+      "rfc": "MOMG8304252RA",
+      "segundoApellido": "MORA "
+    },
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "curp": "SIGJ861219HMNRLS07",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-08-11T14:29:30Z",
+    "finCargo": "2024-08-31",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "id": "MAT6PUJ6",
+    "inicioCargo": "2021-09-01",
+    "institucionDependencia": {
+      "clave": "083",
+      "nombre": "Honorable Ayuntamiento de Tancítaro",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "JESUS MISAEL ",
+    "observaciones": "",
+    "primerApellido": "SIERRA",
+    "puesto": {
+      "nivel": "TESORERO ",
+      "nombre": "TESORERIA "
+    },
+    "ramo": {
+      "clave": 6,
+      "valor": "ECONOMIA"
+    },
+    "rfc": "SIGJ861219PK8",
+    "segundoApellido": "GALVAN ",
+    "superiorInmediato": {
+      "curp": "MOMG830425HMNRRR03",
+      "nombres": "GERARDO ",
+      "primerApellido": "MORA",
+      "puesto": {
+        "nivel": "PRESIDENTE ",
+        "nombre": "PRESIDENCIA"
+      },
+      "rfc": "MOMG8304252RA",
+      "segundoApellido": "MORA "
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "curp": "CIMM960719HMNNRR05",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-10-31T11:57:39Z",
+    "finCargo": "2024-08-31",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "id": "WAG8RAY6",
+    "inicioCargo": "2021-09-01",
+    "institucionDependencia": {
+      "clave": "020",
+      "nombre": "Honorable Ayuntamiento de Cuitzeo",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "MARTIN",
+    "observaciones": "",
+    "primerApellido": "CINCIRE",
+    "puesto": {
+      "nivel": "DIRECTOR",
+      "nombre": "DIRECTOR DE JUVENTUD"
+    },
+    "ramo": {
+      "clave": 2,
+      "valor": "BIENESTAR"
+    },
+    "rfc": "CIMM9607195Q7",
+    "segundoApellido": "MORENO",
+    "superiorInmediato": {
+      "curp": "MIPR790507MMNLNS07",
+      "nombres": "ROSA ELIA",
+      "primerApellido": "MILAN",
+      "puesto": {
+        "nivel": "PRESIDENTA",
+        "nombre": "PRESIDENTA MUNICIPAL"
+      },
+      "rfc": "MIPR790507PQ4",
+      "segundoApellido": "PINTOR"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "curp": "QUIR930309MMNRRF05",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-08-11T14:30:01Z",
+    "finCargo": "2024-08-31",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "id": "MOM9CIZ5",
+    "inicioCargo": "2021-09-01",
+    "institucionDependencia": {
+      "clave": "083",
+      "nombre": "Honorable Ayuntamiento de Tancítaro",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "MARIA DEL REFUGIO ",
+    "observaciones": "",
+    "primerApellido": "QUIROZ",
+    "puesto": {
+      "nivel": "REGIDORA",
+      "nombre": "REGIDORA "
+    },
+    "ramo": {
+      "clave": 23,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "rfc": "QUIR9303097T0",
+    "segundoApellido": "IRIANDA ",
+    "superiorInmediato": {
+      "curp": "MOMG830425HMNRRR03",
+      "nombres": "GERARDO ",
+      "primerApellido": "MORA",
+      "puesto": {
+        "nivel": "PRESIDENTE ",
+        "nombre": "PRESIDENCIA"
+      },
+      "rfc": "MOMG8304252RA",
+      "segundoApellido": "MORA"
+    },
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "curp": "SORR910703MMNLMS04",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-08-11T14:30:37Z",
+    "finCargo": "2024-08-31",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "id": "VEH5XEN8",
+    "inicioCargo": "2021-09-01",
+    "institucionDependencia": {
+      "clave": "083",
+      "nombre": "Honorable Ayuntamiento de Tancítaro",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "ROSA CECILIA ",
+    "observaciones": "",
+    "primerApellido": "SOLORZANO ",
+    "puesto": {
+      "nivel": "RERGIDORA ",
+      "nombre": "REGIDORA "
+    },
+    "ramo": {
+      "clave": 23,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "rfc": "SORR910703SZ6",
+    "segundoApellido": "RAMIREZ ",
+    "superiorInmediato": {
+      "curp": "MOMG830425HMNRRR03",
+      "nombres": "GERARDO ",
+      "primerApellido": "MORA ",
+      "puesto": {
+        "nivel": "PRESIDENTE ",
+        "nombre": "PRESIDENCIA "
+      },
+      "rfc": "MOMG8304252RA",
+      "segundoApellido": "MORA "
+    },
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "curp": "LUOJ830304HMNNRN06",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-10-31T12:01:06Z",
+    "finCargo": "2024-08-31",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "id": "HOX2QOM1",
+    "inicioCargo": "2021-09-01",
+    "institucionDependencia": {
+      "clave": "020",
+      "nombre": "Honorable Ayuntamiento de Cuitzeo",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "JUAN",
+    "observaciones": "",
+    "primerApellido": "LUNDEZ",
+    "puesto": {
+      "nivel": "NA ",
+      "nombre": "SECRETARIO DEL H. AYUNTAMIENTO"
+    },
+    "ramo": {
+      "clave": 6,
+      "valor": "ECONOMIA"
+    },
+    "rfc": "LUOJ830304CY7",
+    "segundoApellido": "ORTIZ",
+    "superiorInmediato": {
+      "curp": "MIPR790507MMNLNS07",
+      "nombres": "ROSA ELIA ",
+      "primerApellido": "MILAN",
+      "puesto": {
+        "nivel": "PRESIDENTA",
+        "nombre": "PRESIDENTA MUNICIPAL"
+      },
+      "rfc": "MIPR790507PQ4",
+      "segundoApellido": "PINTOR"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "curp": "NAMG820421HMCVJR01",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-08-11T14:31:14Z",
+    "finCargo": "2024-08-31",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "id": "NOW4CUX2",
+    "inicioCargo": "2021-09-01",
+    "institucionDependencia": {
+      "clave": "083",
+      "nombre": "Honorable Ayuntamiento de Tancítaro",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "GERARDO ",
+    "observaciones": "",
+    "primerApellido": "NAVA",
+    "puesto": {
+      "nivel": "REGIDOR ",
+      "nombre": "REGIDOR "
+    },
+    "ramo": {
+      "clave": 23,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "rfc": "NAMG820421FM9",
+    "segundoApellido": "MEJIA ",
+    "superiorInmediato": {
+      "curp": "MOMG830425HMNRRR03",
+      "nombres": "GERARDO ",
+      "primerApellido": "MORA ",
+      "puesto": {
+        "nivel": "PRESIDENTE ",
+        "nombre": "PRESIDENCIA "
+      },
+      "rfc": "MOMG8304252RA",
+      "segundoApellido": "MORA "
+    },
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "curp": "AAGS690329HJCLNN07",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-10-31T11:59:42Z",
+    "finCargo": "2024-08-31",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "id": "NAS2WEC8",
+    "inicioCargo": "2021-09-01",
+    "institucionDependencia": {
+      "clave": "020",
+      "nombre": "Honorable Ayuntamiento de Cuitzeo",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "SANTIAGO",
+    "observaciones": "",
+    "primerApellido": "ALCANTAR",
+    "puesto": {
+      "nivel": "DIRECTOR",
+      "nombre": "DIRECTOR DE REGLAMENTOS"
+    },
+    "ramo": {
+      "clave": 6,
+      "valor": "ECONOMIA"
+    },
+    "rfc": "AAGS690329618",
+    "segundoApellido": "GONZALEZ",
+    "superiorInmediato": {
+      "curp": "LUOJ830304HMNNRN06",
+      "nombres": "JUAN",
+      "primerApellido": "LUNDEZ",
+      "puesto": {
+        "nivel": "1",
+        "nombre": "SECRETARIO DEL AYUNTAMIENTO"
+      },
+      "rfc": "LUOJ830304CY7",
+      "segundoApellido": "ORTIZ"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "curp": "MIPR790507MMNLNS07",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-10-31T12:12:45Z",
+    "finCargo": "2024-08-31",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "id": "PUC3SUC1",
+    "inicioCargo": "2021-09-01",
+    "institucionDependencia": {
+      "clave": "020",
+      "nombre": "Honorable Ayuntamiento de Cuitzeo",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "ROSA ELIA",
+    "observaciones": "",
+    "primerApellido": "MILAN",
+    "puesto": {
+      "nivel": "PRESIDENTA",
+      "nombre": "PRESIDENTA MUNICIPAL"
+    },
+    "ramo": {
+      "clave": 23,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "rfc": "MIPR790507PQ4",
+    "segundoApellido": "PINTOR",
+    "superiorInmediato": {
+      "curp": "MIPR790507MMNLNS07",
+      "nombres": "ROSA ELIA",
+      "primerApellido": "MILAN",
+      "puesto": {
+        "nivel": "PRESIDENTA",
+        "nombre": "PRESIDENTA MUNICIPAL"
+      },
+      "rfc": "MIPR790507PQ4",
+      "segundoApellido": "PINTOR"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      },
+      {
+        "clave": 4,
+        "valor": "ASIGNACIÓN Y EMISION DE DICTAMENES DE AVALÚOS NACIONALES"
+      }
+    ]
+  },
+  {
+    "curp": "GUCS851203MMNZRN01",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-10-31T12:11:10Z",
+    "finCargo": "2024-08-31",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "id": "CIY6SOW2",
+    "inicioCargo": "2021-09-10",
+    "institucionDependencia": {
+      "clave": "020",
+      "nombre": "Honorable Ayuntamiento de Cuitzeo",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "SANDRA",
+    "observaciones": "",
+    "primerApellido": "GUZMAN",
+    "puesto": {
+      "nivel": "PRIMER NIVEL",
+      "nombre": "REGIDORA"
+    },
+    "ramo": {
+      "clave": 6,
+      "valor": "ECONOMIA"
+    },
+    "rfc": "GUCS851203JI5",
+    "segundoApellido": "CORNEJO",
+    "superiorInmediato": {
+      "curp": "MIPR790507MMNLNS07",
+      "nombres": "ROSA ELIA ",
+      "primerApellido": "MILAN",
+      "puesto": {
+        "nivel": "PRESIDENTA",
+        "nombre": "PRESIDENTA MUNICIPAL"
+      },
+      "rfc": "MIPR790507PQ4",
+      "segundoApellido": "PINTOR"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "curp": "PAEM660904MMNRLN06",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-11-03T08:44:37Z",
+    "finCargo": "2024-08-31",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "id": "XIW9GOY8",
+    "inicioCargo": "2022-06-03",
+    "institucionDependencia": {
+      "clave": "020",
+      "nombre": "Honorable Ayuntamiento de Cuitzeo",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "MA. CONSUELO",
+    "observaciones": "",
+    "primerApellido": "PEREZ",
+    "puesto": {
+      "nivel": "DIRECTOR",
+      "nombre": "DIRECTORA DE FOMENTO ECONOMICO"
+    },
+    "ramo": {
+      "clave": 2,
+      "valor": "BIENESTAR"
+    },
+    "rfc": "PAEM660904TC0",
+    "segundoApellido": "ALCANTAR",
+    "superiorInmediato": {
+      "curp": "MIPR790507MMNLNS07",
+      "nombres": "ROSA ELIA",
+      "primerApellido": "MILAN",
+      "puesto": {
+        "nivel": "PRESIDENTA",
+        "nombre": "PRESIDENTA"
+      },
+      "rfc": "MIPR790507PQ4",
+      "segundoApellido": "PINTOR"
+    },
+    "tipoArea": [
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      },
+      {
+        "clave": 5,
+        "valor": "OTRO"
+      }
+    ]
+  },
+  {
+    "curp": "VELO980127HGTGZS02",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-10-31T12:25:51Z",
+    "finCargo": "2024-08-31",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "id": "TUP3WUB3",
+    "inicioCargo": "2022-06-01",
+    "institucionDependencia": {
+      "clave": "020",
+      "nombre": "Honorable Ayuntamiento de Cuitzeo",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "OSCAR",
+    "observaciones": "",
+    "primerApellido": "VEGA",
+    "puesto": {
+      "nivel": "DIRECTOR ",
+      "nombre": "DIRECTOR DE TURISMO Y CULTURA"
+    },
+    "ramo": {
+      "clave": 2,
+      "valor": "BIENESTAR"
+    },
+    "rfc": "VELO980127IH0",
+    "segundoApellido": "LAZARO",
+    "superiorInmediato": {
+      "curp": "MIPR790507MMNLNS07",
+      "nombres": "ROSA ELIA",
+      "primerApellido": "MILAN",
+      "puesto": {
+        "nivel": "PRESIDENTA ",
+        "nombre": "PRESIDENTA"
+      },
+      "rfc": "MIPR790507PQ4",
+      "segundoApellido": "PINTOR"
+    },
+    "tipoArea": [
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "curp": "PIGM910916MMNNYR01",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-10-31T12:11:59Z",
+    "finCargo": "2024-08-31",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "id": "JIB9ZAV2",
+    "inicioCargo": "2021-09-10",
+    "institucionDependencia": {
+      "clave": "020",
+      "nombre": "Honorable Ayuntamiento de Cuitzeo",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "MARISOL",
+    "observaciones": "",
+    "primerApellido": "PINTOR ",
+    "puesto": {
+      "nivel": "PRIMER NIVEL",
+      "nombre": "REGIDOR"
+    },
+    "ramo": {
+      "clave": 6,
+      "valor": "ECONOMIA"
+    },
+    "rfc": "PIGM9109164Q0",
+    "segundoApellido": "GAYTAN",
+    "superiorInmediato": {
+      "curp": "MIPR790507MMNLNS07",
+      "nombres": "ROSA ELIA ",
+      "primerApellido": "MILAN ",
+      "puesto": {
+        "nivel": "PRESIDENTA ",
+        "nombre": "PRESIDENTA MUNICIPAL"
+      },
+      "rfc": "MIPR790507PQ4",
+      "segundoApellido": "PINTOR"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "curp": "AAOS880608MMNNRM00",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-11-03T16:09:57Z",
+    "finCargo": "2024-08-31",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "id": "JEY1TIP3",
+    "inicioCargo": "2022-09-01",
+    "institucionDependencia": {
+      "clave": "020",
+      "nombre": "Honorable Ayuntamiento de Cuitzeo",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "SAMAYRA",
+    "observaciones": "",
+    "primerApellido": "ANDRADE",
+    "puesto": {
+      "nivel": "DIRECTOR",
+      "nombre": "DIRECTORA DE PROTECCION CIVIL"
+    },
+    "ramo": {
+      "clave": 5,
+      "valor": "INFRA-ESTRUCTURA"
+    },
+    "rfc": "AAOS880608PJ9",
+    "segundoApellido": "ORTIZ",
+    "superiorInmediato": {
+      "curp": "MIPR790507MMNLNS07",
+      "nombres": "ROSA ELÍA",
+      "primerApellido": "MILAN",
+      "puesto": {
+        "nivel": "PRESIDENTA",
+        "nombre": "PRESIDENTA"
+      },
+      "rfc": "MIPR790507PQ4",
+      "segundoApellido": "PINTOR"
+    },
+    "tipoArea": [
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      },
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      },
+      {
+        "clave": 5,
+        "valor": "OTRO"
+      }
+    ]
+  },
+  {
+    "curp": "CASF960902HMNHRR05",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-10-31T12:20:52Z",
+    "finCargo": "2024-08-31",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "id": "KEQ8BAT4",
+    "inicioCargo": "2022-04-08",
+    "institucionDependencia": {
+      "clave": "020",
+      "nombre": "Honorable Ayuntamiento de Cuitzeo",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "FRANCISCO ",
+    "observaciones": "",
+    "primerApellido": "CHACON",
+    "puesto": {
+      "nivel": "SINDICO",
+      "nombre": "SINDICO "
+    },
+    "ramo": {
+      "clave": 5,
+      "valor": "INFRA-ESTRUCTURA"
+    },
+    "rfc": "CASF960902NI4",
+    "segundoApellido": "SUAREZ",
+    "superiorInmediato": {
+      "curp": "MIPR790507MMNLNS07",
+      "nombres": "ROSA ELIA",
+      "primerApellido": "MILAN ",
+      "puesto": {
+        "nivel": "PRESIDENTA",
+        "nombre": "PRESIDENTA"
+      },
+      "rfc": "MIPR790507PQ4",
+      "segundoApellido": "PINTOR"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      },
+      {
+        "clave": 4,
+        "valor": "ASIGNACIÓN Y EMISION DE DICTAMENES DE AVALÚOS NACIONALES"
+      },
+      {
+        "clave": 5,
+        "valor": "OTRO"
+      }
+    ]
+  },
+  {
+    "curp": "MOAL980807HGTRLS04",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-10-31T12:32:45Z",
+    "finCargo": "2024-08-31",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "id": "YEH7WIS4",
+    "inicioCargo": "2022-05-01",
+    "institucionDependencia": {
+      "clave": "020",
+      "nombre": "Honorable Ayuntamiento de Cuitzeo",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "LUIS EDUARDO",
+    "observaciones": "",
+    "primerApellido": "MORENO",
+    "puesto": {
+      "nivel": "DIRECTOR",
+      "nombre": "DIRECTOR DE SALUD PUBLICA "
+    },
+    "ramo": {
+      "clave": 2,
+      "valor": "BIENESTAR"
+    },
+    "rfc": "MOAL980807TE9",
+    "segundoApellido": "ALEJO",
+    "superiorInmediato": {
+      "curp": "MIPR790507MMNLNS07",
+      "nombres": "ROSA ELIA",
+      "primerApellido": "MILAN",
+      "puesto": {
+        "nivel": "PRESIDENTA",
+        "nombre": "PRESIDENTA"
+      },
+      "rfc": "MIPR790507PQ4",
+      "segundoApellido": "PINTOR"
+    },
+    "tipoArea": [
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "curp": "CACE940518HMNSRD03",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-11-03T08:50:07Z",
+    "finCargo": "2024-08-31",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "id": "ZEF4KUR7",
+    "inicioCargo": "2022-05-15",
+    "institucionDependencia": {
+      "clave": "020",
+      "nombre": "Honorable Ayuntamiento de Cuitzeo",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "EDUARDO ",
+    "observaciones": "",
+    "primerApellido": "CASTRO ",
+    "puesto": {
+      "nivel": "DIRECTOR",
+      "nombre": "DIRECTOR DE SERVICIOS PUBLICOS MUNICIPALES"
+    },
+    "ramo": {
+      "clave": 5,
+      "valor": "INFRA-ESTRUCTURA"
+    },
+    "rfc": "CACE940518E94",
+    "segundoApellido": "CRUZ",
+    "superiorInmediato": {
+      "curp": "CAPJ970701HMNSNL02",
+      "nombres": "JULIO CESAR",
+      "primerApellido": "CASTRO",
+      "puesto": {
+        "nivel": "OF. MAYOR",
+        "nombre": "OFICIAL MAYOR"
+      },
+      "rfc": "CAPJ970701736",
+      "segundoApellido": "PÍNTOR"
+    },
+    "tipoArea": [
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      },
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      },
+      {
+        "clave": 5,
+        "valor": "OTRO"
+      }
+    ]
+  },
+  {
+    "curp": "RECJ930512HMNYRV02",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-11-03T15:42:17Z",
+    "finCargo": "2024-08-31",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "id": "MUY4NUQ3",
+    "inicioCargo": "2022-05-01",
+    "institucionDependencia": {
+      "clave": "020",
+      "nombre": "Honorable Ayuntamiento de Cuitzeo",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "JAVIER",
+    "observaciones": "",
+    "primerApellido": "REYES",
+    "puesto": {
+      "nivel": "DIRECTOR ",
+      "nombre": "DIRECTOR DE DESARROLLO SOCIAL"
+    },
+    "ramo": {
+      "clave": 2,
+      "valor": "BIENESTAR"
+    },
+    "rfc": "RECJ930512H46",
+    "segundoApellido": "CRUZ",
+    "superiorInmediato": {
+      "curp": "MIPR790507MMNLNS07",
+      "nombres": "ROSA ELIA",
+      "primerApellido": "MILAN",
+      "puesto": {
+        "nivel": "PRESIDENTA",
+        "nombre": "PRESIDENTA"
+      },
+      "rfc": "MIPR790507PQ4",
+      "segundoApellido": "PINTOR"
+    },
+    "tipoArea": [
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "curp": "PERA791125MMNRCN08",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-11-03T15:46:07Z",
+    "finCargo": "2024-08-31",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "id": "ROR4KEB5",
+    "inicioCargo": "2022-01-01",
+    "institucionDependencia": {
+      "clave": "020",
+      "nombre": "Honorable Ayuntamiento de Cuitzeo",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "ANA ADRIANA",
+    "observaciones": "",
+    "primerApellido": "PEREZ",
+    "puesto": {
+      "nivel": "CONTRALORA",
+      "nombre": "CONTRALORA"
+    },
+    "ramo": {
+      "clave": 6,
+      "valor": "ECONOMIA"
+    },
+    "rfc": "PERA791125F4A",
+    "segundoApellido": "RICO",
+    "superiorInmediato": {
+      "curp": "MIPR790507MMNLNS07",
+      "nombres": "ROSA ELÍA",
+      "primerApellido": "MILÁN",
+      "puesto": {
+        "nivel": "PRESIDENTA",
+        "nombre": "PRESIDENTA"
+      },
+      "rfc": "MIPR790507PQ4",
+      "segundoApellido": "PINTOR"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      },
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      },
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      },
+      {
+        "clave": 5,
+        "valor": "OTRO"
+      }
+    ]
+  },
+  {
+    "curp": "EOPL900113MMNSLT01",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-11-03T16:08:27Z",
+    "finCargo": "2024-08-31",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "id": "MAZ3FOD7",
+    "inicioCargo": "2022-10-27",
+    "institucionDependencia": {
+      "clave": "020",
+      "nombre": "Honorable Ayuntamiento de Cuitzeo",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "LETICIA",
+    "observaciones": "",
+    "primerApellido": "ESCOBEDO",
+    "puesto": {
+      "nivel": "DIRECTOR",
+      "nombre": "DIRECTORA DEL DIF"
+    },
+    "ramo": {
+      "clave": 2,
+      "valor": "BIENESTAR"
+    },
+    "rfc": "EOPL9001136W0",
+    "segundoApellido": "PALMEÑO",
+    "superiorInmediato": {
+      "curp": "MIPR790507MMNLNS07",
+      "nombres": "ROSA ELÍA",
+      "primerApellido": "MILAN",
+      "puesto": {
+        "nivel": "PRESIDENTA",
+        "nombre": "PRESIDENTA"
+      },
+      "rfc": "MIPR790507PQ4",
+      "segundoApellido": "PINTOR"
+    },
+    "tipoArea": [
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      },
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      },
+      {
+        "clave": 5,
+        "valor": "OTRO"
+      }
+    ]
+  },
+  {
+    "curp": "CUOD971221MMNRNN03",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-11-03T15:52:24Z",
+    "finCargo": "2024-08-31",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "id": "ZOK1CUJ6",
+    "inicioCargo": "2022-07-07",
+    "institucionDependencia": {
+      "clave": "020",
+      "nombre": "Honorable Ayuntamiento de Cuitzeo",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "DIANA MONTSERRAT ",
+    "observaciones": "",
+    "primerApellido": "CRUZ",
+    "puesto": {
+      "nivel": "DIRECTOR",
+      "nombre": "DIRECTORA ACCESO A LA INFORMACION Y TRANSPARENCIA"
+    },
+    "ramo": {
+      "clave": 6,
+      "valor": "ECONOMIA"
+    },
+    "rfc": "CUOD971221C21",
+    "segundoApellido": "ONOFRE",
+    "superiorInmediato": {
+      "curp": "MIPR790507MMNLNS07",
+      "nombres": "ROSA ELÍA",
+      "primerApellido": "MILAN",
+      "puesto": {
+        "nivel": "PRESIDENTA",
+        "nombre": "PRESIDENTA"
+      },
+      "rfc": "MIPR790507PQ4",
+      "segundoApellido": "PINTOR"
+    },
+    "tipoArea": [
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      },
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      },
+      {
+        "clave": 5,
+        "valor": "OTRO"
+      }
+    ]
+  },
+  {
+    "curp": "IOSV960222MMNNNC02",
+    "ejercicioFiscal": "2022",
+    "fechaCaptura": "2022-11-03T15:58:14Z",
+    "finCargo": "2024-08-31",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "id": "FOC1HIH3",
+    "inicioCargo": "2022-09-01",
+    "institucionDependencia": {
+      "clave": "020",
+      "nombre": "Honorable Ayuntamiento de Cuitzeo",
+      "siglas": "--"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "nombres": "VAICELIA MADELEYN",
+    "observaciones": "",
+    "primerApellido": "INOCENCIO",
+    "puesto": {
+      "nivel": "DIRECTOR",
+      "nombre": "DIRECTORA DE JURIDICO"
+    },
+    "ramo": {
+      "clave": 6,
+      "valor": "ECONOMIA"
+    },
+    "rfc": "IOSV960222549",
+    "segundoApellido": "SANTACRUZ",
+    "superiorInmediato": {
+      "curp": "MIPR790507MMNLNS07",
+      "nombres": "ROSA ELÍA",
+      "primerApellido": "MILAN",
+      "puesto": {
+        "nivel": "PRESIDENTA",
+        "nombre": "PRESIDENTA"
+      },
+      "rfc": "MIPR790507PQ4",
+      "segundoApellido": "PINTOR"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      },
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      },
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      },
+      {
+        "clave": 5,
+        "valor": "OTRO"
+      }
+    ]
+  }
+]

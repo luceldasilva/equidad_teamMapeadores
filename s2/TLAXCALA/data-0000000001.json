@@ -1,0 +1,314 @@
+[
+  {
+    "id": "220",
+    "fechaCaptura": "2022-01-25T06:00:00Z",
+    "ejercicioFiscal": "2022",
+    "periodoEjercicio": {
+      "fechaInicial": "2021-12-31",
+      "fechaFinal": "2022-12-30"
+    },
+    "ramo": {
+      "clave": 4,
+      "valor": "OBRAS PUBLICAS"
+    },
+    "rfc": "FOLM720720MW1",
+    "curp": "FOLM720720MTLLZR03",
+    "nombres": "MARIA MARGARITA",
+    "primerApellido": "FLORES",
+    "segundoApellido": "LEZAMA",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA EJECUTIVA DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE TLAXCALA",
+      "siglas": "SESAET",
+      "clave": "71"
+    },
+    "puesto": {
+      "nombre": "JEFE DEPARTAMENTO ADMINISTRACIÓN Y FINANZAS",
+      "nivel": "3"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      },
+      {
+        "clave": "RE",
+        "valor": "RESONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      },
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "JULIO",
+      "primerApellido": "CAPORAL",
+      "segundoApellido": "FLORES",
+      "curp": "CAFJ710314HTLPLL00",
+      "rfc": "CAFJ710314BFA",
+      "puesto": {
+        "nombre": "SECRETARIO TÉCNICO",
+        "nivel": "2"
+      }
+    }
+  },
+  {
+    "id": "221",
+    "fechaCaptura": "2022-01-25T06:00:00Z",
+    "ejercicioFiscal": "2022",
+    "periodoEjercicio": {
+      "fechaInicial": "2021-12-31",
+      "fechaFinal": "2022-12-30"
+    },
+    "ramo": {
+      "clave": 4,
+      "valor": "OBRAS PUBLICAS"
+    },
+    "rfc": "CAFJ710314BFA",
+    "curp": "CAFJ710314HTLPLL00",
+    "nombres": "JULIO",
+    "primerApellido": "CAPORAL",
+    "segundoApellido": "FLORES",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA EJECUTIVA DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE TLAXCALA",
+      "siglas": "SESAET",
+      "clave": "71"
+    },
+    "puesto": {
+      "nombre": "SECRETARIO TÉCNICO",
+      "nivel": "2"
+    },
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "",
+      "primerApellido": "",
+      "segundoApellido": "",
+      "curp": "",
+      "rfc": "",
+      "puesto": {
+        "nombre": "",
+        "nivel": ""
+      }
+    }
+  },
+  {
+    "id": "222",
+    "fechaCaptura": "2022-01-25T06:00:00Z",
+    "ejercicioFiscal": "2022",
+    "periodoEjercicio": {
+      "fechaInicial": "2021-12-31",
+      "fechaFinal": "2022-12-30"
+    },
+    "ramo": {
+      "clave": 4,
+      "valor": "OBRAS PUBLICAS"
+    },
+    "rfc": "EEVC720707938",
+    "curp": "EEVC720707HTLSLR09",
+    "nombres": "CIRILO ROSALIO ",
+    "primerApellido": "ESPEJEL",
+    "segundoApellido": "VELAZCO",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA EJECUTIVA DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE TLAXCALA",
+      "siglas": "SESAET",
+      "clave": "71"
+    },
+    "puesto": {
+      "nombre": "JEFE DEPARTAMENTO ORGANO INTERNO DE CONTROL",
+      "nivel": "3"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "JULIO",
+      "primerApellido": "CAPORAL",
+      "segundoApellido": "FLORES",
+      "curp": "CAFJ710314HTLPLL00",
+      "rfc": "CAFJ710314BFA",
+      "puesto": {
+        "nombre": "SECRETARIO TÉCNICO",
+        "nivel": "2"
+      }
+    }
+  },
+  {
+    "id": "223",
+    "fechaCaptura": "2022-01-25T06:00:00Z",
+    "ejercicioFiscal": "2022",
+    "periodoEjercicio": {
+      "fechaInicial": "2021-12-31",
+      "fechaFinal": "2022-12-30"
+    },
+    "ramo": {
+      "clave": 4,
+      "valor": "OBRAS PUBLICAS"
+    },
+    "rfc": "PERL911125H70",
+    "curp": "PERL911125HTLRMS07",
+    "nombres": "LUIS ERNESTO",
+    "primerApellido": "PEREZ",
+    "segundoApellido": "RAMIREZ",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA EJECUTIVA DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE TLAXCALA",
+      "siglas": "SESAET",
+      "clave": "71"
+    },
+    "puesto": {
+      "nombre": "JEFE DEPARTAMENTO COMUNICACIÓN Y VINCULACIÓN SOCIAL",
+      "nivel": "3"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "JULIO",
+      "primerApellido": "CAPORAL",
+      "segundoApellido": "FLORES",
+      "curp": "CAFJ710314HTLPLL00",
+      "rfc": "CAFJ710314BFA",
+      "puesto": {
+        "nombre": "SECRETARIO TÉCNICO",
+        "nivel": "2"
+      }
+    }
+  },
+  {
+    "id": "224",
+    "fechaCaptura": "2022-01-25T06:00:00Z",
+    "ejercicioFiscal": "2022",
+    "periodoEjercicio": {
+      "fechaInicial": "2021-12-31",
+      "fechaFinal": "2022-12-30"
+    },
+    "ramo": {
+      "clave": 4,
+      "valor": "OBRAS PUBLICAS"
+    },
+    "rfc": "RAGJ870128QL6",
+    "curp": "RAGJ870128HTLMNN06",
+    "nombres": "JUAN FERNANDO",
+    "primerApellido": "RAMOS",
+    "segundoApellido": "GONZALEZ",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARIA EJECUTIVA DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE TLAXCALA",
+      "siglas": "SESAET",
+      "clave": "71"
+    },
+    "puesto": {
+      "nombre": "JEFE OFICINA RECURSOS MATERIALES Y SERVICIOS GENERALES",
+      "nivel": "4"
+    },
+    "tipoArea": [
+      {
+        "clave": "RE",
+        "valor": "RESONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARIA MARGARITA",
+      "primerApellido": "FLORES",
+      "segundoApellido": "LEZAMA",
+      "curp": "FOLM720720MTLLZR03",
+      "rfc": "FOLM720720MW1",
+      "puesto": {
+        "nombre": "JEFE DEPARTAMENTO ADMINISTRACIÓN Y FINANZAS",
+        "nivel": "3"
+      }
+    }
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "id": "63851e0121744e0019fcf266",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "PRESIDENTE MUNICIPAL"
+      },
+      "nombres": "JESUS PABLO",
+      "primerApellido": "LEMUS",
+      "segundoApellido": "NAVARRO"
+    },
+    "nombres": "MARIA LORENA",
+    "primerApellido": "GOMEZ HARO",
+    "segundoApellido": "PLANELL",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T20:45:53+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63851e3721744e0019fcf279",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "ENLACE ADMINISTRATIVO"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTORA"
+      },
+      "nombres": "MARIA LORENA",
+      "primerApellido": "GOMEZ HARO",
+      "segundoApellido": "PLANELL"
+    },
+    "nombres": "MARIA CONCEPCION",
+    "primerApellido": "NERIA",
+    "segundoApellido": "CRUZ",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [],
+    "fechaCaptura": "2022-11-28T20:46:47+00:00",
+    "__v": 0
+  },
+  {
+    "id": "638636eb21744e0019fcf29e",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR GENERAL"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "PRESIDENTE MUNICIPAL"
+      },
+      "nombres": "JESUS PABLO",
+      "primerApellido": "LEMUS",
+      "segundoApellido": "NAVARRO"
+    },
+    "nombres": "RAFAEL",
+    "primerApellido": "ORENDAIN",
+    "segundoApellido": "PARRA",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-29T16:44:27+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6386371f21744e0019fcf2b1",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "ENLACE ADMINISTRATIVO"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "RAFAEL",
+      "primerApellido": "ORENDAIN",
+      "segundoApellido": "PARRA"
+    },
+    "nombres": "ESTHEPANIE VIRIDIANA",
+    "primerApellido": "CARRILLO",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-29T16:45:19+00:00",
+    "__v": 0
+  }
+]

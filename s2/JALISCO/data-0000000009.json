@@ -1,0 +1,5368 @@
+[
+  {
+    "id": "631a0cb699226c00195bb970",
+    "institucionDependencia": {
+      "nombre": "Universidad  Politécnica de la Zona Metropolitana"
+    },
+    "puesto": {
+      "nombre": "DIR DE TERAPIA FISICA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "GABRIELA ",
+    "primerApellido": "ALVAREZ",
+    "segundoApellido": "PULIDO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:39:34+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0ced99226c00195bb98a",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Enc  Coor de Infra y Mant"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Yasser Salvador       ",
+    "primerApellido": "Alcalá ",
+    "segundoApellido": "Delgado   ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:40:29+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0cf499226c00195bb996",
+    "institucionDependencia": {
+      "nombre": "Universidad  Politécnica de la Zona Metropolitana"
+    },
+    "puesto": {
+      "nombre": "SECRETARIO ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CARLOS MANUEL",
+    "primerApellido": "OROZCO ",
+    "segundoApellido": "SANTILLA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:40:36+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0d1299226c00195bb9b0",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "InspectorGral. Reclusorio"
+    },
+    "nombres": "Gustavo ",
+    "primerApellido": "Solano ",
+    "segundoApellido": "López",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:41:06+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0d3699226c00195bb9bc",
+    "institucionDependencia": {
+      "nombre": "Universidad  Politécnica de la Zona Metropolitana"
+    },
+    "puesto": {
+      "nombre": "DIR CARRERA DE INGENIERIA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ABEL ISAÍ",
+    "primerApellido": "SÁNCHEZ ",
+    "segundoApellido": "NÁJERA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:41:42+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0d4399226c00195bb9cf",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "COM. COOR GRAL PLAN OPE"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Violeta       ",
+    "primerApellido": "Castillo  ",
+    "segundoApellido": "Saldivar",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:41:55+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0d7699226c00195bb9e2",
+    "institucionDependencia": {
+      "nombre": "Unidad Estatal de Protección Civil y Bomberos"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR GENERAL"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "VÍCTOR HUGO",
+    "primerApellido": "ROLDÁN ",
+    "segundoApellido": "GUERRERO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:42:46+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0da099226c00195bb9fc",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Analista  Sistemas B"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Verónica          ",
+    "primerApellido": "Ramírez    ",
+    "segundoApellido": "Ponzio",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:43:28+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0da599226c00195bba08",
+    "institucionDependencia": {
+      "nombre": "Unidad Estatal de Protección Civil y Bomberos"
+    },
+    "puesto": {
+      "nombre": "OFICIAL OPERATIVO MEDICO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "TONATIUH",
+    "primerApellido": "ROJAS ",
+    "segundoApellido": "MARTINEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:43:33+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0dce99226c00195bba22",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Dir. Gestión y Planeación"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Irma Leticia",
+    "primerApellido": " Martínez ",
+    "segundoApellido": "Espinoza",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:44:14+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0de999226c00195bba35",
+    "institucionDependencia": {
+      "nombre": "Unidad Estatal de Protección Civil y Bomberos"
+    },
+    "puesto": {
+      "nombre": "Primer Comandante"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Oswaldo Nicolas",
+    "primerApellido": "Hernández ",
+    "segundoApellido": "Arvizu",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:44:41+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0e1b99226c00195bba41",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "COOR REC FED DE LA DG  RH"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Susana Cristina   ",
+    "primerApellido": "  Peña  Muro",
+    "segundoApellido": "Muro",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:45:31+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0e1b99226c00195bba48",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Encargado de Coord. Alime"
+    },
+    "nombres": "Ismael ",
+    "primerApellido": "López ",
+    "segundoApellido": "Gutiérrez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:45:31+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0e6199226c00195bba67",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "ENC. COOR ADQ"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Sinhue Mauricio     ",
+    "primerApellido": "Gutíerrez",
+    "segundoApellido": " López",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:46:41+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0e6899226c00195bba7a",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Coor. R Financieros"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "IVETTE CAROLINA     ",
+    "primerApellido": "VALVERDE ",
+    "segundoApellido": "OROZCO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:46:48+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0e9b99226c00195bba94",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Inspector de Centro"
+    },
+    "nombres": "Jairo Mario",
+    "primerApellido": "Márquez",
+    "segundoApellido": "Barbosa",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:47:39+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0eaa99226c00195bbaa7",
+    "institucionDependencia": {
+      "nombre": "Unidad Estatal de Protección Civil y Bomberos"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE OPERACIONES"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "OSVALDO",
+    "primerApellido": "MARTINEZ ",
+    "segundoApellido": "ZAVALA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:47:54+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0ec699226c00195bbaba",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "ENC DIR ALMACENAMIENTO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Sergio       ",
+    "primerApellido": "Barajas    ",
+    "segundoApellido": " Arellano ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:48:22+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0ef399226c00195bbacd",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Coor. de Informática "
+    },
+    "nombres": "Javier",
+    "primerApellido": "Ornelas",
+    "segundoApellido": "Virgen",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:49:07+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0efc99226c00195bbad9",
+    "institucionDependencia": {
+      "nombre": "Unidad Estatal de Protección Civil y Bomberos"
+    },
+    "puesto": {
+      "nombre": "Segundo Comandante"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Oscar Javier",
+    "primerApellido": "Gómez ",
+    "segundoApellido": "Santacruz",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:49:16+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0f2c99226c00195bbaf3",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "DIR CTRO INT JUV  EDO JAL"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Salvador ",
+    "primerApellido": "Zavala",
+    "segundoApellido": " Napoles",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:50:04+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0f2f99226c00195bbaff",
+    "institucionDependencia": {
+      "nombre": "Unidad Estatal de Protección Civil y Bomberos"
+    },
+    "puesto": {
+      "nombre": "Primer Comandante"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Nicolás ",
+    "primerApellido": "Mendoza ",
+    "segundoApellido": "Longinos",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:50:07+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0f3e99226c00195bbb12",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Coor. Especializado "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Jesús Abraham ",
+    "primerApellido": "Gutiérrez ",
+    "segundoApellido": "Guerrero",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:50:22+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0f5f99226c00195bbb25",
+    "institucionDependencia": {
+      "nombre": "Unidad Estatal de Protección Civil y Bomberos"
+    },
+    "puesto": {
+      "nombre": "Primer Comandante"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Neftali ",
+    "primerApellido": "Guillen ",
+    "segundoApellido": "Patiño",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:50:55+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0f7799226c00195bbb3f",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Dir. Jurídico"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Joel",
+    "primerApellido": "Castillo",
+    "segundoApellido": "Castellanos",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:51:19+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0fa499226c00195bbb52",
+    "institucionDependencia": {
+      "nombre": "Unidad Estatal de Protección Civil y Bomberos"
+    },
+    "puesto": {
+      "nombre": "capacitador"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Maria Del Carmen",
+    "primerApellido": "Guerrero",
+    "segundoApellido": "Muñoz",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:52:04+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0fa499226c00195bbb59",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Sub Dir. Administrativo"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Jorge Antonio ",
+    "primerApellido": "Ávalos ",
+    "segundoApellido": "López",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:52:04+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0fbe99226c00195bbb71",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Encde la Sub Dir Op"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Rubén ",
+    "primerApellido": "Jiménez ",
+    "segundoApellido": "Ramírez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:52:30+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a102099226c00195bbb8b",
+    "institucionDependencia": {
+      "nombre": "Unidad Estatal de Protección Civil y Bomberos"
+    },
+    "puesto": {
+      "nombre": "JEFE MONITOREO FENOMENOS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MAGDIEL ",
+    "primerApellido": "CARRASCO  ",
+    "segundoApellido": "DIAZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:54:08+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a104799226c00195bbb9e",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Dir. Tecnologías de Infor"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Jorge Eduardo ",
+    "primerApellido": "Álvarez Manilla ",
+    "segundoApellido": "Ramírez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:54:47+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a105a99226c00195bbbb1",
+    "institucionDependencia": {
+      "nombre": "Unidad Estatal de Protección Civil y Bomberos"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR ADMIN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Luis Antonio",
+    "primerApellido": "González ",
+    "segundoApellido": "Hernández",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:55:06+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a106999226c00195bbbc4",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "SUB DIR AD INT AU D NA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Rosa Leticia ",
+    "primerApellido": "Alatorre ",
+    "segundoApellido": "Villalvazo",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:55:21+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a109b99226c00195bbbd7",
+    "institucionDependencia": {
+      "nombre": "Unidad Estatal de Protección Civil y Bomberos"
+    },
+    "puesto": {
+      "nombre": "Coordinador de vigilancia"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Juan Pablo",
+    "primerApellido": "Velázquez ",
+    "segundoApellido": "Lara",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:56:11+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a10c899226c00195bbbea",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Dir. Gral. Reinserción"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "José  Antonio ",
+    "primerApellido": "Pérez ",
+    "segundoApellido": "Juárez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:56:56+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a10cd99226c00195bbbf6",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "ENC COOR TRANSPORTES"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Roman ",
+    "primerApellido": " Ruiz",
+    "segundoApellido": " Jiménez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:57:01+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a10d999226c00195bbc10",
+    "institucionDependencia": {
+      "nombre": "Unidad Estatal de Protección Civil y Bomberos"
+    },
+    "puesto": {
+      "nombre": "Asistente adquisiciones"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Juan José",
+    "primerApellido": "De la Cruz",
+    "segundoApellido": "García",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:57:13+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a110699226c00195bbc23",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Inspector Centro Integral"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "José Antonio ",
+    "primerApellido": "Sandoval ",
+    "segundoApellido": "Torres",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:57:58+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a110c99226c00195bbc36",
+    "institucionDependencia": {
+      "nombre": "Unidad Estatal de Protección Civil y Bomberos"
+    },
+    "puesto": {
+      "nombre": "Primer Comandante"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "José Manuel",
+    "primerApellido": "Martínez ",
+    "segundoApellido": "Murillo",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:58:04+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a111a99226c00195bbc42",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Coor de Informática B"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Rodrigo       ",
+    "primerApellido": " Gálvez  ",
+    "segundoApellido": " Martínez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:58:18+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a113e99226c00195bbc59",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Comisario de Sentenciados"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "José de Jesús         ",
+    "primerApellido": "Mendoza ",
+    "segundoApellido": "Rico",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:58:54+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a115199226c00195bbc6c",
+    "institucionDependencia": {
+      "nombre": "Unidad Estatal de Protección Civil y Bomberos"
+    },
+    "puesto": {
+      "nombre": "Segundo Comandante"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "José Manuel",
+    "primerApellido": "Becerra ",
+    "segundoApellido": "Cruz",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:59:13+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a117f99226c00195bbc7f",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Encargado de Almacén"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "José de Jesús ",
+    "primerApellido": "Escobedo ",
+    "segundoApellido": "Covarrubias",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:59:59+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a119599226c00195bbc9b",
+    "institucionDependencia": {
+      "nombre": "Unidad Estatal de Protección Civil y Bomberos"
+    },
+    "puesto": {
+      "nombre": "SEGUNDO OFICIAL "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSE ARMANDO",
+    "primerApellido": "GUTIERREZ ",
+    "segundoApellido": "GALAN",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:00:21+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a11c399226c00195bbcae",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Encargado Coor. Salud"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "José de Jesús",
+    "primerApellido": "Lara",
+    "segundoApellido": "Lara",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:01:07+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a11da99226c00195bbcc1",
+    "institucionDependencia": {
+      "nombre": "Unidad Estatal de Protección Civil y Bomberos"
+    },
+    "puesto": {
+      "nombre": "Primer Comandante"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "José Alfredo ",
+    "primerApellido": "Hernández ",
+    "segundoApellido": "Rodríguez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:01:30+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a120b99226c00195bbcd4",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Encargado Sub. Dir. Admi"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "José Luis ",
+    "primerApellido": "Olivas       ",
+    "segundoApellido": "Trujillo",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:02:19+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a122199226c00195bbce7",
+    "institucionDependencia": {
+      "nombre": "Unidad Estatal de Protección Civil y Bomberos"
+    },
+    "puesto": {
+      "nombre": "ENCARGADO COORD. JURÍDICA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JORGE ARTURO",
+    "primerApellido": "LOPEZ ",
+    "segundoApellido": "ORTIZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:02:41+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a124d99226c00195bbcfa",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Coor. de Información B"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "José Manuel ",
+    "primerApellido": "De Alba ",
+    "segundoApellido": "Castañeda",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:03:25+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a127799226c00195bbd0d",
+    "institucionDependencia": {
+      "nombre": "Unidad Estatal de Protección Civil y Bomberos"
+    },
+    "puesto": {
+      "nombre": "DIR EVALUACIÓN "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JAVIER ALAIN",
+    "primerApellido": "LEON ",
+    "segundoApellido": "CERVANTES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:04:07+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a128499226c00195bbd19",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Encargada de Coordinación"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Karina Elizabeth    ",
+    "primerApellido": " Parra  ",
+    "segundoApellido": "Beltrán   ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:04:20+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a12cd99226c00195bbd33",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Encargada de Dir. Tec."
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Karina Guadalupe      ",
+    "primerApellido": "De la Cruz ",
+    "segundoApellido": "Murillo ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:05:33+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a12e099226c00195bbd46",
+    "institucionDependencia": {
+      "nombre": "Unidad Estatal de Protección Civil y Bomberos"
+    },
+    "puesto": {
+      "nombre": "Primer Comandante"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "J. Jesús",
+    "primerApellido": "Ávila ",
+    "segundoApellido": "Gutiérrez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:05:52+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a12ff99226c00195bbd59",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Sub Dir. Administrativo"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Karla Lorena   ",
+    "primerApellido": " Aguilar  ",
+    "segundoApellido": "De la Cruz",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:06:23+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a131699226c00195bbd6c",
+    "institucionDependencia": {
+      "nombre": "Unidad Estatal de Protección Civil y Bomberos"
+    },
+    "puesto": {
+      "nombre": "Segundo Comandante"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Hugo Samuel",
+    "primerApellido": "Flores ",
+    "segundoApellido": "Hermosillo",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:06:46+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a134599226c00195bbd7f",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Dir. Administrativo"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Lazaro ",
+    "primerApellido": "Salas ",
+    "segundoApellido": "Ramírez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:07:33+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a137799226c00195bbd92",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Coordinador Especializado"
+    },
+    "nombres": "Leonardo ",
+    "primerApellido": "Huerta ",
+    "segundoApellido": "Barragan",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:08:23+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a137999226c00195bbd9e",
+    "institucionDependencia": {
+      "nombre": "Unidad Estatal de Protección Civil y Bomberos"
+    },
+    "puesto": {
+      "nombre": "Segundo Comandante"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Filiberto ",
+    "primerApellido": "González ",
+    "segundoApellido": "Basulto",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:08:25+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a13a399226c00195bbdb8",
+    "institucionDependencia": {
+      "nombre": "Unidad Estatal de Protección Civil y Bomberos"
+    },
+    "puesto": {
+      "nombre": "Coordinador de Logistica"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Fernando ",
+    "primerApellido": "Rodríguez",
+    "segundoApellido": "Morales",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:09:07+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a13bc99226c00195bbdcb",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Coordinador B"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Lorena Ilda ",
+    "primerApellido": "Hernández ",
+    "segundoApellido": "Cuevas",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:09:32+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a13d299226c00195bbdd7",
+    "institucionDependencia": {
+      "nombre": "Unidad Estatal de Protección Civil y Bomberos"
+    },
+    "puesto": {
+      "nombre": "Segundo Comandante"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Federico ",
+    "primerApellido": "García ",
+    "segundoApellido": "García ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:09:54+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a141c99226c00195bbdf3",
+    "institucionDependencia": {
+      "nombre": "Unidad Estatal de Protección Civil y Bomberos"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR COMUNICACIÓN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ENRIQUE ",
+    "primerApellido": "BUSTOS ",
+    "segundoApellido": "SANCHEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:11:08+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a146c99226c00195bbe06",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "SUB DR ADM CTRO JUV  JAL"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Roberto Carlos ",
+    "primerApellido": "Contreras",
+    "segundoApellido": " Hernández",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:12:28+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a148099226c00195bbe19",
+    "institucionDependencia": {
+      "nombre": "Unidad Estatal de Protección Civil y Bomberos"
+    },
+    "puesto": {
+      "nombre": "Jefa monitoreo fenómenos"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Claudia Patricia",
+    "primerApellido": "Flores ",
+    "segundoApellido": "Castro",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:12:48+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a14b799226c00195bbe2c",
+    "institucionDependencia": {
+      "nombre": "Unidad Estatal de Protección Civil y Bomberos"
+    },
+    "puesto": {
+      "nombre": "Administradora regional "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Arcelia ",
+    "primerApellido": "Camarena ",
+    "segundoApellido": "Ávila",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:13:43+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a14ee99226c00195bbe3f",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "ENC COOR REC MAT DG REI S"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Roberto ",
+    "primerApellido": "Arias ",
+    "segundoApellido": "Alonso",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:14:38+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a14fc99226c00195bbe52",
+    "institucionDependencia": {
+      "nombre": "Unidad Estatal de Protección Civil y Bomberos"
+    },
+    "puesto": {
+      "nombre": "ENCARGADA DE LA DIR R. H."
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ANA GABRIELA",
+    "primerApellido": "PADILLA ",
+    "segundoApellido": "HIGUERA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:14:52+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a153099226c00195bbe65",
+    "institucionDependencia": {
+      "nombre": "Unidad Estatal de Protección Civil y Bomberos"
+    },
+    "puesto": {
+      "nombre": "Segundo Comandante"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Ardían Eliseo",
+    "primerApellido": "Bobadilla ",
+    "segundoApellido": "García",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:15:44+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a154999226c00195bbe78",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Policía Segundo"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ROBERTO     ",
+    "primerApellido": "MARTÍNEZ        ",
+    "segundoApellido": "ESTRADA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:16:09+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a155d99226c00195bbe8b",
+    "institucionDependencia": {
+      "nombre": "Unidad Estatal de Protección Civil y Bomberos"
+    },
+    "puesto": {
+      "nombre": "Primer Comandante"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Aaron ",
+    "primerApellido": "González ",
+    "segundoApellido": "Gallado",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:16:29+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a15c599226c00195bbe9c",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "INS CTR JUS REG ALTOS NTE"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Ramón ",
+    "primerApellido": "Mata ",
+    "segundoApellido": "Maldonado",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:18:13+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a160f99226c00195bbeb3",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "ENC SUB DIR OPERATIVA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Ramon    ",
+    "primerApellido": " Sepulveda ",
+    "segundoApellido": "Ortega",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:19:27+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a169f99226c00195bbec6",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "INS GRAL REC SUR SURESTE"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Petra Patricia  ",
+    "primerApellido": "Comparán",
+    "segundoApellido": "Molina",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:21:51+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a173199226c00195bbede",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Sub Dir Adm   Rec Sur Sur"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Patricia ",
+    "primerApellido": "Sandoval",
+    "segundoApellido": " González",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:24:17+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a1ca799226c00195bbf14",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Coor. Mantenimiento"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Luis Francisco ",
+    "primerApellido": "Magdaleno ",
+    "segundoApellido": "Durán",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:47:35+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a1cbb99226c00195bbf27",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "Instructor Interno B"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Pamela    Guati ",
+    "primerApellido": "Rojo ",
+    "segundoApellido": "Benavides",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:47:55+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a1d3799226c00195bbf38",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Dir. del COCDJ"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Luis Octavio ",
+    "primerApellido": "Cotero",
+    "segundoApellido": "Ortiz",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:49:59+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a1dcf99226c00195bbf55",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Coord. Gral. Almacen"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Luz María",
+    "primerApellido": "Morales   ",
+    "segundoApellido": "Barragán",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:52:31+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a1e2299226c00195bbf68",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "InspectorGral. Reclusorio"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Manuel",
+    "primerApellido": "Aguirre ",
+    "segundoApellido": "Arévalo",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:53:54+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a1e7599226c00195bbf7b",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Instructor Interno B"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "María  Concepción  ",
+    "primerApellido": "Huitrón ",
+    "segundoApellido": "Herrera",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:55:17+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a1eb399226c00195bbf8e",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Encargada de Sub Dir."
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "María del Carmen",
+    "primerApellido": "Martin",
+    "segundoApellido": "Nares",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:56:19+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a1f1299226c00195bbfaf",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Coor. Especializado B"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "María del Consuelo ",
+    "primerApellido": "Nuñez ",
+    "segundoApellido": "García",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:57:54+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a1f3e99226c00195bbfc7",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Sub Dir. Administrativo"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "María Lorena ",
+    "primerApellido": "González ",
+    "segundoApellido": "González",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T16:58:38+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a1f9299226c00195bbfda",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Coor. Administrativo "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Mario Alberto ",
+    "primerApellido": "Martínez ",
+    "segundoApellido": "Cárdenas",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T17:00:02+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a1fcf99226c00195bbff2",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Comisario Prisión Preven"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Martha Teresa     ",
+    "primerApellido": " De la Rosa  ",
+    "segundoApellido": "Cuevas ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T17:01:03+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a200599226c00195bc005",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Sub Dir. Administrativo"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Maximiliano     ",
+    "primerApellido": "García  ",
+    "segundoApellido": "López ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T17:01:57+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a205199226c00195bc018",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Líder Proyecto Invg."
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Nadia Elena  ",
+    "primerApellido": "Díaz  ",
+    "segundoApellido": "Flores",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T17:03:13+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a20cb99226c00195bc02b",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Dir. Gral Administrativo"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Nazir M.L.     ",
+    "primerApellido": "González  ",
+    "segundoApellido": "Padilla",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T17:05:15+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a20f899226c00195bc03e",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Sub Dir. Administrativo"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Olga Patricia ",
+    "primerApellido": "Aldana ",
+    "segundoApellido": "Rangel",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T17:06:00+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a214599226c00195bc051",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Administrativo Esp."
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Omar",
+    "primerApellido": "García   ",
+    "segundoApellido": "Jiménez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T17:07:17+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a217c99226c00195bc064",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Inspector de Centro"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Oscar Noe      ",
+    "primerApellido": "Gómez  ",
+    "segundoApellido": "Curiel  ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T17:08:12+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a21bc99226c00195bc077",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Instructor Interno B"
+    },
+    "nombres": "Pamela Guati ",
+    "primerApellido": "Rojo ",
+    "segundoApellido": "Benavides",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T17:09:16+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a24a099226c00195bc09e",
+    "institucionDependencia": {
+      "nombre": "Universidad Tec de la Zona Metropolitana de Gdl",
+      "siglas": "UTZMG"
+    },
+    "puesto": {
+      "nombre": "Coordinador"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARÍA MALLELA ",
+    "primerApellido": "VALERIO ",
+    "segundoApellido": "BERNAL",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T17:21:36+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a24d199226c00195bc0b1",
+    "institucionDependencia": {
+      "nombre": "Universidad Tec de la Zona Metropolitana de Gdl"
+    },
+    "puesto": {
+      "nombre": "Coordinadora"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARÍA MARGARITA  ",
+    "primerApellido": "VEGA ",
+    "segundoApellido": "RODRÍGUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T17:22:25+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a250f99226c00195bc0c4",
+    "institucionDependencia": {
+      "nombre": "Universidad Tec de la Zona Metropolitana de Gdl",
+      "siglas": "UTZMG"
+    },
+    "puesto": {
+      "nombre": "Coordinadora"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MIREYA EDITH ",
+    "primerApellido": "REYES ",
+    "segundoApellido": "NÚÑEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T17:23:27+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a255499226c00195bc0d9",
+    "institucionDependencia": {
+      "nombre": "Universidad Tec de la Zona Metropolitana de Gdl",
+      "siglas": "UTZMG"
+    },
+    "puesto": {
+      "nombre": "Personal de Apoyo"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MONICA EDUWIGES ",
+    "primerApellido": "CHAVIRA ",
+    "segundoApellido": "GONZÁLEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T17:24:36+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a258d99226c00195bc0fe",
+    "institucionDependencia": {
+      "nombre": "Universidad Tec de la Zona Metropolitana de Gdl",
+      "siglas": "UTZMG"
+    },
+    "puesto": {
+      "nombre": "Director"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "SALVADOR  ",
+    "primerApellido": "RODRÍGUEZ ",
+    "segundoApellido": "VELÁZQUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T17:25:33+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a25be99226c00195bc111",
+    "institucionDependencia": {
+      "nombre": "Universidad Tec de la Zona Metropolitana de Gdl",
+      "siglas": "UTZMG"
+    },
+    "puesto": {
+      "nombre": "Auxiliar administrativo"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "YASMIN ROSALIA ",
+    "primerApellido": "ESPARZA ",
+    "segundoApellido": "RUÍZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T17:26:22+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631b749d99226c00195bc2cc",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "ENLACE ADMINISTRATIVO"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR RECURSOS HUMANOS"
+      },
+      "nombres": "ELIZABETH ",
+      "primerApellido": "CORTES",
+      "segundoApellido": "GUTIERREZ"
+    },
+    "nombres": "PERLA JAZMIN",
+    "primerApellido": "LOPEZ",
+    "segundoApellido": "LOPEZ",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      },
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-09-09T17:15:09+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6356c76968f82c00134cb30d",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco"
+    },
+    "puesto": {
+      "nombre": "Coordinador Especializado"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Javier",
+    "primerApellido": "Hernández ",
+    "segundoApellido": "Rizo",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [],
+    "fechaCaptura": "2022-10-24T17:12:09+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6356c8de68f82c00134cb320",
+    "institucionDependencia": {
+      "nombre": "Colegio de Estudios Científicos y Tecnológicos"
+    },
+    "puesto": {
+      "nombre": "JEFE RECURSOS MATERIALES "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Omar Gerardo",
+    "primerApellido": "Morán",
+    "segundoApellido": "Nolasco",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-24T17:18:22+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6356c97768f82c00134cb333",
+    "institucionDependencia": {
+      "nombre": "Contraloría del Estado"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR ÁREA PATRIMONIAL"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "OBED ULICES",
+    "primerApellido": "CARDENAS",
+    "segundoApellido": "LÓPEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-24T17:20:55+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6356cb6068f82c00134cb346",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCIÓN C"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ABRAHAM",
+    "primerApellido": "CABRAL",
+    "segundoApellido": "PEREZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-24T17:29:04+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6356cc3a68f82c00134cb359",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR Y FACTURACIÓN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ADRIAN",
+    "primerApellido": "SAUCEDA",
+    "segundoApellido": "VAZQUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-24T17:32:42+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6356ccb968f82c00134cb36c",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCIÓN "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ALEJANDRA",
+    "primerApellido": "ANDRADE",
+    "segundoApellido": "ESTRADA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-24T17:34:49+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6356cd0368f82c00134cb37f",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "ASISTENTE MÉDICO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ALMA LORENA ",
+    "primerApellido": "OROZCO",
+    "segundoApellido": "LORETO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-24T17:36:03+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6356ce2168f82c00134cb39a",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR SECCIÓN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "EDER ADOLFO",
+    "primerApellido": "SANDOVAL",
+    "segundoApellido": "SERRATOS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-24T17:40:49+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6356cec168f82c00134cb3ad",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "PRINCIPAL"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "EDUARDO ",
+    "primerApellido": "VAZQUEZ ",
+    "segundoApellido": "RODRIGUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-24T17:43:29+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6356cfc768f82c00134cb3c0",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "EJECUTIVA DE RH"
+    },
+    "nombres": "ELIZABETH",
+    "primerApellido": "IGLESIAS",
+    "segundoApellido": "RODRIGUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-24T17:47:51+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6356d02068f82c00134cb3d3",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "ANALISTA DE COMPRAS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ERICK ISRAEL\t",
+    "primerApellido": "OROZCO",
+    "segundoApellido": "GUTIERREZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-24T17:49:20+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6356d06068f82c00134cb3e6",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "ABOGADO A "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "GABRIELA",
+    "primerApellido": "CEJA",
+    "segundoApellido": "MARTINEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-24T17:50:24+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6356d0ba68f82c00134cb3f9",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR DE VIGILANCIA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "GISSELA",
+    "primerApellido": "LOPEZ ",
+    "segundoApellido": "HERRERA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-24T17:51:54+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6356d0f768f82c00134cb40c",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCIÓN C "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "GONZALO",
+    "primerApellido": "GARNICA",
+    "segundoApellido": "IBARRA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-24T17:52:55+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6357e7d368f82c00134cb431",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTOR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "GUILLERMO  ",
+    "primerApellido": "FERNANDEZ",
+    "segundoApellido": "PEREZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-25T13:42:43+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6357e81168f82c00134cb444",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "ANALISTA DE COMPRAS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "HILDA MARICELA",
+    "primerApellido": "GARCIA",
+    "segundoApellido": "BOJORJE",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-25T13:43:45+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6357e88268f82c00134cb457",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "TIITULAR DEL OIC"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ISRAEL",
+    "primerApellido": "GARCIA ",
+    "segundoApellido": "NUÑEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-25T13:45:38+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6357e8d668f82c00134cb46a",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "SECRETARIA SUBDIRECCION B"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ITZEL ALEJANDRA ",
+    "primerApellido": "BERUMEN",
+    "segundoApellido": "MILANES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-25T13:47:02+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6357e92268f82c00134cb47d",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTOR "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "IVAN",
+    "primerApellido": "QUINTERO",
+    "segundoApellido": "PLASCENCIA ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-25T13:48:18+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6357e96868f82c00134cb490",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "CONTRALOR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JANETH",
+    "primerApellido": "VEYNA",
+    "segundoApellido": "GONZALEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-25T13:49:28+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6357e9cc68f82c00134cb4a3",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCIÓN "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JESUS EDUARDO",
+    "primerApellido": "RODRIGUEZ",
+    "segundoApellido": "ARCE",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-25T13:51:08+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6357ea1c68f82c00134cb4b6",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "AUDITOR INTERNO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JORGE ALEJANDRO ",
+    "primerApellido": "CARBAJAL",
+    "segundoApellido": "ORTIZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-25T13:52:28+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6357ea5a68f82c00134cb4c9",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCIÓN "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSE EDUARDO",
+    "primerApellido": "RIVERON",
+    "segundoApellido": "GARCIA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-25T13:53:30+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6357eaa068f82c00134cb4de",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCIÓN "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JUAN GUILLERMO",
+    "primerApellido": "BARBOSA ",
+    "segundoApellido": "RAMIREZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-25T13:54:40+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6357eada68f82c00134cb4f1",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "AUDITOR INTERNO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MANUEL",
+    "primerApellido": "SAUCEDO",
+    "segundoApellido": "ORENDAIN",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-25T13:55:38+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6357eb5868f82c00134cb50c",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTOR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARIA ELENA ",
+    "primerApellido": "PARRAL",
+    "segundoApellido": "ACOSTA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-25T13:57:44+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6357ebb268f82c00134cb51f",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "SECRETARIA SUBDIRECCIÓN"
+    },
+    "nombres": "MARIA ELIZABETH",
+    "primerApellido": "RODRIGUEZ",
+    "segundoApellido": "REVELES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-25T13:59:14+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6357ebe668f82c00134cb532",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "ANALISTA DE COMPRAS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "NAYELI",
+    "primerApellido": "MARTINEZ",
+    "segundoApellido": "GONZALEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-25T14:00:06+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6357ec3768f82c00134cb545",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "SUBDIIRECTOR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "NESTOR ESTEBAN",
+    "primerApellido": "GONZALEZ",
+    "segundoApellido": "ZAMARRIPA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-25T14:01:27+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6357ec9468f82c00134cb558",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "ANALISTA DE COMPRAS B"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "OLGA ESTHELA",
+    "primerApellido": "BARRAGAN",
+    "segundoApellido": "CASTILLO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-25T14:03:00+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6357eccc68f82c00134cb56b",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "ENCARGADO DE DESPACHO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "OMAR VICTOR",
+    "primerApellido": "CARRILLO",
+    "segundoApellido": "PEÑA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-25T14:03:56+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6357ed1568f82c00134cb57e",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCIÓN "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "PABLO",
+    "primerApellido": "QUIÑONES",
+    "segundoApellido": "GARCIA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-25T14:05:09+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6357ed6368f82c00134cb591",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "ASISTENTE DE ÁREA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "RAUL",
+    "primerApellido": "MORENO",
+    "segundoApellido": "LOZANO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-25T14:06:27+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6357ed9268f82c00134cb5a4",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCIÓN C"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "REFUGIO DE JESUS",
+    "primerApellido": "ROSALES",
+    "segundoApellido": "ROJAS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-25T14:07:14+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6357ee1a68f82c00134cb5b7",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "ENCARGADO DE DESPACHO"
+    },
+    "nombres": "RUSSEL RUBEN",
+    "primerApellido": "RUVALCABA",
+    "segundoApellido": "GUERRA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-25T14:09:30+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6357ee6968f82c00134cb5ca",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR DE SECCIÓN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "SANDRA GABRIELA",
+    "primerApellido": "GUTIERREZ",
+    "segundoApellido": "MEJIA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-25T14:10:49+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6357eea868f82c00134cb5dd",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCIÓN "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "SEVERO LEOPOLDO",
+    "primerApellido": "AGUILAR",
+    "segundoApellido": "NAVARRO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-25T14:11:52+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6357eee468f82c00134cb5f0",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCIÓN "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "VICTOR DANIEL",
+    "primerApellido": "ALVARADO",
+    "segundoApellido": "COVARRUBIAS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-25T14:12:52+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6357ef9c68f82c00134cb609",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCIÓN "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "VICTOR EDUARDO",
+    "primerApellido": "SANCHEZ",
+    "segundoApellido": "VERDIN",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-10-25T14:15:56+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6384e48b21744e0019fced52",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "ENLACE ADMINISTRATIVO"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR"
+      },
+      "nombres": "ALEJANDRO ",
+      "primerApellido": "MURUETA",
+      "segundoApellido": "ALDRETE"
+    },
+    "nombres": "ANA BELEN",
+    "primerApellido": "GONZALEZ",
+    "segundoApellido": "GOMEZ",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T16:40:43+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6384e4e821744e0019fced65",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE UNIDAD "
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR"
+      },
+      "nombres": "ALEJANDRO ",
+      "primerApellido": "MURUETA",
+      "segundoApellido": "ALDRETE"
+    },
+    "nombres": "JAIRO ULISES",
+    "primerApellido": "ORTEGA",
+    "segundoApellido": "AREVALO",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T16:42:16+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6384e53e21744e0019fced78",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "ENCARGADO DE ALMACEN"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "JEFE DE UNIDAD"
+      },
+      "nombres": "JAIRO ULISES",
+      "primerApellido": "ORTEGA ",
+      "segundoApellido": "AREVALO"
+    },
+    "nombres": "JESUS GABRIEL",
+    "primerApellido": "ORTEGA",
+    "segundoApellido": "HERNANDEZ",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T16:43:42+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6384e58221744e0019fced8b",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "ENCARGADO DE MANTENIMIENT"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "JEFE DE UNIDAD"
+      },
+      "nombres": "JAIRO ULISES",
+      "primerApellido": "ORTEGA ",
+      "segundoApellido": "AREVALO"
+    },
+    "nombres": "GUSTAVO",
+    "primerApellido": "MOYA",
+    "segundoApellido": "VALLE",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T16:44:50+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6384e66121744e0019fcedaa",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "ENLACE ADMINISTRATIVO"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR"
+      },
+      "nombres": "ALEJANDRO ",
+      "primerApellido": "MURUETA",
+      "segundoApellido": "ALDRETE"
+    },
+    "nombres": "GUSTAVO",
+    "primerApellido": "SAHAGUN",
+    "segundoApellido": "AVALOS",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T16:48:33+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6384e6d821744e0019fcedc9",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "ENLACE ADMINISTRATIVO"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DE INNOVACION"
+      },
+      "nombres": "ELISEO",
+      "primerApellido": "ZUÑIGA",
+      "segundoApellido": "GUTIERREZ"
+    },
+    "nombres": "GABRIELA",
+    "primerApellido": "DOMINGUEZ",
+    "segundoApellido": "MAGAÑA",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T16:50:32+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6384e72821744e0019fceddc",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "ENLACE ADMINISTRATIVO"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR"
+      },
+      "nombres": "NOE",
+      "primerApellido": "CHAVEZ",
+      "segundoApellido": "LUEVANO"
+    },
+    "nombres": "LEONARDO",
+    "primerApellido": "TOSCANO",
+    "segundoApellido": "PADILLA",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T16:51:52+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6384e76d21744e0019fcedef",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "ANA PAULA ",
+      "primerApellido": "VIRGEN",
+      "segundoApellido": "SANCHEZ"
+    },
+    "nombres": "FABIOLA",
+    "primerApellido": "LUNA ",
+    "segundoApellido": "PEREZ",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T16:53:01+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6384e7cd21744e0019fcee02",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "AREA TECNICA"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DE CULTURA"
+      },
+      "nombres": "LUIS GERARDO",
+      "primerApellido": "ASCENCIO",
+      "segundoApellido": "RUBIO"
+    },
+    "nombres": "ASTRID MAGDALENA",
+    "primerApellido": "MEZA ",
+    "segundoApellido": "OLVERA",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T16:54:37+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6384e81c21744e0019fcee15",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "ANDREA",
+      "primerApellido": "BLANCO ",
+      "segundoApellido": "CALDERON"
+    },
+    "nombres": "BENO",
+    "primerApellido": "ALBARRAN",
+    "segundoApellido": "CORONA",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T16:55:56+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6384e86621744e0019fcee28",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "AREA TECNICA"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR"
+      },
+      "nombres": "BENO ",
+      "primerApellido": "ALBARRAN",
+      "segundoApellido": "CORONA"
+    },
+    "nombres": "LILIANA JULIETA",
+    "primerApellido": "RUELAS",
+    "segundoApellido": "HERNANDEZ",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [],
+    "fechaCaptura": "2022-11-28T16:57:10+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6384f2a421744e0019fcee3d",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "AREA TECNICA"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR"
+      },
+      "nombres": "BENO",
+      "primerApellido": "ALBARRAN",
+      "segundoApellido": "CORONA"
+    },
+    "nombres": "JOSE DE JESUS",
+    "primerApellido": "ORTEGA",
+    "segundoApellido": "JIMENEZ",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T17:40:52+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6384f2da21744e0019fcee50",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "ANDREA",
+      "primerApellido": "BLANCO ",
+      "segundoApellido": "CALDERON"
+    },
+    "nombres": "NESTOR",
+    "primerApellido": "TELLO",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T17:41:46+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6384f31621744e0019fcee63",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "ENLACE ADMINISTRATIVO"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR"
+      },
+      "nombres": "NESTOR",
+      "primerApellido": "TELLOE"
+    },
+    "nombres": "SILVIA MARIEN",
+    "primerApellido": "LLAMAS ",
+    "segundoApellido": "DELGADO",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [],
+    "fechaCaptura": "2022-11-28T17:42:46+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6384f65421744e0019fcee76",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "ANDREA",
+      "primerApellido": "BLANCO ",
+      "segundoApellido": "CALDERON"
+    },
+    "nombres": "XAVIER",
+    "primerApellido": "CALDERON",
+    "segundoApellido": "ALCARAZ",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T17:56:36+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6384f6a121744e0019fcee89",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "ENLACE ADMINISTRATIVO"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR"
+      },
+      "nombres": "XAVIER",
+      "primerApellido": "CALDERON",
+      "segundoApellido": "ALCARAZ"
+    },
+    "nombres": "DULCE",
+    "primerApellido": "ROMO ",
+    "segundoApellido": "BELTRAN",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T17:57:53+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6384f6dc21744e0019fcee9c",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "ANDREA",
+      "primerApellido": "BLANCO ",
+      "segundoApellido": "CALDERON"
+    },
+    "nombres": "JUAN ANTONIO",
+    "primerApellido": "BARRAGAN ",
+    "segundoApellido": "SANCHEZ",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T17:58:52+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6384f73521744e0019fceeaf",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "ENLACE ADMINISTRATIVO"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR"
+      },
+      "nombres": "JUAN ANTONIO",
+      "primerApellido": "BARRAGAN ",
+      "segundoApellido": "SANCHEZ"
+    },
+    "nombres": "ENRIQUE ALEJANDRO",
+    "primerApellido": "LORENZANA",
+    "segundoApellido": "MACIAS",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T18:00:21+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6384f76421744e0019fceec2",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "ANDREA",
+      "primerApellido": "BLANCO ",
+      "segundoApellido": "CALDERON"
+    },
+    "nombres": "HUMBERTO",
+    "primerApellido": "BERNAL",
+    "segundoApellido": "HERNANDEZ",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T18:01:08+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6384f7ab21744e0019fceed5",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "ENLACE ADMINISTRATIVO"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR"
+      },
+      "nombres": "HUMBERTO",
+      "primerApellido": "BERNAL",
+      "segundoApellido": "HERNANDEZ"
+    },
+    "nombres": "ARMANDO ALONOS",
+    "primerApellido": "AGUILAR",
+    "segundoApellido": "AREVALO",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T18:02:19+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6384f7e321744e0019fceee8",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "ANDREA",
+      "primerApellido": "BLANCO ",
+      "segundoApellido": "CALDERON"
+    },
+    "nombres": "KAREN MARIA",
+    "primerApellido": "GUTIERREZ",
+    "segundoApellido": "LASCURAIN GUAL",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T18:03:15+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6384f82321744e0019fceefb",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "ENLACE ADMINISTRATIVO"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR"
+      },
+      "nombres": "KAREN MARIA",
+      "primerApellido": "GUTIERREZ",
+      "segundoApellido": "LASCURAIN GUAL"
+    },
+    "nombres": "YESICA",
+    "primerApellido": "BECERRA",
+    "segundoApellido": "GUERRA",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T18:04:19+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6384f84f21744e0019fcef0e",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "ENLACE ADMINISTRATIVO"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR"
+      },
+      "nombres": "JUAN CARLOS",
+      "primerApellido": "SOTO ",
+      "segundoApellido": "MORFIN"
+    },
+    "nombres": "ANA FERNANDA",
+    "primerApellido": "MORENO",
+    "segundoApellido": "BARAJAS",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T18:05:03+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6384f8a121744e0019fcef21",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "MIGUEL",
+      "primerApellido": "ZARATE",
+      "segundoApellido": "HERNANDEZ"
+    },
+    "nombres": "PAULINA",
+    "primerApellido": "CERVANTES",
+    "segundoApellido": "FLORES",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T18:06:25+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6384f8dc21744e0019fcef34",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "ENLACE ADMINISTRATIVO"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR"
+      },
+      "nombres": "PAULINA",
+      "primerApellido": "CERVANTES",
+      "segundoApellido": "FLORES"
+    },
+    "nombres": "IRMA YESENIA",
+    "primerApellido": "ORTEGA",
+    "segundoApellido": "GONZALEZ",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T18:07:24+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6384f92c21744e0019fcef53",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "MIGUEL",
+      "primerApellido": "ZARATE",
+      "segundoApellido": "HERNANDEZ"
+    },
+    "nombres": "FRANCISCO JOSE",
+    "primerApellido": "ONTIVEROS",
+    "segundoApellido": "BALCAZAR",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T18:08:44+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6384f96321744e0019fcef66",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "ENLACE ADMINISTRATIVO"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR"
+      },
+      "nombres": "FRANCISCO JOSE",
+      "primerApellido": "ONTIVEROS",
+      "segundoApellido": "BALCAZAR"
+    },
+    "nombres": "MARGARITA DE LA LUZ",
+    "primerApellido": "CASTILLO",
+    "segundoApellido": "HERNANDEZ",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T18:09:39+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6385005d21744e0019fcef87",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "MIGUEL",
+      "primerApellido": "ZARATE",
+      "segundoApellido": "HERNANDEZ"
+    },
+    "nombres": "JOSE LUIS",
+    "primerApellido": "AGUILAR",
+    "segundoApellido": "FLORES",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T18:39:25+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6385009c21744e0019fcef96",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "ENLACE ADMINISTRATIVO"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "HECTOR ALEJANDRO",
+      "primerApellido": "HERMOSILLO",
+      "segundoApellido": "HERNANDEZ"
+    },
+    "nombres": "ALBERTO DAVID",
+    "primerApellido": "CAMACHO",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T18:40:28+00:00",
+    "__v": 0
+  },
+  {
+    "id": "638500f021744e0019fcefa5",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "AREA TECNICA"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "ENLACE ADMINISTRATIVO"
+      },
+      "nombres": "ALBERTO DAVID",
+      "primerApellido": "CAMACHO"
+    },
+    "nombres": "EVELIN",
+    "primerApellido": "DELGADO",
+    "segundoApellido": "CARBAJAL",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T18:41:52+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6385012121744e0019fcefb4",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "HECTOR ALEJANDRO",
+      "primerApellido": "HERMOSILLO",
+      "segundoApellido": "HERNANDEZ"
+    },
+    "nombres": "MARCELA",
+    "primerApellido": "PARAMO",
+    "segundoApellido": "ORTEGA",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T18:42:41+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6385016221744e0019fcefc3",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "HECTOR ALEJANDRO",
+      "primerApellido": "HERMOSILLO",
+      "segundoApellido": "HERNANDEZ"
+    },
+    "nombres": "MIGUEL",
+    "primerApellido": "SAINZ",
+    "segundoApellido": "LOYOLA",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T18:43:46+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6385088721744e0019fcefd2",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "HECTOR ALEJANDRO",
+      "primerApellido": "HERMOSILLO",
+      "segundoApellido": "HERNANDEZ"
+    },
+    "nombres": "FRANCISCO JAVIER",
+    "primerApellido": "ROMO",
+    "segundoApellido": "MENDOZA",
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T19:14:15+00:00",
+    "__v": 0
+  },
+  {
+    "id": "638508d921744e0019fcefe1",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "AREA TECNICA"
+    },
+    "superiorInmediato": {
+      "nombres": "FRANCISCO JAVIER",
+      "primerApellido": "ROMO",
+      "segundoApellido": "MENDOZA"
+    },
+    "nombres": "MANUEL",
+    "primerApellido": "HERNANDEZ",
+    "segundoApellido": "GARCIA",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T19:15:37+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6385098a21744e0019fcf006",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "HECTOR ALEJANDRO",
+      "primerApellido": "HERMOSILLO",
+      "segundoApellido": "HERNANDEZ"
+    },
+    "nombres": "LUISA FERNANDA",
+    "primerApellido": "CHAVIRA",
+    "segundoApellido": "ROBLES",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T19:18:34+00:00",
+    "__v": 0
+  },
+  {
+    "id": "638509c621744e0019fcf019",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "ENLACE ADMINISTRATIVO"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR"
+      },
+      "nombres": "LUISA FERNANDA",
+      "primerApellido": "CHAVIRA",
+      "segundoApellido": "ROBLES"
+    },
+    "nombres": "DINORA FERNANDA",
+    "primerApellido": "TISCAREÑO",
+    "segundoApellido": "AGUILAR",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [],
+    "fechaCaptura": "2022-11-28T19:19:34+00:00",
+    "__v": 0
+  },
+  {
+    "id": "638509fc21744e0019fcf02c",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "AREA TECNICA"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "ENLACE ADMINISTRATIVO"
+      },
+      "nombres": "LORENA ALEJANDRA",
+      "primerApellido": "VIRGEN",
+      "segundoApellido": "SANCHEZ"
+    },
+    "nombres": "SARAHI",
+    "primerApellido": "SOLIS",
+    "segundoApellido": "PIEDRAS",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [],
+    "fechaCaptura": "2022-11-28T19:20:28+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63850a2e21744e0019fcf03f",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "ALFREDO",
+      "primerApellido": "ACEVES",
+      "segundoApellido": "FERNANDEZ"
+    },
+    "nombres": "MARIA DEL REFUGIO",
+    "primerApellido": "PLASCENCIA",
+    "segundoApellido": "PEREZ",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T19:21:18+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63850ae121744e0019fcf052",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "ALFREDO",
+      "primerApellido": "ACEVES",
+      "segundoApellido": "FERNANDEZ"
+    },
+    "nombres": "IGNACIO",
+    "primerApellido": "MESTAS",
+    "segundoApellido": "GALLARDO",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T19:24:17+00:00",
+    "__v": 0
+  },
+  {
+    "id": "638512a421744e0019fcf086",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "ALFREDO",
+      "primerApellido": "ACEVES",
+      "segundoApellido": "FERNANDEZ"
+    },
+    "nombres": "GABRIEL",
+    "primerApellido": "ARIAS",
+    "segundoApellido": "SALLES",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T19:57:24+00:00",
+    "__v": 0
+  },
+  {
+    "id": "638512d421744e0019fcf099",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "ALFREDO",
+      "primerApellido": "ACEVES",
+      "segundoApellido": "FERNANDEZ"
+    },
+    "nombres": "ROLANDO",
+    "primerApellido": "CRUZ",
+    "segundoApellido": "NAVARRO",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T19:58:12+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6385130d21744e0019fcf0ac",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "ALFREDO",
+      "primerApellido": "ACEVES",
+      "segundoApellido": "FERNANDEZ"
+    },
+    "nombres": "LUIS",
+    "primerApellido": "RANGEL",
+    "segundoApellido": "GARCIA",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T19:59:09+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6385134a21744e0019fcf0bf",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "ALFREDO",
+      "primerApellido": "ACEVES",
+      "segundoApellido": "FERNANDEZ"
+    },
+    "nombres": "LILLAN",
+    "primerApellido": "RIZK",
+    "segundoApellido": "RODRIGUEZ",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T20:00:10+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6385137721744e0019fcf0d2",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "superiorInmediato": {
+      "nombres": "ALFREDO",
+      "primerApellido": "ACEVES",
+      "segundoApellido": "FERNANDEZ"
+    },
+    "nombres": "CARLOS",
+    "primerApellido": "BAÑUELOS",
+    "segundoApellido": "BARRIOS",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T20:00:55+00:00",
+    "__v": 0
+  },
+  {
+    "id": "638513bd21744e0019fcf0e5",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "JESUS ALEJANDRO",
+      "primerApellido": "FELIX",
+      "segundoApellido": "GASTELUM"
+    },
+    "nombres": "ARMANDO",
+    "primerApellido": "REYNOSO",
+    "segundoApellido": "GONZALEZ",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T20:02:05+00:00",
+    "__v": 0
+  },
+  {
+    "id": "638513ee21744e0019fcf0f8",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "JESUS ALEJANDRO",
+      "primerApellido": "FELIX",
+      "segundoApellido": "GASTELUM"
+    },
+    "nombres": "MARTIN OBED",
+    "primerApellido": "PEREZ",
+    "segundoApellido": "FLETES",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T20:02:54+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6385141c21744e0019fcf10b",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "superiorInmediato": {
+      "nombres": "JESUS ALEJANDRO",
+      "primerApellido": "FELIX",
+      "segundoApellido": "GASTELUM"
+    },
+    "nombres": "JUAN PABLO",
+    "primerApellido": "PADILLA",
+    "segundoApellido": "GUTIERREZ",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T20:03:40+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6385145421744e0019fcf11e",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "ENLACE ADMINISTRATIVO"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR"
+      },
+      "nombres": "JUAN PABLO",
+      "primerApellido": "PADILLA",
+      "segundoApellido": "GUTIERREZ"
+    },
+    "nombres": "JUAN ARTURO",
+    "primerApellido": "DELGADO",
+    "segundoApellido": "MARAVILLA",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [],
+    "fechaCaptura": "2022-11-28T20:04:36+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6385147e21744e0019fcf131",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "JESUS ALEJANDRO",
+      "primerApellido": "FELIX",
+      "segundoApellido": "GASTELUM"
+    },
+    "nombres": "GLORIA",
+    "primerApellido": "CARRANZA",
+    "segundoApellido": "GONZALES",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T20:05:18+00:00",
+    "__v": 0
+  },
+  {
+    "id": "638514c421744e0019fcf150",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "JESUS ALEJANDRO",
+      "primerApellido": "FELIX",
+      "segundoApellido": "GASTELUM"
+    },
+    "nombres": "FERNANDO ",
+    "primerApellido": "GUTIERREZ",
+    "segundoApellido": "SANTOS",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T20:06:28+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6385150221744e0019fcf16f",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "JESUS ALEJANDRO",
+      "primerApellido": "FELIX",
+      "segundoApellido": "GASTELUM"
+    },
+    "nombres": "ENRIQUE GERARDO",
+    "primerApellido": "AVALOS",
+    "segundoApellido": "GONZALEZ",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T20:07:30+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6385153721744e0019fcf182",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COORDINADOR GENERAL"
+      },
+      "nombres": "JESUS ALEJANDRO",
+      "primerApellido": "FELIX",
+      "segundoApellido": "GASTELUM"
+    },
+    "nombres": "ANGEL DE JESUS",
+    "primerApellido": "GODINEZ",
+    "segundoApellido": "RUIZ",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T20:08:23+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6385158c21744e0019fcf195",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "SINDICA"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "PRESIDENTE MUNICIPAL"
+      },
+      "nombres": "JESUS PABLO",
+      "primerApellido": "LEMUS",
+      "segundoApellido": "NAVARRO"
+    },
+    "nombres": "KARINA ANAHID",
+    "primerApellido": "HERMOSILLO",
+    "segundoApellido": "RAMIREZ",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T20:09:48+00:00",
+    "__v": 0
+  },
+  {
+    "id": "638515de21744e0019fcf1a8",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "ENLACE ADMINISTRATIVO"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "CONTRALORA"
+      },
+      "nombres": "CYNTHIA PATRICIA",
+      "primerApellido": "CANTERO",
+      "segundoApellido": "PACHECO"
+    },
+    "nombres": "GERONIMO",
+    "primerApellido": "ANGUIANO",
+    "segundoApellido": "RUIZ",
+    "tipoArea": [],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T20:11:10+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63851b8a21744e0019fcf1bb",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "ENLACE ADMINISTRATIVO"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "COMISARIO"
+      },
+      "nombres": "JUAN PABLO",
+      "primerApellido": "SANCHEZ",
+      "segundoApellido": "GONZALEZ"
+    },
+    "nombres": "PERLA LORENA",
+    "primerApellido": "LOPEZ",
+    "segundoApellido": "GUIZAR",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T20:35:22+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63851c1121744e0019fcf1ce",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "ENLACE ADMINISTRATIVO"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "CONSEJERO JURIDICO"
+      },
+      "nombres": "RAFAEL",
+      "primerApellido": "MARTINEZ",
+      "segundoApellido": "RAMIREZ"
+    },
+    "nombres": "SUSANA ALEJANDRINA",
+    "primerApellido": "MARQUEZ",
+    "segundoApellido": "GARCIA",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T20:37:37+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63851c5021744e0019fcf1e1",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "CONSEJERO JURIDICO"
+      },
+      "nombres": "RAFAEL",
+      "primerApellido": "MARTINEZ",
+      "segundoApellido": "RAMIREZ"
+    },
+    "nombres": "JOSE ANTONIO",
+    "primerApellido": "LOPEZ",
+    "segundoApellido": "ZARAGOZA",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T20:38:40+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63851ca921744e0019fcf1f4",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "SECRETARIO GENERAL"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "PRESIDENTE MUNICIPAL"
+      },
+      "nombres": "JESUS PABLO",
+      "primerApellido": "LEMUS",
+      "segundoApellido": "NAVARRO"
+    },
+    "nombres": "EDUARDO FABIAN",
+    "primerApellido": "MARTINEZ",
+    "segundoApellido": "LOMELI",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T20:40:09+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63851cec21744e0019fcf207",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "ENLACE ADMINISTRATIVO"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "SECRETARIO GENERAL"
+      },
+      "nombres": "EDUARDO FABIAN",
+      "primerApellido": "MARTINEZ",
+      "segundoApellido": "LOMELI"
+    },
+    "nombres": "HECTOR ALFONSO",
+    "primerApellido": "GALLO",
+    "segundoApellido": "VAZQUEZ",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T20:41:16+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63851d2521744e0019fcf21a",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "SECRETARIO GENERAL"
+      },
+      "nombres": "EDUARDO FABIAN",
+      "primerApellido": "MARTINEZ",
+      "segundoApellido": "LOMELI"
+    },
+    "nombres": "BONIFACIO",
+    "primerApellido": "RAMIREZ",
+    "segundoApellido": "SANTIAGO",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T20:42:13+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63851d6421744e0019fcf22d",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "TITULAR DE AREA"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "SECRETARIO GENERAL"
+      },
+      "nombres": "EDUARDO FABIAN",
+      "primerApellido": "MARTINEZ",
+      "segundoApellido": "LOMELI"
+    },
+    "nombres": "DAGOBERTO",
+    "primerApellido": "NAVARRO",
+    "segundoApellido": "RAMIREZ",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T20:43:16+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63851d9621744e0019fcf240",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "SECRETARIO GENERAL"
+      },
+      "nombres": "EDUARDO FABIAN",
+      "primerApellido": "MARTINEZ",
+      "segundoApellido": "LOMELI"
+    },
+    "nombres": "LUIS FERNANDO ",
+    "primerApellido": "MORALES",
+    "segundoApellido": "VILLAREAL",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T20:44:06+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63851dc721744e0019fcf253",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE GUADALAJARA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "SECRETARIO GENERAL"
+      },
+      "nombres": "EDUARDO FABIAN",
+      "primerApellido": "MARTINEZ",
+      "segundoApellido": "LOMELI"
+    },
+    "nombres": "ERNESTO",
+    "primerApellido": "PADILLA",
+    "segundoApellido": "CARRILLO",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-11-28T20:44:55+00:00",
+    "__v": 0
+  }
+]

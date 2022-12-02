@@ -1,0 +1,238 @@
+[
+  {
+    "id": "121065",
+    "fechaCaptura": "2022-10-27T00:00:00Z",
+    "nombres": "CLAUDIA",
+    "primerApellido": "CASTRO",
+    "segundoApellido": "ANGULO",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCION",
+      "siglas": "SESEABCS",
+      "clave": "1"
+    },
+    "puesto": {
+      "nombre": "SECRETARIA TECNICA",
+      "nivel": "DIRECCION"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "121103",
+    "fechaCaptura": "2022-11-25T00:00:00Z",
+    "nombres": "JORGE LUIS",
+    "primerApellido": "VARGAS",
+    "segundoApellido": "NAVARRO",
+    "institucionDependencia": {
+      "nombre": "AUDITORIA SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR",
+      "siglas": "ASEBCS",
+      "clave": "99"
+    },
+    "puesto": {
+      "nombre": "SECRETARIO TECNICO",
+      "nivel": "MANDO SUPER"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "121105",
+    "fechaCaptura": "2022-11-25T00:00:00Z",
+    "nombres": "JOSE MANUEL",
+    "primerApellido": "GONZALEZ",
+    "segundoApellido": "COTA",
+    "institucionDependencia": {
+      "nombre": "AUDITORIA SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR",
+      "siglas": "ASEBCS",
+      "clave": "99"
+    },
+    "puesto": {
+      "nombre": "UNIDAD DE TECNOLOGIAS DE LA INFORMACION",
+      "nivel": "MANDO MEDIO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "121066",
+    "fechaCaptura": "2022-10-27T00:00:00Z",
+    "nombres": "LUZARELI",
+    "primerApellido": "VAZQUEZ ",
+    "segundoApellido": "RAMIREZ",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCION",
+      "siglas": "SESEABCS",
+      "clave": "1"
+    },
+    "puesto": {
+      "nombre": "TITULAR DE LA UNIDAD ADMINISTRATIVA",
+      "nivel": "JEFE DE DEP"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "121100",
+    "fechaCaptura": "2022-11-25T00:00:00Z",
+    "nombres": "MANUELA",
+    "primerApellido": "VARGAS",
+    "segundoApellido": "AGUNDEZ",
+    "institucionDependencia": {
+      "nombre": "AUDITORIA SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR",
+      "siglas": "ASEBCS",
+      "clave": "99"
+    },
+    "puesto": {
+      "nombre": "UNIDAD DE ADMINISTRACION Y FINANZAS",
+      "nivel": "MANDO MEDIO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "121104",
+    "fechaCaptura": "2022-11-25T00:00:00Z",
+    "nombres": "MIGUEL ANGEL",
+    "primerApellido": "GARMA",
+    "segundoApellido": "SANCHEZ",
+    "institucionDependencia": {
+      "nombre": "AUDITORIA SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR",
+      "siglas": "ASEBCS",
+      "clave": "99"
+    },
+    "puesto": {
+      "nombre": "ORGANO INTERNO DE CONTROL",
+      "nivel": "MANDO MEDIO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "121102",
+    "fechaCaptura": "2022-11-25T00:00:00Z",
+    "nombres": "RICARDO",
+    "primerApellido": "VERDUGO",
+    "segundoApellido": "LLANAS",
+    "institucionDependencia": {
+      "nombre": "AUDITORIA SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR",
+      "siglas": "ASEBCS",
+      "clave": "99"
+    },
+    "puesto": {
+      "nombre": "AUDITOR SUPERIOR",
+      "nivel": "TITULAR DE "
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "121101",
+    "fechaCaptura": "2022-11-25T00:00:00Z",
+    "nombres": "ROCIO",
+    "primerApellido": "CHAIRES",
+    "segundoApellido": "CERROS",
+    "institucionDependencia": {
+      "nombre": "AUDITORIA SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR",
+      "siglas": "ASEBCS",
+      "clave": "99"
+    },
+    "puesto": {
+      "nombre": "DIRECCION GENERAL DE DESARROLLO, INNOVACION Y MODERNIZACION",
+      "nivel": "MANDO SUPER"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  }
+]

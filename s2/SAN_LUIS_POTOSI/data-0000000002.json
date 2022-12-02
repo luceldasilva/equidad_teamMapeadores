@@ -1,0 +1,3278 @@
+[
+  {
+    "id": "34349",
+    "fechaCaptura": "2022-11-03T00:00:00Z",
+    "nombres": "MA. CONCEPCION",
+    "primerApellido": "ESCALANTE",
+    "segundoApellido": "GONZALEZ",
+    "institucionDependencia": {
+      "nombre": "RIOVERDE",
+      "siglas": "AY024",
+      "clave": "123"
+    },
+    "puesto": {
+      "nombre": "SECRETARIA",
+      "nivel": "8"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "35099",
+    "fechaCaptura": "2022-11-07T00:00:00Z",
+    "nombres": "MA DE LA LUZ",
+    "primerApellido": "HERNANDEZ",
+    "segundoApellido": "FLORES",
+    "institucionDependencia": {
+      "nombre": "CIUDAD FERNANDEZ",
+      "siglas": "AY011",
+      "clave": "110"
+    },
+    "puesto": {
+      "nombre": "PERITO DE TRANSITO",
+      "nivel": "BAJO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "26142",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "MA. DEL ROSARIO",
+    "primerApellido": "RAMIREZ",
+    "segundoApellido": "AGUILAR",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "ASESOR B",
+      "nivel": "14"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "34347",
+    "fechaCaptura": "2022-11-03T00:00:00Z",
+    "nombres": "MA. EDITH",
+    "primerApellido": "CHARRE",
+    "segundoApellido": "HERNANDEZ",
+    "institucionDependencia": {
+      "nombre": "RIOVERDE",
+      "siglas": "AY024",
+      "clave": "123"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR ADMINISTRATIVO",
+      "nivel": "8"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "36691",
+    "fechaCaptura": "2022-11-28T00:00:00Z",
+    "nombres": "MA.ELENA",
+    "primerApellido": "RAMIREZ",
+    "segundoApellido": "RAMIREZ",
+    "institucionDependencia": {
+      "nombre": "H. CONGRESO DEL ESTADO DE SAN LUIS POTOSI",
+      "siglas": "PL002",
+      "clave": "92"
+    },
+    "puesto": {
+      "nombre": "DIPUTADA",
+      "nivel": "VOCAL DE LA JUNTA DE COORDINACION POLITICA Y VOCAL EN COMITE DE ADQUISICIONES"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "35948",
+    "fechaCaptura": "2022-11-17T00:00:00Z",
+    "nombres": "MA. ENGRACIA",
+    "primerApellido": "MENDEZ",
+    "segundoApellido": "SEGURA",
+    "institucionDependencia": {
+      "nombre": "SISTEMA DIF MUNICIPAL DEL MUNICIPIO DE CIUDAD FERNANDEZ",
+      "siglas": "OD046",
+      "clave": "244"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR GENERAL",
+      "nivel": "CONFIANZA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "34306",
+    "fechaCaptura": "2022-11-03T00:00:00Z",
+    "nombres": "MARGARITO",
+    "primerApellido": "URIBE",
+    "segundoApellido": "RUBIO",
+    "institucionDependencia": {
+      "nombre": "RAYON",
+      "siglas": "AY023",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "ENCARGADO DE PANTEON",
+      "nivel": "DE CONFIANZA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "26139",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "MARIA ADRIANA",
+    "primerApellido": "GOMEZ ",
+    "segundoApellido": "HERNANDEZ",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "ASESOR A",
+      "nivel": "15"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "36692",
+    "fechaCaptura": "2022-11-28T00:00:00Z",
+    "nombres": "MARIA ARANZAZU",
+    "primerApellido": "PUENTE ",
+    "segundoApellido": "BUSTINDUI",
+    "institucionDependencia": {
+      "nombre": "H. CONGRESO DEL ESTADO DE SAN LUIS POTOSI",
+      "siglas": "PL002",
+      "clave": "92"
+    },
+    "puesto": {
+      "nombre": "DIPUTADA",
+      "nivel": "VOCAL EN COMITE DE ADQUISICIONES"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "36693",
+    "fechaCaptura": "2022-11-28T00:00:00Z",
+    "nombres": "MARIA CLAUDIA ",
+    "primerApellido": "TRISTAN ",
+    "segundoApellido": "ALVARADO",
+    "institucionDependencia": {
+      "nombre": "H. CONGRESO DEL ESTADO DE SAN LUIS POTOSI",
+      "siglas": "PL002",
+      "clave": "92"
+    },
+    "puesto": {
+      "nombre": "DIPUTADA",
+      "nivel": "VOCAL DE LA JUNTA DE COORDINACION POLITICA Y VOCAL EN COMITE DE ADQUISICIONES"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "35947",
+    "fechaCaptura": "2022-11-17T00:00:00Z",
+    "nombres": "MARIA DE LOS ANGELES",
+    "primerApellido": "GUERRERO",
+    "segundoApellido": "NOLASCO",
+    "institucionDependencia": {
+      "nombre": "SISTEMA DIF MUNICIPAL DEL MUNICIPIO DE CIUDAD FERNANDEZ",
+      "siglas": "OD046",
+      "clave": "244"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE RECURSOS FINANCIEROS",
+      "nivel": "CONFIANZA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "26169",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "MARIA DE LOURDES",
+    "primerApellido": "MENDOZA",
+    "segundoApellido": "BLANCO",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "JEFE DE AREA C",
+      "nivel": "15"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "26129",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "MARIA DEL SOCORRO ",
+    "primerApellido": "VALERO",
+    "segundoApellido": "RIVERA",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "ASISTENTE GENERAL",
+      "nivel": "13"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "34295",
+    "fechaCaptura": "2022-11-03T00:00:00Z",
+    "nombres": "MARIA DE ROSARIO",
+    "primerApellido": "ESPINO",
+    "segundoApellido": "SANCHEZ",
+    "institucionDependencia": {
+      "nombre": "RAYON",
+      "siglas": "AY023",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "ENLACE MUNICIPAL INSTANCIA DE LA MUJER",
+      "nivel": "DE CONFIANZA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "26198",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "MARIA ELENA",
+    "primerApellido": "MEDELLIN",
+    "segundoApellido": "RAMIREZ",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "ASESOR A",
+      "nivel": "15"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "23218",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "MARIA EUGENIA",
+    "primerApellido": "PADRON ",
+    "segundoApellido": "GARCIA",
+    "institucionDependencia": {
+      "nombre": "COMISION ESTATAL DE DERECHOS HUMANOS",
+      "siglas": "OA001",
+      "clave": "94"
+    },
+    "puesto": {
+      "nombre": "CONTRALORA INTERNA",
+      "nivel": "16"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "26189",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "MARIA FERNANDA",
+    "primerApellido": "ZARATE",
+    "segundoApellido": "DELGADILLO",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "ASISTENTE",
+      "nivel": "19"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "35949",
+    "fechaCaptura": "2022-11-17T00:00:00Z",
+    "nombres": "MARIA GUADALUPE",
+    "primerApellido": "CALDERON",
+    "segundoApellido": "SALAZAR",
+    "institucionDependencia": {
+      "nombre": "SISTEMA DIF MUNICIPAL DEL MUNICIPIO DE CIUDAD FERNANDEZ",
+      "siglas": "OD046",
+      "clave": "244"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR JURIDICO",
+      "nivel": "CONFIANZA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "26173",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "MARIA GUADALUPE",
+    "primerApellido": "DIAZ",
+    "segundoApellido": "CHAVEZ",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION ADMINISTRATIVO A",
+      "nivel": "14"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "35102",
+    "fechaCaptura": "2022-11-07T00:00:00Z",
+    "nombres": "MARIA GUADALUPE",
+    "primerApellido": "CASTILLO",
+    "segundoApellido": "FERRRETIZ",
+    "institucionDependencia": {
+      "nombre": "CIUDAD FERNANDEZ",
+      "siglas": "AY011",
+      "clave": "110"
+    },
+    "puesto": {
+      "nombre": "SECRETARIA EJECUTIVA",
+      "nivel": "BAJO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "34278",
+    "fechaCaptura": "2022-11-03T00:00:00Z",
+    "nombres": "MARIA GUADALUPE",
+    "primerApellido": "RIVERA",
+    "segundoApellido": "NUNEZ",
+    "institucionDependencia": {
+      "nombre": "RAYON",
+      "siglas": "AY023",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE DEPORTES",
+      "nivel": "DE CONFIANZA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "34021",
+    "fechaCaptura": "2022-10-24T00:00:00Z",
+    "nombres": "MARIA GUADALUPE",
+    "primerApellido": "MARTINEZ",
+    "segundoApellido": "ESPINOSA",
+    "institucionDependencia": {
+      "nombre": "HUEHUETLAN",
+      "siglas": "AY018",
+      "clave": "117"
+    },
+    "puesto": {
+      "nombre": "CONTRALOR INTERNO",
+      "nivel": "CONFIANZA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "26120",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "MARIA LUISA",
+    "primerApellido": "MARTINEZ",
+    "segundoApellido": "ORNELAS",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "ASISTENTE ADMINISTRATIVO A",
+      "nivel": "12"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "35088",
+    "fechaCaptura": "2022-11-07T00:00:00Z",
+    "nombres": "MARIA MERCEDES",
+    "primerApellido": "MENDEZ",
+    "segundoApellido": "ROCHA",
+    "institucionDependencia": {
+      "nombre": "CIUDAD FERNANDEZ",
+      "siglas": "AY011",
+      "clave": "110"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR ADMINISTRATIVO",
+      "nivel": "BAJO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "26185",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "MARIANA GABRIELA",
+    "primerApellido": "ZUÑIGA ",
+    "segundoApellido": "RIVERA",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "ASISTENTE GENERAL",
+      "nivel": "13"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "34308",
+    "fechaCaptura": "2022-11-03T00:00:00Z",
+    "nombres": "MARIANO EDMUNDO ",
+    "primerApellido": "YAÑEZ",
+    "segundoApellido": "ESQUIVEL",
+    "institucionDependencia": {
+      "nombre": "RAYON",
+      "siglas": "AY023",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "ENCARGADO DE PARQUE VEHICULAR",
+      "nivel": "DE CONFIANZA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "34310",
+    "fechaCaptura": "2022-11-03T00:00:00Z",
+    "nombres": "MARIA RICARDA",
+    "primerApellido": "GONZALEZ ",
+    "segundoApellido": "DE LA CRUZ",
+    "institucionDependencia": {
+      "nombre": "RAYON",
+      "siglas": "AY023",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "ENCARGADA DE ASUNTOS INDIGENAS",
+      "nivel": "DE CONFIANZA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "26150",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "MARICELA",
+    "primerApellido": "RENTERIA",
+    "segundoApellido": "ESPINOZA",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "ASISTENTE GENERAL",
+      "nivel": "13"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "35066",
+    "fechaCaptura": "2022-11-07T00:00:00Z",
+    "nombres": "MARICELA",
+    "primerApellido": "LOPEZ",
+    "segundoApellido": "OLGUIN",
+    "institucionDependencia": {
+      "nombre": "CIUDAD FERNANDEZ",
+      "siglas": "AY011",
+      "clave": "110"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR TECNICO",
+      "nivel": "BAJO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "23221",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "MARIO",
+    "primerApellido": "MENDOZA ",
+    "segundoApellido": "CANO",
+    "institucionDependencia": {
+      "nombre": "COMISION ESTATAL DE DERECHOS HUMANOS",
+      "siglas": "OA001",
+      "clave": "94"
+    },
+    "puesto": {
+      "nombre": "JESE DE SECCION DE RECURSOS MATERIALES Y SERVICIOS GENERALES",
+      "nivel": "9"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "26149",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "MARIO ALBERTO",
+    "primerApellido": "MARTINEZ",
+    "segundoApellido": "ULLOA",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO B",
+      "nivel": "20"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "26209",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "MARISA DE LOS ANGELES",
+    "primerApellido": "VALLE ",
+    "segundoApellido": "MARTIN",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR ESPECIALIZADO D",
+      "nivel": "21"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "34292",
+    "fechaCaptura": "2022-11-03T00:00:00Z",
+    "nombres": "MARTHA ELIA",
+    "primerApellido": "PEREZ ",
+    "segundoApellido": "MEDINA",
+    "institucionDependencia": {
+      "nombre": "RAYON",
+      "siglas": "AY023",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE RECURSOS HUMANOS ",
+      "nivel": "DE CONFIANZA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "26184",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "MAYRA YOLANDA",
+    "primerApellido": "TRISTAN",
+    "segundoApellido": "INFANTE",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "ASESOR ESPECIALIZADO A",
+      "nivel": "20"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "35065",
+    "fechaCaptura": "2022-11-07T00:00:00Z",
+    "nombres": "MIRIAM ANNET ",
+    "primerApellido": "GARCIA ",
+    "segundoApellido": "ARVIZU",
+    "institucionDependencia": {
+      "nombre": "CIUDAD FERNANDEZ",
+      "siglas": "AY011",
+      "clave": "110"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR DE AREA",
+      "nivel": "MEDIO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "36698",
+    "fechaCaptura": "2022-11-28T00:00:00Z",
+    "nombres": "MIRIAM BERENICE",
+    "primerApellido": "TORRES",
+    "segundoApellido": "CEDILLO",
+    "institucionDependencia": {
+      "nombre": "H. CONGRESO DEL ESTADO DE SAN LUIS POTOSI",
+      "siglas": "PL002",
+      "clave": "92"
+    },
+    "puesto": {
+      "nombre": "COORDINADORA DE INFORMATICA DE LA LXIII LEGISLATURA",
+      "nivel": "COORDINACION DE INFORMATICA "
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "26151",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "MIRTHA NATALIA",
+    "primerApellido": "LOPEZ",
+    "segundoApellido": "ZUMAYA",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION ADMINISTRATIVO A",
+      "nivel": "14"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "34353",
+    "fechaCaptura": "2022-11-03T00:00:00Z",
+    "nombres": "MONICA SATSUMA",
+    "primerApellido": "CHAVEZ",
+    "segundoApellido": "RODRIGUEZ",
+    "institucionDependencia": {
+      "nombre": "RIOVERDE",
+      "siglas": "AY024",
+      "clave": "123"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR",
+      "nivel": "2"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "34482",
+    "fechaCaptura": "2022-11-03T00:00:00Z",
+    "nombres": "MTRA. MARIBEL ",
+    "primerApellido": "GUTIERREZ ",
+    "segundoApellido": "LAGUNA",
+    "institucionDependencia": {
+      "nombre": "AUDITORIA SUPERIOR DEL ESTADO DE SAN LUIS POTOSI ",
+      "siglas": "PL001",
+      "clave": "91"
+    },
+    "puesto": {
+      "nombre": "QUINTO VOCAL",
+      "nivel": "APOYO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "34313",
+    "fechaCaptura": "2022-11-03T00:00:00Z",
+    "nombres": "MUGUEL DAVID",
+    "primerApellido": "HURTADO",
+    "segundoApellido": "GARCIA",
+    "institucionDependencia": {
+      "nombre": "RAYON",
+      "siglas": "AY023",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE ECOLOGIA",
+      "nivel": "DE CONFIANZA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "26204",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "NAYELI ",
+    "primerApellido": "MUÑOZ",
+    "segundoApellido": "CASTILLO",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "ASISTENTE ADMINISTRATIVO C",
+      "nivel": "9"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "35137",
+    "fechaCaptura": "2022-11-08T00:00:00Z",
+    "nombres": "NAZARETH",
+    "primerApellido": "FELIX",
+    "segundoApellido": "GUTIERREZ",
+    "institucionDependencia": {
+      "nombre": "TAMPAMOLON CORONA",
+      "siglas": "AY039",
+      "clave": "138"
+    },
+    "puesto": {
+      "nombre": "TESORERA",
+      "nivel": "1"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "34300",
+    "fechaCaptura": "2022-11-03T00:00:00Z",
+    "nombres": "NELICA SILVINA",
+    "primerApellido": "GUERRERO",
+    "segundoApellido": "MARTINEZ",
+    "institucionDependencia": {
+      "nombre": "RAYON",
+      "siglas": "AY023",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "AUTORIDAD SUBSANCIADORA",
+      "nivel": "DE CONFIANZA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "26202",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "NOE",
+    "primerApellido": "COVARRUBIAS",
+    "segundoApellido": "RIVERA",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "ASISTENTE ADMINISTRATIVO A",
+      "nivel": "12"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "34614",
+    "fechaCaptura": "2022-11-03T00:00:00Z",
+    "nombres": "NOEL",
+    "primerApellido": "OLVERA",
+    "segundoApellido": "CASTILLO",
+    "institucionDependencia": {
+      "nombre": "SISTEMA DIF MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE CUIDAD VALLES",
+      "siglas": "OD045",
+      "clave": "202"
+    },
+    "puesto": {
+      "nombre": "CONTRALOR INTERNO",
+      "nivel": "CONTRALOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "34616",
+    "fechaCaptura": "2022-11-03T00:00:00Z",
+    "nombres": "NOHALI ARIZEMA",
+    "primerApellido": "GUTIERREZ",
+    "segundoApellido": "CASTRO",
+    "institucionDependencia": {
+      "nombre": "SISTEMA DIF MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE CUIDAD VALLES",
+      "siglas": "OD045",
+      "clave": "202"
+    },
+    "puesto": {
+      "nombre": "RESPONSABLE DE INVENTARIOS",
+      "nivel": "RESPONSABLE"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "26172",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "NORA ESMERALDA",
+    "primerApellido": "TENORIO",
+    "segundoApellido": "PEREZ",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "ASISTENTE B",
+      "nivel": "10"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "26180",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "NORMA YOLANDA",
+    "primerApellido": "IBARRA",
+    "segundoApellido": "HURTADO",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "ASISTENTE ADMINISTRATIVO C",
+      "nivel": "9"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "34285",
+    "fechaCaptura": "2022-11-03T00:00:00Z",
+    "nombres": "OHEL",
+    "primerApellido": "RESENDIZ",
+    "segundoApellido": "MOCTEZUMA",
+    "institucionDependencia": {
+      "nombre": "RAYON",
+      "siglas": "AY023",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "SECRETARIO GENERAL",
+      "nivel": "DE CONFIANZA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "26145",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "OSCAR OLIVER",
+    "primerApellido": "RODRIGUEZ",
+    "segundoApellido": "MITRE",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "AUDITOR B",
+      "nivel": "13"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "34390",
+    "fechaCaptura": "2022-11-03T00:00:00Z",
+    "nombres": "OSIRIS IVAN",
+    "primerApellido": "LARA",
+    "segundoApellido": "TAPIA",
+    "institucionDependencia": {
+      "nombre": "CARDENAS",
+      "siglas": "AY005",
+      "clave": "104"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DEL DEPARTAMENTO DE ALCOHOLES",
+      "nivel": "CONFIANZA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "34020",
+    "fechaCaptura": "2022-10-24T00:00:00Z",
+    "nombres": "PABLO",
+    "primerApellido": "ABEL",
+    "segundoApellido": "MARTINEZ",
+    "institucionDependencia": {
+      "nombre": "HUEHUETLAN",
+      "siglas": "AY018",
+      "clave": "117"
+    },
+    "puesto": {
+      "nombre": "SINDICO MUNICIPAL",
+      "nivel": "CONFIANZA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "35073",
+    "fechaCaptura": "2022-11-07T00:00:00Z",
+    "nombres": "PABLO",
+    "primerApellido": "HUERTA",
+    "segundoApellido": "MARTINEZ",
+    "institucionDependencia": {
+      "nombre": "CIUDAD FERNANDEZ",
+      "siglas": "AY011",
+      "clave": "110"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR DE AREA",
+      "nivel": "MEDIO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "34291",
+    "fechaCaptura": "2022-11-03T00:00:00Z",
+    "nombres": "PABLO",
+    "primerApellido": "BERRONES",
+    "segundoApellido": "ALVARADO",
+    "institucionDependencia": {
+      "nombre": "RAYON",
+      "siglas": "AY023",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "PRESINDENTE MUNICIPAL CONSTITUCIONAL",
+      "nivel": "DE CONFIANZA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "26203",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "PABLO",
+    "primerApellido": "GARCIA",
+    "segundoApellido": "VARGAS",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR ADMINISTRATIVO A",
+      "nivel": "15"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "13529",
+    "fechaCaptura": "2022-09-29T00:00:00Z",
+    "nombres": "PALOMA",
+    "primerApellido": "BLANCO",
+    "segundoApellido": "LOPEZ",
+    "institucionDependencia": {
+      "nombre": "CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACION CIUDADANA",
+      "siglas": "OA003",
+      "clave": "96"
+    },
+    "puesto": {
+      "nombre": "CONSEJERA PRESIDENTA",
+      "nivel": "TITULAR DEL ORGANISMO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "26211",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "PATRICIA EUGENIA",
+    "primerApellido": "ALVAREZ",
+    "segundoApellido": "CISNEROS",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "ASISTENTE GENERAL",
+      "nivel": "13"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "26128",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "PEDRO ANTONIO",
+    "primerApellido": "CARDONA",
+    "segundoApellido": "REYNA",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTOR C",
+      "nivel": "22"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "34288",
+    "fechaCaptura": "2022-11-03T00:00:00Z",
+    "nombres": "PERLA ANAHI",
+    "primerApellido": "CASTILLO",
+    "segundoApellido": "PONCE",
+    "institucionDependencia": {
+      "nombre": "RAYON",
+      "siglas": "AY023",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "ENCARGADA DE INAPAM",
+      "nivel": "DE CONFIANZA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "26192",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "RAMON GABRIEL",
+    "primerApellido": "ARELLANO",
+    "segundoApellido": "ORTIZ",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "ASESOR ESPECIALIZADO A",
+      "nivel": "20"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "35076",
+    "fechaCaptura": "2022-11-07T00:00:00Z",
+    "nombres": "REBECA",
+    "primerApellido": "MENDEZ",
+    "segundoApellido": "TURRUBIARTES",
+    "institucionDependencia": {
+      "nombre": "CIUDAD FERNANDEZ",
+      "siglas": "AY011",
+      "clave": "110"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR OPERATIVO DE CATASTRO",
+      "nivel": "ALTO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      },
+      {
+        "clave": 4,
+        "valor": "ASIGNACIÓN Y EMISIÓN DE DICTÁMENES DE AVALÚOS NACIONALES"
+      }
+    ]
+  },
+  {
+    "id": "36696",
+    "fechaCaptura": "2022-11-28T00:00:00Z",
+    "nombres": "RENE",
+    "primerApellido": "OYARVIDE",
+    "segundoApellido": "IBARRA",
+    "institucionDependencia": {
+      "nombre": "H. CONGRESO DEL ESTADO DE SAN LUIS POTOSI",
+      "siglas": "PL002",
+      "clave": "92"
+    },
+    "puesto": {
+      "nombre": "DIPUTADO",
+      "nivel": "VOCAL DE LA JUNTA DE COORDINACION POLITICA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "26152",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "RENE ",
+    "primerApellido": "RAMIREZ",
+    "segundoApellido": "PEDRAZA",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "ASESOR A",
+      "nivel": "15"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "35140",
+    "fechaCaptura": "2022-11-08T00:00:00Z",
+    "nombres": "RICARDO",
+    "primerApellido": "GARCIA",
+    "segundoApellido": "GONZALEZ",
+    "institucionDependencia": {
+      "nombre": "TAMPAMOLON CORONA",
+      "siglas": "AY039",
+      "clave": "138"
+    },
+    "puesto": {
+      "nombre": "CONTRALOR INTERNO",
+      "nivel": "1"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "26161",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "ROBERTO",
+    "primerApellido": "ARRIAGA",
+    "segundoApellido": "CUESTAS",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "ASISTENTE ADMINISTRATIVO E",
+      "nivel": "8"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "36690",
+    "fechaCaptura": "2022-11-28T00:00:00Z",
+    "nombres": "ROBERTO ULISES ",
+    "primerApellido": "MENDOZA",
+    "segundoApellido": "PADRON",
+    "institucionDependencia": {
+      "nombre": "H. CONGRESO DEL ESTADO DE SAN LUIS POTOSI",
+      "siglas": "PL002",
+      "clave": "92"
+    },
+    "puesto": {
+      "nombre": "DIPUTADO",
+      "nivel": "SECRETARIA DEL COMITE DE ADQUISICIONES"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "13528",
+    "fechaCaptura": "2022-09-29T00:00:00Z",
+    "nombres": "ROBLE RUTH",
+    "primerApellido": "ALEJANDRO",
+    "segundoApellido": "TORRES",
+    "institucionDependencia": {
+      "nombre": "CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACION CIUDADANA",
+      "siglas": "OA003",
+      "clave": "96"
+    },
+    "puesto": {
+      "nombre": "SECRETARIA EJECUTIVA",
+      "nivel": "1"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "31053",
+    "fechaCaptura": "2022-10-13T00:00:00Z",
+    "nombres": "ROCIO DEL CARMEN",
+    "primerApellido": "VERASTEGUI ",
+    "segundoApellido": "MEDINA",
+    "institucionDependencia": {
+      "nombre": "LAGUNILLAS",
+      "siglas": "AY019",
+      "clave": "118"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR DE DESARROLLO SOCIAL Y 1ER. VOCAL DEL CAASOP",
+      "nivel": "2"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "35081",
+    "fechaCaptura": "2022-11-07T00:00:00Z",
+    "nombres": "RODOLFO EDGAR",
+    "primerApellido": "HUERTA",
+    "segundoApellido": "CASTILLO",
+    "institucionDependencia": {
+      "nombre": "CIUDAD FERNANDEZ",
+      "siglas": "AY011",
+      "clave": "110"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR TECNICO",
+      "nivel": "BAJO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      },
+      {
+        "clave": 4,
+        "valor": "ASIGNACIÓN Y EMISIÓN DE DICTÁMENES DE AVALÚOS NACIONALES"
+      }
+    ]
+  },
+  {
+    "id": "26122",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "RODRIGO",
+    "primerApellido": "PORTILLA",
+    "segundoApellido": "DIAZ",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "TESORERO MUNICIPAL",
+      "nivel": "27"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "31054",
+    "fechaCaptura": "2022-10-13T00:00:00Z",
+    "nombres": "ROMAN",
+    "primerApellido": "CASTILLO",
+    "segundoApellido": "GUILLEN",
+    "institucionDependencia": {
+      "nombre": "LAGUNILLAS",
+      "siglas": "AY019",
+      "clave": "118"
+    },
+    "puesto": {
+      "nombre": "SECRETARIO DEL H. AYUNTAMIENTO Y 2DO. VOCAL DEL CAASOP",
+      "nivel": "2"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "26171",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "ROSA ESTELA",
+    "primerApellido": "DAVALOS",
+    "segundoApellido": "FAZ",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION ",
+      "nivel": "13"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "34263",
+    "fechaCaptura": "2022-11-02T00:00:00Z",
+    "nombres": "ROSA MARIA ",
+    "primerApellido": "MOTILLA ",
+    "segundoApellido": "GARCIA",
+    "institucionDependencia": {
+      "nombre": "COMISION ESTATAL DE GARANTIA DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI",
+      "siglas": "OA002",
+      "clave": "95"
+    },
+    "puesto": {
+      "nombre": "SECRETARIA DE PLENO ",
+      "nivel": "CONFIANZA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "35062",
+    "fechaCaptura": "2022-11-07T00:00:00Z",
+    "nombres": "RUBEN",
+    "primerApellido": "HUERTA",
+    "segundoApellido": "AVILA",
+    "institucionDependencia": {
+      "nombre": "CIUDAD FERNANDEZ",
+      "siglas": "AY011",
+      "clave": "110"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR ADMINISTRATIVO",
+      "nivel": "BAJO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      },
+      {
+        "clave": 4,
+        "valor": "ASIGNACIÓN Y EMISIÓN DE DICTÁMENES DE AVALÚOS NACIONALES"
+      }
+    ]
+  },
+  {
+    "id": "36697",
+    "fechaCaptura": "2022-11-28T00:00:00Z",
+    "nombres": "RUBEN",
+    "primerApellido": "GUAJARDO",
+    "segundoApellido": "BARRERA",
+    "institucionDependencia": {
+      "nombre": "H. CONGRESO DEL ESTADO DE SAN LUIS POTOSI",
+      "siglas": "PL002",
+      "clave": "92"
+    },
+    "puesto": {
+      "nombre": "DIPUTADO",
+      "nivel": "SECRETARIA DE LA JUNTA DE COORDINACION POLITICA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "26174",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "SALVADOR",
+    "primerApellido": "LOPEZ",
+    "segundoApellido": "LOPEZ",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "ASESOR B",
+      "nivel": "14"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "35722",
+    "fechaCaptura": "2022-11-15T00:00:00Z",
+    "nombres": "SALVADOR",
+    "primerApellido": "RUIZ",
+    "segundoApellido": "ZUÑIGA",
+    "institucionDependencia": {
+      "nombre": "ORGANISMO OPERADOR DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE TAMAZUNCHALE, S.L.P. ",
+      "siglas": "OD014",
+      "clave": "171"
+    },
+    "puesto": {
+      "nombre": "CONTADOR",
+      "nivel": "CONFIANZA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "34397",
+    "fechaCaptura": "2022-11-03T00:00:00Z",
+    "nombres": "SAMUEL",
+    "primerApellido": "IBARRA",
+    "segundoApellido": "ALFARO",
+    "institucionDependencia": {
+      "nombre": "CARDENAS",
+      "siglas": "AY005",
+      "clave": "104"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DEL DEPARTAMENTO DE ECOLOGIA",
+      "nivel": "CONFIANZA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "34275",
+    "fechaCaptura": "2022-11-03T00:00:00Z",
+    "nombres": "SAN PASCUAL",
+    "primerApellido": "IBARRA",
+    "segundoApellido": "TELLO",
+    "institucionDependencia": {
+      "nombre": "RAYON",
+      "siglas": "AY023",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DEL RASTRO",
+      "nivel": "DE CONFIANZA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "35084",
+    "fechaCaptura": "2022-11-07T00:00:00Z",
+    "nombres": "SAYRA GUADALUPE",
+    "primerApellido": "COMPEAN",
+    "segundoApellido": "RODRIGUEZ",
+    "institucionDependencia": {
+      "nombre": "CIUDAD FERNANDEZ",
+      "siglas": "AY011",
+      "clave": "110"
+    },
+    "puesto": {
+      "nombre": "TESORERO MUNICIPAL",
+      "nivel": "ALTO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "26146",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "SEBASTIAN",
+    "primerApellido": "PEREZ",
+    "segundoApellido": "GARCIA",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "SECRETARIO GENERAL",
+      "nivel": "27"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "34273",
+    "fechaCaptura": "2022-11-03T00:00:00Z",
+    "nombres": "SERGIO",
+    "primerApellido": "CASTILLO",
+    "segundoApellido": "GONZALEZ",
+    "institucionDependencia": {
+      "nombre": "ORGANISMO OPERADOR PARAMUNICIPAL DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE CIUDAD FERNANDEZ",
+      "siglas": "OD020",
+      "clave": "177"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR GENERAL",
+      "nivel": "1"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "31056",
+    "fechaCaptura": "2022-10-13T00:00:00Z",
+    "nombres": "SERGIO ALBERTO",
+    "primerApellido": "IZAGUIRRE",
+    "segundoApellido": "PONCE",
+    "institucionDependencia": {
+      "nombre": "LAGUNILLAS",
+      "siglas": "AY019",
+      "clave": "118"
+    },
+    "puesto": {
+      "nombre": "PRESIDNETE MUNICIPAL Y PRESIDENTE DEL CAASOP",
+      "nivel": "PRIMER NIVEL "
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "34312",
+    "fechaCaptura": "2022-11-03T00:00:00Z",
+    "nombres": "SERGIO EDUARDO",
+    "primerApellido": "LINARES",
+    "segundoApellido": "NEGRETE",
+    "institucionDependencia": {
+      "nombre": "RAYON",
+      "siglas": "AY023",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "ENCARGADO DE MANTENIMIENTO DE INFORMATICA",
+      "nivel": "DE CONFIANZA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "26166",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "SERGIO HIRAM",
+    "primerApellido": "HERNANDEZ",
+    "segundoApellido": "SANCHEZ",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "ASESOR ESPECIALIZADO C",
+      "nivel": "17"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "34352",
+    "fechaCaptura": "2022-11-03T00:00:00Z",
+    "nombres": "SERVANDINA DE JESUS",
+    "primerApellido": "JIMENEZ",
+    "segundoApellido": "LOPEZ",
+    "institucionDependencia": {
+      "nombre": "RIOVERDE",
+      "siglas": "AY024",
+      "clave": "123"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO",
+      "nivel": "5"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "35138",
+    "fechaCaptura": "2022-11-08T00:00:00Z",
+    "nombres": "SILVIA",
+    "primerApellido": "MEDINA",
+    "segundoApellido": "BURGAÑA",
+    "institucionDependencia": {
+      "nombre": "TAMPAMOLON CORONA",
+      "siglas": "AY039",
+      "clave": "138"
+    },
+    "puesto": {
+      "nombre": "PRESIDENTA MUNICIPAL CONSTITUCIONAL",
+      "nivel": "1"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      },
+      {
+        "clave": 4,
+        "valor": "ASIGNACIÓN Y EMISIÓN DE DICTÁMENES DE AVALÚOS NACIONALES"
+      }
+    ]
+  },
+  {
+    "id": "26154",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "SILVIA GUADALUPE",
+    "primerApellido": "DIAZ",
+    "segundoApellido": "MORENO",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "JEFE DE AREA C",
+      "nivel": "15"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "36422",
+    "fechaCaptura": "2022-11-22T00:00:00Z",
+    "nombres": "SOFIA",
+    "primerApellido": "PEREZ",
+    "segundoApellido": "LOPEZ",
+    "institucionDependencia": {
+      "nombre": "ENTE PRUEBA",
+      "siglas": "ENTE PRUEBA",
+      "clave": "242"
+    },
+    "puesto": {
+      "nombre": "ADMINISTRADOR",
+      "nivel": "CONFIANZA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "34395",
+    "fechaCaptura": "2022-11-03T00:00:00Z",
+    "nombres": "SOFIA SARAHI",
+    "primerApellido": "SANTILLAN ",
+    "segundoApellido": "GOMEZ",
+    "institucionDependencia": {
+      "nombre": "CARDENAS",
+      "siglas": "AY005",
+      "clave": "104"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE CATASTRO",
+      "nivel": "CONFIANZA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      },
+      {
+        "clave": 4,
+        "valor": "ASIGNACIÓN Y EMISIÓN DE DICTÁMENES DE AVALÚOS NACIONALES"
+      }
+    ]
+  },
+  {
+    "id": "35721",
+    "fechaCaptura": "2022-11-15T00:00:00Z",
+    "nombres": "TADEO",
+    "primerApellido": "MARCOS",
+    "segundoApellido": "MARCOS",
+    "institucionDependencia": {
+      "nombre": "ORGANISMO OPERADOR DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE TAMAZUNCHALE, S.L.P. ",
+      "siglas": "OD014",
+      "clave": "171"
+    },
+    "puesto": {
+      "nombre": "OFICIAL DE ALMACEN",
+      "nivel": "CONFIANZA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "34299",
+    "fechaCaptura": "2022-11-03T00:00:00Z",
+    "nombres": "ULISES",
+    "primerApellido": "VEGA",
+    "segundoApellido": "AMADOR",
+    "institucionDependencia": {
+      "nombre": "RAYON",
+      "siglas": "AY023",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR DE DESARROLLO SOCIAL",
+      "nivel": "DE CONFIANZA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "34286",
+    "fechaCaptura": "2022-11-03T00:00:00Z",
+    "nombres": "UZZIEL",
+    "primerApellido": "CHAIREZ",
+    "segundoApellido": "TELLO",
+    "institucionDependencia": {
+      "nombre": "RAYON",
+      "siglas": "AY023",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "SINDICO MUNICIPAL",
+      "nivel": "DE CONFIANZA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "26208",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "VERONICA",
+    "primerApellido": "AMEZCUA",
+    "segundoApellido": "CARRILLO",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "ASESOR B",
+      "nivel": "14"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "26124",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "VERONICA",
+    "primerApellido": "RODRIGUEZ",
+    "segundoApellido": "HERNANDEZ",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "REGIDOR",
+      "nivel": "28"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "34272",
+    "fechaCaptura": "2022-11-03T00:00:00Z",
+    "nombres": "VERONICA",
+    "primerApellido": "GARCIA ",
+    "segundoApellido": "AGUILERA",
+    "institucionDependencia": {
+      "nombre": "ORGANISMO OPERADOR PARAMUNICIPAL DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE CIUDAD FERNANDEZ",
+      "siglas": "OD020",
+      "clave": "177"
+    },
+    "puesto": {
+      "nombre": "GERENTE ADMINISTRATIVO",
+      "nivel": "2"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "35089",
+    "fechaCaptura": "2022-11-07T00:00:00Z",
+    "nombres": "VICTOR",
+    "primerApellido": "ALVARADO",
+    "segundoApellido": "LANDAVERDE",
+    "institucionDependencia": {
+      "nombre": "CIUDAD FERNANDEZ",
+      "siglas": "AY011",
+      "clave": "110"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR TECNICO",
+      "nivel": "BAJO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      },
+      {
+        "clave": 4,
+        "valor": "ASIGNACIÓN Y EMISIÓN DE DICTÁMENES DE AVALÚOS NACIONALES"
+      }
+    ]
+  },
+  {
+    "id": "34389",
+    "fechaCaptura": "2022-11-03T00:00:00Z",
+    "nombres": "VICTOR HUGO",
+    "primerApellido": "RAMOS",
+    "segundoApellido": "ORTEGA",
+    "institucionDependencia": {
+      "nombre": "CARDENAS",
+      "siglas": "AY005",
+      "clave": "104"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE OBRAS PUBLICAS Y SERVICIOS MUNICIPALES",
+      "nivel": "CONFIANZA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "26215",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "VICTORIA",
+    "primerApellido": "POSADAS",
+    "segundoApellido": "FERNANDEZ",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR ADMINISTRATIVO A",
+      "nivel": "15"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "26123",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "VICTOR JOSE",
+    "primerApellido": "ANGEL",
+    "segundoApellido": "SALDAÑA",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "SINDICO",
+      "nivel": "29"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "34612",
+    "fechaCaptura": "2022-11-03T00:00:00Z",
+    "nombres": "XIOMARA",
+    "primerApellido": "GUTIERREZ",
+    "segundoApellido": "PEREZ",
+    "institucionDependencia": {
+      "nombre": "SISTEMA DIF MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE CUIDAD VALLES",
+      "siglas": "OD045",
+      "clave": "202"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR JURIDICO",
+      "nivel": "COORDINADOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "26121",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "YESSICA",
+    "primerApellido": "SANCHEZ",
+    "segundoApellido": "SANCHEZ",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "ASISTENTE GENERAL",
+      "nivel": "13"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "26210",
+    "fechaCaptura": "2022-09-30T00:00:00Z",
+    "nombres": "YOLANDA",
+    "primerApellido": "LOPEZ",
+    "segundoApellido": "REYNA",
+    "institucionDependencia": {
+      "nombre": "SAN LUIS POTOSI",
+      "siglas": "AY028",
+      "clave": "127"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR C",
+      "nivel": "9"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "36699",
+    "fechaCaptura": "2022-11-28T00:00:00Z",
+    "nombres": "YOLANDA JOSEFINA ",
+    "primerApellido": "CEPEDA",
+    "segundoApellido": "ECHAVARRIA",
+    "institucionDependencia": {
+      "nombre": "H. CONGRESO DEL ESTADO DE SAN LUIS POTOSI",
+      "siglas": "PL002",
+      "clave": "92"
+    },
+    "puesto": {
+      "nombre": "DIPUTADA",
+      "nivel": "PRESIDENCIA DE LA DIRECTIVA Y PRESIDENCIA DEL COMITE DE ADQUISICIONES"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "id": "626b08bfb4d39600234713de",
+    "institucionDependencia": {
+      "nombre": "Municipio de Solidaridad Quintana Roo"
+    },
+    "servidorPublicoSancionado": {
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "rfc": "FOBT751009HA0",
+      "nombres": "TOMAS ",
+      "primerApellido": "FLORES ",
+      "segundoApellido": "BENITEZ",
+      "puesto": "Delegado de Puerto Aventuras"
+    },
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "No se advierte potestad alguna otorgada para recibir donaciones a favor de la delegación o el municipio que justifique que el ingreso de dos mil quinientos pesos que obtuvo en cada uno de los meses de octubre noviembre y diciembre de dos mil diecinueve y enero del año dos mil veinte por parte de la empresa Tours Acosta"
+    },
+    "resolucion": {
+      "fechaResolucion": "2021-11-19"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      },
+      "monto": 15000
+    },
+    "__v": 0,
+    "autoridadSancionadora": "SEGUNDA SALA UNITARIA DEL TJAQROO",
+    "causaMotivoHechos": "Realizó diversos cobros diciendo que eran donaciones a favor del Municipio de Solidaridad",
+    "documentos": [
+      {
+        "id": "1",
+        "titulo": "SENTENCIA DEFINITIVA DEL EXPEDIENTE 001/2021-SU2-PR",
+        "tipo": "RESOLUCION",
+        "descripcion": "SENTENCIA DE FECHA 19 DE NOVIEMBRE DE 2021 POR LA QUE SE DETERMINÓ LA RESPONSABILIDAD ADMINISTRATIVA GRAVE COMETIDA POR TOMÁS FLORES BENITEZ",
+        "url": "https://drive.google.com/file/d/1rbQYjFROtKgrXCkXay7ROYI9HH4VA8Fu/view?usp=sharing",
+        "fecha": "2021-11-18"
+      }
+    ],
+    "expediente": "01/2021-SU2-PR",
+    "fechaCaptura": "2022-07-15T18:28:38+00:00",
+    "tipoSancion": [
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA",
+        "descripcion": "sanción económica por 15,000.00 (Son Quince Mil Pesos 00/100 M.N.) "
+      }
+    ]
+  },
+  {
+    "id": "61e1abda2a16a00013957a76",
+    "institucionDependencia": {
+      "nombre": "DIRECCIÓN DEL TALLER MUNICIPAL DE BENITO JUÁREZ",
+      "siglas": "DTMBJ"
+    },
+    "servidorPublicoSancionado": {
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "rfc": "TIIGW930517UY9",
+      "nombres": "WILBERTH OCTAVIO ",
+      "primerApellido": "TRIANA",
+      "segundoApellido": "GARCÍA",
+      "puesto": "DIRECTOR DEL TALLER MUNICIPAL ",
+      "nivel": "DIRECCIÓN"
+    },
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "INHÁBILITACIÓN POR DIEZ AÑOS"
+    },
+    "resolucion": {
+      "fechaResolucion": "2020-03-20"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      },
+      "monto": 42780
+    },
+    "inhabilitacion": {
+      "plazo": "DIEZ AÑOS",
+      "fechaInicial": "2020-09-09",
+      "fechaFinal": "2030-09-09"
+    },
+    "__v": 0,
+    "autoridadSancionadora": "TERCERA SALA UNITARIA DEL TJAQROO",
+    "causaMotivoHechos": "ORDENÓ EL CAMBIO DE MOTOR  DE UN VEHÍCULO OF A UNO PARTÍCULAR",
+    "documentos": [
+      {
+        "id": "1",
+        "titulo": "SENTNENCIA DEFINITIVA DEL EXPEDIENTE TJA/QR-SU3-074-2019",
+        "tipo": "RESOLUCION",
+        "descripcion": "SENTENCIA DE FECHA 20 DE MARZO DE 2020 POR LA QUE SE DETERMINÓ LA RESPONSABILIDAD ADMINISTRATIVA GRAVE DE WILBERTH ",
+        "url": "https://drive.google.com/file/d/1Us1lib3CyCZxcNwSzvk3oFqRfCBCu7vN/view?usp=sharing",
+        "fecha": "2020-03-18"
+      }
+    ],
+    "expediente": "TJA/QR-SU3-074-2019",
+    "fechaCaptura": "2022-08-05T18:10:20+00:00",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABIILITACIÓN POR DIEZ AÑOS"
+      },
+      {
+        "clave": "M",
+        "valor": "MULTADO",
+        "descripcion": "MULTA POR $42,780.00 PESOS"
+      }
+    ]
+  },
+  {
+    "id": "61e1b1452a16a00013957ab3",
+    "institucionDependencia": {
+      "nombre": "MECÁNICO DEL TALLER MUNICIPAL DE BENITO JUÁREZ",
+      "siglas": "TMBJ"
+    },
+    "servidorPublicoSancionado": {
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "rfc": "JUDE670816HB4",
+      "nombres": "EMILIO ",
+      "primerApellido": "JUÁREZ",
+      "segundoApellido": "DORIA",
+      "puesto": "MECÁNICO "
+    },
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE",
+      "descripcion": "SUSPENSIÓN TEMPORAL POR TREINTA DÍAS NATURALES Y SANCIÓN ECONÓMICA"
+    },
+    "resolucion": {
+      "fechaResolucion": "2020-03-20"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      },
+      "monto": 19220
+    },
+    "inhabilitacion": {
+      "plazo": "TREINTA DÍAS",
+      "fechaInicial": "2021-08-01",
+      "fechaFinal": "2021-08-30"
+    },
+    "__v": 0,
+    "autoridadSancionadora": "TERCERA SALA UNITARIA DEL TJAQROO",
+    "causaMotivoHechos": "EL SERVIDOR PÚBLICO INSTRUYÓ AL PERSONAL A SU CARGO PARA REALIZAR EL CAMBIO DE MOTOR NO AUTORIZADO DE UN VEHÍCULO PROPIEDAD DEL MUNICIPIO A UNO PARTICULAR",
+    "documentos": [
+      {
+        "id": "1",
+        "titulo": "SENTNENCIA DEFINITIVA DEL EXPEDIENTE TJA/QR-SU3-074-2019",
+        "tipo": "RESOLUCION",
+        "descripcion": "SENTENCIA DE FECHA 20 DE MARZO DE 2020 POR LA QUE SE DETERMINÓ LA RESPONSABILIDAD ADMINISTRATIVA GRAVE DE EMILIO JUÁREZ DORIA",
+        "url": "https://drive.google.com/file/d/1Us1lib3CyCZxcNwSzvk3oFqRfCBCu7vN/view?usp=sharing",
+        "fecha": "2020-03-17"
+      }
+    ],
+    "expediente": "TJA/QR-SU3-074-2019",
+    "fechaCaptura": "2022-08-05T18:11:42+00:00",
+    "tipoSancion": [
+      {
+        "clave": "S",
+        "valor": "SUSPENSIÓN DEL EMPLEO, CARGO O COMISIÓN",
+        "descripcion": "SUSPENSIÓN TEMPORAL POR TREINTA DÍAS NATURALES "
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA",
+        "descripcion": "SANCIÓN ECONÓMICA DE $19220.00"
+      }
+    ]
+  },
+  {
+    "id": "61e1d4122a16a00013957af0",
+    "institucionDependencia": {
+      "nombre": "DIRECCIÓN DE JUZGADOS CÍVICOS DEL MUNICIPIO DE B. J. Q.ROO",
+      "siglas": "DJCM"
+    },
+    "servidorPublicoSancionado": {
+      "genero": {
+        "clave": "F",
+        "valor": "FEMENINO"
+      },
+      "rfc": "MAPC800318S59",
+      "nombres": "CLAUDIA IVETTE",
+      "primerApellido": "MANZANILLO",
+      "segundoApellido": "POOT",
+      "puesto": "JUEZ CALIFICADORA ",
+      "nivel": "JUEZ CALIFICADORA"
+    },
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE"
+    },
+    "resolucion": {
+      "fechaResolucion": "2021-09-21"
+    },
+    "inhabilitacion": {
+      "plazo": "UN AÑO",
+      "fechaInicial": "2021-09-28",
+      "fechaFinal": "2022-09-28"
+    },
+    "__v": 0,
+    "autoridadSancionadora": "TERCERA SALA UNITARIA DEL TJAQROO",
+    "causaMotivoHechos": "UN  CONOCIDO DEL C JUAN  IBARRA FUE DETENIDO Y LA JUEZ CALIFICADORA LE INDICÓ EL MONTO DE LA MULTA PERO AL NO \nTENER EL DINERO COMPLETO LE RECIBIÓ MIL PESOS Y UN RELOJ",
+    "documentos": [
+      {
+        "id": "1",
+        "titulo": "SENTENCIA DEFINITIVA DEL EXPEDIENTE TJA/QR-SU3-092-2019",
+        "tipo": "RESOLUCION",
+        "descripcion": "SENTENCIA DE FECHA 21 DE SEPTIEMBRE DE 2020 POR LA QUE SE DETERMINÓ LA RESPONSABILIDAD ADMINISTRATIVA GRAVE DE CLAUDIA IVETTE MANZANILLO POOT",
+        "url": "https://drive.google.com/file/d/11r8DZBS682ixinpGZSn-eoPJmCnbtu7M/view",
+        "fecha": "2020-09-20"
+      }
+    ],
+    "expediente": "TJA/QR-SU3-092-2019",
+    "fechaCaptura": "2022-08-05T18:12:24+00:00",
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "descripcion": "INHABILITACIÓN TEMPORAL POR PERIODO DE UNA AÑO"
+      }
+    ]
+  }
+]

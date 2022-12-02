@@ -1,0 +1,4259 @@
+[
+  {
+    "id": "6318a83799226c00195b8233",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "ENCARGADO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "BENJAMIN",
+    "primerApellido": "CAMPOS",
+    "segundoApellido": "MORALES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:18:31+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a85399226c00195b8249",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "DEL REG DE LA SEJ "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "AGUSTÍN ",
+    "primerApellido": "GONZALEZ",
+    "segundoApellido": "FLORES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:18:59+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a86699226c00195b8257",
+    "institucionDependencia": {
+      "nombre": "Coordinación General Estratégica de DS"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR JURÍDICO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "VERONICA",
+    "primerApellido": "ROSALES",
+    "segundoApellido": "BRISEÑO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:19:18+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a8a999226c00195b826a",
+    "institucionDependencia": {
+      "nombre": "Coordinación General Estratégica de Seguridad"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR ADMIN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "INGRID",
+    "primerApellido": "GUERRERO",
+    "segundoApellido": "LOBATO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:20:25+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a8c999226c00195b8284",
+    "institucionDependencia": {
+      "nombre": "OPD HOSPITAL CIVIL GDL"
+    },
+    "puesto": {
+      "nombre": "OFIC PREP Y DESPA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ALEXANDRA ",
+    "primerApellido": "JIMENEZ ",
+    "segundoApellido": "ROBLES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:20:57+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a8d999226c00195b828b",
+    "institucionDependencia": {
+      "nombre": "Coordinación General Estratégica de Seguridad"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR ESPECIALIZADO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARIA ROXANA",
+    "primerApellido": "BARRAZA",
+    "segundoApellido": "VALENZUELA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:21:13+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a8dd99226c00195b82a3",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR DE OBRA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "HECTOR DAVID",
+    "primerApellido": "GARCÍA",
+    "segundoApellido": "TOLEDO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:21:17+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a90e99226c00195b82c9",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR DE LICITACION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "HÉCTOR LEONARDO",
+    "primerApellido": "RODRÍGUEZ ",
+    "segundoApellido": "MATA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:22:06+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a91599226c00195b82d5",
+    "institucionDependencia": {
+      "nombre": "Escuela de Conservación y Restauración de Occiden ",
+      "siglas": "ECRO"
+    },
+    "puesto": {
+      "nombre": "ENCARGADO DE RECURSOS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ALEJANDRO",
+    "primerApellido": "ZAMORA",
+    "segundoApellido": "GUZMAN",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:22:13+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a93199226c00195b82ef",
+    "institucionDependencia": {
+      "nombre": "OPD HOSPITAL CIVIL GDL"
+    },
+    "puesto": {
+      "nombre": "PROF EJE DE SERVICIOS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ALONDRA  ",
+    "primerApellido": "PUGA ",
+    "segundoApellido": "CARAVEO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:22:41+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a94399226c00195b8302",
+    "institucionDependencia": {
+      "nombre": "Escuela de Conservación y Restauración de Occiden ",
+      "siglas": "ECRO"
+    },
+    "puesto": {
+      "nombre": "JEFE JURÍDICO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "DENISSE ALEJANDRA",
+    "primerApellido": "ZARAGOZA",
+    "segundoApellido": "BRAMBILA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:22:59+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a95599226c00195b830e",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR ESPECIALIZADO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "HUGO LUIS",
+    "primerApellido": "TOVAR ",
+    "segundoApellido": "FRANCO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:23:17+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a99399226c00195b832f",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "PROF EJE DE SERVICIOS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ANGEL     ",
+    "primerApellido": "CORTES  ",
+    "segundoApellido": "ORTIZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:24:19+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a9b099226c00195b8336",
+    "institucionDependencia": {
+      "nombre": "Escuela de Conservación y Restauración de Occiden ",
+      "siglas": "ECRO"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA ADMIN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ELIZABETH",
+    "primerApellido": "ESPARZA",
+    "segundoApellido": "MERCADO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:24:48+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a9f599226c00195b8355",
+    "institucionDependencia": {
+      "nombre": "Escuela de Conservación y Restauración de Occiden ",
+      "siglas": "ECRO"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA ACADEMICA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "GILADA MARIA",
+    "primerApellido": "PASCO",
+    "segundoApellido": "SALDAÑA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:25:57+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a9ff99226c00195b8368",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "ANALISTA ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "BEATRIZ     ",
+    "primerApellido": "TEJEDA  ",
+    "segundoApellido": "GONZALEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:26:07+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318aa0999226c00195b836f",
+    "institucionDependencia": {
+      "nombre": "Sec. de Medio Ambiente y Desarrollo Territorial"
+    },
+    "puesto": {
+      "nombre": "Coor. Gral. Ambiental"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Omar",
+    "primerApellido": "Saucedo",
+    "segundoApellido": "Mora",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:26:16+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318aa1d99226c00195b8380",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "JEFE DE OFICINA "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "AIDE DIOCELINA ",
+    "primerApellido": "RAMÍREZ",
+    "segundoApellido": "LEPE",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:26:37+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318aa2099226c00195b838c",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR OBRA PUBLICA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "HUMBERTO",
+    "primerApellido": "PEÑA ",
+    "segundoApellido": "RÍOS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:26:40+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318aa2999226c00195b83ad",
+    "institucionDependencia": {
+      "nombre": "Escuela de Conservación y Restauración de Occiden ",
+      "siglas": "ECRO"
+    },
+    "puesto": {
+      "nombre": "ENCARGADA RH"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ISABEL",
+    "primerApellido": "NIEVES",
+    "segundoApellido": "BARBOZA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:26:49+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318aa4899226c00195b83c0",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR C"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JACOB ",
+    "primerApellido": "TEJEDA ",
+    "segundoApellido": "ALVAREZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:27:20+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318aa5999226c00195b83d3",
+    "institucionDependencia": {
+      "nombre": "Escuela de Conservación y Restauración de Occiden ",
+      "siglas": "ECRO"
+    },
+    "puesto": {
+      "nombre": "ENCARGADO RH"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MANUEL ARMANDO",
+    "primerApellido": "DIAZ",
+    "segundoApellido": "ALDERETE",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:27:37+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318aa8599226c00195b83ed",
+    "institucionDependencia": {
+      "nombre": "Escuela de Conservación y Restauración de Occiden ",
+      "siglas": "ECRO"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA GENERAL"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARIA ISABEL",
+    "primerApellido": "VILLASEÑOR",
+    "segundoApellido": "ALONSO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:28:21+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318aa9399226c00195b8400",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA GENERAL ADMIN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JANETTE MARISOL",
+    "primerApellido": "ESPINOZA DE LOS MONTEROS",
+    "segundoApellido": "CASILLAS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:28:35+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318aa9399226c00195b8403",
+    "institucionDependencia": {
+      "nombre": "Sec. de Medio Ambiente y Desarrollo Territorial"
+    },
+    "puesto": {
+      "nombre": "Dir. Regulación Emisiones"
+    },
+    "nombres": "Natalia",
+    "primerApellido": "Ortiz",
+    "segundoApellido": "Espinoza",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:28:35+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318aa9499226c00195b840e",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "MAESTRO TÉCNICO "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ALAN GIOVANI ",
+    "primerApellido": "MURILLO",
+    "segundoApellido": "GAMEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:28:36+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318aac999226c00195b8439",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "AYUDANTE DE OFICINA "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ALEJANDRA ",
+    "primerApellido": "GOMEZ",
+    "segundoApellido": "SAINZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:29:29+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318aacc99226c00195b8445",
+    "institucionDependencia": {
+      "nombre": "Escuela de Conservación y Restauración de Occiden ",
+      "siglas": "ECRO"
+    },
+    "puesto": {
+      "nombre": "PROFESOR TIEMPO COMPLETO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARTHA CECILIA",
+    "primerApellido": "GONZALEZ",
+    "segundoApellido": "LOPEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:29:32+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318aaf499226c00195b8466",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "PROF EJEC DE SERVICIOS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "BELÉN",
+    "primerApellido": " BARRETOS ",
+    "segundoApellido": "NAVARRO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:30:12+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318aaf999226c00195b8472",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR OBRA PUBLICA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JAVIER ALEJANDRO",
+    "primerApellido": "JIMÉNEZ ",
+    "segundoApellido": "LARA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:30:17+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318aafe99226c00195b847e",
+    "institucionDependencia": {
+      "nombre": "Escuela de Conservación y Restauración de Occiden ",
+      "siglas": "ECRO"
+    },
+    "puesto": {
+      "nombre": "COORDINADORA DE CARRERA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MIRIAM ",
+    "primerApellido": "LIMON",
+    "segundoApellido": "GALLEGOS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:30:22+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318ab0599226c00195b8498",
+    "institucionDependencia": {
+      "nombre": "Sec. de Medio Ambiente y Desarrollo Territorial"
+    },
+    "puesto": {
+      "nombre": "Auxiliar administrativo"
+    },
+    "nombres": "Norma Argelia",
+    "primerApellido": "Márquez",
+    "segundoApellido": "Gómez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:30:29+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318ab2899226c00195b84b5",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR ESPECIALIZADO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JESUS RODRIGO ",
+    "primerApellido": "SIERRA ",
+    "segundoApellido": "ILLAN",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:31:04+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318ab3999226c00195b84ca",
+    "institucionDependencia": {
+      "nombre": "Fideicomiso Fondo Jalisco de Fomento Empresarial ",
+      "siglas": "FOJAL"
+    },
+    "puesto": {
+      "nombre": "EJECUTIVO DE COMUNICACIÓN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ABRAHAM",
+    "primerApellido": "GARCIA",
+    "segundoApellido": "MORAN",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:31:21+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318ab4b99226c00195b84d6",
+    "institucionDependencia": {
+      "nombre": "Sec. de Medio Ambiente y Desarrollo Territorial"
+    },
+    "puesto": {
+      "nombre": "Coor. Análisis"
+    },
+    "nombres": "Patricia",
+    "primerApellido": "Hernández",
+    "segundoApellido": "Ornelas",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:31:39+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318ab5b99226c00195b84f0",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR ESPECIALIZADO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JORGE ADRIEL",
+    "primerApellido": "GUZMÁN ",
+    "segundoApellido": "CERVANTES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:31:55+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318ab6999226c00195b84fc",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "COOR GEN DE INFORMÁTICA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "BENIGNO  ",
+    "primerApellido": "BARRAGAN ",
+    "segundoApellido": "SÁNCHEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:32:09+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318ab8b99226c00195b8516",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR DE LICITACION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JORGE ALEJANDRO ",
+    "primerApellido": "GUTIÉRREZ ",
+    "segundoApellido": "LUNA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:32:43+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318ab8c99226c00195b851d",
+    "institucionDependencia": {
+      "nombre": "Fideicomiso Fondo Jalisco de Fomento Empresarial ",
+      "siglas": "FOJAL"
+    },
+    "puesto": {
+      "nombre": "ASISTENTE EJECUTIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ALEJANDRA LETICIA",
+    "primerApellido": "FAJARDO ",
+    "segundoApellido": "AYALA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:32:44+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318ab9399226c00195b853c",
+    "institucionDependencia": {
+      "nombre": "Sec. de Medio Ambiente y Desarrollo Territorial"
+    },
+    "puesto": {
+      "nombre": "Dir. Jurídico Ambiental "
+    },
+    "nombres": "Rafael Guillermo",
+    "primerApellido": "Tello",
+    "segundoApellido": "Gálvez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:32:51+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318abdc99226c00195b854f",
+    "institucionDependencia": {
+      "nombre": "Sec. de Medio Ambiente y Desarrollo Territorial"
+    },
+    "puesto": {
+      "nombre": "Encargado de Dirección"
+    },
+    "nombres": "Raúl Antonio ",
+    "primerApellido": "Vargas",
+    "segundoApellido": "Larios",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:34:04+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318abfc99226c00195b8562",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "COODINADOR A"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JORGE ALFARO",
+    "primerApellido": "VELA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:34:36+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318ac0f99226c00195b857c",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "COORD PRGM MIS CULTURALES"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ALFREDO ",
+    "primerApellido": "DÁVILA",
+    "segundoApellido": "DÁVILA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:34:55+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318ac4799226c00195b859b",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR DE OBRA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JORGE ANTONIO",
+    "primerApellido": "JIMÉNEZ ",
+    "segundoApellido": "CAZAREZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:35:51+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318ac5b99226c00195b85a7",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "PROF EJE DE SERVICIOS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CAROLINA ",
+    "primerApellido": "GONÁLEZ ",
+    "segundoApellido": "LOVANO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:36:11+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318acc899226c00195b85ba",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "PROF EJE DE SERVICIOS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CHRISTIAN BERENICE",
+    "primerApellido": "   ORTIZ ",
+    "segundoApellido": "MUÑOZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:38:00+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318ad0499226c00195b85d4",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "ANALISTA ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CHRISTIAN FERNANDO",
+    "primerApellido": " AVALOS ",
+    "segundoApellido": "PANTOJA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:39:00+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318ad2c99226c00195b85e7",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR DE OBRA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JORGE IGOR",
+    "primerApellido": "AVILA ",
+    "segundoApellido": "CHAVEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:39:40+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318ad4199226c00195b85fa",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CHRISTIAN URIEL ",
+    "primerApellido": "CISNEROS",
+    "segundoApellido": " GARCIA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:40:01+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318ad6099226c00195b8618",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR OBRA PUBLICA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JORGE ROBERTO",
+    "primerApellido": "LEÓN ",
+    "segundoApellido": "SÁNCHEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:40:32+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318ad8099226c00195b862b",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR ADMINISTRATIVO"
+    },
+    "nombres": "CYNTHIA CITLALLI ",
+    "primerApellido": "NUÑO ",
+    "segundoApellido": "LOREDO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:41:04+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318ad8899226c00195b863c",
+    "institucionDependencia": {
+      "nombre": "Fideicomiso Fondo Jalisco de Fomento Empresarial ",
+      "siglas": "FOJAL"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR PLAN ESTRA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ALEJANDRA ",
+    "primerApellido": "RAMIREZ",
+    "segundoApellido": "RODRIGUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:41:12+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318adb899226c00195b8661",
+    "institucionDependencia": {
+      "nombre": "Fideicomiso Fondo Jalisco de Fomento Empresarial ",
+      "siglas": "FOJAL"
+    },
+    "puesto": {
+      "nombre": "EJECUTIVO SISTEMAS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CARLOS ANTONIO",
+    "primerApellido": "VILLALOBOS",
+    "segundoApellido": "FIGUEROA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:42:00+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318adb999226c00195b8668",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSE ADRIAN",
+    "primerApellido": "GALVAN ",
+    "segundoApellido": "FERNANDEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:42:01+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318add099226c00195b8687",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "ESTUDIOS Y EVAL DE PROYE"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CAMILO",
+    "primerApellido": "GALVÁN",
+    "segundoApellido": "GODOY",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:42:24+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318aded99226c00195b86a3",
+    "institucionDependencia": {
+      "nombre": "Fideicomiso Fondo Jalisco de Fomento Empresarial ",
+      "siglas": "FOJAL"
+    },
+    "puesto": {
+      "nombre": "EJEC DE PRESUPUESTO EMPR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CELIA",
+    "primerApellido": "DIAZ",
+    "segundoApellido": "ARELLANO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:42:53+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318adf699226c00195b86b6",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "PROF EJE DE SERVICIOS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "DANELIA PATRICIA ",
+    "primerApellido": "GUTIÉRREZ ",
+    "segundoApellido": "JASSO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:43:02+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318adfd99226c00195b86c9",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR DE PROYECTOS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSE ANTONIO",
+    "primerApellido": "GARCÍA ",
+    "segundoApellido": "LÓPEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:43:09+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318adfe99226c00195b86d0",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "SECRETARIA DE APOYO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ALICIA",
+    "primerApellido": "ROMERO",
+    "segundoApellido": "GONZÁLEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:43:10+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318ae1699226c00195b86ef",
+    "institucionDependencia": {
+      "nombre": "Fideicomiso Fondo Jalisco de Fomento Empresarial ",
+      "siglas": "FOJAL"
+    },
+    "puesto": {
+      "nombre": "DIREC DESA EMPRESARIAL "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CESAR HERNAN",
+    "primerApellido": "REYES",
+    "segundoApellido": "OROZCO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:43:34+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318ae1f99226c00195b86fb",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR CONTABILIDAD"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CARLOS GABRIEL",
+    "primerApellido": "PINZÓN",
+    "segundoApellido": "ESTEVEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:43:43+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318ae2699226c00195b870e",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "EDUARDO ANICETO ",
+    "primerApellido": "RON ",
+    "segundoApellido": "GRADILLA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:43:50+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318ae4a99226c00195b8728",
+    "institucionDependencia": {
+      "nombre": "Fideicomiso Fondo Jalisco de Fomento Empresarial ",
+      "siglas": "FOJAL"
+    },
+    "puesto": {
+      "nombre": "COORD RECUPERACIÓN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CHRISTIAN ",
+    "primerApellido": "GODINEZ",
+    "segundoApellido": "ALVAREZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:44:26+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318ae5399226c00195b8734",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR OBRA PUBLICA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSE CARLOS",
+    "primerApellido": "RAMIREZ ",
+    "segundoApellido": "SAHAGÚN",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:44:35+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318ae5999226c00195b8747",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "ENCARGADO ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CARLOS HUMBERTO",
+    "primerApellido": "RODRÍGUEZ",
+    "segundoApellido": "PONCE",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:44:41+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318ae7099226c00195b875c",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "JEFE DE NUTR Y DIETÉTICA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ERIKA ELIZABETH ",
+    "primerApellido": "MEJIA ",
+    "segundoApellido": "MARIN",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:45:04+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318ae7d99226c00195b8766",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR OBRA PUBLICA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSÉ FRANCISCO",
+    "primerApellido": "BERACOECHEA ",
+    "segundoApellido": "HERNÁNDEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:45:17+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318ae7f99226c00195b8772",
+    "institucionDependencia": {
+      "nombre": "Fideicomiso Fondo Jalisco de Fomento Empresarial ",
+      "siglas": "FOJAL"
+    },
+    "puesto": {
+      "nombre": "COORD PROMOCION CENTRO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CLAUDIA LIZBETH",
+    "primerApellido": "TOPETE",
+    "segundoApellido": "MARQUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:45:19+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318aea099226c00195b878e",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "ENARGADODESPACHO EDU SECU"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ALVARO",
+    "primerApellido": "CARRILLO",
+    "segundoApellido": "RAMÍREZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:45:52+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318aeb799226c00195b879a",
+    "institucionDependencia": {
+      "nombre": "Fideicomiso Fondo Jalisco de Fomento Empresarial ",
+      "siglas": "FOJAL"
+    },
+    "puesto": {
+      "nombre": "COORD ADMIN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CLAUDIA VERONICA",
+    "primerApellido": "GAMBOA",
+    "segundoApellido": "MEDINA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:46:15+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318aed299226c00195b87ad",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR ESPECIALIZADO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSÉ HUMBERTO",
+    "primerApellido": "MORENO ",
+    "segundoApellido": "LEÓN",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:46:42+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318aefc99226c00195b87c0",
+    "institucionDependencia": {
+      "nombre": "Fideicomiso Fondo Jalisco de Fomento Empresarial ",
+      "siglas": "FOJAL"
+    },
+    "puesto": {
+      "nombre": "DIRECT JURI CORP"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "DOLORES VICTORIA",
+    "primerApellido": "TEPEZANO",
+    "segundoApellido": "GOMEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:47:24+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318af2f99226c00195b87da",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR GENERAL"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSÉ MARÍA ",
+    "primerApellido": "GOYA ",
+    "segundoApellido": "CARMONA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:48:15+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318af2f99226c00195b87e1",
+    "institucionDependencia": {
+      "nombre": "Fideicomiso Fondo Jalisco de Fomento Empresarial ",
+      "siglas": "FOJAL"
+    },
+    "puesto": {
+      "nombre": "EJECUTIVO CONTABLE"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "DULCE GABRIELA",
+    "primerApellido": "SALCEDO ",
+    "segundoApellido": "CARDENAS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:48:15+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318af7f99226c00195b87fe",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR OBRA PUBLICA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSÉ RAFAEL",
+    "primerApellido": "AGUAYO ",
+    "segundoApellido": "CORTES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:49:35+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318af9c99226c00195b881a",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "JEFE DE OFICINA "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "AMELIA RUTH",
+    "primerApellido": "NUÑO",
+    "segundoApellido": "DONLUCAS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:50:04+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318afb699226c00195b8834",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR ESPECIALIZADO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSÉ REFUGIO",
+    "primerApellido": "OLMEDO ",
+    "segundoApellido": "GUEVARA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:50:30+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318afe399226c00195b8847",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR ESPECIALIZADO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSE RENE",
+    "primerApellido": "ESPINO ",
+    "segundoApellido": "LOPEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:51:15+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b00d99226c00195b885a",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR OBRA PUBLICA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSE ROBERTO",
+    "primerApellido": "JIMENEZ ",
+    "segundoApellido": "JACOBO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:51:57+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b07299226c00195b8879",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "PROF EJE DE SERVICIOS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ERNESTO      ",
+    "primerApellido": "GONZÁLEZ ",
+    "segundoApellido": "MÁRQUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:53:38+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b09f99226c00195b889a",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR OBRA PUBLICA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSÉ ",
+    "primerApellido": "SOTO ",
+    "segundoApellido": "CÁRDENAS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:54:23+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b0d599226c00195b88ad",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR DE PROYECTOS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JUAN CARLOS",
+    "primerApellido": "BALTAZAR ",
+    "segundoApellido": "CADENA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:55:17+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b0de99226c00195b88c0",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "COOR.  ÁREA ADM"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ESMERALDA ELIZABETH",
+    "primerApellido": " IBARRA ",
+    "segundoApellido": "VEYTIA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:55:26+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b10699226c00195b88d8",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR ESPECIALIZADO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JUAN JOSE",
+    "primerApellido": "RIOS ",
+    "segundoApellido": "REYES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:56:06+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b13499226c00195b88eb",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR ESPECIALIZADO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JUAN LUIS",
+    "primerApellido": "LEÓN  ",
+    "segundoApellido": "ORTEGA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:56:52+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b13899226c00195b88f7",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "ENCARGADA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ESPERANZA ELIBETH ",
+    "primerApellido": "ZUNO ",
+    "segundoApellido": "REYES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:56:56+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b16299226c00195b891d",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR R"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ANA BERTHA",
+    "primerApellido": "GARCÍA",
+    "segundoApellido": "PALACIOS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:57:38+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b16f99226c00195b8929",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE EVALUACIÓN "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JUAN RAMÓN ",
+    "primerApellido": "RAMÍREZ ",
+    "segundoApellido": "ALATORRE",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:57:51+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b18b99226c00195b893c",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "COOR GEN SERV GENERALES"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FELIPE ",
+    "primerApellido": "LOPEZ ",
+    "segundoApellido": "TAYLOR",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:58:19+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b18c99226c00195b8943",
+    "institucionDependencia": {
+      "nombre": "Sec. de Medio Ambiente y Desarrollo Territorial"
+    },
+    "puesto": {
+      "nombre": "Dir. Jurídico Contencioso"
+    },
+    "nombres": "Ricardo ",
+    "primerApellido": "Ramirez",
+    "segundoApellido": "Aguilera",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:58:20+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b1a399226c00195b895b",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR DE PROYECTOS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "KAREN JUDITH",
+    "primerApellido": "LABRA ",
+    "segundoApellido": "CAZAREZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:58:43+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b1d999226c00195b897c",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE PRORROGAS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LAURA VIRIDIANA ",
+    "primerApellido": "DORANTES ",
+    "segundoApellido": "LÓPEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:59:37+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b1e799226c00195b898f",
+    "institucionDependencia": {
+      "nombre": "Sec. de Medio Ambiente y Desarrollo Territorial"
+    },
+    "puesto": {
+      "nombre": "Coor. Gral. Educación"
+    },
+    "nombres": "Sandra Fernanda",
+    "primerApellido": "Gallo",
+    "segundoApellido": "Corona",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:59:51+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b20899226c00195b89a2",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR OBRA PUBLICA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LUIS BRAULIO",
+    "primerApellido": "LUCERO ",
+    "segundoApellido": "HUGUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:00:24+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b22a99226c00195b89b5",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "JEF  ÁREA  AUD Y CON PREV"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FERNANDO ",
+    "primerApellido": "MARTINEZ",
+    "segundoApellido": " LIRA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:00:58+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b23899226c00195b89c8",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR ESPECIALIZADO"
+    },
+    "nombres": "LUIS ERAZMO",
+    "primerApellido": "DURAN ",
+    "segundoApellido": "GODINA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:01:12+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b25e99226c00195b89e2",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "SECRETARIA DE APOYO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ANA ELIZABETH",
+    "primerApellido": "HIDALGO",
+    "segundoApellido": "LEÓN",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:01:50+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b26299226c00195b89ee",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DIVISION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FRANCISCO JAVIER ",
+    "primerApellido": "ESPINOSA ",
+    "segundoApellido": "MENDEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:01:54+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b26e99226c00195b8a08",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR ESPECIALIZADO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARÍA ELENA",
+    "primerApellido": "ENRÍQUEZ",
+    "segundoApellido": "MARTÍNEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:02:06+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b28499226c00195b8a1b",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "COORDINDOR A"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ANA MARÍA ",
+    "primerApellido": "PONCE",
+    "segundoApellido": "RODRIGUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:02:28+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b29c99226c00195b8a2e",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR DE LICITACION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARÍA GUADALUPE CRISTINA",
+    "primerApellido": "GONZÁLEZ ",
+    "segundoApellido": "RODRÍGUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:02:52+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b2b299226c00195b8a40",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FRANCISCO ",
+    "primerApellido": "TORRES ",
+    "segundoApellido": "MARTINEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:03:14+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b2c099226c00195b8a54",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "DIR DE FORMACION A PADRES"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ANA PAULA",
+    "primerApellido": "ARREOLA",
+    "segundoApellido": "PERAL",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:03:28+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b2d299226c00195b8a67",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR OBRA PUBLICA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARIANO ",
+    "primerApellido": "JIMÉNEZ ",
+    "segundoApellido": "MÁRQUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:03:46+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b2e899226c00195b8a7a",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "ESPECIALISTA TECNICO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ANGEL ZIMITRIO",
+    "primerApellido": "CASTELLANOS",
+    "segundoApellido": "SÁNCHEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:04:08+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b2f799226c00195b8a8d",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "ANALISTA ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "GABRIELA     ",
+    "primerApellido": "BARAJAS ",
+    "segundoApellido": " AMAYA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:04:23+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b31099226c00195b8aa0",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "DIR. RECURSOS MATERIALES"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARITZA YANETTE ",
+    "primerApellido": "MEDINA ",
+    "segundoApellido": "GARCÍA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:04:48+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b33a99226c00195b8ab3",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR DE LICITACION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARTHA ",
+    "primerApellido": "MEDINA ",
+    "segundoApellido": "IBARRA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:05:30+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b35299226c00195b8ac6",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "OFI PREP Y DESP"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "GABRIELA ",
+    "primerApellido": " VASQUEZ ",
+    "segundoApellido": "SIGALA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:05:54+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b36b99226c00195b8ad9",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "APOYO ADMINISTRATIVO "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ANGELICA DENNIS",
+    "primerApellido": "SANCHEZ",
+    "segundoApellido": "AVIÑA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:06:19+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b36c99226c00195b8ae0",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MIGUEL ANGEL",
+    "primerApellido": "ORTEGA ",
+    "segundoApellido": "SÁNCHEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:06:20+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b3a599226c00195b8aff",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "PROF EJEC DE SERVICIOS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "GUSTAVO ENRIQUE ",
+    "primerApellido": "RODRIGUEZ  ",
+    "segundoApellido": "CARDENAS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:07:17+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b3ac99226c00195b8b0b",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "AUX OFICINA PAGOS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ANTONIO ",
+    "primerApellido": "OJEDA",
+    "segundoApellido": "ÁLVAREZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:07:24+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b3f399226c00195b8b30",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "PROF EJEC DE SERVICIOS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "HARMIDA NOEMI     ",
+    "primerApellido": "GARCIA ",
+    "segundoApellido": "ORTIZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:08:35+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b42399226c00195b8b43",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "DIR CONTAB Y CONTROL FIN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ANTONIO",
+    "primerApellido": "PÉREZ",
+    "segundoApellido": "ANGEL",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:09:23+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b45b99226c00195b8b4f",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DIVISION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "HECTOR ",
+    "primerApellido": "MORALES ",
+    "segundoApellido": "VILLARRUEL",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:10:19+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b48f99226c00195b8b6b",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTOR MEDICO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "HORACIO",
+    "primerApellido": " RADILLO ",
+    "segundoApellido": "MORALES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:11:11+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b61999226c00195b8b91",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "ANALISTA ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JACQUELINE",
+    "primerApellido": " ZAVALA",
+    "segundoApellido": " HERNANDEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:17:45+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b66899226c00195b8ba4",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "DIR. GRAL HOS CIVIL GDL"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JAIME FEDERICO ",
+    "primerApellido": "ANDRADE ",
+    "segundoApellido": "VILLANUEVA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:19:04+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b6a699226c00195b8bb7",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "ENCARGADA DE ALMACEN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JANETH   ALEJANDRA ",
+    "primerApellido": "SANTIAGO ",
+    "segundoApellido": "MAGALLANES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:20:06+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b6fe99226c00195b8bca",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JAVIER ",
+    "primerApellido": "CASTILLO ",
+    "segundoApellido": "HERNANDEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:21:34+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b74199226c00195b8bdd",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "JEFE DE FARMACIA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JESUS ANTONIO GALVAN VEGA",
+    "primerApellido": "GALVAN ",
+    "segundoApellido": "VEGA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:22:41+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b78799226c00195b8bf0",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "ANALISTA ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JESUS OCTAVIO ",
+    "primerApellido": "LOZANO ",
+    "segundoApellido": "IBARRA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:23:51+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b7c899226c00195b8c03",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JONATHAN FRANCISCO ",
+    "primerApellido": "MORENO ",
+    "segundoApellido": "REYNOSO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:24:56+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b81f99226c00195b8c16",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "TITULAR ORG. INT DE CONT."
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JORGE   ",
+    "primerApellido": "SANDOVAL",
+    "segundoApellido": " RODRIGUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:26:23+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b86b99226c00195b8c29",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "PROFESIONAL EJEC DE SER"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JORGE ",
+    "primerApellido": "CISNEROS ",
+    "segundoApellido": "PEGUERO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:27:39+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b8ba99226c00195b8c3c",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DIVISION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JORGE LUIS ",
+    "primerApellido": "JIMENEZ",
+    "segundoApellido": " BAÑUELOS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:28:58+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b92a99226c00195b8c4f",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "SUB DIRGRL ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSE MARTIN ",
+    "primerApellido": "GOMEZ ",
+    "segundoApellido": "LARA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:30:50+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318b96799226c00195b8c62",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR DE ÁREA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSE MARTIN ",
+    "primerApellido": "MERCADO ",
+    "segundoApellido": "RAMIREZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:31:51+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318ba6d99226c00195b8c85",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "PROFESIONAL EJEC DE SER"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JUAN      ",
+    "primerApellido": " AGREDANO ",
+    "segundoApellido": "REYES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:36:13+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318bab199226c00195b8c98",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "PROF EJE DE SERVICIOS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JUAN BENJAMIN ABEL ",
+    "primerApellido": "RAMIREZ  ",
+    "segundoApellido": "ANDRADE",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:37:21+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318bae199226c00195b8cab",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JUAN PABLO ",
+    "primerApellido": "DELGADO ",
+    "segundoApellido": "FLORES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:38:09+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318bb1699226c00195b8cc7",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "JEFE DE OFICINA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JULIO CESAR ",
+    "primerApellido": "AGUILERA ",
+    "segundoApellido": "JAIME",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:39:02+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318bb3e99226c00195b8cda",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "VERIFICADOR DE HOSPITALES"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CARLOS ISRAEL",
+    "primerApellido": "GOMEZ",
+    "segundoApellido": "CASTRO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:39:42+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318bb8699226c00195b8ced",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "PROF EJE DE SERV ESP"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "KARLA JENYTH  ",
+    "primerApellido": "ARRIAGA ",
+    "segundoApellido": "VAZQUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:40:54+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318bba399226c00195b8d00",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "AUX COOR SERV MEDICOS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CARLOS ROBERTO",
+    "primerApellido": "BURGOS",
+    "segundoApellido": "GANUZA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:41:23+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318bbd199226c00195b8d13",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "SECRETARIA DE APOYO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "KARLA SUSANA     ",
+    "primerApellido": "FLORES ",
+    "segundoApellido": "SÁNCHEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:42:09+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318bbd799226c00195b8d26",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "ANALISTA FINANCIERO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CLAUDIA BRIGITT",
+    "primerApellido": "HERMOSILLO",
+    "segundoApellido": "GOMEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:42:15+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318bc0999226c00195b8d39",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "COORDINADORA DE ÁREA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LEONILA MARGARITA ",
+    "primerApellido": "PLASCENCIA ",
+    "segundoApellido": "GUTIÉRREZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:43:05+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318bc3699226c00195b8d4c",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "VERIFICADOR DE HOSPITALES"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CLAUDIA LIZET",
+    "primerApellido": "NAVARRO",
+    "segundoApellido": "PALAFOX",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:43:50+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318bc6799226c00195b8d5f",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LORENA ALEJANDRA ",
+    "primerApellido": "GUTIERREZ ",
+    "segundoApellido": "ROSETE CENDEJAS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:44:39+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318bc9599226c00195b8d72",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "Coordinador"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CLAUDIA PATRICIA",
+    "primerApellido": "NEGRETE",
+    "segundoApellido": "GUTIERREZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:45:25+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318bca699226c00195b8d85",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "COOR GRASL DE RH"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LUIS GUILLERMO ",
+    "primerApellido": "VALDIVIA ",
+    "segundoApellido": "MEZA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:45:42+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318bcf899226c00195b8d98",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "OFICAL PREP Y  DESP"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARIA ALEJANDRA ",
+    "primerApellido": "BARBA ",
+    "segundoApellido": "HUERTA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:47:04+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318bd0199226c00195b8dab",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "VERIFICADOR DE HOSPITALES"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "COSME",
+    "primerApellido": "LUNA",
+    "segundoApellido": "PALAFOX",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:47:13+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318bd3799226c00195b8dbe",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "DIR DE INMUEBLES Y MANTEN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CRISTIAN GABRIEL",
+    "primerApellido": "GONZALEZ",
+    "segundoApellido": "ABUNDIS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:48:07+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318bd3c99226c00195b8dca",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARIA ANTONIA     ",
+    "primerApellido": "  ORTIZ ",
+    "segundoApellido": " CASTRO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:48:12+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318bd7d99226c00195b8de4",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "PROF EJE DE SERVICIOS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARIA CLOTILDE    ",
+    "primerApellido": "     LOPEZ ",
+    "segundoApellido": " FLORES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:49:17+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318bd8699226c00195b8df7",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "ABOGADO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "DIEGO MAXIMILIANO",
+    "primerApellido": "RAMIREZ",
+    "segundoApellido": "REYES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:49:26+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318bdcd99226c00195b8e0a",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "ANALISTA A"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "DOLORES CLAUDIA",
+    "primerApellido": "ARAMBULA",
+    "segundoApellido": "PEREZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:50:37+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318bdfe99226c00195b8e26",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "ENCARGADO ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "EDGAR ALEXANDRO",
+    "primerApellido": "JIMENEZ",
+    "segundoApellido": "CASTRO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:51:26+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318be3699226c00195b8e3a",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "GERENTE DE ATENCION MED"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "EDUARDO JACIEL",
+    "primerApellido": "MENDOZA",
+    "segundoApellido": "JIMENEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:52:22+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318be7d99226c00195b8e70",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "ADMINISTRATIVO ESPECIALI"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ELBA",
+    "primerApellido": "MORALES",
+    "segundoApellido": "RIOS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:53:33+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318beb599226c00195b8e95",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "ESPECIALISTA PROCESOS INF"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ELENA PATRICIA",
+    "primerApellido": "RAMIREZ",
+    "segundoApellido": "CARDENAS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:54:29+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318bef799226c00195b8eb4",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "AUX ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ELIA PAULINA",
+    "primerApellido": "ROCHA",
+    "segundoApellido": "SANTOS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:55:35+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318bf2999226c00195b8ed3",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "ANALISTA ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARIA DE LA PAZ  ",
+    "primerApellido": "  REYES ",
+    "segundoApellido": " MORALES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:56:25+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318bf3999226c00195b8edf",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "ANALISTA CONTABLE"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ELIZABETH",
+    "primerApellido": "CERVANTES",
+    "segundoApellido": "CORNEJO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:56:41+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318bfbd99226c00195b8ef6",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "VERIFICADOR DE HOSPITALES"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ERIC OMAR",
+    "primerApellido": "ALONSO",
+    "segundoApellido": "CAMPOS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T15:58:53+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318c00899226c00195b8f0b",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR ESP B"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ESMERALDA",
+    "primerApellido": "LOPEZ",
+    "segundoApellido": "LOERA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T16:00:08+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318c02e99226c00195b8f25",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "COMPRADOR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "EVA ELIZABETH",
+    "primerApellido": "MORENO",
+    "segundoApellido": "FLORES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T16:00:46+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318c04d99226c00195b8f2c",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "JEFE DE MANTENIMIENTO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ANTONIO ",
+    "primerApellido": "RODRÍGUEZ",
+    "segundoApellido": "GALLARDO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T16:01:17+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318c10f99226c00195b8f76",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "TITULAR ADQUISICIONES "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ARNULFO",
+    "primerApellido": "TELLO",
+    "segundoApellido": "CASTRO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T16:04:31+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318c11c99226c00195b8f91",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "COOR SERV MEDICOS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FERMIN",
+    "primerApellido": "MORALES",
+    "segundoApellido": "GONZALEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T16:04:44+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318c14399226c00195b8fc4",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "ADVTO ESPECIALIZADO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "BEATRIZ ELENA",
+    "primerApellido": "PEREDA",
+    "segundoApellido": "CASTRO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T16:05:23+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318c15d99226c00195b8fd4",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FERNANDA ANGELICA",
+    "primerApellido": "ALVAREZ",
+    "segundoApellido": "TORRES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T16:05:49+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318c19399226c00195b9007",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR DE PROYECTOS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MONICA ",
+    "primerApellido": "CASTAÑEDA ",
+    "segundoApellido": "CHÁVEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T16:06:43+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318c26699226c00195b9075",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR OBRA PUBLICA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "OMAR ALEJANDRO",
+    "primerApellido": "JASSO ",
+    "segundoApellido": "RIVERA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T16:10:14+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318c28799226c00195b9085",
+    "institucionDependencia": {
+      "nombre": "DIRECTOR ADQUISICIONES"
+    },
+    "puesto": {
+      "nombre": "DIR ADQUISICIONES"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FERNANDO ANTONIO",
+    "primerApellido": "CASTELLANOS",
+    "segundoApellido": "GONZALEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T16:10:47+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317786c99226c00195b4f85",
+    "institucionDependencia": {
+      "nombre": "Ins. de Pensiones del Estado de Jal."
+    },
+    "puesto": {
+      "nombre": "COOR DE MANTENIMIENTO A"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2022-09-07T16:11:31+00:00",
+    "nombres": "VICTOR MANUEL  ",
+    "primerApellido": "MARISCAL ",
+    "segundoApellido": "ENRIQUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6318c2b699226c00195b90b9",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR OBRA PUBLICA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "OMAR ALFREDO",
+    "primerApellido": "RODRÍGUEZ ",
+    "segundoApellido": "FLORES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T16:11:34+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63177a7299226c00195b512d",
+    "institucionDependencia": {
+      "nombre": "Inst Estatal para la Edu de Jóvenes y Adultos ",
+      "siglas": "INEEJAD"
+    },
+    "puesto": {
+      "nombre": "Jefa de Departamento"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2022-09-07T16:12:22+00:00",
+    "nombres": "Ana Fabiola",
+    "primerApellido": " Lambaren ",
+    "segundoApellido": "Verdín",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "63177cbe99226c00195b5303",
+    "institucionDependencia": {
+      "nombre": "Inst Estatal para la Edu de Jóvenes y Adultos ",
+      "siglas": "INEEJAD"
+    },
+    "puesto": {
+      "nombre": "ENCARGADO DE COMPRAS"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2022-09-07T16:13:08+00:00",
+    "nombres": "Gloria Patricia ",
+    "primerApellido": "García ",
+    "segundoApellido": "Covarrubias",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6318c31999226c00195b9137",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "BERENICE",
+    "primerApellido": "ESCOTO",
+    "segundoApellido": "ROBLEDO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T16:13:13+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63177e3999226c00195b5449",
+    "institucionDependencia": {
+      "nombre": "Inst Estatal para la Edu de Jóvenes y Adultos ",
+      "siglas": "INEEJAD"
+    },
+    "puesto": {
+      "nombre": "Director General"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2022-09-07T16:13:51+00:00",
+    "nombres": "Marcos ",
+    "primerApellido": "Godínez",
+    "segundoApellido": " Montes",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6318c2f199226c00195b90fd",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR OBRA PUBLICA"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2022-09-07T16:14:12+00:00",
+    "nombres": "OSCAR FERNANDO",
+    "primerApellido": "PATIÑO",
+    "segundoApellido": "VILLASEÑOR",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6318c35999226c00195b918c",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "ESPECIALISTA EDUCATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "BLANCA MARGARITA",
+    "primerApellido": "RODRÍGUEZ",
+    "segundoApellido": "MARTÍNEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T16:14:17+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318c38999226c00195b91ca",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR DE ENLACE "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CARLOS DANIEL",
+    "primerApellido": "BAUTISTA",
+    "segundoApellido": "SANDOVAL",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T16:15:05+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318c38e99226c00195b91d6",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR DE PROYECTOS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "PALOMA DEL CARMEN",
+    "primerApellido": "GRANADOS ",
+    "segundoApellido": "ORTÍZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T16:15:10+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631783b199226c00195b5889",
+    "institucionDependencia": {
+      "nombre": "Instituto Jalisciense de Cancerología"
+    },
+    "puesto": {
+      "nombre": "APO AD SAL "
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2022-09-07T16:16:05+00:00",
+    "nombres": "carlos ivan ",
+    "primerApellido": "Ledezma  ",
+    "segundoApellido": "Muñoz",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6318c3cb99226c00195b921e",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR OBRA PUBLICA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "RAMÓN RICARDO",
+    "primerApellido": "DÍAZ ",
+    "segundoApellido": "NÁJERA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T16:16:11+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318c40199226c00195b9249",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE PROYECTOS "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "RAÚL  ",
+    "primerApellido": "FLETES ",
+    "segundoApellido": "LÓPEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T16:17:05+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318c43399226c00195b9280",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR TECNICO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "RAÚL  ",
+    "primerApellido": "JASSO ",
+    "segundoApellido": "BARRERA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T16:17:55+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318c47f99226c00195b92cb",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "DIR GRAL DE ARQUITECTURA "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "RENÉ ",
+    "primerApellido": "CARO ",
+    "segundoApellido": "GÓMEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T16:19:11+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318c58f99226c00195b93c2",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR OBRA PUBLICA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "REYES ",
+    "primerApellido": "ARCE ",
+    "segundoApellido": "ACOSTA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T16:23:43+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318c67099226c00195b9491",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR OBRA PUBLICA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ROBERTO ",
+    "primerApellido": "GUZMAN ",
+    "segundoApellido": "AVILA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T16:27:28+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318c6a799226c00195b94c5",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FLOR LILIANA",
+    "primerApellido": "MORENO",
+    "segundoApellido": "GALINDO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T16:28:23+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318c70e99226c00195b953c",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "COOR MANTENIMIENTO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FRANCISCO",
+    "primerApellido": "VARGAS",
+    "segundoApellido": "MARTINEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T16:30:06+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318c71899226c00195b9550",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "JEFE DE FARMACIA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARIA DEL CARMEN ",
+    "primerApellido": " DE LA TORRE ",
+    "segundoApellido": " GUTIERREZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T16:30:16+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318ac0e99226c00195b8575",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "DIR  NVO HOS CIVIL DE GDL "
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2022-09-07T16:30:21+00:00",
+    "nombres": "BENJAMIN ",
+    "primerApellido": "BECERRA ",
+    "segundoApellido": "RODRIGUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6318c77399226c00195b95a1",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "PROFESIONAL EJE DE SER"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARIA ELISA ",
+    "primerApellido": " MUÑOZ ",
+    "segundoApellido": " MONTAÑO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T16:31:47+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318c78499226c00195b95bc",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "COORD CENTROS DE SERVICIO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FRANCISCO MANUEL",
+    "primerApellido": "ARRIETA",
+    "segundoApellido": "ZAMORA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T16:32:04+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318c7b199226c00195b95d7",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "PROYECTISTA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "GABRIELA",
+    "primerApellido": "TEJEDA",
+    "segundoApellido": "LANDEROS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T16:32:49+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318c7c199226c00195b95ea",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "PROF EJE DE SERVICIOS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARÍA TRINIDAD ",
+    "primerApellido": " GUEVARA ",
+    "segundoApellido": " RAMÍREZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T16:33:05+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318c7fa99226c00195b95fd",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "DIR GENERAL ADM"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "GILBERTO",
+    "primerApellido": "ORTEGA",
+    "segundoApellido": "VALDES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T16:34:02+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318c81199226c00195b961c",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "COCINERO EN HOSPITAL"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARIBEL",
+    "primerApellido": "TORRES ",
+    "segundoApellido": " GONZÁLEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T16:34:25+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318c83799226c00195b963f",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "ENCARGADA NOMINA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "GUADALUPE NICOLASA",
+    "primerApellido": "RUIZ",
+    "segundoApellido": "VALENZUELA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T16:35:03+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318c86699226c00195b9656",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "PROF EJE DE SERVICIOS ESP"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARIELENA",
+    "primerApellido": "SOLIS ",
+    "segundoApellido": " MUÑOZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T16:35:50+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318c88799226c00195b966d",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "VERIFICADOR DE HOSPITALES"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "HECTOR LEONEL",
+    "primerApellido": "MEJIA",
+    "segundoApellido": "GUTIERREZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T16:36:23+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318c8ad99226c00195b968b",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR DE ÁREA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARIO ANTONIO ",
+    "primerApellido": " RUBIO ",
+    "segundoApellido": " DÍAZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T16:37:01+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318c8b899226c00195b96a6",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "Director General"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "HECTOR",
+    "primerApellido": "PIZANO",
+    "segundoApellido": "RAMOS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T16:37:12+00:00",
+    "__v": 0
+  }
+]

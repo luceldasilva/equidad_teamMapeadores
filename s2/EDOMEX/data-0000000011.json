@@ -1,0 +1,8353 @@
+[
+  {
+    "id": "620d8ab369652c220d597c54",
+    "fechaCaptura": "2022-02-16T17:37:23Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "LETICIA ",
+    "primerApellido": "VICTORIA",
+    "segundoApellido": "TAVIRA",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Tribunal Electoral del Estado de México",
+      "siglas": "teemmx",
+      "clave": "oau-006"
+    },
+    "puesto": {
+      "nombre": "Magistrado Presidente del Tribunal Electoral del Estado de México",
+      "nivel": "31-C"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "620d8c2869652c220d597c70",
+    "fechaCaptura": "2022-02-16T17:43:36Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "ANABEL CRISTINA  ",
+    "primerApellido": "ARELLANO",
+    "segundoApellido": "MARTÍNEZ",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Tribunal Electoral del Estado de México",
+      "siglas": "teemmx",
+      "clave": "oau-006"
+    },
+    "puesto": {
+      "nombre": "Responsable del Área de Presupuesto y Finanzas",
+      "nivel": "28-B"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "CLAUDIA ",
+      "primerApellido": "RIVAS ",
+      "segundoApellido": "TOVAR",
+      "puesto": {
+        "nombre": "Director de Administración",
+        "nivel": "29-A"
+      }
+    }
+  },
+  {
+    "id": "620d8fe469652c220d597c8c",
+    "fechaCaptura": "2022-02-16T17:59:32Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "MYRIAM",
+    "primerApellido": "NERI",
+    "segundoApellido": "DE LUNA",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Tribunal Electoral del Estado de México",
+      "siglas": "teemmx",
+      "clave": "oau-006"
+    },
+    "puesto": {
+      "nombre": "Asistenta,e Administrativa,o",
+      "nivel": "07"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      },
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "CLAUDIA",
+      "primerApellido": "RIVAS ",
+      "segundoApellido": "TOVAR",
+      "puesto": {
+        "nombre": "Director de Administración",
+        "nivel": "29-A"
+      }
+    },
+    "observaciones": "PARTICIPA EN LOS COMITES DE OBRAS Y DE ADQUISICIONES"
+  },
+  {
+    "id": "620d923b69652c220d597ca6",
+    "fechaCaptura": "2022-02-16T18:09:31Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "JOSE EMIGDIO ",
+    "primerApellido": "CORTEZ",
+    "segundoApellido": "GARCÍA",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Tribunal Electoral del Estado de México",
+      "siglas": "teemmx",
+      "clave": "oau-006"
+    },
+    "puesto": {
+      "nombre": "Responsable del Área de Servicios Generales",
+      "nivel": "28-E"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "CLAUDIA ",
+      "primerApellido": "RIVAS",
+      "segundoApellido": "TOVAR"
+    }
+  },
+  {
+    "id": "620d948b69652c220d597cc0",
+    "fechaCaptura": "2022-02-16T18:19:23Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "OLIVE ",
+    "primerApellido": "BAHENA",
+    "segundoApellido": "VERÁSTEGUI",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Tribunal Electoral del Estado de México",
+      "siglas": "teemmx",
+      "clave": "oau-006"
+    },
+    "puesto": {
+      "nombre": "Coordinador Jurídico, Consultivo y de Jurisprudencia",
+      "nivel": "27-B"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "REYES ELIUD",
+      "primerApellido": "CÍNTORA",
+      "segundoApellido": "ORDOÑEZ",
+      "puesto": {
+        "nombre": "Secretaria,o de Secretaria,o",
+        "nivel": "25"
+      }
+    },
+    "observaciones": "El cargo correcto del Superior Jerárquico, es Secretario Ejecutivo del Tribunal Electoral del Estado de México."
+  },
+  {
+    "id": "620d968269652c220d597cda",
+    "fechaCaptura": "2022-02-16T18:27:46Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "NANCY",
+    "primerApellido": "PÉREZ",
+    "segundoApellido": "GARDUÑO",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Tribunal Electoral del Estado de México",
+      "siglas": "teemmx",
+      "clave": "oau-006"
+    },
+    "puesto": {
+      "nombre": "Titular del Órgano Interno de Control ",
+      "nivel": "28"
+    },
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "620e756c69652c220d597d10",
+    "fechaCaptura": "2022-02-17T10:18:52Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "LEONEL ALBERTO ",
+    "primerApellido": "PALACIOS",
+    "segundoApellido": "AGUILAR",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Tribunal Electoral del Estado de México",
+      "siglas": "teemmx",
+      "clave": "oau-006"
+    },
+    "puesto": {
+      "nombre": "Secretario Proyectista",
+      "nivel": "26 C"
+    },
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARTHA PATRICIA",
+      "primerApellido": "TOVAR",
+      "segundoApellido": "PESCADOR"
+    }
+  },
+  {
+    "id": "620e78b569652c220d597d2a",
+    "fechaCaptura": "2022-02-17T10:32:53Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "KRISTHEL",
+    "primerApellido": "RUÍZ",
+    "segundoApellido": "FLORES",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Tribunal Electoral del Estado de México",
+      "siglas": "teemmx",
+      "clave": "oau-006"
+    },
+    "puesto": {
+      "nombre": "Secretario Proyectista",
+      "nivel": "26 C"
+    },
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "VICTOR OSCAR ",
+      "primerApellido": "PASQUEL",
+      "segundoApellido": " FUENTES"
+    }
+  },
+  {
+    "id": "620e79a369652c220d597d44",
+    "fechaCaptura": "2022-02-17T10:36:51Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "EALIN DAVID",
+    "primerApellido": "VELÁZQUEZ",
+    "segundoApellido": "SALGUERO",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Tribunal Electoral del Estado de México",
+      "siglas": "teemmx",
+      "clave": "oau-006"
+    },
+    "puesto": {
+      "nombre": "Secretario Proyectista",
+      "nivel": "26 C"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "RAÚL ",
+      "primerApellido": "FLORES",
+      "segundoApellido": "BERNAL"
+    }
+  },
+  {
+    "id": "620e7cf769652c220d597d77",
+    "fechaCaptura": "2022-02-17T10:51:03Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "PEDRO ANDRÉS",
+    "primerApellido": "ECHEVERRÍA",
+    "segundoApellido": "GARCÍA",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Tribunal Electoral del Estado de México",
+      "siglas": "teemmx",
+      "clave": "oau-006"
+    },
+    "puesto": {
+      "nombre": "Auxiliar Administrativa,o",
+      "nivel": "05"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      },
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "PATRICIA",
+      "primerApellido": "CEVALLOS",
+      "segundoApellido": "VALDÉZ",
+      "puesto": {
+        "nombre": "Responsable del Área de Adquisiciones",
+        "nivel": "28-E"
+      }
+    }
+  },
+  {
+    "id": "620e7e2d69652c220d597d93",
+    "fechaCaptura": "2022-02-17T10:56:13Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "ARELI",
+    "primerApellido": "YAÑEZ",
+    "segundoApellido": "DELABRA",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Tribunal Electoral del Estado de México",
+      "siglas": "teemmx",
+      "clave": "oau-006"
+    },
+    "puesto": {
+      "nombre": "Auxiliar de Servicios Generales",
+      "nivel": "25-D"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      },
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "PATRICIA ",
+      "primerApellido": "CEVALLOS",
+      "segundoApellido": "VALDÉZ",
+      "puesto": {
+        "nombre": "Responsable del Área de Adquisiciones",
+        "nivel": "28-E"
+      }
+    }
+  },
+  {
+    "id": "620e7fe669652c220d597daf",
+    "fechaCaptura": "2022-02-17T11:03:34Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "FERNANDO",
+    "primerApellido": "NEMER",
+    "segundoApellido": "ORIVE",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Tribunal Electoral del Estado de México",
+      "siglas": "teemmx",
+      "clave": "oau-006"
+    },
+    "puesto": {
+      "nombre": "Supervisora,or de Captura de Centro de Cómputo",
+      "nivel": "10"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      },
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "PATRICIA ",
+      "primerApellido": "CEVALLOS",
+      "segundoApellido": "VALDÉZ",
+      "puesto": {
+        "nombre": "Responsable del Área de Adquisiciones",
+        "nivel": "28-E"
+      }
+    }
+  },
+  {
+    "id": "620e82c669652c220d597dd2",
+    "fechaCaptura": "2022-02-17T11:15:50Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "MARIO ALBERTO",
+    "primerApellido": "MARTÍNEZ",
+    "segundoApellido": "HERNÁNDEZ",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Tribunal Electoral del Estado de México",
+      "siglas": "teemmx",
+      "clave": "oau-006"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTOR",
+      "nivel": "NA"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "CLAUDIA ",
+      "primerApellido": "RIVAS",
+      "segundoApellido": "TOVAR",
+      "puesto": {
+        "nombre": "Director de Administración",
+        "nivel": "29-A"
+      }
+    }
+  },
+  {
+    "id": "620e848d69652c220d597df2",
+    "fechaCaptura": "2022-02-17T11:23:25Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "ARMANDO",
+    "primerApellido": "RAMÍREZ",
+    "segundoApellido": "CASTAÑEDA",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Tribunal Electoral del Estado de México",
+      "siglas": "teemmx",
+      "clave": "oau-006"
+    },
+    "puesto": {
+      "nombre": "Coordinadora,or General",
+      "nivel": "30"
+    },
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARTHA PATRICIA ",
+      "primerApellido": "TOVAR",
+      "segundoApellido": "PESCADOR"
+    }
+  },
+  {
+    "id": "620e85aa69652c220d597e0c",
+    "fechaCaptura": "2022-02-17T11:28:10Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "ANACELY",
+    "primerApellido": "ORTIZ",
+    "segundoApellido": "PEÑA",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Tribunal Electoral del Estado de México",
+      "siglas": "teemmx",
+      "clave": "oau-006"
+    },
+    "puesto": {
+      "nombre": "TITULAR DE UNIDAD",
+      "nivel": "NA"
+    },
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "VICTOR OSCAR",
+      "primerApellido": "PASQUEL",
+      "segundoApellido": "FUENTES"
+    }
+  },
+  {
+    "id": "620e88aa69652c220d597e28",
+    "fechaCaptura": "2022-02-17T11:40:58Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "OSIEL",
+    "primerApellido": "SÁNCHEZ",
+    "segundoApellido": "VILLANUEVA",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Tribunal Electoral del Estado de México",
+      "siglas": "teemmx",
+      "clave": "oau-006"
+    },
+    "puesto": {
+      "nombre": "Auxiliar Administrativa,o",
+      "nivel": "05"
+    },
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      },
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "CLAUDIA ",
+      "primerApellido": "RIVAS",
+      "segundoApellido": "TOVAR",
+      "puesto": {
+        "nombre": "Director de Administración",
+        "nivel": "29-A"
+      }
+    }
+  },
+  {
+    "id": "620e8a4969652c220d597e47",
+    "fechaCaptura": "2022-02-17T11:47:53Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "MARTÍN",
+    "primerApellido": "ARAUJO",
+    "segundoApellido": "BARRÓN",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Tribunal Electoral del Estado de México",
+      "siglas": "teemmx",
+      "clave": "oau-006"
+    },
+    "puesto": {
+      "nombre": "Responsable del Área de Servicios Generales",
+      "nivel": "28-E"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      },
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "CLAUDIA",
+      "primerApellido": "RIVAS",
+      "segundoApellido": "TOVAR",
+      "puesto": {
+        "nombre": "Director de Administración",
+        "nivel": "29-A"
+      }
+    }
+  },
+  {
+    "id": "620e8b5f69652c220d597e63",
+    "fechaCaptura": "2022-02-17T11:52:31Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "MARCOS",
+    "primerApellido": "PINEDA",
+    "segundoApellido": "GONZÁLEZ",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Tribunal Electoral del Estado de México",
+      "siglas": "teemmx",
+      "clave": "oau-006"
+    },
+    "puesto": {
+      "nombre": "Subcontralora/or y Encargada/o del Despacho de la Contraloría General",
+      "nivel": "28-A"
+    },
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "NANCY",
+      "primerApellido": "PÉREZ",
+      "segundoApellido": "GARDUÑO",
+      "puesto": {
+        "nombre": "Titular del Órgano Interno de Control ",
+        "nivel": "28"
+      }
+    }
+  },
+  {
+    "id": "620e8ccc69652c220d597e7d",
+    "fechaCaptura": "2022-02-17T11:58:36Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "ALEJANDRA",
+    "primerApellido": "MILLÁN",
+    "segundoApellido": "COLÍN",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Tribunal Electoral del Estado de México",
+      "siglas": "teemmx",
+      "clave": "oau-006"
+    },
+    "puesto": {
+      "nombre": "Proyectista",
+      "nivel": "13"
+    },
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARTHA PATRICIA ",
+      "primerApellido": "TOVAR",
+      "segundoApellido": "PESCADOR"
+    }
+  },
+  {
+    "id": "620e8e5d69652c220d597e9c",
+    "fechaCaptura": "2022-02-17T12:05:17Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "LUIS FERNANDO",
+    "primerApellido": "CRUZ",
+    "segundoApellido": "MARTÍNEZ",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Tribunal Electoral del Estado de México",
+      "siglas": "teemmx",
+      "clave": "oau-006"
+    },
+    "puesto": {
+      "nombre": "Auxiliar de Servicios Generales",
+      "nivel": "25-D"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      },
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "CLAUDIA ",
+      "primerApellido": "RIVAS",
+      "segundoApellido": "TOVAR",
+      "puesto": {
+        "nombre": "Director de Administración",
+        "nivel": "29-A"
+      }
+    }
+  },
+  {
+    "id": "620e8f8c69652c220d597eb8",
+    "fechaCaptura": "2022-02-17T12:10:20Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "MARTHA EDITH",
+    "primerApellido": "ÁVILA",
+    "segundoApellido": "CONTRERAS",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Tribunal Electoral del Estado de México",
+      "siglas": "teemmx",
+      "clave": "oau-006"
+    },
+    "puesto": {
+      "nombre": "Analista Especializada,o 'C' ",
+      "nivel": "26"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "OLIVE",
+      "primerApellido": "BAHENA",
+      "segundoApellido": "VERÁSTEGUI",
+      "puesto": {
+        "nombre": "Coordinador Jurídico, Consultivo y de Jurisprudencia",
+        "nivel": "27-B"
+      }
+    }
+  },
+  {
+    "id": "620e919369652c220d597ed4",
+    "fechaCaptura": "2022-02-17T12:18:59Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "LAURA PATRICIA",
+    "primerApellido": "DE LA FUENTE",
+    "segundoApellido": "LÓPEZ",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Tribunal Electoral del Estado de México",
+      "siglas": "teemmx",
+      "clave": "oau-006"
+    },
+    "puesto": {
+      "nombre": "Responsable del Área de Contabilidad",
+      "nivel": "26-B"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "CLAUDIA ",
+      "primerApellido": "RIVAS",
+      "segundoApellido": "TOVAR",
+      "puesto": {
+        "nombre": "Director de Administración",
+        "nivel": "29-A"
+      }
+    }
+  },
+  {
+    "id": "620e94b669652c220d597eee",
+    "fechaCaptura": "2022-02-17T12:32:22Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "ROGELIO",
+    "primerApellido": "MARTÍNEZ",
+    "segundoApellido": "RAMÍREZ",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Tribunal Electoral del Estado de México",
+      "siglas": "teemmx",
+      "clave": "oau-006"
+    },
+    "puesto": {
+      "nombre": "Auditora,or de la Contraloría",
+      "nivel": "20"
+    },
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "NANCY",
+      "primerApellido": "PÉREZ",
+      "segundoApellido": "GARDUÑO",
+      "puesto": {
+        "nombre": "Titular del Órgano Interno de Control ",
+        "nivel": "28"
+      }
+    }
+  },
+  {
+    "id": "620e984969652c220d597f0a",
+    "fechaCaptura": "2022-02-17T12:47:37Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "ANA YOLANDA",
+    "primerApellido": "ESQUIVEL ",
+    "segundoApellido": "JARAMILLO",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Tribunal Electoral del Estado de México",
+      "siglas": "teemmx",
+      "clave": "oau-006"
+    },
+    "puesto": {
+      "nombre": "SECRETARIO PARTICULAR",
+      "nivel": "NA"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "LETICIA",
+      "primerApellido": "VICTORIA",
+      "segundoApellido": "TAVIRA",
+      "puesto": {
+        "nombre": "Magistrado Presidente del Tribunal Electoral del Estado de México",
+        "nivel": "31-C"
+      }
+    }
+  },
+  {
+    "id": "620e995969652c220d597f26",
+    "fechaCaptura": "2022-02-17T12:52:09Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "RUTH MONTSERRAT",
+    "primerApellido": "MILLÁN",
+    "segundoApellido": "HERNÁNDEZ",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Tribunal Electoral del Estado de México",
+      "siglas": "teemmx",
+      "clave": "oau-006"
+    },
+    "puesto": {
+      "nombre": "Secretaria,o ",
+      "nivel": "31"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "CLAUDIA",
+      "primerApellido": "RIVAS",
+      "segundoApellido": "TOVAR",
+      "puesto": {
+        "nombre": "Director de Administración",
+        "nivel": "29-A"
+      }
+    }
+  },
+  {
+    "id": "620e9abd69652c220d597f42",
+    "fechaCaptura": "2022-02-17T12:58:05Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "OSVALDO",
+    "primerApellido": "ESQUIVEL",
+    "segundoApellido": "GARCÍA",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Tribunal Electoral del Estado de México",
+      "siglas": "teemmx",
+      "clave": "oau-006"
+    },
+    "puesto": {
+      "nombre": "Analista 'C'",
+      "nivel": "15"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "JOSÉ EMIGDIO",
+      "primerApellido": "CORTEZ",
+      "segundoApellido": "GARCÍA",
+      "puesto": {
+        "nombre": "Responsable del Área de Servicios Generales",
+        "nivel": "28-E"
+      }
+    }
+  },
+  {
+    "id": "620e9c7469652c220d597f5c",
+    "fechaCaptura": "2022-02-17T13:05:24Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "JOSÉ ISRAEL",
+    "primerApellido": "ROLDÁN",
+    "segundoApellido": "HERNÁNDEZ",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Tribunal Electoral del Estado de México",
+      "siglas": "teemmx",
+      "clave": "oau-006"
+    },
+    "puesto": {
+      "nombre": "Coordinadora,or General",
+      "nivel": "30"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "VICTOR OSCAR",
+      "primerApellido": "PASQUEL",
+      "segundoApellido": "FUENTES"
+    }
+  },
+  {
+    "id": "62278677a170336405aa9f6e",
+    "fechaCaptura": "2022-02-18T14:09:31Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "JORGE IVAN",
+    "primerApellido": "AVILA",
+    "segundoApellido": "JASSO",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Poder Judicial",
+      "siglas": "pjedomex",
+      "clave": "jud-001"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTOR",
+      "nivel": "27-A"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "TEODORO",
+      "primerApellido": "PATONI",
+      "segundoApellido": "ESCALANTE",
+      "puesto": {
+        "nombre": "DIRECTOR DE ÁREA",
+        "nivel": "28-A"
+      }
+    }
+  },
+  {
+    "id": "62278676a170336405aa9f68",
+    "fechaCaptura": "2022-02-18T14:11:37Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "MOISES FRANCISCO",
+    "primerApellido": "LIMA",
+    "segundoApellido": "VALDEZ",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Poder Judicial",
+      "siglas": "pjedomex",
+      "clave": "jud-001"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR GENERAL",
+      "nivel": "29-C"
+    },
+    "tipoArea": [
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      },
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "RICARDO ALFREDO",
+      "primerApellido": "SODI",
+      "segundoApellido": "CUELLAR",
+      "puesto": {
+        "nombre": "PRESIDENTE",
+        "nivel": "70-1"
+      }
+    }
+  },
+  {
+    "id": "62278676a170336405aa9f63",
+    "fechaCaptura": "2022-02-18T14:13:35Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "CLAUDIA",
+    "primerApellido": "INFANTE",
+    "segundoApellido": "FLORES",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Poder Judicial",
+      "siglas": "pjedomex",
+      "clave": "jud-001"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE ÁREA",
+      "nivel": "28-B"
+    },
+    "tipoArea": [
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MOISES FRANCISCO",
+      "primerApellido": "LIMA",
+      "segundoApellido": "VALDEZ",
+      "puesto": {
+        "nombre": "DIRECTOR GENERAL",
+        "nivel": "29-C"
+      }
+    }
+  },
+  {
+    "id": "62278676a170336405aa9f59",
+    "fechaCaptura": "2022-02-18T14:38:34Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "JOEL ALFONSO",
+    "primerApellido": "SIERRA",
+    "segundoApellido": "PALACIOS",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Poder Judicial",
+      "siglas": "pjedomex",
+      "clave": "jud-001"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR GENERAL",
+      "nivel": "29-BIS-D"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "RICARDO ALFREDO",
+      "primerApellido": "SODI",
+      "segundoApellido": "CUELLAR",
+      "puesto": {
+        "nombre": "PRESIDENTE",
+        "nivel": "70-1"
+      }
+    }
+  },
+  {
+    "id": "62278676a170336405aa9f54",
+    "fechaCaptura": "2022-02-18T14:40:11Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "LAURA ANTONIA",
+    "primerApellido": "ANDRADE",
+    "segundoApellido": "ROJAS",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Poder Judicial",
+      "siglas": "pjedomex",
+      "clave": "jud-001"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE ÁREA",
+      "nivel": "28-A"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARTIN AUGUSTO",
+      "primerApellido": "BERNAL",
+      "segundoApellido": "ABARCA",
+      "puesto": {
+        "nombre": "DIRECTOR GENERAL",
+        "nivel": "29-BIS-C"
+      }
+    }
+  },
+  {
+    "id": "62278675a170336405aa9f4f",
+    "fechaCaptura": "2022-02-18T14:41:56Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "ANTONIO",
+    "primerApellido": "AVILA",
+    "segundoApellido": "SALAZAR",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Poder Judicial",
+      "siglas": "pjedomex",
+      "clave": "jud-001"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTOR",
+      "nivel": "27-A"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      },
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      },
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "TEOFILO FEDERICO",
+      "primerApellido": "SILVA",
+      "segundoApellido": "GONZALEZ",
+      "puesto": {
+        "nombre": "DIRECTOR DE ÁREA",
+        "nivel": "28-A"
+      }
+    }
+  },
+  {
+    "id": "62278675a170336405aa9f4a",
+    "fechaCaptura": "2022-02-18T14:43:02Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "RICARDO ISRAEL",
+    "primerApellido": "NAJERA",
+    "segundoApellido": "PAEZ",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Poder Judicial",
+      "siglas": "pjedomex",
+      "clave": "jud-001"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTOR",
+      "nivel": "27-A"
+    },
+    "tipoArea": [
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      },
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "TEOFILO FEDERICO",
+      "primerApellido": "SILVA",
+      "segundoApellido": "GONZALEZ",
+      "puesto": {
+        "nombre": "DIRECTOR DE ÁREA",
+        "nivel": "28-A"
+      }
+    }
+  },
+  {
+    "id": "62278675a170336405aa9f45",
+    "fechaCaptura": "2022-02-18T14:44:02Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "GENARO",
+    "primerApellido": "BUENO",
+    "segundoApellido": "VARONA",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Poder Judicial",
+      "siglas": "pjedomex",
+      "clave": "jud-001"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE ÁREA",
+      "nivel": "28-D"
+    },
+    "tipoArea": [
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MOISES FRANCISCO",
+      "primerApellido": "LIMA",
+      "segundoApellido": "VALDEZ",
+      "puesto": {
+        "nombre": "DIRECTOR GENERAL",
+        "nivel": "29-C"
+      }
+    }
+  },
+  {
+    "id": "62278675a170336405aa9f40",
+    "fechaCaptura": "2022-02-18T14:45:29Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "CONSUELO",
+    "primerApellido": "SANCHEZ",
+    "segundoApellido": "POZADAS",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Poder Judicial",
+      "siglas": "pjedomex",
+      "clave": "jud-001"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE ÁREA",
+      "nivel": "28-A"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "ROBERTO",
+      "primerApellido": "CERVANTES",
+      "segundoApellido": "MARTINEZ",
+      "puesto": {
+        "nombre": "DIRECTOR GENERAL",
+        "nivel": "29-BIS-C"
+      }
+    }
+  },
+  {
+    "id": "62278674a170336405aa9f3b",
+    "fechaCaptura": "2022-02-18T14:46:09Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "TEODORO",
+    "primerApellido": "PATONI",
+    "segundoApellido": "ESCALANTE",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Poder Judicial",
+      "siglas": "pjedomex",
+      "clave": "jud-001"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE ÁREA",
+      "nivel": "28-A"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "ROBERTO",
+      "primerApellido": "CERVANTES",
+      "segundoApellido": "MARTINEZ",
+      "puesto": {
+        "nombre": "DIRECTOR GENERAL",
+        "nivel": "29-BIS-C"
+      }
+    }
+  },
+  {
+    "id": "62d3dae1b598ee27666c1ba6",
+    "fechaCaptura": "2022-02-18T17:21:36Z",
+    "nombres": "MÓNICA GABRIELA",
+    "primerApellido": "CITALÁN",
+    "segundoApellido": "OCAMPO",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Subdirectora",
+      "nivel": "PT8KM"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CITALAN",
+      "segundoApellido": "OCAMPO"
+    }
+  },
+  {
+    "id": "622788de294e7e4afffd05a6",
+    "fechaCaptura": "2022-02-23T10:47:51Z",
+    "nombres": "JOSÉ LUIS",
+    "primerApellido": "MORALES",
+    "segundoApellido": "LECHUGA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación",
+      "siglas": "educacion",
+      "clave": "eje-027"
+    },
+    "puesto": {
+      "nombre": "Asesor",
+      "nivel": "RAXJ3"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "VALLES"
+    }
+  },
+  {
+    "id": "62d3dae1b598ee27666c1bab",
+    "fechaCaptura": "2022-02-25T13:00:06Z",
+    "nombres": "VICTOR HUGO",
+    "primerApellido": "MENDEZ",
+    "segundoApellido": "MELCHOR",
+    "institucionDependencia": {
+      "nombre": "Comisión del Agua del Estado de México",
+      "siglas": "caem",
+      "clave": "eje-113"
+    },
+    "puesto": {
+      "nombre": "Residente de Obra",
+      "nivel": "RS3VW"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABALLERO",
+      "segundoApellido": "PEREZ."
+    }
+  },
+  {
+    "id": "62d3dae1b598ee27666c1bae",
+    "fechaCaptura": "2022-02-25T13:04:29Z",
+    "nombres": "EDGAR",
+    "primerApellido": "VILLALBA",
+    "segundoApellido": "VILLA",
+    "institucionDependencia": {
+      "nombre": "Comisión del Agua del Estado de México",
+      "siglas": "caem",
+      "clave": "eje-113"
+    },
+    "puesto": {
+      "nombre": "Residente de Obra",
+      "nivel": "RS3VW"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABALLERO",
+      "segundoApellido": "PEREZ."
+    }
+  },
+  {
+    "id": "6303a062462080277bec2eb2",
+    "fechaCaptura": "2022-02-28T01:02:16Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 13,
+      "valor": "Coordinación de la Política de Gobierno"
+    },
+    "nombres": "MA JOSEFINA",
+    "primerApellido": "MERCADO",
+    "segundoApellido": "PEREZ",
+    "institucionDependencia": {
+      "nombre": "Instituto Electoral del Estado de México",
+      "siglas": "ieem",
+      "clave": "oau-004"
+    },
+    "puesto": {
+      "nombre": "LÍDER A DE PROYECTO",
+      "nivel": "25"
+    },
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "ANA LAURA",
+      "primerApellido": "LOPEZ",
+      "segundoApellido": "GUTIERREZ",
+      "puesto": {
+        "nombre": "JEFE DE DEPARTAMENTO",
+        "nivel": "26"
+      }
+    }
+  },
+  {
+    "id": "62a789e12f8b7c2a0c53f0aa",
+    "fechaCaptura": "2022-02-28T01:02:24Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 13,
+      "valor": "Coordinación de la Política de Gobierno"
+    },
+    "nombres": "JOSE",
+    "primerApellido": "MONDRAGON",
+    "segundoApellido": "PEDRERO",
+    "institucionDependencia": {
+      "nombre": "Instituto Electoral del Estado de México",
+      "siglas": "ieem",
+      "clave": "oau-004"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR",
+      "nivel": "33"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "FRANCISCO JAVIER",
+      "primerApellido": "LOPEZ",
+      "segundoApellido": "CORRAL",
+      "puesto": {
+        "nombre": "SECRETARIO EJECUTIVO",
+        "nivel": "34"
+      }
+    }
+  },
+  {
+    "id": "62a789e12f8b7c2a0c53f0a5",
+    "fechaCaptura": "2022-02-28T01:02:48Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 13,
+      "valor": "Coordinación de la Política de Gobierno"
+    },
+    "nombres": "SILVIA MELINA",
+    "primerApellido": "GOMEZ",
+    "segundoApellido": "PREISSER",
+    "institucionDependencia": {
+      "nombre": "Instituto Electoral del Estado de México",
+      "siglas": "ieem",
+      "clave": "oau-004"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTOR",
+      "nivel": "28"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "JOSE",
+      "primerApellido": "MONDRAGON",
+      "segundoApellido": "PEDRERO",
+      "puesto": {
+        "nombre": "DIRECTOR",
+        "nivel": "33"
+      }
+    }
+  },
+  {
+    "id": "62a789e22f8b7c2a0c53f0b6",
+    "fechaCaptura": "2022-02-28T02:02:06Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 13,
+      "valor": "Coordinación de la Política de Gobierno"
+    },
+    "nombres": "ARACELI",
+    "primerApellido": "HERNANDEZ",
+    "segundoApellido": "RAMIREZ",
+    "institucionDependencia": {
+      "nombre": "Instituto Electoral del Estado de México",
+      "siglas": "ieem",
+      "clave": "oau-004"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR TÉCNICO",
+      "nivel": "30"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "FRANCISCO JAVIER",
+      "primerApellido": "LOPEZ",
+      "segundoApellido": "CORRAL",
+      "puesto": {
+        "nombre": "SECRETARIO EJECUTIVO",
+        "nivel": "34"
+      }
+    }
+  },
+  {
+    "id": "62a789e22f8b7c2a0c53f0c0",
+    "fechaCaptura": "2022-02-28T02:02:12Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 13,
+      "valor": "Coordinación de la Política de Gobierno"
+    },
+    "nombres": "LUIS MANUEL",
+    "primerApellido": "BADILLO",
+    "segundoApellido": "TORRESCANO",
+    "institucionDependencia": {
+      "nombre": "Instituto Electoral del Estado de México",
+      "siglas": "ieem",
+      "clave": "oau-004"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO",
+      "nivel": "26"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "ARACELI",
+      "primerApellido": "HERNANDEZ",
+      "segundoApellido": "RAMIREZ",
+      "puesto": {
+        "nombre": "COORDINADOR TÉCNICO",
+        "nivel": "30"
+      }
+    }
+  },
+  {
+    "id": "62a789e22f8b7c2a0c53f0bb",
+    "fechaCaptura": "2022-02-28T02:02:15Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 13,
+      "valor": "Coordinación de la Política de Gobierno"
+    },
+    "nombres": "FRANCISCO AUGUSTO",
+    "primerApellido": "FUENTES",
+    "segundoApellido": "LEMUS",
+    "institucionDependencia": {
+      "nombre": "Instituto Electoral del Estado de México",
+      "siglas": "ieem",
+      "clave": "oau-004"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO",
+      "nivel": "26"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "ARACELI",
+      "primerApellido": "HERNANDEZ",
+      "segundoApellido": "RAMIREZ",
+      "puesto": {
+        "nombre": "COORDINADOR TÉCNICO",
+        "nivel": "30"
+      }
+    }
+  },
+  {
+    "id": "62a789e32f8b7c2a0c53f0e7",
+    "fechaCaptura": "2022-02-28T03:02:20Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 13,
+      "valor": "Coordinación de la Política de Gobierno"
+    },
+    "nombres": "ROMMEL IVAN",
+    "primerApellido": "SANTIN",
+    "segundoApellido": "ROMERO",
+    "institucionDependencia": {
+      "nombre": "Instituto Electoral del Estado de México",
+      "siglas": "ieem",
+      "clave": "oau-004"
+    },
+    "puesto": {
+      "nombre": "LÍDER A DE PROYECTO",
+      "nivel": "25"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "FERNANDO RUBEN",
+      "primerApellido": "ALVAREZ",
+      "segundoApellido": "VELAZQUEZ",
+      "puesto": {
+        "nombre": "JEFE DE DEPARTAMENTO",
+        "nivel": "26"
+      }
+    }
+  },
+  {
+    "id": "62a789e32f8b7c2a0c53f0d6",
+    "fechaCaptura": "2022-02-28T03:02:26Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 13,
+      "valor": "Coordinación de la Política de Gobierno"
+    },
+    "nombres": "ABIGAIL",
+    "primerApellido": "REYES",
+    "segundoApellido": "PUEBLA",
+    "institucionDependencia": {
+      "nombre": "Instituto Electoral del Estado de México",
+      "siglas": "ieem",
+      "clave": "oau-004"
+    },
+    "puesto": {
+      "nombre": "LÍDER B DE PROYECTO",
+      "nivel": "22"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "SILVIA",
+      "primerApellido": "CUADROS",
+      "segundoApellido": "ALMAZAN",
+      "puesto": {
+        "nombre": "JEFE DE DEPARTAMENTO",
+        "nivel": "26"
+      }
+    }
+  },
+  {
+    "id": "62a789e32f8b7c2a0c53f0db",
+    "fechaCaptura": "2022-02-28T03:02:35Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 13,
+      "valor": "Coordinación de la Política de Gobierno"
+    },
+    "nombres": "MIGUEL ANGEL",
+    "primerApellido": "SANCHEZ",
+    "segundoApellido": "GONZALEZ",
+    "institucionDependencia": {
+      "nombre": "Instituto Electoral del Estado de México",
+      "siglas": "ieem",
+      "clave": "oau-004"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTOR",
+      "nivel": "28"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MAYRA ELIZABETH",
+      "primerApellido": "LOPEZ",
+      "segundoApellido": "HERNANDEZ",
+      "puesto": {
+        "nombre": "DIRECTOR",
+        "nivel": "33"
+      }
+    }
+  },
+  {
+    "id": "62a789e22f8b7c2a0c53f0c5",
+    "fechaCaptura": "2022-02-28T03:02:40Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 13,
+      "valor": "Coordinación de la Política de Gobierno"
+    },
+    "nombres": "MARIO",
+    "primerApellido": "SANDOVAL",
+    "segundoApellido": "MOCINO",
+    "institucionDependencia": {
+      "nombre": "Instituto Electoral del Estado de México",
+      "siglas": "ieem",
+      "clave": "oau-004"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTOR",
+      "nivel": "28"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "VACANTE",
+      "primerApellido": "VACANTE",
+      "puesto": {
+        "nombre": "CONTRALOR",
+        "nivel": "33"
+      }
+    }
+  },
+  {
+    "id": "62a789e32f8b7c2a0c53f0e2",
+    "fechaCaptura": "2022-02-28T03:02:53Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 13,
+      "valor": "Coordinación de la Política de Gobierno"
+    },
+    "nombres": "FERNANDO RUBEN",
+    "primerApellido": "ALVAREZ",
+    "segundoApellido": "VELAZQUEZ",
+    "institucionDependencia": {
+      "nombre": "Instituto Electoral del Estado de México",
+      "siglas": "ieem",
+      "clave": "oau-004"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO",
+      "nivel": "26"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MIGUEL ANGEL",
+      "primerApellido": "SANCHEZ",
+      "segundoApellido": "GONZALEZ",
+      "puesto": {
+        "nombre": "SUBDIRECTOR",
+        "nivel": "28"
+      }
+    }
+  },
+  {
+    "id": "62a789e22f8b7c2a0c53f0ca",
+    "fechaCaptura": "2022-02-28T03:02:54Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 13,
+      "valor": "Coordinación de la Política de Gobierno"
+    },
+    "nombres": "SILVIA",
+    "primerApellido": "CUADROS",
+    "segundoApellido": "ALMAZAN",
+    "institucionDependencia": {
+      "nombre": "Instituto Electoral del Estado de México",
+      "siglas": "ieem",
+      "clave": "oau-004"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO",
+      "nivel": "26"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARIO",
+      "primerApellido": "SANDOVAL",
+      "segundoApellido": "MOCINO",
+      "puesto": {
+        "nombre": "SUBDIRECTOR",
+        "nivel": "28"
+      }
+    }
+  },
+  {
+    "id": "62a789e32f8b7c2a0c53f0ec",
+    "fechaCaptura": "2022-02-28T03:02:54Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 13,
+      "valor": "Coordinación de la Política de Gobierno"
+    },
+    "nombres": "MAYRA ELIZABETH",
+    "primerApellido": "LOPEZ",
+    "segundoApellido": "HERNANDEZ",
+    "institucionDependencia": {
+      "nombre": "Instituto Electoral del Estado de México",
+      "siglas": "ieem",
+      "clave": "oau-004"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR",
+      "nivel": "33"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "FRANCISCO JAVIER",
+      "primerApellido": "LOPEZ",
+      "segundoApellido": "CORRAL",
+      "puesto": {
+        "nombre": "SECRETARIO EJECUTIVO",
+        "nivel": "34"
+      }
+    }
+  },
+  {
+    "id": "62a789e22f8b7c2a0c53f0d1",
+    "fechaCaptura": "2022-02-28T03:02:57Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 13,
+      "valor": "Coordinación de la Política de Gobierno"
+    },
+    "nombres": "CLAUDIA CLEMENTINA",
+    "primerApellido": "PEREZ",
+    "segundoApellido": "GONZALEZ",
+    "institucionDependencia": {
+      "nombre": "Instituto Electoral del Estado de México",
+      "siglas": "ieem",
+      "clave": "oau-004"
+    },
+    "puesto": {
+      "nombre": "LÍDER A DE PROYECTO",
+      "nivel": "25"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "SILVIA",
+      "primerApellido": "CUADROS",
+      "segundoApellido": "ALMAZAN",
+      "puesto": {
+        "nombre": "JEFE DE DEPARTAMENTO",
+        "nivel": "26"
+      }
+    }
+  },
+  {
+    "id": "62a789e32f8b7c2a0c53f0f3",
+    "fechaCaptura": "2022-02-28T05:02:13Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 13,
+      "valor": "Coordinación de la Política de Gobierno"
+    },
+    "nombres": "FRANCISCO JAVIER",
+    "primerApellido": "LOPEZ",
+    "segundoApellido": "CORRAL",
+    "institucionDependencia": {
+      "nombre": "Instituto Electoral del Estado de México",
+      "siglas": "ieem",
+      "clave": "oau-004"
+    },
+    "puesto": {
+      "nombre": "SECRETARIO EJECUTIVO",
+      "nivel": "34"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "CONSEJO",
+      "primerApellido": "GENERAL",
+      "puesto": {
+        "nombre": "SECRETARIO EJECUTIVO",
+        "nivel": "34"
+      }
+    }
+  },
+  {
+    "id": "622799fc73ed865c36ba7cec",
+    "fechaCaptura": "2022-03-08T09:03:00Z",
+    "nombres": "Luis David",
+    "primerApellido": "Miranda",
+    "segundoApellido": "Gómez",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Poder Legislativo",
+      "siglas": "cddiputados",
+      "clave": "leg-001"
+    },
+    "puesto": {
+      "nombre": "Secretaria,o",
+      "nivel": "31"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "622799fc73ed865c36ba7cf1",
+    "fechaCaptura": "2022-03-08T09:03:00Z",
+    "nombres": "Elena Karina",
+    "primerApellido": "Castañeda",
+    "segundoApellido": "Pagaza",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Poder Legislativo",
+      "siglas": "cddiputados",
+      "clave": "leg-001"
+    },
+    "puesto": {
+      "nombre": "Directora,or de Área",
+      "nivel": "28"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "622799fc73ed865c36ba7cf6",
+    "fechaCaptura": "2022-03-08T09:03:00Z",
+    "nombres": "Juan José",
+    "primerApellido": "Hernández",
+    "segundoApellido": "Vences",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Poder Legislativo",
+      "siglas": "cddiputados",
+      "clave": "leg-001"
+    },
+    "puesto": {
+      "nombre": "Secretaria,o",
+      "nivel": "31"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "622799fd73ed865c36ba7cfb",
+    "fechaCaptura": "2022-03-08T09:03:00Z",
+    "nombres": "Irma Victoria",
+    "primerApellido": "Palomares",
+    "segundoApellido": "Hernández",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Poder Legislativo",
+      "siglas": "cddiputados",
+      "clave": "leg-001"
+    },
+    "puesto": {
+      "nombre": "Directora,or de Área",
+      "nivel": "28"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "622799fd73ed865c36ba7d00",
+    "fechaCaptura": "2022-03-08T09:03:00Z",
+    "nombres": "Esthela",
+    "primerApellido": "Lío",
+    "segundoApellido": "Garza",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Poder Legislativo",
+      "siglas": "cddiputados",
+      "clave": "leg-001"
+    },
+    "puesto": {
+      "nombre": "Directora,or de Área",
+      "nivel": "28"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "622799fd73ed865c36ba7d05",
+    "fechaCaptura": "2022-03-08T09:03:00Z",
+    "nombres": "Martha",
+    "primerApellido": "Maldonado",
+    "segundoApellido": "Vilchis",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Poder Legislativo",
+      "siglas": "cddiputados",
+      "clave": "leg-001"
+    },
+    "puesto": {
+      "nombre": "Directora,or de Área",
+      "nivel": "28"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "627ab69f201c78ff11058d9d",
+    "fechaCaptura": "2022-03-08T09:14:14Z",
+    "nombres": "ALFONSO",
+    "primerApellido": "ARZALUZ",
+    "segundoApellido": "MEJIA",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Soporte Administrativo \"C\"",
+      "nivel": "OTVFV"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "QUINTERO",
+      "segundoApellido": "ROMO"
+    }
+  },
+  {
+    "id": "627ab69f201c78ff11058da2",
+    "fechaCaptura": "2022-03-08T09:16:21Z",
+    "nombres": "EDUARDO",
+    "primerApellido": "URIBE",
+    "segundoApellido": "GUTIERREZ",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Jefatura de Departamento",
+      "nivel": "5L55N"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "QUINTERO",
+      "segundoApellido": "ROMO"
+    }
+  },
+  {
+    "id": "634077df7943e2ab46bb78d0",
+    "fechaCaptura": "2022-03-11T12:39:15Z",
+    "nombres": "JERÓNIMO APOLONIO",
+    "primerApellido": "RIVERA",
+    "segundoApellido": "MEJÍA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Analista De Planeación Y Preupuesto",
+      "nivel": "3ZBEY"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GARCIA",
+      "segundoApellido": "IBAÑEZ"
+    }
+  },
+  {
+    "id": "62d3dae2b598ee27666c1bb8",
+    "fechaCaptura": "2022-03-11T12:41:14Z",
+    "nombres": "PASCUAL",
+    "primerApellido": "LOPEZ",
+    "segundoApellido": "LOPEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Analista Auxiliar",
+      "nivel": "0MAG0"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CUERVO",
+      "segundoApellido": "ACEVES"
+    }
+  },
+  {
+    "id": "62d3dae2b598ee27666c1bbb",
+    "fechaCaptura": "2022-03-11T12:44:52Z",
+    "nombres": "CYNTYA SAMADI",
+    "primerApellido": "MONDRAGÓN",
+    "segundoApellido": "AGUIRRE",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Anlista De Planeción Y Presupuesto \"F\"",
+      "nivel": "Z5K9V"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CUERVO",
+      "segundoApellido": "ACEVES"
+    }
+  },
+  {
+    "id": "627ab69f201c78ff11058da7",
+    "fechaCaptura": "2022-03-16T09:36:33Z",
+    "nombres": "CESAR ALBERTO",
+    "primerApellido": "QUINTERO",
+    "segundoApellido": "ROMO",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Coordinador de Administración y Finanzas",
+      "nivel": "RFXF7"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "FERNANDEZ",
+      "segundoApellido": "CLAMONT"
+    }
+  },
+  {
+    "id": "631fa011055a2a7017e07475",
+    "fechaCaptura": "2022-03-17T03:03:51Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 13,
+      "valor": "Coordinación de la Política de Gobierno"
+    },
+    "nombres": "FORTINO",
+    "primerApellido": "URIBE",
+    "segundoApellido": "ARZATE",
+    "institucionDependencia": {
+      "nombre": "Instituto Electoral del Estado de México",
+      "siglas": "ieem",
+      "clave": "oau-004"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTOR",
+      "nivel": "28"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "OSVALDO TERCERO ",
+      "primerApellido": "GOMEZ",
+      "segundoApellido": "GUERRERO",
+      "puesto": {
+        "nombre": "DIRECTOR",
+        "nivel": "33"
+      }
+    }
+  },
+  {
+    "id": "62d3dae3b598ee27666c1bc5",
+    "fechaCaptura": "2022-03-28T14:50:01Z",
+    "nombres": "RUBEN ALEJANDRO",
+    "primerApellido": "IRINEO",
+    "segundoApellido": "REYES",
+    "institucionDependencia": {
+      "nombre": "Comisión del Agua del Estado de México",
+      "siglas": "caem",
+      "clave": "eje-113"
+    },
+    "puesto": {
+      "nombre": "Jefe de Departamento",
+      "nivel": "JCYN9"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "ZARATE",
+      "segundoApellido": "SANCHEZ."
+    },
+    "observaciones": "BUEN TRABAJADOR"
+  },
+  {
+    "id": "62d3dae3b598ee27666c1bc8",
+    "fechaCaptura": "2022-03-28T15:09:53Z",
+    "nombres": "ALI HUMBERTO",
+    "primerApellido": "GOMEZ",
+    "segundoApellido": "PEREZ",
+    "institucionDependencia": {
+      "nombre": "Comisión del Agua del Estado de México",
+      "siglas": "caem",
+      "clave": "eje-113"
+    },
+    "puesto": {
+      "nombre": "Auxiliar De Construccion Y Operacion",
+      "nivel": "A9N3T"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "SOLANO",
+      "segundoApellido": "SANCHEZ."
+    },
+    "observaciones": "BUEN TRABAJADOR"
+  },
+  {
+    "id": "62d3dae3b598ee27666c1bcd",
+    "fechaCaptura": "2022-03-28T17:58:28Z",
+    "nombres": "CESAR",
+    "primerApellido": "ARIAS",
+    "segundoApellido": "SANTIAGO",
+    "institucionDependencia": {
+      "nombre": "Comisión del Agua del Estado de México",
+      "siglas": "caem",
+      "clave": "eje-113"
+    },
+    "puesto": {
+      "nombre": "Jefe Del Depto. De Concursos",
+      "nivel": "4QK2H"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "ZARATE",
+      "segundoApellido": "SANCHEZ."
+    },
+    "observaciones": "BUEN EMPLEADO"
+  },
+  {
+    "id": "62d3dae3b598ee27666c1bd0",
+    "fechaCaptura": "2022-03-28T18:01:18Z",
+    "nombres": "ANAID ASELA",
+    "primerApellido": "PALMA",
+    "segundoApellido": "AGUILAR",
+    "institucionDependencia": {
+      "nombre": "Comisión del Agua del Estado de México",
+      "siglas": "caem",
+      "clave": "eje-113"
+    },
+    "puesto": {
+      "nombre": "Jefa Del Depto. De Seguimiento Y Control",
+      "nivel": "FITPR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "ZARATE",
+      "segundoApellido": "SANCHEZ."
+    },
+    "observaciones": "BUEN TRABAJADOR"
+  },
+  {
+    "id": "627ab69f201c78ff11058dae",
+    "fechaCaptura": "2022-03-29T11:08:57Z",
+    "nombres": "JAIR",
+    "primerApellido": "ESTRADA",
+    "segundoApellido": "AYALA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación",
+      "siglas": "educacion",
+      "clave": "eje-027"
+    },
+    "puesto": {
+      "nombre": "Asesor",
+      "nivel": "RAXJ3"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "VALLES"
+    }
+  },
+  {
+    "id": "62d1d6cfb598ee276669adf7",
+    "fechaCaptura": "2022-04-01T11:33:37Z",
+    "ejercicioFiscal": "2017",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "JESÚS PABLO",
+    "primerApellido": "ESTRADA",
+    "segundoApellido": "GARCÍA",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO",
+      "siglas": "CODHEM",
+      "clave": "001"
+    },
+    "puesto": {
+      "nombre": "ANALISTA C",
+      "nivel": "15"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "NAPOLÉON",
+      "primerApellido": "VILLANUEVA",
+      "segundoApellido": "COVA",
+      "puesto": {
+        "nombre": "JEFE(A) DE DEPARTAMENTO",
+        "nivel": "26"
+      }
+    }
+  },
+  {
+    "id": "62d1d6cfb598ee276669adfd",
+    "fechaCaptura": "2022-04-01T11:38:42Z",
+    "ejercicioFiscal": "2017",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "YADIRA",
+    "primerApellido": "MEDINA",
+    "segundoApellido": "FUENTES",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO",
+      "siglas": "CODHEM",
+      "clave": "001"
+    },
+    "puesto": {
+      "nombre": "JEFE(A) B DE PROYECTO",
+      "nivel": "20"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "NAPOLÉON",
+      "primerApellido": "VILLANUEVA",
+      "segundoApellido": "COVA",
+      "puesto": {
+        "nombre": "JEFE(A) DE DEPARTAMENTO",
+        "nivel": "26"
+      }
+    }
+  },
+  {
+    "id": "62d1d6cfb598ee276669ae02",
+    "fechaCaptura": "2022-04-01T11:40:39Z",
+    "ejercicioFiscal": "2017",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "GERARDO GUILLERMO",
+    "primerApellido": "SERRATO",
+    "segundoApellido": "LÓPEZ",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO",
+      "siglas": "CODHEM",
+      "clave": "001"
+    },
+    "puesto": {
+      "nombre": "ANALISTA A",
+      "nivel": "18"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "NAPOLÉON",
+      "primerApellido": "VILLANUEVA",
+      "segundoApellido": "COVA",
+      "puesto": {
+        "nombre": "JEFE(A) DE DEPARTAMENTO",
+        "nivel": "26"
+      }
+    }
+  },
+  {
+    "id": "62d1d6d0b598ee276669ae06",
+    "fechaCaptura": "2022-04-01T11:55:24Z",
+    "ejercicioFiscal": "2019",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "FRANCISCO JAVIER",
+    "primerApellido": "DÍAZ",
+    "segundoApellido": "DÍAZ",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO",
+      "siglas": "CODHEM",
+      "clave": "001"
+    },
+    "puesto": {
+      "nombre": "JEFE(A) DE DEPARTAMENTO",
+      "nivel": "26"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      },
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "KARLA",
+      "primerApellido": "LÓPEZ",
+      "segundoApellido": "CARBAJAL",
+      "puesto": {
+        "nombre": "DIRECTOR(A) GENERAL DE ADMINISTRACION Y FINAN",
+        "nivel": "29"
+      }
+    }
+  },
+  {
+    "id": "62d1d6d0b598ee276669ae09",
+    "fechaCaptura": "2022-04-01T11:58:08Z",
+    "ejercicioFiscal": "2019",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "FERNANDO ALFREDO",
+    "primerApellido": "GARCÍA",
+    "segundoApellido": "CARREÑO",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO",
+      "siglas": "CODHEM",
+      "clave": "001"
+    },
+    "puesto": {
+      "nombre": "JEFE(A) DE DEPARTAMENTO",
+      "nivel": "26"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      },
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "KARLA",
+      "primerApellido": "LÓPEZ",
+      "segundoApellido": "CARBAJAL",
+      "puesto": {
+        "nombre": "DIRECTOR(A) GENERAL DE ADMINISTRACION Y FINAN",
+        "nivel": "29"
+      }
+    }
+  },
+  {
+    "id": "627ac1e2201c78ff11059957",
+    "fechaCaptura": "2022-04-01T14:52:30Z",
+    "nombres": "LIZETH LUCERO",
+    "primerApellido": "ZAMORA",
+    "segundoApellido": "MONTES DE OCA",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Soporte Administrativo \"C\"",
+      "nivel": "OTVFV"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "QUINTERO",
+      "segundoApellido": "ROMO"
+    }
+  },
+  {
+    "id": "627ac1e3201c78ff1105995e",
+    "fechaCaptura": "2022-04-08T17:22:09Z",
+    "nombres": "LIZETH",
+    "primerApellido": "SANCHEZ",
+    "segundoApellido": "DOMINGUEZ",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Apoyo Administrativo En Salud A4",
+      "nivel": "S9MFG"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "QUINTERO",
+      "segundoApellido": "ROMO"
+    }
+  },
+  {
+    "id": "62d2dd2db598ee27666b3b06",
+    "fechaCaptura": "2022-04-11T14:23:20Z",
+    "nombres": "SALVADOR",
+    "primerApellido": "POLICARPIO",
+    "segundoApellido": "MARTINEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Verificador De Documentos",
+      "nivel": "GARWH"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "O",
+        "valor": "OTRO"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CITALAN",
+      "segundoApellido": "OCAMPO"
+    },
+    "observaciones": "ENCARGADO DE PERSONAL DE LIMPIEZA"
+  },
+  {
+    "id": "62d2dd2db598ee27666b3b0b",
+    "fechaCaptura": "2022-04-11T15:15:27Z",
+    "nombres": "JOSE CONCEPCIÓN",
+    "primerApellido": "SANCHEZ",
+    "segundoApellido": "REYES",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Jefe De Analstas",
+      "nivel": "E078Q"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "O",
+        "valor": "OTRO"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CITALAN",
+      "segundoApellido": "OCAMPO"
+    },
+    "observaciones": "ENCARGADO DE FOTOCOPIADO Y VIGILANCIA"
+  },
+  {
+    "id": "62d2dd2db598ee27666b3b0e",
+    "fechaCaptura": "2022-04-11T15:22:03Z",
+    "nombres": "JORGE ALBERTO",
+    "primerApellido": "LLAVEN",
+    "segundoApellido": "DIAZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Jefe de Área",
+      "nivel": "PHCSR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "O",
+        "valor": "OTRO"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CITALAN",
+      "segundoApellido": "OCAMPO"
+    },
+    "observaciones": "ENCARGADO DE GASOLINA"
+  },
+  {
+    "id": "62d2dd2eb598ee27666b3b11",
+    "fechaCaptura": "2022-04-11T15:46:56Z",
+    "nombres": "OSCAR",
+    "primerApellido": "CRUZ",
+    "segundoApellido": "AVILES",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Chofer",
+      "nivel": "4P5E1"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "O",
+        "valor": "OTRO"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CITALAN",
+      "segundoApellido": "OCAMPO"
+    },
+    "observaciones": "ENCARGADO DE VEHICULOS"
+  },
+  {
+    "id": "62d2dd2eb598ee27666b3b14",
+    "fechaCaptura": "2022-04-11T16:30:58Z",
+    "nombres": "ADRIANA",
+    "primerApellido": "MONTES DE OCA",
+    "segundoApellido": "CERRO",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Secretaria",
+      "nivel": "UIVMZ"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "O",
+        "valor": "OTRO"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CITALAN",
+      "segundoApellido": "OCAMPO"
+    },
+    "observaciones": "ENCARGADA DE TAG"
+  },
+  {
+    "id": "62d2dd2eb598ee27666b3b17",
+    "fechaCaptura": "2022-04-11T16:39:01Z",
+    "nombres": "JUAN CARLOS",
+    "primerApellido": "VELAZQUEZ",
+    "segundoApellido": "GUTIERREZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Analista Especializado C",
+      "nivel": "K03Q4"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "O",
+        "valor": "OTRO"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CITALAN",
+      "segundoApellido": "OCAMPO"
+    },
+    "observaciones": "ENCARGADO DE TAG, GASOLINA Y VEHICULOS"
+  },
+  {
+    "id": "62d2dd2eb598ee27666b3b1a",
+    "fechaCaptura": "2022-04-11T16:56:37Z",
+    "nombres": "LORENA",
+    "primerApellido": "IZQUIERDO",
+    "segundoApellido": "HERNANDEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Analista B",
+      "nivel": "K4QIE"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "O",
+        "valor": "OTRO"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CITALAN",
+      "segundoApellido": "OCAMPO"
+    },
+    "observaciones": "ARRENDAMIENTOS"
+  },
+  {
+    "id": "62d2dd2eb598ee27666b3b1d",
+    "fechaCaptura": "2022-04-11T17:00:31Z",
+    "nombres": "CARLOS",
+    "primerApellido": "REYES",
+    "segundoApellido": "AREVALO",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Analista A",
+      "nivel": "JTB4Q"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "O",
+        "valor": "OTRO"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CITALAN",
+      "segundoApellido": "OCAMPO"
+    },
+    "observaciones": "RESPONSABLE DE ENERGÍA ELÉCTRICA Y TELEFONIA"
+  },
+  {
+    "id": "62d2dd2eb598ee27666b3b20",
+    "fechaCaptura": "2022-04-11T17:03:04Z",
+    "nombres": "ALFREDO",
+    "primerApellido": "PORCAYO",
+    "segundoApellido": "GUTIERREZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Ayudante De Oficina",
+      "nivel": "F7AI9"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "O",
+        "valor": "OTRO"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CITALAN",
+      "segundoApellido": "OCAMPO"
+    },
+    "observaciones": "RESPONSABLE DE VEHICULOS"
+  },
+  {
+    "id": "62d2dd2fb598ee27666b3b25",
+    "fechaCaptura": "2022-04-18T10:47:17Z",
+    "nombres": "MIGUEL ÁNGEL",
+    "primerApellido": "BELLO",
+    "segundoApellido": "ARCHUNDIA",
+    "institucionDependencia": {
+      "nombre": "Comisión del Agua del Estado de México",
+      "siglas": "caem",
+      "clave": "eje-113"
+    },
+    "puesto": {
+      "nombre": "Analista \"B\"",
+      "nivel": "YEUJ7"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RAMIREZ",
+      "segundoApellido": "VILLANUEVA."
+    }
+  },
+  {
+    "id": "62d2dd2fb598ee27666b3b2a",
+    "fechaCaptura": "2022-04-18T15:53:28Z",
+    "nombres": "AUREA ALEJANDRA",
+    "primerApellido": "GONZALEZ",
+    "segundoApellido": "MOTA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Subdirectora",
+      "nivel": "PT8KM"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "POSADA",
+      "segundoApellido": "FLORES"
+    }
+  },
+  {
+    "id": "638543081e5398f68d0dccdf",
+    "fechaCaptura": "2022-04-18T16:41:20Z",
+    "nombres": "GRECIA ESMERALDA",
+    "primerApellido": "COLIN",
+    "segundoApellido": "RUBIO",
+    "institucionDependencia": {
+      "nombre": "Comisión del Agua del Estado de México",
+      "siglas": "caem",
+      "clave": "eje-113"
+    },
+    "puesto": {
+      "nombre": "Jefa De Departamento De Geohidrología",
+      "nivel": "RKQX5"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "ARAOZ",
+      "segundoApellido": "VEGA."
+    }
+  },
+  {
+    "id": "62d2dd2fb598ee27666b3b2d",
+    "fechaCaptura": "2022-04-18T16:59:46Z",
+    "nombres": "MARIO ARNULFO",
+    "primerApellido": "GONZALEZ",
+    "segundoApellido": "FLORES",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Jefe de Departamento",
+      "nivel": "JCYN9"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "POSADA",
+      "segundoApellido": "FLORES"
+    }
+  },
+  {
+    "id": "62d2dd2fb598ee27666b3b33",
+    "fechaCaptura": "2022-04-18T17:21:49Z",
+    "nombres": "CARLOS",
+    "primerApellido": "LÓPEZ",
+    "segundoApellido": "LÓPEZ",
+    "institucionDependencia": {
+      "nombre": "Comisión del Agua del Estado de México",
+      "siglas": "caem",
+      "clave": "eje-113"
+    },
+    "puesto": {
+      "nombre": "Subdirector De Construcción De Obra",
+      "nivel": "X01TS"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "PASCUAL",
+      "segundoApellido": "CORTES."
+    }
+  },
+  {
+    "id": "62d2dd2fb598ee27666b3b38",
+    "fechaCaptura": "2022-04-18T17:29:14Z",
+    "nombres": "VÍCTOR HUGO",
+    "primerApellido": "HURTADO",
+    "segundoApellido": "VILCHIS",
+    "institucionDependencia": {
+      "nombre": "Comisión del Agua del Estado de México",
+      "siglas": "caem",
+      "clave": "eje-113"
+    },
+    "puesto": {
+      "nombre": "Subdirector De Control De Obra",
+      "nivel": "1DJ9O"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "HURTADO",
+      "segundoApellido": "VILCHIS."
+    }
+  },
+  {
+    "id": "62d2dd30b598ee27666b3b3b",
+    "fechaCaptura": "2022-04-18T17:30:34Z",
+    "nombres": "JESUS",
+    "primerApellido": "GARCIA",
+    "segundoApellido": "ANGON",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Jefe de Departamento",
+      "nivel": "JCYN9"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CASTELAN",
+      "segundoApellido": "OLGUIN"
+    }
+  },
+  {
+    "id": "62d2dd30b598ee27666b3b3e",
+    "fechaCaptura": "2022-04-18T17:32:39Z",
+    "nombres": "JORGE",
+    "primerApellido": "MEDINA",
+    "segundoApellido": "ROMERO",
+    "institucionDependencia": {
+      "nombre": "Comisión del Agua del Estado de México",
+      "siglas": "caem",
+      "clave": "eje-113"
+    },
+    "puesto": {
+      "nombre": "Jefe Del Departamento De Seguimiento De Programa De Obra",
+      "nivel": "NZE4D"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "MEDINA",
+      "segundoApellido": "ROMERO."
+    }
+  },
+  {
+    "id": "62d2dd30b598ee27666b3b41",
+    "fechaCaptura": "2022-04-18T17:35:18Z",
+    "nombres": "GABRIELA",
+    "primerApellido": "MARTÍNEZ",
+    "segundoApellido": "ROMERO",
+    "institucionDependencia": {
+      "nombre": "Comisión del Agua del Estado de México",
+      "siglas": "caem",
+      "clave": "eje-113"
+    },
+    "puesto": {
+      "nombre": "Jefa Del Departamento De Control Administrativo De Materiales",
+      "nivel": "TO3IG"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "MARTINEZ",
+      "segundoApellido": "ROMERO."
+    }
+  },
+  {
+    "id": "62d2dd30b598ee27666b3b46",
+    "fechaCaptura": "2022-04-18T17:36:30Z",
+    "nombres": "JAVIER ALEJANDRO",
+    "primerApellido": "MONTOYA",
+    "segundoApellido": "TREJO",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Jefe de Departamento",
+      "nivel": "JCYN9"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "POSADA",
+      "segundoApellido": "FLORES"
+    }
+  },
+  {
+    "id": "6385430a1e5398f68d0dccf4",
+    "fechaCaptura": "2022-04-18T17:43:51Z",
+    "nombres": "DANIEL ALBERTO",
+    "primerApellido": "JIMÉNEZ",
+    "segundoApellido": "ESTRADA",
+    "institucionDependencia": {
+      "nombre": "Comisión del Agua del Estado de México",
+      "siglas": "caem",
+      "clave": "eje-113"
+    },
+    "puesto": {
+      "nombre": "Jefe Del Departaemento De Supervisión De Obra De Perforación De Pozos",
+      "nivel": "3IK02"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "JIMÉNEZ",
+      "segundoApellido": "ESTRADA."
+    }
+  },
+  {
+    "id": "62d2dd30b598ee27666b3b49",
+    "fechaCaptura": "2022-04-19T09:54:05Z",
+    "nombres": "JESUS SINUE",
+    "primerApellido": "LAGUNAS",
+    "segundoApellido": "SOTO",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Jefe \"A\" De Proyecto",
+      "nivel": "EB2G9"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "POSADA",
+      "segundoApellido": "FLORES"
+    }
+  },
+  {
+    "id": "62d2dd30b598ee27666b3b4c",
+    "fechaCaptura": "2022-04-19T09:56:26Z",
+    "nombres": "MARIA GUADALUPE",
+    "primerApellido": "SANCHEZ",
+    "segundoApellido": "ESCALONA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Jefe de Departamento",
+      "nivel": "JCYN9"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "POSADA",
+      "segundoApellido": "FLORES"
+    }
+  },
+  {
+    "id": "62d2dd31b598ee27666b3b54",
+    "fechaCaptura": "2022-04-19T10:16:34Z",
+    "nombres": "ELIZABETH",
+    "primerApellido": "GARCIA",
+    "segundoApellido": "GUTIERREZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Inspector Verificador De Documentos",
+      "nivel": "EU1A6"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "O",
+        "valor": "OTRO"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "SALERO",
+      "segundoApellido": "SALGADO"
+    }
+  },
+  {
+    "id": "62d2dd31b598ee27666b3b57",
+    "fechaCaptura": "2022-04-19T10:19:32Z",
+    "nombres": "ARMANDO",
+    "primerApellido": "DURAN",
+    "segundoApellido": "GUTIERREZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Jefe De Analistas",
+      "nivel": "W2BMI"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "O",
+        "valor": "OTRO"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "SALERO",
+      "segundoApellido": "SALGADO"
+    }
+  },
+  {
+    "id": "6385430a1e5398f68d0dccff",
+    "fechaCaptura": "2022-04-19T10:20:20Z",
+    "nombres": "ALBERTO",
+    "primerApellido": "ESTRADA",
+    "segundoApellido": "GÓMEZ",
+    "institucionDependencia": {
+      "nombre": "Comisión del Agua del Estado de México",
+      "siglas": "caem",
+      "clave": "eje-113"
+    },
+    "puesto": {
+      "nombre": "Residente De Construcción",
+      "nivel": "V4GJ2"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "ESTRADA",
+      "segundoApellido": "GOMEZ."
+    }
+  },
+  {
+    "id": "62d2dd31b598ee27666b3b5a",
+    "fechaCaptura": "2022-04-19T10:24:17Z",
+    "nombres": "ARMANDO",
+    "primerApellido": "ÁLVAREZ",
+    "segundoApellido": "FLORES",
+    "institucionDependencia": {
+      "nombre": "Comisión del Agua del Estado de México",
+      "siglas": "caem",
+      "clave": "eje-113"
+    },
+    "puesto": {
+      "nombre": "Líder \"B\" De Proyecto",
+      "nivel": "VQF43"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CERVANTES",
+      "segundoApellido": "MAYA."
+    }
+  },
+  {
+    "id": "62d2dd31b598ee27666b3b5d",
+    "fechaCaptura": "2022-04-19T10:26:08Z",
+    "nombres": "EDGAR IVAN",
+    "primerApellido": "MEJIA",
+    "segundoApellido": "GARDUÑO",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Jefe de Departamento",
+      "nivel": "JCYN9"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "SALERO",
+      "segundoApellido": "SALGADO"
+    }
+  },
+  {
+    "id": "6385430b1e5398f68d0dcd0a",
+    "fechaCaptura": "2022-04-19T10:26:52Z",
+    "nombres": "DAVID",
+    "primerApellido": "SORIANO",
+    "segundoApellido": "DÍAZ",
+    "institucionDependencia": {
+      "nombre": "Comisión del Agua del Estado de México",
+      "siglas": "caem",
+      "clave": "eje-113"
+    },
+    "puesto": {
+      "nombre": "Tecnico Especializado En Infraestructura Hidráulica",
+      "nivel": "KGZ8S"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "MEDINA",
+      "segundoApellido": "MARCELINO."
+    }
+  },
+  {
+    "id": "62d2dd31b598ee27666b3b60",
+    "fechaCaptura": "2022-04-19T10:28:24Z",
+    "nombres": "MARGARITA ILIANA",
+    "primerApellido": "TREVIÑO",
+    "segundoApellido": "BENITEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Subdirectora",
+      "nivel": "PT8KM"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "SALERO",
+      "segundoApellido": "SALGADO"
+    }
+  },
+  {
+    "id": "62d2dd31b598ee27666b3b65",
+    "fechaCaptura": "2022-04-19T10:28:55Z",
+    "nombres": "MAIKO",
+    "primerApellido": "DOMÍNGUEZ",
+    "segundoApellido": "LÓPEZ",
+    "institucionDependencia": {
+      "nombre": "Comisión del Agua del Estado de México",
+      "siglas": "caem",
+      "clave": "eje-113"
+    },
+    "puesto": {
+      "nombre": "Tecnico Especializado En Infraestructura Hidráulica",
+      "nivel": "KGZ8S"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "ALVAREZ",
+      "segundoApellido": "REYES."
+    }
+  },
+  {
+    "id": "62d2dd32b598ee27666b3b68",
+    "fechaCaptura": "2022-04-19T10:31:02Z",
+    "nombres": "FRANCISCO PINITO",
+    "primerApellido": "BUSTAMANTE",
+    "segundoApellido": "JUÁREZ",
+    "institucionDependencia": {
+      "nombre": "Comisión del Agua del Estado de México",
+      "siglas": "caem",
+      "clave": "eje-113"
+    },
+    "puesto": {
+      "nombre": "Residente De Construcción",
+      "nivel": "V4GJ2"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "BUSTAMANTE",
+      "segundoApellido": "JUAREZ."
+    }
+  },
+  {
+    "id": "62d2dd32b598ee27666b3b70",
+    "fechaCaptura": "2022-04-19T10:36:57Z",
+    "nombres": "JOSÉ HUMBERTO",
+    "primerApellido": "BRAVO",
+    "segundoApellido": "LÓPEZ",
+    "institucionDependencia": {
+      "nombre": "Comisión del Agua del Estado de México",
+      "siglas": "caem",
+      "clave": "eje-113"
+    },
+    "puesto": {
+      "nombre": "Analista \"B\"",
+      "nivel": "YEUJ7"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CERVANTES",
+      "segundoApellido": "MAYA."
+    }
+  },
+  {
+    "id": "6385430c1e5398f68d0dcd17",
+    "fechaCaptura": "2022-04-19T10:39:03Z",
+    "nombres": "TEODORO",
+    "primerApellido": "RODRÍGUEZ",
+    "segundoApellido": "MALDONADO",
+    "institucionDependencia": {
+      "nombre": "Comisión del Agua del Estado de México",
+      "siglas": "caem",
+      "clave": "eje-113"
+    },
+    "puesto": {
+      "nombre": "Tecnico Especializado En Infraestructura Hidráulica",
+      "nivel": "KGZ8S"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "BUSTAMANTE",
+      "segundoApellido": "JUAREZ."
+    }
+  },
+  {
+    "id": "62d2dd32b598ee27666b3b73",
+    "fechaCaptura": "2022-04-19T10:40:59Z",
+    "nombres": "MARÍA JOSÉ",
+    "primerApellido": "FIGUEROA",
+    "segundoApellido": "ROMERO",
+    "institucionDependencia": {
+      "nombre": "Comisión del Agua del Estado de México",
+      "siglas": "caem",
+      "clave": "eje-113"
+    },
+    "puesto": {
+      "nombre": "Jefa \"A\" De Proyecto",
+      "nivel": "MEU3X"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "BUSTAMANTE",
+      "segundoApellido": "JUAREZ."
+    }
+  },
+  {
+    "id": "62d2dd32b598ee27666b3b78",
+    "fechaCaptura": "2022-04-19T10:42:31Z",
+    "nombres": "PABLO",
+    "primerApellido": "CASTAÑEDA",
+    "segundoApellido": "GARCÍA",
+    "institucionDependencia": {
+      "nombre": "Comisión del Agua del Estado de México",
+      "siglas": "caem",
+      "clave": "eje-113"
+    },
+    "puesto": {
+      "nombre": "Secretario \"C\"",
+      "nivel": "8XLR4"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "PASCUAL",
+      "segundoApellido": "CORTES."
+    }
+  },
+  {
+    "id": "62d2dd32b598ee27666b3b7b",
+    "fechaCaptura": "2022-04-19T10:44:57Z",
+    "nombres": "RENÉ MOISÉS",
+    "primerApellido": "CRUZ",
+    "segundoApellido": "PIMENTEL",
+    "institucionDependencia": {
+      "nombre": "Comisión del Agua del Estado de México",
+      "siglas": "caem",
+      "clave": "eje-113"
+    },
+    "puesto": {
+      "nombre": "Auxiliar De Construcción Y Operación Hidraúlica",
+      "nivel": "49RQI"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "LOPEZ",
+      "segundoApellido": "MEJIA."
+    }
+  },
+  {
+    "id": "62d2dd33b598ee27666b3b7e",
+    "fechaCaptura": "2022-04-19T10:46:33Z",
+    "nombres": "AURELIO",
+    "primerApellido": "MIGUEL",
+    "segundoApellido": "PÉREZ",
+    "institucionDependencia": {
+      "nombre": "Comisión del Agua del Estado de México",
+      "siglas": "caem",
+      "clave": "eje-113"
+    },
+    "puesto": {
+      "nombre": "Jefe \"A\" De Proyecto",
+      "nivel": "EB2G9"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "BUSTAMANTE",
+      "segundoApellido": "JUAREZ."
+    }
+  },
+  {
+    "id": "62d2dd33b598ee27666b3b81",
+    "fechaCaptura": "2022-04-19T10:48:47Z",
+    "nombres": "EDWIN",
+    "primerApellido": "RODRÍGUEZ",
+    "segundoApellido": "HERNÁNDEZ",
+    "institucionDependencia": {
+      "nombre": "Comisión del Agua del Estado de México",
+      "siglas": "caem",
+      "clave": "eje-113"
+    },
+    "puesto": {
+      "nombre": "Líder \"B\" De Proyecto",
+      "nivel": "VQF43"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CERVANTES",
+      "segundoApellido": "MAYA."
+    }
+  },
+  {
+    "id": "6385430d1e5398f68d0dcd2a",
+    "fechaCaptura": "2022-04-19T10:52:05Z",
+    "nombres": "JUAN AMADO",
+    "primerApellido": "CABALLERO",
+    "segundoApellido": "PÉREZ",
+    "institucionDependencia": {
+      "nombre": "Comisión del Agua del Estado de México",
+      "siglas": "caem",
+      "clave": "eje-113"
+    },
+    "puesto": {
+      "nombre": "Residente De Construcción",
+      "nivel": "V4GJ2"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "OLIVARES",
+      "segundoApellido": "CORONEL"
+    }
+  },
+  {
+    "id": "62d2dd33b598ee27666b3b86",
+    "fechaCaptura": "2022-04-19T10:54:52Z",
+    "nombres": "MARIO",
+    "primerApellido": "PÉREZ",
+    "segundoApellido": "ÁVILA",
+    "institucionDependencia": {
+      "nombre": "Comisión del Agua del Estado de México",
+      "siglas": "caem",
+      "clave": "eje-113"
+    },
+    "puesto": {
+      "nombre": "Técnico Auxiliar En Infraestructura Hidráulica",
+      "nivel": "9ED3C"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "ALVAREZ",
+      "segundoApellido": "REYES."
+    }
+  },
+  {
+    "id": "62d2dd33b598ee27666b3b89",
+    "fechaCaptura": "2022-04-19T11:33:26Z",
+    "nombres": "MICHEL EDUARDO",
+    "primerApellido": "ESQUIVEL",
+    "segundoApellido": "LOPEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Delegado Regional De Movilidad Texcoco",
+      "nivel": "IOZ7Y"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "AGUILAR"
+    }
+  },
+  {
+    "id": "62d2dd33b598ee27666b3b8c",
+    "fechaCaptura": "2022-04-19T11:36:27Z",
+    "nombres": "AGUSTIN",
+    "primerApellido": "QUESADA",
+    "segundoApellido": "SERRANO",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Subdelago Regional De Movilidad Ecatepec",
+      "nivel": "N159H"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "AGUILAR"
+    }
+  },
+  {
+    "id": "62d2dd33b598ee27666b3b8f",
+    "fechaCaptura": "2022-04-19T11:40:10Z",
+    "nombres": "ROBERTO CARLOS",
+    "primerApellido": "RODRIGUEZ",
+    "segundoApellido": "BARRERA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Subdelegado Regional De Movilidad Texcoco",
+      "nivel": "2FQP4"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "AGUILAR"
+    }
+  },
+  {
+    "id": "62d2dd34b598ee27666b3b92",
+    "fechaCaptura": "2022-04-19T16:36:46Z",
+    "nombres": "JOSE ALBERTO",
+    "primerApellido": "GONZALEZ",
+    "segundoApellido": "AGUILAR",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Directora General",
+      "nivel": "TNDCQ"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "AGUILAR"
+    }
+  },
+  {
+    "id": "62d2dd34b598ee27666b3b95",
+    "fechaCaptura": "2022-04-19T16:38:47Z",
+    "nombres": "JOSE LUIS",
+    "primerApellido": "ROA SANCHEZ",
+    "segundoApellido": "BARRALES",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Delegado Regional De Movilidad Ecatepec",
+      "nivel": "0R5IB"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "AGUILAR"
+    }
+  },
+  {
+    "id": "637516467943e2ab46eb9580",
+    "fechaCaptura": "2022-04-22T13:43:20Z",
+    "nombres": "ALEJANDRA",
+    "primerApellido": "PERALTA",
+    "segundoApellido": "ZAMORA",
+    "institucionDependencia": {
+      "nombre": "Secretaría del Medio Ambiente",
+      "siglas": "sma",
+      "clave": "eje-081"
+    },
+    "puesto": {
+      "nombre": "Directora General",
+      "nivel": "TNDCQ"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": " ",
+      "segundoApellido": " "
+    }
+  },
+  {
+    "id": "637516467943e2ab46eb9585",
+    "fechaCaptura": "2022-04-22T13:47:04Z",
+    "nombres": "EIMAR",
+    "primerApellido": "ROSALES",
+    "segundoApellido": "ARREDONDO",
+    "institucionDependencia": {
+      "nombre": "Secretaría del Medio Ambiente",
+      "siglas": "sma",
+      "clave": "eje-081"
+    },
+    "puesto": {
+      "nombre": "Delegado Administrativo De La Dgmir",
+      "nivel": "UWF37"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": " ",
+      "segundoApellido": " "
+    }
+  },
+  {
+    "id": "62d2dd34b598ee27666b3b98",
+    "fechaCaptura": "2022-04-25T17:41:01Z",
+    "nombres": "CRISTIAN",
+    "primerApellido": "RODRIGUEZ",
+    "segundoApellido": "RODRIGUEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Director General Zona I",
+      "nivel": "OB9RC"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RODRIGUEZ",
+      "segundoApellido": "RODRIGUEZ"
+    }
+  },
+  {
+    "id": "62d2dd34b598ee27666b3b9b",
+    "fechaCaptura": "2022-04-25T17:46:56Z",
+    "nombres": "DAVID ALEJANDRO",
+    "primerApellido": "HERNANDEZ",
+    "segundoApellido": "RUIZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Jefe De Unidad De Dirección",
+      "nivel": "2KE5T"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RODRIGUEZ",
+      "segundoApellido": "RODRIGUEZ"
+    }
+  },
+  {
+    "id": "62d2dd34b598ee27666b3ba0",
+    "fechaCaptura": "2022-04-26T10:16:15Z",
+    "nombres": "EDGAR GUILLERMO",
+    "primerApellido": "ENRIQUEZ",
+    "segundoApellido": "JAIMES",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Secretaria O De Directora Or",
+      "nivel": "WGZ7J"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "HERNANDEZ",
+      "segundoApellido": "RUIZ"
+    }
+  },
+  {
+    "id": "62d2dd34b598ee27666b3ba3",
+    "fechaCaptura": "2022-04-26T10:20:09Z",
+    "nombres": "JAVIER SORIEL",
+    "primerApellido": "JAIMES",
+    "segundoApellido": "VIDACA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Jefe de Área",
+      "nivel": "PHCSR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RODRIGUEZ",
+      "segundoApellido": "RODRIGUEZ"
+    }
+  },
+  {
+    "id": "62d2dd35b598ee27666b3ba6",
+    "fechaCaptura": "2022-04-26T10:23:58Z",
+    "nombres": "AGUSTIN",
+    "primerApellido": "FARFAN",
+    "segundoApellido": "PEREZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Delegado Regional De Movilidad Toluca",
+      "nivel": "FXO0D"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "FARFAN",
+      "segundoApellido": "PEREZ"
+    }
+  },
+  {
+    "id": "62d2dd35b598ee27666b3ba9",
+    "fechaCaptura": "2022-04-26T10:32:38Z",
+    "nombres": "OSCAR RAFAEL",
+    "primerApellido": "SALERO",
+    "segundoApellido": "SALGADO",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Subdelegado Rigional De Movilidad Toluca",
+      "nivel": "2MUAN"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "SALERO",
+      "segundoApellido": "SALGADO"
+    }
+  },
+  {
+    "id": "62d2dd35b598ee27666b3bac",
+    "fechaCaptura": "2022-04-26T10:38:57Z",
+    "nombres": "RAMON",
+    "primerApellido": "ALTAMIRANO",
+    "segundoApellido": "MANCERA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Delegado Regional De Movilidad Atlacomulco",
+      "nivel": "CPJTH"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "ALTAMIRANO",
+      "segundoApellido": "MANCERA"
+    }
+  },
+  {
+    "id": "62d2dd35b598ee27666b3baf",
+    "fechaCaptura": "2022-04-26T11:00:02Z",
+    "nombres": "CARLOS JAVIER",
+    "primerApellido": "MONROY",
+    "segundoApellido": "GARDUÑO",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Subdelegado Regional De Movilidad Atlacomulco",
+      "nivel": "VL8OS"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "SALERO",
+      "segundoApellido": "SALGADO"
+    }
+  },
+  {
+    "id": "62d2dd35b598ee27666b3bb2",
+    "fechaCaptura": "2022-04-26T11:10:11Z",
+    "nombres": "JOSE ANTONIO",
+    "primerApellido": "DIAZ",
+    "segundoApellido": "GUTIERREZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Delegado Regional De Movilidad Valle De Bravo",
+      "nivel": "2WGJX"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "DIAZ",
+      "segundoApellido": "GUTIERREZ"
+    }
+  },
+  {
+    "id": "62d2dd35b598ee27666b3bb7",
+    "fechaCaptura": "2022-04-26T11:16:40Z",
+    "nombres": "LUIS GERARDO",
+    "primerApellido": "ARZATE",
+    "segundoApellido": "RAMIREZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Subdelegada Regional De Movilidad Valle De Bravo",
+      "nivel": "J8FEB"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "SALERO",
+      "segundoApellido": "SALGADO"
+    }
+  },
+  {
+    "id": "62d2dd36b598ee27666b3bba",
+    "fechaCaptura": "2022-04-26T11:20:36Z",
+    "nombres": "RAFAEL ESPARTACO",
+    "primerApellido": "MACIAS",
+    "segundoApellido": "ALCANTARA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Subdelegado Regional De Movilidad Tejupilco",
+      "nivel": "91ZYH"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "SALERO",
+      "segundoApellido": "SALGADO"
+    }
+  },
+  {
+    "id": "62d2dd36b598ee27666b3bc2",
+    "fechaCaptura": "2022-04-26T11:23:35Z",
+    "nombres": "JUAN CARLOS",
+    "primerApellido": "JIMENEZ",
+    "segundoApellido": "CASTILLO",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Delegado Regional De Movilidad Ixtapan De La Sal",
+      "nivel": "Z7UYW"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "JIMENEZ",
+      "segundoApellido": "CASTILLO"
+    }
+  },
+  {
+    "id": "62d2dd36b598ee27666b3bc7",
+    "fechaCaptura": "2022-04-26T11:26:22Z",
+    "nombres": "CHRISTIAN",
+    "primerApellido": "VARGAS",
+    "segundoApellido": "SALINAS",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Subdelegado Regional De Movilidad Ixtapan De La Sal",
+      "nivel": "ZAQLM"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "SALERO",
+      "segundoApellido": "SALGADO"
+    }
+  },
+  {
+    "id": "62d2dd36b598ee27666b3bca",
+    "fechaCaptura": "2022-04-26T14:26:48Z",
+    "nombres": "BARBARA PATRICIA",
+    "primerApellido": "DIAZ",
+    "segundoApellido": "GUTIERREZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Lidereza \"A\" De Proyecti",
+      "nivel": "ZX20K"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "BARRERA"
+    }
+  },
+  {
+    "id": "62d2dd36b598ee27666b3bcd",
+    "fechaCaptura": "2022-04-26T14:30:29Z",
+    "nombres": "IVAN",
+    "primerApellido": "DELGADO",
+    "segundoApellido": "SUAREZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Chofer De Servidor Público Superior",
+      "nivel": "TSOVW"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "AGUILAR",
+      "segundoApellido": "GONZALEZ"
+    }
+  },
+  {
+    "id": "62d2dd36b598ee27666b3bd2",
+    "fechaCaptura": "2022-04-29T11:17:36Z",
+    "nombres": "ROMAN JAVIER",
+    "primerApellido": "DIAZ DE LA VEGA",
+    "segundoApellido": "RANGEL",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Verificador De Documentos Ser Al P",
+      "nivel": "71WFK"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d2dd37b598ee27666b3bd7",
+    "fechaCaptura": "2022-04-29T11:21:43Z",
+    "nombres": "YANET",
+    "primerApellido": "CRUZ",
+    "segundoApellido": "SANCHEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Secretaria E",
+      "nivel": "YBSJD"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d2dd37b598ee27666b3bdc",
+    "fechaCaptura": "2022-04-29T11:42:46Z",
+    "nombres": "JUAN GERARDO",
+    "primerApellido": "CASTRO",
+    "segundoApellido": "MEJIA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Secretaria D",
+      "nivel": "8QU29"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d2dd37b598ee27666b3bdf",
+    "fechaCaptura": "2022-04-29T11:48:27Z",
+    "nombres": "MARIA GUADALUPE",
+    "primerApellido": "CASTELLANOS",
+    "segundoApellido": "POMPOSO",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Inspectora De Trasporte",
+      "nivel": "Q28TG"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d2dd37b598ee27666b3be2",
+    "fechaCaptura": "2022-04-29T11:51:18Z",
+    "nombres": "LUCIA",
+    "primerApellido": "CARCAÑO",
+    "segundoApellido": "LUGO",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Secretaria C",
+      "nivel": "K3WNY"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d2dd37b598ee27666b3be7",
+    "fechaCaptura": "2022-04-29T11:56:01Z",
+    "nombres": "CHRISTIAN JAVIER",
+    "primerApellido": "CALDERON",
+    "segundoApellido": "SANTIBAÑEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Inspectora De Movilidad",
+      "nivel": "KGJNQ"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d2dd37b598ee27666b3bea",
+    "fechaCaptura": "2022-04-29T12:25:32Z",
+    "nombres": "ROSA JAZMIN",
+    "primerApellido": "CABALLERO",
+    "segundoApellido": "TORRES",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Jefe De Oficina R1",
+      "nivel": "FYAG1"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d2dd38b598ee27666b3bed",
+    "fechaCaptura": "2022-04-29T12:28:22Z",
+    "nombres": "ROSA MARIA",
+    "primerApellido": "BRISEÑO",
+    "segundoApellido": "ROMERO",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Analista C",
+      "nivel": "42ZFV"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d2dd38b598ee27666b3bf0",
+    "fechaCaptura": "2022-04-29T13:20:05Z",
+    "nombres": "LOURDES DEL PILAR",
+    "primerApellido": "ALEMAN",
+    "segundoApellido": "MARTINEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Jefe De Oficina R-1",
+      "nivel": "3ECRL"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "PADILLA",
+      "segundoApellido": "HANESSIAN"
+    }
+  },
+  {
+    "id": "62d2dd38b598ee27666b3bf3",
+    "fechaCaptura": "2022-05-03T09:59:19Z",
+    "nombres": "BERENICE",
+    "primerApellido": "BIFANO",
+    "segundoApellido": "RODRIGUEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Preparadora De Traba",
+      "nivel": "62K8C"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d2dd38b598ee27666b3bf6",
+    "fechaCaptura": "2022-05-03T10:15:31Z",
+    "nombres": "ILIANA",
+    "primerApellido": "AGUILAR",
+    "segundoApellido": "MENDEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Jefe De Operadores De Proyectos De Transporte",
+      "nivel": "OG08M"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "POSADA",
+      "segundoApellido": "FLORES"
+    }
+  },
+  {
+    "id": "62d2dd38b598ee27666b3bf9",
+    "fechaCaptura": "2022-05-03T17:30:33Z",
+    "nombres": "ALEJANDRA CAROLINA",
+    "primerApellido": "FLORES",
+    "segundoApellido": "GONZALEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Verificador De Documentos",
+      "nivel": "GARWH"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d2dd38b598ee27666b3bfc",
+    "fechaCaptura": "2022-05-03T17:33:57Z",
+    "nombres": "EDGAR ALEJANDRO",
+    "primerApellido": "GARAY",
+    "segundoApellido": "MIRALRIO",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Secretaria De Oficina De",
+      "nivel": "W0267"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d2dd39b598ee27666b3c01",
+    "fechaCaptura": "2022-05-03T17:36:16Z",
+    "nombres": "OSCAR",
+    "primerApellido": "GARCIA",
+    "segundoApellido": "BAUTISTA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Verificador De Documentos",
+      "nivel": "GARWH"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d2dd39b598ee27666b3c04",
+    "fechaCaptura": "2022-05-03T17:38:16Z",
+    "nombres": "ERIC",
+    "primerApellido": "GONZALEZ",
+    "segundoApellido": "REYES",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Abogado Dictaminador",
+      "nivel": "Z67SW"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d2dd39b598ee27666b3c07",
+    "fechaCaptura": "2022-05-03T17:45:34Z",
+    "nombres": "GUADALUPE",
+    "primerApellido": "RETAMA",
+    "segundoApellido": "CERRO",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Secretaria C",
+      "nivel": "K3WNY"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d2dd39b598ee27666b3c0c",
+    "fechaCaptura": "2022-05-03T17:48:56Z",
+    "nombres": "ROSALIA",
+    "primerApellido": "GUTIERREZ",
+    "segundoApellido": "DE LA CRUZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Auxiliar Tramites De Movilidad",
+      "nivel": "4T5ZB"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d2dd39b598ee27666b3c11",
+    "fechaCaptura": "2022-05-04T09:40:32Z",
+    "nombres": "MARICELA",
+    "primerApellido": "GUZMAN",
+    "segundoApellido": "GONZALEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Jefe De Oficina R-2",
+      "nivel": "1G06E"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "PADILLA",
+      "segundoApellido": "HANESSIAN"
+    }
+  },
+  {
+    "id": "62d2dd39b598ee27666b3c14",
+    "fechaCaptura": "2022-05-04T09:44:51Z",
+    "nombres": "YESENIA",
+    "primerApellido": "HERNANDEZ",
+    "segundoApellido": "ROMERO",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Verificador De Documentos",
+      "nivel": "GARWH"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d2dd3ab598ee27666b3c19",
+    "fechaCaptura": "2022-05-04T11:06:59Z",
+    "nombres": "THANNIA YASSSMIN",
+    "primerApellido": "JAIMES",
+    "segundoApellido": "GONZALEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Analista D",
+      "nivel": "ZHGM3"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d2dd3ab598ee27666b3c1c",
+    "fechaCaptura": "2022-05-04T11:14:29Z",
+    "nombres": "VICTOR",
+    "primerApellido": "JUAREZ",
+    "segundoApellido": "CALLEJA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Inspectora Verificadora De Transporte",
+      "nivel": "9BCH5"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d2dd3ab598ee27666b3c1f",
+    "fechaCaptura": "2022-05-04T11:41:12Z",
+    "nombres": "JAZMIN YADIRA",
+    "primerApellido": "LEDEZMA",
+    "segundoApellido": "BASTIDAS",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Verificador De Documentos",
+      "nivel": "GARWH"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d2dd3ab598ee27666b3c22",
+    "fechaCaptura": "2022-05-04T11:45:07Z",
+    "nombres": "MARCO ANTONIO",
+    "primerApellido": "LOZA",
+    "segundoApellido": "CABALLERO",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Jefe De Oficina R-1",
+      "nivel": "3ECRL"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d2dd3ab598ee27666b3c27",
+    "fechaCaptura": "2022-05-04T11:49:35Z",
+    "nombres": "RODRIGO",
+    "primerApellido": "LUNA",
+    "segundoApellido": "GARCIA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Verificador De Documentos",
+      "nivel": "GARWH"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d2dd3ab598ee27666b3c2a",
+    "fechaCaptura": "2022-05-06T17:06:27Z",
+    "nombres": "CLAUDIA IVETTE",
+    "primerApellido": "PACHECO",
+    "segundoApellido": "TORRES",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Verificadora De Documentos",
+      "nivel": "VDNHF"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "PADILLA",
+      "segundoApellido": "HANESSIAN"
+    }
+  },
+  {
+    "id": "62d2dd3ab598ee27666b3c2d",
+    "fechaCaptura": "2022-05-06T17:15:54Z",
+    "nombres": "JUAN CARLOS",
+    "primerApellido": "ORTIZ",
+    "segundoApellido": "TRUJILLO",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Verificador De Documentos",
+      "nivel": "GARWH"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "PADILLA",
+      "segundoApellido": "HANESSIAN"
+    }
+  },
+  {
+    "id": "62d2dd3bb598ee27666b3c32",
+    "fechaCaptura": "2022-05-06T17:24:47Z",
+    "nombres": "ESTEFANY",
+    "primerApellido": "ORTIZ",
+    "segundoApellido": "MALDONADO",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Secretaria E",
+      "nivel": "YBSJD"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d2dd3bb598ee27666b3c37",
+    "fechaCaptura": "2022-05-06T17:29:29Z",
+    "nombres": "GUISELA",
+    "primerApellido": "ORTEGA",
+    "segundoApellido": "VELEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Jefa De Archivo",
+      "nivel": "YJDV9"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "PADILLA",
+      "segundoApellido": "HANESSIAN"
+    }
+  },
+  {
+    "id": "62d2dd3bb598ee27666b3c3c",
+    "fechaCaptura": "2022-05-06T17:47:40Z",
+    "nombres": "GUILLERMINA",
+    "primerApellido": "MATAS",
+    "segundoApellido": "SAMANIEGO",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Secretaria E",
+      "nivel": "YBSJD"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "PADILLA",
+      "segundoApellido": "HANESSIAN"
+    }
+  },
+  {
+    "id": "62d2dd3bb598ee27666b3c3f",
+    "fechaCaptura": "2022-05-09T11:40:26Z",
+    "nombres": "RAUL FRANCISCO",
+    "primerApellido": "MARTINEZ",
+    "segundoApellido": "SANCHEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Verificador De Documentos",
+      "nivel": "GARWH"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d2dd3bb598ee27666b3c42",
+    "fechaCaptura": "2022-05-09T11:45:23Z",
+    "nombres": "GUSTAVO",
+    "primerApellido": "MARTINEZ",
+    "segundoApellido": "RAMIREZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Jefe De Oficina R-1",
+      "nivel": "3ECRL"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "ROSAS",
+      "segundoApellido": "HERRERA"
+    }
+  },
+  {
+    "id": "62d2dd3bb598ee27666b3c47",
+    "fechaCaptura": "2022-05-09T11:52:21Z",
+    "nombres": "JOSE ANTONIO",
+    "primerApellido": "MARTINEZ",
+    "segundoApellido": "PINEDA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Verificador De Documentos",
+      "nivel": "GARWH"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d2dd3cb598ee27666b3c4d",
+    "fechaCaptura": "2022-05-09T11:58:11Z",
+    "nombres": "RICARDO",
+    "primerApellido": "MARIN",
+    "segundoApellido": "GARCIA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Inspector De Movilidad",
+      "nivel": "D42ES"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d2dd3cb598ee27666b3c50",
+    "fechaCaptura": "2022-05-09T12:44:44Z",
+    "nombres": "MONICA",
+    "primerApellido": "VILCHIS",
+    "segundoApellido": "VELAZQUEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Jefe De Analistas",
+      "nivel": "W2BMI"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "ROSAS",
+      "segundoApellido": "HERRERA"
+    }
+  },
+  {
+    "id": "62d2dd3cb598ee27666b3c55",
+    "fechaCaptura": "2022-05-09T12:48:00Z",
+    "nombres": "EFREN EMILIANO",
+    "primerApellido": "VALERA",
+    "segundoApellido": "ROQUE",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Operador De Proyectos De Transporte",
+      "nivel": "3QA8M"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "POSADA",
+      "segundoApellido": "FLORES"
+    }
+  },
+  {
+    "id": "62d2dd3cb598ee27666b3c58",
+    "fechaCaptura": "2022-05-09T12:59:03Z",
+    "nombres": "LIDIA",
+    "primerApellido": "TAMAGO",
+    "segundoApellido": "MENDEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Lideresa De Operador De Proyectos De Transporte",
+      "nivel": "LTSYU"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "PADILLA",
+      "segundoApellido": "HANESSIAN"
+    }
+  },
+  {
+    "id": "62d2dd3cb598ee27666b3c5b",
+    "fechaCaptura": "2022-05-09T13:01:36Z",
+    "nombres": "RAMON",
+    "primerApellido": "SANCHEZ",
+    "segundoApellido": "NAVA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Auxiliar De Tramites",
+      "nivel": "DZ9SK"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d2dd3cb598ee27666b3c5e",
+    "fechaCaptura": "2022-05-09T13:16:40Z",
+    "nombres": "MARIA DEL CARMEN",
+    "primerApellido": "ROJAS",
+    "segundoApellido": "LOPEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Capturista A",
+      "nivel": "RZHO3"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "POSADA",
+      "segundoApellido": "FLORES"
+    }
+  },
+  {
+    "id": "62d2dd3db598ee27666b3c61",
+    "fechaCaptura": "2022-05-09T13:39:38Z",
+    "nombres": "KARLA RUBI",
+    "primerApellido": "RODRIGUEZ",
+    "segundoApellido": "ESPINA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Analista Auxiliar",
+      "nivel": "0MAG0"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "POSADA",
+      "segundoApellido": "FLORES"
+    }
+  },
+  {
+    "id": "62d2dd3db598ee27666b3c64",
+    "fechaCaptura": "2022-05-09T15:32:39Z",
+    "nombres": "MAURICIO",
+    "primerApellido": "HURTADO",
+    "segundoApellido": "CRUZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Jefe De Uni Dir Gral",
+      "nivel": "UP8TI"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "HERNANDEZ",
+      "segundoApellido": "RUIZ"
+    }
+  },
+  {
+    "id": "62d2dd3db598ee27666b3c67",
+    "fechaCaptura": "2022-05-09T15:35:55Z",
+    "nombres": "CARLOS",
+    "primerApellido": "GONZALEZ",
+    "segundoApellido": "MACIAS",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Subdelegado Regional De Chalco",
+      "nivel": "LX65V"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "SALERO",
+      "segundoApellido": "SALGADO"
+    }
+  },
+  {
+    "id": "62d2dd3db598ee27666b3c6a",
+    "fechaCaptura": "2022-05-09T15:56:29Z",
+    "nombres": "PATRICIO",
+    "primerApellido": "DIAZ",
+    "segundoApellido": "GONZALEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Delegado Regional De Movilidad Chalco",
+      "nivel": "2R5TA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RENDON",
+      "segundoApellido": "BURGOS"
+    }
+  },
+  {
+    "id": "62d1d6d0b598ee276669ae0c",
+    "fechaCaptura": "2022-05-12T09:57:14Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "MANLIO",
+    "primerApellido": "PAZ",
+    "segundoApellido": "MARTELL",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO",
+      "siglas": "CODHEM",
+      "clave": "001"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR(A) GENERAL DE ADMINISTRACION Y FINAN",
+      "nivel": "29"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MYRNA ARACELI",
+      "primerApellido": "GARCÍA",
+      "segundoApellido": "MORÓN",
+      "puesto": {
+        "nombre": "PRESIDENTE(A) DE LA CODHEM",
+        "nivel": "31"
+      }
+    }
+  },
+  {
+    "id": "62d1d6d0b598ee276669ae0f",
+    "fechaCaptura": "2022-05-12T10:00:26Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "MARISOL",
+    "primerApellido": "VILLAGRÁN",
+    "segundoApellido": "HERNÁNDEZ",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO",
+      "siglas": "CODHEM",
+      "clave": "001"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR(A) DE ÁREA",
+      "nivel": "28"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MANLIO",
+      "primerApellido": "PAZ",
+      "segundoApellido": "MARTELL",
+      "puesto": {
+        "nombre": "DIRECTOR(A) GENERAL DE ADMINISTRACION Y FINAN",
+        "nivel": "29"
+      }
+    }
+  },
+  {
+    "id": "62d1d6d0b598ee276669ae14",
+    "fechaCaptura": "2022-05-12T10:04:31Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "FABIÁN",
+    "primerApellido": "SALAS",
+    "segundoApellido": "GRANDA",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO",
+      "siglas": "CODHEM",
+      "clave": "001"
+    },
+    "puesto": {
+      "nombre": "JEFE(A) DE DEPARTAMENTO",
+      "nivel": "26"
+    },
+    "tipoArea": [
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARISOL",
+      "primerApellido": "VILLAGRÁN ",
+      "segundoApellido": "HERNÁNDEZ",
+      "puesto": {
+        "nombre": "DIRECTOR(A) DE ÁREA",
+        "nivel": "28"
+      }
+    }
+  },
+  {
+    "id": "62d1d6d1b598ee276669ae17",
+    "fechaCaptura": "2022-05-12T10:06:39Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "IVÁN ALBERTO",
+    "primerApellido": "GARCÍA",
+    "segundoApellido": "SÁNCHEZ",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO",
+      "siglas": "CODHEM",
+      "clave": "001"
+    },
+    "puesto": {
+      "nombre": "JEFE(A) B DE PROYECTO",
+      "nivel": "20"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "FABIÁN",
+      "primerApellido": "SALAS",
+      "segundoApellido": "GRANDA",
+      "puesto": {
+        "nombre": "JEFE(A) DE DEPARTAMENTO",
+        "nivel": "26"
+      }
+    }
+  },
+  {
+    "id": "62d1d6d1b598ee276669ae1a",
+    "fechaCaptura": "2022-05-12T10:08:26Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "IVÁN ALBERTO",
+    "primerApellido": "GARCÍA",
+    "segundoApellido": "SÁNCHEZ",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO",
+      "siglas": "CODHEM",
+      "clave": "001"
+    },
+    "puesto": {
+      "nombre": "JEFE(A) B DE PROYECTO",
+      "nivel": "20"
+    },
+    "tipoArea": [
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARISOL",
+      "primerApellido": "VILLAGRÁN ",
+      "segundoApellido": "HERNÁNDEZ",
+      "puesto": {
+        "nombre": "DIRECTOR(A) DE ÁREA",
+        "nivel": "28"
+      }
+    }
+  },
+  {
+    "id": "62d2dd3db598ee27666b3c72",
+    "fechaCaptura": "2022-05-13T10:24:49Z",
+    "nombres": "MARI TANIA",
+    "primerApellido": "GONZALEZ",
+    "segundoApellido": "MARTINEZ",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Soporte Administrativo \"b\"",
+      "nivel": "6A0RH"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "QUINTERO",
+      "segundoApellido": "ROMO"
+    }
+  },
+  {
+    "id": "62d2dd3db598ee27666b3c75",
+    "fechaCaptura": "2022-05-13T12:22:55Z",
+    "nombres": "OMAR",
+    "primerApellido": "RENDON",
+    "segundoApellido": "BURGOS",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Delegado Regional De Movilidad",
+      "nivel": "IRBFC"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RENDON",
+      "segundoApellido": "BURGOS"
+    }
+  },
+  {
+    "id": "62d1d6d1b598ee276669ae1d",
+    "fechaCaptura": "2022-05-18T09:12:56Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "FRANCISCO JAVIER",
+    "primerApellido": "DÍAZ",
+    "segundoApellido": "DÍAZ",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO",
+      "siglas": "CODHEM",
+      "clave": "001"
+    },
+    "puesto": {
+      "nombre": "JEFE(A) DE DEPARTAMENTO",
+      "nivel": "26"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARISOL",
+      "primerApellido": "VILLAGRÁN ",
+      "segundoApellido": "HERNÁNDEZ",
+      "puesto": {
+        "nombre": "DIRECTOR(A) DE ÁREA",
+        "nivel": "28"
+      }
+    }
+  },
+  {
+    "id": "62d1d6d1b598ee276669ae22",
+    "fechaCaptura": "2022-05-18T09:14:40Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "JOSÉ BERNARDO",
+    "primerApellido": "CHÁVEZ",
+    "segundoApellido": "LINARES",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO",
+      "siglas": "CODHEM",
+      "clave": "001"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR(A) DE ÁREA",
+      "nivel": "28"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MANLIO",
+      "primerApellido": "PAZ",
+      "segundoApellido": "MARTELL",
+      "puesto": {
+        "nombre": "DIRECTOR(A) GENERAL DE ADMINISTRACION Y FINAN",
+        "nivel": "29"
+      }
+    }
+  },
+  {
+    "id": "62d1d6d1b598ee276669ae25",
+    "fechaCaptura": "2022-05-18T09:17:17Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "JOSÉ LUIS",
+    "primerApellido": "BRAVO",
+    "segundoApellido": "ZÁRATE",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO",
+      "siglas": "CODHEM",
+      "clave": "001"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR(A) DE ÁREA",
+      "nivel": "28"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MANLIO",
+      "primerApellido": "PAZ",
+      "segundoApellido": "MARTELL",
+      "puesto": {
+        "nombre": "DIRECTOR(A) GENERAL DE ADMINISTRACION Y FINAN",
+        "nivel": "29"
+      }
+    }
+  },
+  {
+    "id": "62d1d6d2b598ee276669ae28",
+    "fechaCaptura": "2022-05-18T09:22:47Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "MIGUEL ÁNGEL",
+    "primerApellido": "CRUZ",
+    "segundoApellido": "MUCIÑO",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO",
+      "siglas": "CODHEM",
+      "clave": "001"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR(A) DE ÁREA",
+      "nivel": "28"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MYRNA ARACELI",
+      "primerApellido": "GARCÍA",
+      "segundoApellido": "MORÓN",
+      "puesto": {
+        "nombre": "PRESIDENTE(A) DE LA CODHEM",
+        "nivel": "31"
+      }
+    }
+  },
+  {
+    "id": "62d1d6d2b598ee276669ae2b",
+    "fechaCaptura": "2022-05-18T09:26:15Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "LUIS JAIR",
+    "primerApellido": "CAMACHO",
+    "segundoApellido": "CARRASCO",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO",
+      "siglas": "CODHEM",
+      "clave": "001"
+    },
+    "puesto": {
+      "nombre": "JEFE(A) DE DEPARTAMENTO",
+      "nivel": "26"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARISOL",
+      "primerApellido": "VILLAGRÁN ",
+      "segundoApellido": "HERNÁNDEZ",
+      "puesto": {
+        "nombre": "DIRECTOR(A) DE ÁREA",
+        "nivel": "28"
+      }
+    }
+  },
+  {
+    "id": "62d1d6d2b598ee276669ae2e",
+    "fechaCaptura": "2022-05-18T09:37:43Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "FRANCISCO",
+    "primerApellido": "HERNÁNDEZ",
+    "segundoApellido": "MANCILLA",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO",
+      "siglas": "CODHEM",
+      "clave": "001"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTOR(A)",
+      "nivel": "27"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "LAURA BERENICE",
+      "primerApellido": "GARCÍA",
+      "segundoApellido": "HERNÁNDEZ",
+      "puesto": {
+        "nombre": "DIRECTOR(A) DE ÁREA",
+        "nivel": "28"
+      }
+    }
+  },
+  {
+    "id": "62d1d6d2b598ee276669ae31",
+    "fechaCaptura": "2022-05-18T09:39:48Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "RAÚL",
+    "primerApellido": "ZEPEDA",
+    "segundoApellido": "SÁNCHEZ",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO",
+      "siglas": "CODHEM",
+      "clave": "001"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTOR(A)",
+      "nivel": "27"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARA KRIZIA",
+      "primerApellido": "BELTRÁN",
+      "segundoApellido": "SÁNCHEZ",
+      "puesto": {
+        "nombre": "DIRECTOR(A) GENERAL",
+        "nivel": "29"
+      }
+    }
+  },
+  {
+    "id": "62d1d6d2b598ee276669ae34",
+    "fechaCaptura": "2022-05-18T09:42:09Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "LAURA BERENICE",
+    "primerApellido": "GARCÍA",
+    "segundoApellido": "HERNÁNDEZ",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO",
+      "siglas": "CODHEM",
+      "clave": "001"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR(A) DE ÁREA",
+      "nivel": "28"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MANLIO",
+      "primerApellido": "PAZ",
+      "segundoApellido": "MARTELL",
+      "puesto": {
+        "nombre": "DIRECTOR(A) GENERAL DE ADMINISTRACION Y FINAN",
+        "nivel": "29"
+      }
+    }
+  }
+]

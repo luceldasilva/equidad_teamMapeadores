@@ -1,0 +1,4544 @@
+[
+  {
+    "id": "6317a97f99226c00195b71c7",
+    "institucionDependencia": {
+      "nombre": "Ins Tec J Mario Molina Pasquel y Henriquez "
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DEL CAMPUS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "HÉCTOR  ",
+    "primerApellido": "DÁVALOS ",
+    "segundoApellido": "TINAJERO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:11:43+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317a98299226c00195b71d3",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE AGRICULTURA Y DESARROLLO RURAL "
+    },
+    "puesto": {
+      "nombre": "COORDINADOR"
+    },
+    "nombres": "SERGIO ANTONIO",
+    "primerApellido": "ROMERO",
+    "segundoApellido": "NAVARRETE",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:11:46+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317a98699226c00195b71e3",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Técnica",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Jefe de Proyecto"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Karen ",
+    "primerApellido": "Méndez",
+    "segundoApellido": " Durán",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:11:49+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317a98f99226c00195b71f9",
+    "institucionDependencia": {
+      "nombre": "Contraloría del Estado"
+    },
+    "puesto": {
+      "nombre": "SECRETARIA AUX"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ELVIA LILIANA",
+    "primerApellido": "VELAZQUEZ",
+    "segundoApellido": "CAMACHO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:11:59+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317a9a799226c00195b720c",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Técnica",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Subjefe Técnico Especiali"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Laura Francisca ",
+    "primerApellido": "Arias ",
+    "segundoApellido": "Cuevas",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:12:23+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317a9a899226c00195b7213",
+    "institucionDependencia": {
+      "nombre": "Contraloría del Estado"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE AREA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ENRIQUE",
+    "primerApellido": "GONZALEZ",
+    "segundoApellido": "SORIA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:12:24+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317a9cc99226c00195b7242",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Técnica",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Subjefe Técnico Especiali"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Leoncio  ",
+    "primerApellido": "Castro  ",
+    "segundoApellido": "García",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:13:00+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317a9d099226c00195b724e",
+    "institucionDependencia": {
+      "nombre": "Contraloría del Estado"
+    },
+    "puesto": {
+      "nombre": "SECRETARIA AUX"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FABIOLA LIZETTE",
+    "primerApellido": "PONCE",
+    "segundoApellido": "SANTIAGO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:13:04+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317a9e899226c00195b7271",
+    "institucionDependencia": {
+      "nombre": "Ins Tec J Mario Molina Pasquel y Henriquez "
+    },
+    "puesto": {
+      "nombre": "SEC DE SUBDIRECCIÓN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JAIME SAUCEDO RÍOS",
+    "primerApellido": "SAUCEDO",
+    "segundoApellido": " RÍOS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:13:28+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317a9eb99226c00195b727d",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Técnica",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Subjefe Técnico Especiali"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Leopoldo  ",
+    "primerApellido": "Morán",
+    "segundoApellido": " Águila",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:13:31+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317a9f699226c00195b7290",
+    "institucionDependencia": {
+      "nombre": "Contraloría del Estado"
+    },
+    "puesto": {
+      "nombre": "SECRETARIA DE DIRECCIÓN "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FLORENTINA ",
+    "primerApellido": "VALDIVIA",
+    "segundoApellido": "HUACUJA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:13:42+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317aa1599226c00195b72aa",
+    "institucionDependencia": {
+      "nombre": "Instituto Infraestructura Física Educativa Estado",
+      "siglas": "INFEJAL"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR ANALISIS PROC"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "KARLA LIZETH",
+    "primerApellido": "RODRIGUEZ",
+    "segundoApellido": "MORALES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:14:13+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317aa1699226c00195b72b1",
+    "institucionDependencia": {
+      "nombre": "Contraloría del Estado"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "GLORIA AMERICA",
+    "primerApellido": "VELAZQUEZ",
+    "segundoApellido": "RUIZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:14:14+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317aa1b99226c00195b72c9",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Técnica",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Coordinador Ejecutivo II"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Leticia Maricela ",
+    "primerApellido": "Anguiano",
+    "segundoApellido": " Vargas",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:14:19+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317aa3f99226c00195b72e3",
+    "institucionDependencia": {
+      "nombre": "Contraloría del Estado"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE AREA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "HECTOR JAVIER",
+    "primerApellido": "HERNANDEZ",
+    "segundoApellido": "GONZALEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:14:55+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317aa4899226c00195b72f6",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Técnica",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Jefe de Proyecto"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Lidia del Rosario ",
+    "primerApellido": "Álvarez ",
+    "segundoApellido": "Ravell",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:15:04+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317aa4999226c00195b7302",
+    "institucionDependencia": {
+      "nombre": "Ins Tecn J Mario Molina Pasquel y Henriquez "
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE CAMPUS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JUAN PABLO",
+    "primerApellido": " CERRILLO ",
+    "segundoApellido": "HERNANDEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:15:05+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317aa5699226c00195b731c",
+    "institucionDependencia": {
+      "nombre": "Instituto Infraestructura Física Educativa Estado",
+      "siglas": "INFEJAL"
+    },
+    "puesto": {
+      "nombre": "ANALISTA ADQUISICIONES"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "KARLA",
+    "primerApellido": "MARQUEZ",
+    "segundoApellido": "MARQUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:15:18+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317aa6499226c00195b7328",
+    "institucionDependencia": {
+      "nombre": "Contraloría del Estado"
+    },
+    "puesto": {
+      "nombre": "SECRETARIA DE DIREC. AREA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "HILDA CECILIA",
+    "primerApellido": "SANDOVAL",
+    "segundoApellido": "MORON",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:15:32+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317aa6a99226c00195b7334",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Técnica",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Jefe de Proyecto"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Lourdes",
+    "primerApellido": " Rojas",
+    "segundoApellido": " Navarro",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:15:38+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317aa8999226c00195b7355",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Técnica",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Jefe de Proyecto"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Luis Angel ",
+    "primerApellido": "Sevilla ",
+    "segundoApellido": "Flores",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:16:09+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317aa9999226c00195b7368",
+    "institucionDependencia": {
+      "nombre": "Instituto Infraestructura Física Educativa Estado",
+      "siglas": "INFEJAL"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "NORMA PATRICIA",
+    "primerApellido": "AVENA",
+    "segundoApellido": "ORTIZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:16:25+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317aa9f99226c00195b736f",
+    "institucionDependencia": {
+      "nombre": "Contraloría del Estado"
+    },
+    "puesto": {
+      "nombre": "DIREC DE AREA DENUNCIAS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "IRMA ALEJANDRA",
+    "primerApellido": "OROPEZA",
+    "segundoApellido": "RAMOS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:16:31+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317aaa699226c00195b738e",
+    "institucionDependencia": {
+      "nombre": "Ins Tec J Mario Molina Pasquel y Henriquez "
+    },
+    "puesto": {
+      "nombre": "COOR DE COMPRAS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JULIO CÉSAR",
+    "primerApellido": " JIMÉNEZ",
+    "segundoApellido": " ZERMEÑO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:16:38+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317aacc99226c00195b73c3",
+    "institucionDependencia": {
+      "nombre": "Contraloría del Estado"
+    },
+    "puesto": {
+      "nombre": "SECRETARIA DIREC GENERAL"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ISELA YAZMIN",
+    "primerApellido": "HERNANDEZ",
+    "segundoApellido": "CORONA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:17:16+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317aad099226c00195b73cf",
+    "institucionDependencia": {
+      "nombre": "Instituto Infraestructura Física Educativa Estado",
+      "siglas": "INFEJAL"
+    },
+    "puesto": {
+      "nombre": "Director General"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "OCTAVIO",
+    "primerApellido": "FLORES",
+    "segundoApellido": "DE LA TORRE",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:17:20+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317aadf99226c00195b73ec",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Técnica",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Jefe de Proyecto"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Luis Humberto",
+    "primerApellido": " Ruiz  ",
+    "segundoApellido": "Arana",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:17:35+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317aaf899226c00195b73fc",
+    "institucionDependencia": {
+      "nombre": "Contraloría del Estado"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE AREA "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JAVIER EDUARDO",
+    "primerApellido": "BARRIGA",
+    "segundoApellido": "CARRANZA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:18:00+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317aab699226c00195b73a8",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Técnica",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Subjefe Técnico Especiali"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2022-09-06T20:18:12+00:00",
+    "nombres": "Luis Enrique ",
+    "primerApellido": "Gómez",
+    "segundoApellido": " Rubio",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6317ab0b99226c00195b742c",
+    "institucionDependencia": {
+      "nombre": "Ins Tec J Mario Molina Pasquel y Henriquez "
+    },
+    "puesto": {
+      "nombre": "ENCARGADA DE COMPRAS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LUCIA",
+    "primerApellido": " RAMÍREZ ",
+    "segundoApellido": "SOLÍS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:18:19+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ab2099226c00195b7446",
+    "institucionDependencia": {
+      "nombre": "Contraloría del Estado"
+    },
+    "puesto": {
+      "nombre": "DIREC GRAL CONTROL"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSE LUIS",
+    "primerApellido": "AYALA",
+    "segundoApellido": "AVALOS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:18:40+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ab2f99226c00195b7459",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Técnica",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "ADMIN TÉCNICO ESPECIALI"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Luis Santiago ",
+    "primerApellido": "Solis",
+    "segundoApellido": " Ceja",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:18:55+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ab4199226c00195b746c",
+    "institucionDependencia": {
+      "nombre": "Contraloría del Estado"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR C"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSE RUBEN",
+    "primerApellido": "GONZALEZ",
+    "segundoApellido": "GARCIA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:19:13+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ab5199226c00195b747f",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Técnica",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Jefe de Proyecto"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Luis ",
+    "primerApellido": "Torres ",
+    "segundoApellido": "Jáuregui",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:19:29+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ab5f99226c00195b7492",
+    "institucionDependencia": {
+      "nombre": "Contraloría del Estado"
+    },
+    "puesto": {
+      "nombre": "DIREC DE AREA PATRIMONIAL"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JUAN DANIEL",
+    "primerApellido": "MACIAS",
+    "segundoApellido": "SIERRA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:19:43+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ab6099226c00195b7499",
+    "institucionDependencia": {
+      "nombre": "Instituto Infraestructura Física Educativa Estado",
+      "siglas": "INFEJAL"
+    },
+    "puesto": {
+      "nombre": "COMISARIO PUBLICO PROPIE"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "PATRICIA",
+    "primerApellido": "CUELLAR",
+    "segundoApellido": "COVARRUBIAS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:19:44+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ab6e99226c00195b74b8",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Técnica",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Director de Plantel"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Luz Alicia ",
+    "primerApellido": "Gálvez ",
+    "segundoApellido": "Canales",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:19:58+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ab7099226c00195b74c4",
+    "institucionDependencia": {
+      "nombre": "Ins TeC J Mario Molina Pasquel y Henriquez "
+    },
+    "puesto": {
+      "nombre": "JEFE DE DIVISIÓN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LUIS ALONSO",
+    "primerApellido": " RODRIGUEZ ",
+    "segundoApellido": "DE LA TORRE",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:20:00+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ab7b99226c00195b74de",
+    "institucionDependencia": {
+      "nombre": "Contraloría del Estado"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA DE AREA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JUANA",
+    "primerApellido": "CARRION",
+    "segundoApellido": "RUIZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:20:11+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ab8e99226c00195b74f1",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Técnica",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "secretaria c"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Ma del Consuelo ",
+    "primerApellido": "Gómez",
+    "segundoApellido": " Chávez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:20:30+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ab9b99226c00195b7504",
+    "institucionDependencia": {
+      "nombre": "Contraloría del Estado"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR ADMIN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "KARLA ISABEL",
+    "primerApellido": "RANGEL",
+    "segundoApellido": "ISAS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:20:43+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317abaa99226c00195b7510",
+    "institucionDependencia": {
+      "nombre": "Instituto Infraestructura Física Educativa Estado",
+      "siglas": "INFEJAL"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA JURIDICA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "PATRICIA",
+    "primerApellido": "RAMIREZ",
+    "segundoApellido": "GALVAN",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:20:58+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317abb999226c00195b7523",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Técnica",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Jefe de Proyecto"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Ma Elena",
+    "primerApellido": " Serrano ",
+    "segundoApellido": "Godínez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:21:13+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317abc599226c00195b753d",
+    "institucionDependencia": {
+      "nombre": "Ins Tec J Mario Molina Pasquel y Henriquez "
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DEL CAMPUS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LUIS EDUARDO ",
+    "primerApellido": "JIMÉNEZ ",
+    "segundoApellido": "HERRERA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:21:25+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317abc999226c00195b7549",
+    "institucionDependencia": {
+      "nombre": "Contraloría del Estado"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR ADMIN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARCELA ",
+    "primerApellido": "MASCAREÑO",
+    "segundoApellido": "MARTINEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:21:29+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317abe299226c00195b755c",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Técnica",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Jefe de Proyecto"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Ma. Esther ",
+    "primerApellido": "López",
+    "segundoApellido": "Díaz",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:21:54+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317abe499226c00195b7568",
+    "institucionDependencia": {
+      "nombre": "Contraloría del Estado"
+    },
+    "puesto": {
+      "nombre": "AUDITOR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARIA ANGELICA",
+    "primerApellido": "HERNANDEZ",
+    "segundoApellido": "MACIEL",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:21:56+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ac0199226c00195b7582",
+    "institucionDependencia": {
+      "nombre": "Contraloría del Estado"
+    },
+    "puesto": {
+      "nombre": "AUDITOR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARIA ELBA",
+    "primerApellido": "MORENO",
+    "segundoApellido": "AGUIRRE",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:22:25+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ac0399226c00195b758e",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Técnica",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Jefe de Proyecto"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "María del Carmen",
+    "primerApellido": " González",
+    "segundoApellido": " Silva",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:22:27+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ac2099226c00195b75af",
+    "institucionDependencia": {
+      "nombre": "Instituto Infraestructura Física Educativa Estado",
+      "siglas": "INFEJAL"
+    },
+    "puesto": {
+      "nombre": "ANALISTA ADQUISICIONES"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ROGELIA AIDE",
+    "primerApellido": "AMARAL",
+    "segundoApellido": "GONZALEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:22:56+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ac2b99226c00195b75cb",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Técnica",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Coordinador Ejecutivo II"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Maria Guadalupe ",
+    "primerApellido": "  Patiño",
+    "segundoApellido": "Sanchez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:23:07+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ac2c99226c00195b75d2",
+    "institucionDependencia": {
+      "nombre": "Contraloría del Estado"
+    },
+    "puesto": {
+      "nombre": "CONTRALORA DEL ESTADO JAL"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARIA TERESA",
+    "primerApellido": "BRITO",
+    "segundoApellido": "SERRANO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:23:08+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ac5699226c00195b75f6",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Técnica",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Jefe de Proyecto"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "María Guadalupe ",
+    "primerApellido": "De la Torre ",
+    "segundoApellido": "Ávila",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:23:50+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ac5799226c00195b75fd",
+    "institucionDependencia": {
+      "nombre": "Contraloría del Estado"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR GRAL CORRUPCIÓN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MIGUEL ANGEL",
+    "primerApellido": "VAZQUEZ ",
+    "segundoApellido": "PLACENCIA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:23:51+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ac7499226c00195b7623",
+    "institucionDependencia": {
+      "nombre": "Contraloría del Estado"
+    },
+    "puesto": {
+      "nombre": "SECRETARÍA GRAL DIRECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MIRIAM",
+    "primerApellido": "GLEASON",
+    "segundoApellido": "ANAYA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:24:20+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ac8299226c00195b762f",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "ANALISTA SEDAR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "AARON ALEJANDRO",
+    "primerApellido": "BELLO",
+    "segundoApellido": "ALDRETE",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:24:34+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317acb699226c00195b7658",
+    "institucionDependencia": {
+      "nombre": "Contraloría del Estado"
+    },
+    "puesto": {
+      "nombre": "DIREC CONTRALORIA SOCIAL"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "NATALIA",
+    "primerApellido": "GARZA",
+    "segundoApellido": "GALLO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:25:26+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317accd99226c00195b766b",
+    "institucionDependencia": {
+      "nombre": "Ins Tec J Mario Molina Pasquel y Henriquez "
+    },
+    "puesto": {
+      "nombre": "CAPT AUX DE COM"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LUIS GUSTAVO ",
+    "primerApellido": "ZUÑIGA",
+    "segundoApellido": " GONZALEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:25:49+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317acd699226c00195b7677",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Técnica",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Jefe de Proyecto"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "María Josefina  ",
+    "primerApellido": "Mendoza ",
+    "segundoApellido": " Flores",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:25:58+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317acd999226c00195b7683",
+    "institucionDependencia": {
+      "nombre": "Contraloría del Estado"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR INFO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ORCAR AURELIO",
+    "primerApellido": "DEL TORO",
+    "segundoApellido": "LUA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:26:01+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ad0299226c00195b76a1",
+    "institucionDependencia": {
+      "nombre": "Contraloría del Estado"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE AREA OD"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "RICARDO ALFONZO",
+    "primerApellido": "HERNANDEZ",
+    "segundoApellido": "PADILLA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:26:42+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ad3199226c00195b76b4",
+    "institucionDependencia": {
+      "nombre": "Inst Tec J Mario Molina Pasquel y Henriquez "
+    },
+    "puesto": {
+      "nombre": "JEFE DE DIVISIÓN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARCELO ",
+    "primerApellido": "RAMIREZ",
+    "segundoApellido": " ACEVES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:27:29+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ad3499226c00195b76c0",
+    "institucionDependencia": {
+      "nombre": "Colegio de Educación Profesional Técnica",
+      "siglas": "CONALEP"
+    },
+    "puesto": {
+      "nombre": "Coordinador Ejecutivo III"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Maria Guadalupe  ",
+    "primerApellido": "Patiño ",
+    "segundoApellido": "Sanchez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:27:32+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317adb799226c00195b76d3",
+    "institucionDependencia": {
+      "nombre": "Ins Tecco José Mario Molina Pasquel y Henriquez "
+    },
+    "puesto": {
+      "nombre": "SECRE DE JEFE DE DEPTO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARTHA FAVIOLA ",
+    "primerApellido": "TAVAREZ",
+    "segundoApellido": " LOPEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:29:43+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ae2399226c00195b76e6",
+    "institucionDependencia": {
+      "nombre": "Ins Tec J Mario Molina Pasquel y Henriquez"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MIGUEL ",
+    "primerApellido": "TREJO ",
+    "segundoApellido": "CONTRERAS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T20:31:31+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317dd3999226c00195b76fc",
+    "institucionDependencia": {
+      "nombre": "SISTEMA DE TREN ELECTRICO URBANO",
+      "siglas": "SITEUR"
+    },
+    "puesto": {
+      "nombre": "Jefe de Abastecimiento"
+    },
+    "nombres": "SAUL ARMANDO",
+    "primerApellido": "SAENZ",
+    "segundoApellido": "MIRANDA",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T23:52:25+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317de4799226c00195b771a",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTLABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCIÓN"
+    },
+    "nombres": "ALBERTO RAFAEL",
+    "primerApellido": "LOPEZ",
+    "segundoApellido": "SANTOS",
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T23:56:55+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317de9d99226c00195b772d",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR DE STAFF"
+    },
+    "nombres": "ALDO RODRIGO",
+    "primerApellido": "ROMERO",
+    "segundoApellido": "ROMERO",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T23:58:21+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317defd99226c00195b7740",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "COORD DE REHABILITACION"
+    },
+    "nombres": "ALEJANDRO ",
+    "primerApellido": "MARTIN DEL CAMPO",
+    "segundoApellido": "SAENZ",
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-09-06T23:59:57+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317df4f99226c00195b7753",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR JURIDICO"
+    },
+    "nombres": "ALEJANDRO ARMANDO",
+    "primerApellido": "ANCIRA",
+    "segundoApellido": "ESPINO",
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:01:19+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317dfb699226c00195b7766",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA"
+    },
+    "puesto": {
+      "nombre": "ASISTENTE ADMINISTRATIVO"
+    },
+    "nombres": "ALEJANDRO",
+    "primerApellido": "MUNOZ",
+    "segundoApellido": "CABRERA",
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:03:02+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317e06a99226c00195b7779",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "ASISTENTE OPERATIVO"
+    },
+    "nombres": "ALFREDO",
+    "primerApellido": "SANTIAGO",
+    "segundoApellido": "VELAZQUEZ",
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:06:02+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317e0c899226c00195b778c",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR DE SECCIÓN"
+    },
+    "nombres": "ALICIA ELIZABETH",
+    "primerApellido": "VALLEJO",
+    "segundoApellido": "HERNANDEZ",
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:07:36+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317e14c99226c00195b779f",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION"
+    },
+    "nombres": "ALVARO ALFONSO",
+    "primerApellido": "FIGUEROA",
+    "segundoApellido": "VACA",
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:09:48+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317e1c399226c00195b77da",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "ANALISTA ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "AMADA AMALIA",
+    "primerApellido": "JASSO",
+    "segundoApellido": "SILVA",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:11:47+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317e22699226c00195b77ed",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "DIR DE ADMINISTRACION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ANDRES ABIMAEL ",
+    "primerApellido": "MALDONADO ",
+    "segundoApellido": "SEDANO",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:13:26+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317e26399226c00195b7800",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "CAPTURISTA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ANGEL ANTONIO",
+    "primerApellido": "TINTOS ",
+    "segundoApellido": "HERNANDEZ",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:14:27+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317e29f99226c00195b7813",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "DIR DE ADMINISTRACION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ANTONIO JAVIER",
+    "primerApellido": "HERNANDEZ",
+    "segundoApellido": "PADILLA",
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:15:27+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317e2e399226c00195b7826",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "EJECUTIVO DE JURIDICO"
+    },
+    "nombres": "ARTURO",
+    "primerApellido": "INIGUEZ",
+    "segundoApellido": "GONZALEZ",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:16:35+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317e3b699226c00195b7861",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ARTURO",
+    "primerApellido": "RAMOS",
+    "segundoApellido": "REYES",
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:20:06+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317e3ed99226c00195b7874",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "COORD ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ARTURO",
+    "primerApellido": "RUIZ",
+    "segundoApellido": "SANCHEZ",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:21:01+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317e43499226c00195b7887",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE FINANZAS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "BENJAMIN",
+    "primerApellido": "GARCIA",
+    "segundoApellido": "VELEZ",
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:22:12+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317e4bd99226c00195b789a",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "COORD DE OBRA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CARLOS ALBERTO",
+    "primerApellido": "GUZMAN",
+    "segundoApellido": "NUNO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:24:29+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317e4f699226c00195b78ad",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION"
+    },
+    "nombres": "CARLOS ALBERTO",
+    "primerApellido": "GUERRERO",
+    "segundoApellido": "VILLANUEVA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:25:26+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317e53f99226c00195b78c0",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "ANALISTA DE RELACIONES LA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CARLOS HECTOR",
+    "primerApellido": "VAZQUEZ",
+    "segundoApellido": "MONTES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:26:39+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317e56d99226c00195b78d3",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CARLOS ",
+    "primerApellido": "MORFIN ",
+    "segundoApellido": "DIEGUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:27:25+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317e5b099226c00195b78e6",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTOR DE TESORERIA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CARLOS ROBERTO",
+    "primerApellido": "GRAJALES",
+    "segundoApellido": "CAMPILLO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:28:32+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317e61099226c00195b7900",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CESAR GUADALUPE",
+    "primerApellido": "MORALES",
+    "segundoApellido": "LOPEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:30:08+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317e64c99226c00195b7913",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CLAUDIA ALEJANDRA ",
+    "primerApellido": "PENA ",
+    "segundoApellido": "CAMPOS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:31:08+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317e68e99226c00195b7926",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "SECRETARIA DE DIRECCION"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2022-09-07T00:33:59+00:00",
+    "nombres": "CLAUDIA ESTHER",
+    "primerApellido": "GOMEZ",
+    "segundoApellido": "DIAZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6317e73d99226c00195b7962",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "ING MACROMEDICION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CLAUDIA JULISSA GUADALUPE",
+    "primerApellido": "PEREZ",
+    "segundoApellido": "FLORES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:35:09+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317e77a99226c00195b7975",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "DANIEL ANDRES",
+    "primerApellido": "SANCHEZ",
+    "segundoApellido": "VAZQUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:36:10+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317e7cc99226c00195b798c",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "ASISTENTE DE AREA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ANA GABRIELA",
+    "primerApellido": "RODRIGUEZ",
+    "segundoApellido": "CASILLAS",
+    "tipoProcedimiento": [
+      {
+        "clave": 4,
+        "valor": "ASIGNACIÓN Y EMISION DE DICTAMENES DE AVALÚOS NACIONALES"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:37:32+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317e81699226c00195b799f",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR AUT SUBS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ANASTACIO",
+    "primerApellido": "MURILLO",
+    "segundoApellido": "CARRASCO",
+    "tipoArea": [],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:38:46+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317e86999226c00195b79b2",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DISTRIBUCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "DAVID ALFREDO",
+    "primerApellido": "ARROYO",
+    "segundoApellido": "RODRIGUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:40:09+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317e89899226c00195b79c5",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "EDUARDO ",
+    "primerApellido": "MORELL",
+    "segundoApellido": "ALCARAZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:40:56+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317e8d699226c00195b79d8",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "ANALISTA DE COMPRAS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ELBA PATRICIA",
+    "primerApellido": "AREVALO",
+    "segundoApellido": "CADENA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:41:58+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317e90b99226c00195b79eb",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ERIK ALBERTO",
+    "primerApellido": "ALVAREZ",
+    "segundoApellido": "ZAMORANO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:42:51+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317e96099226c00195b79fe",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FABIOLA MARISOL",
+    "primerApellido": "HERNANDEZ",
+    "segundoApellido": "SANCHEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:44:16+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317e98a99226c00195b7a11",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FELIX",
+    "primerApellido": "FRANCO",
+    "segundoApellido": "GARCIA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:44:58+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317e9b499226c00195b7a24",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FERNANDO ",
+    "primerApellido": "CAZAREZ",
+    "segundoApellido": "FAJARDO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:45:40+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317eacc99226c00195b7a39",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FERNANDO",
+    "primerApellido": "GARCIA",
+    "segundoApellido": "GONZALEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:50:20+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317eb0e99226c00195b7a4c",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FERNANDO",
+    "primerApellido": "GUTIERREZ",
+    "segundoApellido": "TOPETE",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:51:26+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317eb4999226c00195b7a5f",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "ING MACROMEDICION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FRANCISICO",
+    "primerApellido": "MENDOZA",
+    "segundoApellido": "JIMENEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:52:25+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ec1699226c00195b7a72",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "PERITO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FRANCISCO",
+    "primerApellido": "MENDOZA",
+    "segundoApellido": "JIMENEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:55:50+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ec4299226c00195b7a85",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "ASISTENTE DE AREA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FRANCISCO JAVIER",
+    "primerApellido": "FLORES",
+    "segundoApellido": "RIVAS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:56:34+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ec9b99226c00195b7a98",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTOR DE POTABILIZ"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FRANCISCO JAVIER",
+    "primerApellido": "ALTAMIRANO",
+    "segundoApellido": "GONZALEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:58:03+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ecca99226c00195b7aab",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FRANCISCO JAVIER",
+    "primerApellido": "VAZQUEZ",
+    "segundoApellido": "QUIÑONES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:58:50+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ecf899226c00195b7abe",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "ING MACROMEDICION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "GABRIEL",
+    "primerApellido": "NUÑEZ",
+    "segundoApellido": "RUBALCAVA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T00:59:36+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ed3a99226c00195b7ad1",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "GABRIELA",
+    "primerApellido": "CAARMONA",
+    "segundoApellido": "FERNANDEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:00:42+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ed7099226c00195b7ae4",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "ESPECIALISTA EN EVALUACIO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "GERARDO",
+    "primerApellido": "ALCARAZ",
+    "segundoApellido": "MARTINEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:01:36+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ed9e99226c00195b7af7",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "EJECUTIVO DE COMPRAS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "GERARDO JOSE",
+    "primerApellido": "NUÑEZ",
+    "segundoApellido": "MURRA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:02:22+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317edde99226c00195b7b0a",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "GERARDO",
+    "primerApellido": "VIDRIO",
+    "segundoApellido": "MORENO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:03:26+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ee0799226c00195b7b1d",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "GONZALO ADRIAN",
+    "primerApellido": "TORRES",
+    "segundoApellido": "LOZANO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:04:07+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ee3799226c00195b7b30",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "HILDA GRACIELA",
+    "primerApellido": "PEREZ",
+    "segundoApellido": "MATA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:04:55+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ee7399226c00195b7b43",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "ANALISTA DE SERVICIOS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "HUGO ANDRES ",
+    "primerApellido": "PAZOS",
+    "segundoApellido": "MEJIA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:05:55+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317eef599226c00195b7b56",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "EJECUTIVA DE COMUNICACION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ILIANA ",
+    "primerApellido": "ALBA",
+    "segundoApellido": "PEREZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:08:05+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ef5499226c00195b7b69",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "ANALISTA DE COMPRAS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ILIANA MICHELLE",
+    "primerApellido": "RUBIO",
+    "segundoApellido": "GOMEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:09:40+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317ef8b99226c00195b7b7c",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "ASISTENTE DE STAFF"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "IVAN DANIEL",
+    "primerApellido": "HUIZAR",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:10:35+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317efdb99226c00195b7b8f",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTOR DE ADMIN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JESUS MIGUEL",
+    "primerApellido": "DIAZ",
+    "segundoApellido": "ROSALES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:11:55+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317f01399226c00195b7ba2",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "ANALISTA DE RELACIONES LA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JORGE DE JESUS",
+    "primerApellido": "SANDOVAL",
+    "segundoApellido": "RUVALCABA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:12:51+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317f04399226c00195b7bb5",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JORGE",
+    "primerApellido": "PEREZ",
+    "segundoApellido": "RODRIGUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:13:39+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317f07b99226c00195b7bc8",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSE ANGEL",
+    "primerApellido": "COSILION",
+    "segundoApellido": "LUCAS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:14:35+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317f17c99226c00195b7bdb",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSE DE JESUS",
+    "primerApellido": "MIRANDA",
+    "segundoApellido": "HERNANDEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:18:52+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317f19b99226c00195b7bee",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSE DE JESUS",
+    "primerApellido": "GARCIA",
+    "segundoApellido": "GOMEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:19:23+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317f1cb99226c00195b7c01",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "DIR DE ABAASTECIMIENTOS"
+    },
+    "nombres": "JOSE LUIS",
+    "primerApellido": "MONTAÑO",
+    "segundoApellido": "OCHOA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:20:11+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317f1f199226c00195b7c14",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSE LUIS",
+    "primerApellido": "VILLASEÑOR",
+    "segundoApellido": "RUIZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:20:49+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317f22099226c00195b7c27",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSE LUIS",
+    "primerApellido": "AGUAYO",
+    "segundoApellido": "LOPEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:21:36+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317f24899226c00195b7c3a",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSE LUIS",
+    "primerApellido": "ALVAREZ",
+    "segundoApellido": "RODRIGUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:22:16+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317f26999226c00195b7c4d",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSE LUIS",
+    "primerApellido": "GALLEGOS",
+    "segundoApellido": "GOMEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:22:49+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317f2a599226c00195b7c60",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "ASISTENTE OPERATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSE RAMON",
+    "primerApellido": "JAUREGUI",
+    "segundoApellido": "LARA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:23:49+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317f2d499226c00195b7c73",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JUAN CARLOS",
+    "primerApellido": "FLORES",
+    "segundoApellido": "BONILLA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:24:36+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317f31899226c00195b7c86",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTOR DE MANTENIMIE"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JUAN CARLOS",
+    "primerApellido": "GOMEZ",
+    "segundoApellido": "JIMENEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:25:44+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317f34499226c00195b7c99",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "ASISTENTE DE AREA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JUAN MANUEL",
+    "primerApellido": "OCAMPO",
+    "segundoApellido": "CASTILLO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:26:28+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317f39799226c00195b7cb1",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "AUDITOR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JUAN RAMON",
+    "primerApellido": "MARTINEZ",
+    "segundoApellido": "CABRERA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:27:51+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317f3e099226c00195b7cc4",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "ASISTENTE DE DIR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "KAREN MONSERRAT",
+    "primerApellido": "RAMIREZ",
+    "segundoApellido": "AYON",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:29:04+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317f41d99226c00195b7cd7",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "ANALISTA JURIDICO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "KENDY LIZBETH",
+    "primerApellido": "CORAL",
+    "segundoApellido": "RODRIGUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:30:05+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317f4aa99226c00195b7cea",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LORENA TRINIDAD",
+    "primerApellido": "TIRADO",
+    "segundoApellido": "LLAMAS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:32:26+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317f4f499226c00195b7cfd",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "COORD DE AUDITORIA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LORENZO",
+    "primerApellido": "SOLORZANO",
+    "segundoApellido": "GOMEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:33:40+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317f53199226c00195b7d10",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "AUX DE CAPACITACION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LUCIA ADRIANA",
+    "primerApellido": "CARRILLO",
+    "segundoApellido": "TORRES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:34:41+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317f58d99226c00195b7d23",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECCION DE ARCHIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LUIS ALBERTO",
+    "primerApellido": "ALONSO",
+    "segundoApellido": "BARRON",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:36:13+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317f5bf99226c00195b7d36",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTOR DE DISTRIB"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LUIS CARLOS",
+    "primerApellido": "CERVANTES",
+    "segundoApellido": "GARCIA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:37:03+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317f5f099226c00195b7d49",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LUIS GERARDO",
+    "primerApellido": "ROBLEDO",
+    "segundoApellido": "CARRANZA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:37:52+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317f62a99226c00195b7d5c",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LUIS GUILLERMO",
+    "primerApellido": "CAMACHO",
+    "segundoApellido": "LEYVA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:38:50+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317f65b99226c00195b7d6f",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "LABORATORISTA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARIA DEL REFUGIO",
+    "primerApellido": "DIAZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:39:39+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6317f69099226c00195b7d82",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTOR DE DISTRIB"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MANUEL",
+    "primerApellido": "ROBLEDO",
+    "segundoApellido": "SIORDIA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T01:40:32+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63189e3499226c00195b7da5",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR ESPECIALIZADO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CARLOS",
+    "primerApellido": "GARCÍA",
+    "segundoApellido": "BARAJAS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T13:35:48+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63189f2f99226c00195b7dc1",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE CULTURA "
+    },
+    "puesto": {
+      "nombre": "DIRECTORA ADMINISTRATIVA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ADA LUCIA",
+    "primerApellido": "AGUIRRE",
+    "segundoApellido": "VARELA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T13:39:59+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a02d99226c00195b7dda",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE CULTURA "
+    },
+    "puesto": {
+      "nombre": "COORDINADOR C"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FRANCISCO JAVIER ",
+    "primerApellido": "RAMIREZ",
+    "segundoApellido": "ÁGUILA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T13:44:13+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a04699226c00195b7ded",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE CONSTRUCCIÓN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CELSO DE JESÚS",
+    "primerApellido": "ÁLVAREZ ",
+    "segundoApellido": "SOLÓRZANO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T13:44:38+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a07099226c00195b7e00",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE CULTURA "
+    },
+    "puesto": {
+      "nombre": "JEFA AREA ADQUISICIONES"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JANETTE",
+    "primerApellido": "GUTIERREZ",
+    "segundoApellido": "DE ALBA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T13:45:20+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a0a399226c00195b7e13",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CESAR OCTAVIO",
+    "primerApellido": "JACOBO ",
+    "segundoApellido": "ALGABA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T13:46:11+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a0bf99226c00195b7e26",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE CULTURA "
+    },
+    "puesto": {
+      "nombre": "JEFATURA RECURSOS FINANCI"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "SUSANA ",
+    "primerApellido": "TOVAR",
+    "segundoApellido": "MONRAZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T13:46:39+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a16099226c00195b7e3f",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR DE PROYECTOS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "DANIEL ",
+    "primerApellido": "BENÍTEZ ",
+    "segundoApellido": "NÚÑEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T13:49:20+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a16499226c00195b7e51",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE DESARROLLO ECONÓMICO "
+    },
+    "puesto": {
+      "nombre": "COORDINADORA DE COMPRAS"
+    },
+    "nombres": "ANA BERTHA",
+    "primerApellido": "DE LA CRUZ ",
+    "segundoApellido": "GUTIERREZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T13:49:24+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a21899226c00195b7e9b",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE DISEÑO URBANO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "DOUGLAS ",
+    "primerApellido": "RODRÍGUEZ ",
+    "segundoApellido": "PEREA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T13:52:24+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a21899226c00195b7ea2",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE DESARROLLO ECONÓMICO "
+    },
+    "puesto": {
+      "nombre": "DIR GRAL ADMON"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ARTURO",
+    "primerApellido": "OLVERA",
+    "segundoApellido": "MEJÍA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T13:52:24+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a24d99226c00195b7eba",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR MEDICO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ABRAHAM ALEJANDRO",
+    "primerApellido": "QUEZADA",
+    "segundoApellido": "PONCE",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T13:53:17+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a25c99226c00195b7ec6",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE DESARROLLO ECONÓMICO "
+    },
+    "puesto": {
+      "nombre": "DIR RECURSOS MAT Y FIN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MÓNICA DEL CARMEN",
+    "primerApellido": "LUQUÍN",
+    "segundoApellido": "TEJEDA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T13:53:32+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a2ad99226c00195b7ee0",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "AUX DE OFICINA RH"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FIDEL",
+    "primerApellido": "URIBE",
+    "segundoApellido": "CANAL",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T13:54:53+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a2b699226c00195b7ef3",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "COSTEADOR PROYECTOS OBRA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ADRIAN",
+    "primerApellido": "JIMENEZ",
+    "segundoApellido": "BARBA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T13:55:02+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a30f99226c00195b7f06",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "COORD DE INCORPORACIÓ"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "HÉCTOR RODOLFO OZIEL",
+    "primerApellido": "VARELA",
+    "segundoApellido": "BORONDON",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T13:56:31+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a32b99226c00195b7f16",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ALBERTO JORGE",
+    "primerApellido": "GOMEZ",
+    "segundoApellido": "HERNANDEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T13:56:59+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a37999226c00195b7f49",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSÉ ÁNGEL",
+    "primerApellido": "VALDEZ",
+    "segundoApellido": "SANTIAGO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T13:58:17+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a3c299226c00195b7f55",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR VENTANILLA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ALDO EFRAIN",
+    "primerApellido": "GOMEZ",
+    "segundoApellido": "GUZMAN",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T13:59:30+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a40999226c00195b7f71",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR C"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "EDGAR GABRIEL",
+    "primerApellido": "RUÍZ ",
+    "segundoApellido": "LÓPEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:00:41+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a44599226c00195b7f8d",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR DE PROYECTOS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "EDUARDO ",
+    "primerApellido": "BARRAZA ",
+    "segundoApellido": "REGALADO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:01:41+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a47399226c00195b7fa0",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ELOY ALBERTO",
+    "primerApellido": "ZEPEDA ",
+    "segundoApellido": "PELAYO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:02:27+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a4a799226c00195b7fb3",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR ADQUISICIONES"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FABIOLA CAROLINA",
+    "primerApellido": "CUEVAS ",
+    "segundoApellido": "HIDALGO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:03:19+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a4eb99226c00195b7fcd",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FERNANDO",
+    "primerApellido": "CHÁVEZ ",
+    "segundoApellido": "PINTO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:04:27+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a4fb99226c00195b7fe0",
+    "institucionDependencia": {
+      "nombre": "Ins Tec J Mario Molina Pasquel y Henriquez "
+    },
+    "puesto": {
+      "nombre": "DIR DE ADMIN Y FINANZAS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "RICARDO",
+    "primerApellido": " RAMOS ",
+    "segundoApellido": "DUEÑAS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:04:43+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a52f99226c00195b7fec",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR OBRA PUBLICA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FERNANDO DANIEL",
+    "primerApellido": "AVALOS ",
+    "segundoApellido": "VERGARA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:05:35+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a54c99226c00195b7fff",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "SECRETARIO DE EDUCACIÓN "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JUAN CARLOS",
+    "primerApellido": "FLORES",
+    "segundoApellido": "MIRAMONTES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:06:04+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a55e99226c00195b8019",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR ESPECIALIZADO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FERNANDO ",
+    "primerApellido": "VILLA ",
+    "segundoApellido": "LOPEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:06:22+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a58299226c00195b8029",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JUAN ",
+    "primerApellido": "CHAVEZ",
+    "segundoApellido": "OCEGUEDA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:06:58+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a5bc99226c00195b803e",
+    "institucionDependencia": {
+      "nombre": "Ins Tec J Mario Molina Pasquel y Henriquez"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DIVISIÓN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "SAUL ",
+    "primerApellido": " SARAY",
+    "segundoApellido": "BEAS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:07:56+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a5e299226c00195b8051",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "ASISTENTE"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FRANCISCO IGNACIO",
+    "primerApellido": "VALENZUELA ",
+    "segundoApellido": "GÓMEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:08:34+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a61999226c00195b8064",
+    "institucionDependencia": {
+      "nombre": "Ins Tec J Mario Molina Pasquel y Henriquez "
+    },
+    "puesto": {
+      "nombre": "ANALISTA TÉCNICO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "SCARLETT ROSARIO ",
+    "primerApellido": "RAMÍREZ ",
+    "segundoApellido": "GALLO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:09:29+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a61e99226c00195b8070",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE PROYECTOS "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FRANCISCO LUCIANO",
+    "primerApellido": "VALDEZ ",
+    "segundoApellido": "ROMÁN",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:09:34+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a62599226c00195b807c",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR COBRANZA ADTVA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ALEJANDRO",
+    "primerApellido": "BERMUDEZ",
+    "segundoApellido": "PADILLA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:09:41+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a66299226c00195b809d",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR ADMINISTRATIV"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ALMA DELIA",
+    "primerApellido": "GOMEZ",
+    "segundoApellido": "ORTEGA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:10:42+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a66599226c00195b80a4",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR GENERAL "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "GABRIEL ",
+    "primerApellido": "RAMOS ",
+    "segundoApellido": "HERNÁNDEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:10:45+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a69499226c00195b80c3",
+    "institucionDependencia": {
+      "nombre": "Ins Tec J Mario Molina Pasquel y Henriquez "
+    },
+    "puesto": {
+      "nombre": "COMPRADOR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "XÓCHITL ",
+    "primerApellido": "CORDERO ",
+    "segundoApellido": "ESTRADA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:11:32+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a6a599226c00195b80d6",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR DE OBRA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "GERARDO ",
+    "primerApellido": "GUTIÉRREZ ",
+    "segundoApellido": "NAVARRO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:11:49+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a6eb99226c00195b80f2",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "ANALISTA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ALMA GUADALUPE",
+    "primerApellido": "NUÑEZ",
+    "segundoApellido": "GONZALEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:12:59+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a6ed99226c00195b80f9",
+    "institucionDependencia": {
+      "nombre": "O.P.D Hospital Civil de Guadalajara"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ADRIANA     ",
+    "primerApellido": "GARCIA ",
+    "segundoApellido": "CAMARENA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:13:01+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a6f199226c00195b8105",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE PROYECTOS "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "GILBERTO JESÚS",
+    "primerApellido": "ORNELAS ",
+    "segundoApellido": "BARAJAS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:13:05+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a70999226c00195b8132",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "JEFE DE OFICINA "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARIEL ARIAN",
+    "primerApellido": "PRECIADO",
+    "segundoApellido": "RENTERÍA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:13:29+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a71599226c00195b814e",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "ANALISTA ESPECIALIZADO A"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ANDRES",
+    "primerApellido": "ANTONIO",
+    "segundoApellido": "EVARISTO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:13:41+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a72899226c00195b8161",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR DE PROYECTOS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "GUILLERMO  ",
+    "primerApellido": "ORTÍZ ",
+    "segundoApellido": "VÁZQUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:14:00+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a73099226c00195b816d",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "AUX DE OFICINA RH"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "NADIA GUADALUPE",
+    "primerApellido": "GOMEZ",
+    "segundoApellido": "RAMOS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:14:08+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a74699226c00195b8187",
+    "institucionDependencia": {
+      "nombre": "Contraloría del Estado"
+    },
+    "puesto": {
+      "nombre": "CAPTURISTA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ROXANA ",
+    "primerApellido": "LOPEZ",
+    "segundoApellido": "DE LA CRUZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:14:30+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a74999226c00195b8193",
+    "institucionDependencia": {
+      "nombre": "Instituto de Pensiones del Estado de Jalisco",
+      "siglas": "IPEJAL"
+    },
+    "puesto": {
+      "nombre": "ABOGADO ESPECIALIZADO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ARTURO CUAUHTEMOC",
+    "primerApellido": "SALINAS",
+    "segundoApellido": "VAZQUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:14:33+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a77b99226c00195b81a6",
+    "institucionDependencia": {
+      "nombre": "Contraloría del Estado"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE AREA DE APOYO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "SUSANA ARACELI",
+    "primerApellido": "IBARRA",
+    "segundoApellido": "HERNANDEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:15:23+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a77d99226c00195b81b2",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "TÍTULAR ÁREA DE ADQUISICI"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "SERGIO EMILIO ",
+    "primerApellido": "SAENZ",
+    "segundoApellido": "BARBA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:15:25+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a79a99226c00195b81cc",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Infraestructura y Obra Pública"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR OBRA PUBLICA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "GUILLERMO ARTURO",
+    "primerApellido": "ACEVES ",
+    "segundoApellido": "NAVARRO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:15:54+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a7ad99226c00195b81df",
+    "institucionDependencia": {
+      "nombre": " Coordinación General Estratégica de DS"
+    },
+    "puesto": {
+      "nombre": "DIRECCION ADMIN"
+    },
+    "nombres": "NROMA ALICIA",
+    "primerApellido": "DIAZ",
+    "segundoApellido": "RAMIREZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:16:13+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a7c299226c00195b81f2",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA ENCARGADA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ADRIANA ",
+    "primerApellido": "CIBRIAN",
+    "segundoApellido": "SUÁREZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:16:34+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a7da99226c00195b8205",
+    "institucionDependencia": {
+      "nombre": "Coordinación General Estratégica de DS"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR ADMIN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "PAOLA ",
+    "primerApellido": "FLORES",
+    "segundoApellido": "ANAYA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:16:58+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318a7f199226c00195b8218",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "JEFE DE OFICINA "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ADRIANA ",
+    "primerApellido": "CORDERO",
+    "segundoApellido": "PÉREZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T14:17:21+00:00",
+    "__v": 0
+  }
+]

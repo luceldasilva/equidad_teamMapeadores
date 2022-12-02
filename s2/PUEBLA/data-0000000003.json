@@ -1,0 +1,477 @@
+[
+  {
+    "id": "401",
+    "fechaCaptura": "2021-09-19T19:00:00Z",
+    "ejercicioFiscal": "2020",
+    "ramo": {},
+    "nombres": "MICHAEL YEREMI",
+    "primerApellido": "BRAVO",
+    "segundoApellido": "GALLARDO",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "CARRETERAS DE CUOTA PUEBLA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO",
+      "nivel": "G0805"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 4,
+        "valor": "ASIGNACIÓN Y EMISIÓN DE DICTÁMENES DE AVALÚOS NACIONALES"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "LUCILA",
+      "primerApellido": "MOLINA",
+      "segundoApellido": "REYNOSO",
+      "puesto": {
+        "nombre": "DIRECTOR GENERAL",
+        "nivel": "DIRECTOR GENERAL"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "402",
+    "fechaCaptura": "2021-09-19T19:00:00Z",
+    "ejercicioFiscal": "2020",
+    "ramo": {},
+    "nombres": "RODOLFO",
+    "primerApellido": "CHÁVEZ",
+    "segundoApellido": "ESCUDERO",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "CARRETERAS DE CUOTA PUEBLA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR GENERAL",
+      "nivel": "G0403"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      },
+      {
+        "clave": 4,
+        "valor": "ASIGNACIÓN Y EMISIÓN DE DICTÁMENES DE AVALÚOS NACIONALES"
+      }
+    ],
+    "superiorInmediato": {
+      "puesto": {}
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "403",
+    "fechaCaptura": "2021-09-19T19:00:00Z",
+    "ejercicioFiscal": "2020",
+    "ramo": {},
+    "nombres": "ALAN TADEO",
+    "primerApellido": "RAMÍREZ",
+    "segundoApellido": "HERNÁNDEZ",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "CARRETERAS DE CUOTA PUEBLA"
+    },
+    "puesto": {
+      "nombre": "ANALISTA",
+      "nivel": "G1304"
+    },
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 4,
+        "valor": "ASIGNACIÓN Y EMISIÓN DE DICTÁMENES DE AVALÚOS NACIONALES"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "GUILLERMO",
+      "primerApellido": "CONTRERAS",
+      "segundoApellido": "VERGARA",
+      "puesto": {
+        "nombre": "JEFE DE DEPARTAMENTO",
+        "nivel": "JEFE DE DEPARTAMENTO"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "404",
+    "fechaCaptura": "2021-09-19T19:00:00Z",
+    "ejercicioFiscal": "2020",
+    "ramo": {},
+    "nombres": "JOAQUÍN ANTONIO",
+    "primerApellido": "CASTRO",
+    "segundoApellido": "MONTES",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE SALUD"
+    },
+    "puesto": {
+      "nombre": "ENCARGADO",
+      "nivel": "OTRO"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "puesto": {}
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "405",
+    "fechaCaptura": "2021-09-19T19:00:00Z",
+    "ejercicioFiscal": "2020",
+    "ramo": {},
+    "nombres": "JESÚS MANUEL",
+    "primerApellido": "MARTÍNEZ",
+    "segundoApellido": "MUÑOZ",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE SALUD"
+    },
+    "puesto": {
+      "nombre": "SUB-DIRECTOR",
+      "nivel": "G0801"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "JOAQUÍN ANTONIO",
+      "primerApellido": "CASTRO",
+      "segundoApellido": "MONTES",
+      "puesto": {
+        "nombre": "ENCARGADO DE DESPACHO",
+        "nivel": "OTRO"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "406",
+    "fechaCaptura": "2021-09-19T19:00:00Z",
+    "ejercicioFiscal": "2020",
+    "ramo": {},
+    "nombres": "YASEL",
+    "primerApellido": "GONZÁLEZ",
+    "segundoApellido": "PÉREZ",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE SALUD"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO",
+      "nivel": "G0805"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "JESÚS MANUEL",
+      "primerApellido": "MARTÍNEZ",
+      "segundoApellido": "MUÑOZ",
+      "puesto": {
+        "nombre": "SUB-DIRECTOR",
+        "nivel": "SUB-DIRECTOR"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "407",
+    "fechaCaptura": "2021-09-19T19:00:00Z",
+    "ejercicioFiscal": "2020",
+    "ramo": {},
+    "nombres": "GUILLERMO",
+    "primerApellido": "VÁZQUEZ",
+    "segundoApellido": "PAREDES",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE SALUD"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO",
+      "nivel": "G0805"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      },
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      },
+      {
+        "clave": 4,
+        "valor": "ASIGNACIÓN Y EMISIÓN DE DICTÁMENES DE AVALÚOS NACIONALES"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "JESÚS MANUEL",
+      "primerApellido": "MARTÍNEZ",
+      "segundoApellido": "MUÑOZ",
+      "puesto": {
+        "nombre": "SUB-DIRECTOR",
+        "nivel": "SUB-DIRECTOR"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "408",
+    "fechaCaptura": "2021-09-19T19:00:00Z",
+    "ejercicioFiscal": "2020",
+    "ramo": {},
+    "nombres": "LUCILA",
+    "primerApellido": "MOLINA",
+    "segundoApellido": "REYNOSO",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "CARRETERAS DE CUOTA PUEBLA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR GENERAL",
+      "nivel": "G0403"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      },
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      },
+      {
+        "clave": 4,
+        "valor": "ASIGNACIÓN Y EMISIÓN DE DICTÁMENES DE AVALÚOS NACIONALES"
+      }
+    ],
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR GENERAL",
+        "nivel": "DIRECTOR GENERAL"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "409",
+    "fechaCaptura": "2021-09-19T19:00:00Z",
+    "ejercicioFiscal": "2020",
+    "ramo": {},
+    "nombres": "MARIA CECILIA",
+    "primerApellido": "HERNÁNDEZ",
+    "segundoApellido": "GALVÁN",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE SALUD"
+    },
+    "puesto": {
+      "nombre": "TITULAR DE LA UNIDAD",
+      "nivel": "G0407"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "puesto": {}
+    },
+    "observaciones": ""
+  }
+]

@@ -1,0 +1,2118 @@
+[
+  {
+    "autoridadSancionadora": "CONTRALORÍA MUNICIPAL",
+    "causaMotivoHechos": "EJECUTÓ OBRAS EN HORARIO LABORAL Y OBTUVO UN BENEFICIO ECONÓMICO",
+    "expediente": "CM/PRA/01/06/2019",
+    "fechaCaptura": "2022-05-26T09:38:39.490142",
+    "id": "BAX8PIW7",
+    "inhabilitacion": {
+      "fechaFinal": "2022-06-15",
+      "fechaInicial": "2021-06-15",
+      "plazo": "1 AÑO"
+    },
+    "institucionDependencia": {
+      "clave": "102",
+      "nombre": "Honorable Ayuntamiento de Uruapan",
+      "siglas": "--"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Pesos Mexicanos (MXN)"
+      },
+      "monto": 0
+    },
+    "observaciones": " ",
+    "resolucion": {
+      "fechaResolucion": "2021-02-15",
+      "url": "portal de transparencia y acceso a la información pública del municipio de uruapan michoacán"
+    },
+    "servidorPublicoSancionado": {
+      "curp": "IASJ820326HMNNLS08",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "nivel": "AUXILIAR",
+      "nombres": "JESÚS",
+      "primerApellido": "INFANTE",
+      "puesto": "AUXILIAR ADMINISTRATIVO",
+      "rfc": "IASJ820326UB4",
+      "segundoApellido": "SALAZAR"
+    },
+    "tipoFalta": {
+      "clave": "ANG",
+      "valor": "ADMINISTRATIVA NO GRAVE"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ]
+  },
+  {
+    "autoridadSancionadora": "CONTRALORIA MUNICIPAL ",
+    "causaMotivoHechos": "POR NO PRESENTAR EN TIEMPO Y FORMA LA DECLARACION PATRIMINIAL ",
+    "expediente": "006/2022",
+    "fechaCaptura": "2022-10-07T09:27:28.172543",
+    "id": "BEB2MEV6",
+    "inhabilitacion": {
+      "fechaFinal": "2022-07-23",
+      "fechaInicial": "2022-07-22",
+      "plazo": "UN DIA"
+    },
+    "institucionDependencia": {
+      "clave": "113",
+      "nombre": "Honorable Ayuntamiento de José Sixto Verduzco",
+      "siglas": "--"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Pesos Mexicanos (MXN)"
+      },
+      "monto": 172.87
+    },
+    "observaciones": "NINGUNA OBSERVACION ",
+    "resolucion": {
+      "fechaResolucion": "2022-07-22",
+      "url": "https://josesixtoverduzco.gob.mx/transparencia/josesixtoverduzco/ayuntamiento_35_xviii_220908135754_jose-guadalupe-chavez.pdf"
+    },
+    "servidorPublicoSancionado": {
+      "curp": "CARJ691212HMNHDD09",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "nivel": "CONFIANZA",
+      "nombres": "J GUADALUPE",
+      "primerApellido": "CHAVEZ",
+      "puesto": "JARDINERO ",
+      "rfc": "CARJ6912123T0",
+      "segundoApellido": "RODRIGUEZ"
+    },
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "OTRO"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "S",
+        "valor": "SUSPENSIÓN DEL EMPLEO, CARGO O COMISIÓN"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA"
+      }
+    ]
+  },
+  {
+    "autoridadSancionadora": "CONTRALORIA MUNICIPAL",
+    "causaMotivoHechos": "OMISION EN LA PRESENTACION DE LA DECLARACION DE SITUACION PATRIMONIAL Y DE CONFLICTO DE INTERESES DE CONCLUSION",
+    "documentos": [
+      {
+        "descripcion": "INHABILITACION DEL PRESUNTO RESPONSABLE",
+        "fecha": "2021-07-08",
+        "id": "7Jfy",
+        "tipo": "RESOLUCION",
+        "titulo": "RESOLUCION ADMINISTRATIVA",
+        "url": "https://drive.google.com/file/d/19amio033raqt6phanewwmexz86yys4m3/view?usp=sharing"
+      }
+    ],
+    "expediente": "HALC/CONT/JS/PRA/012/2020",
+    "fechaCaptura": "2022-02-28T12:27:55.950392",
+    "id": "BOZ7JUV7",
+    "inhabilitacion": {
+      "fechaFinal": "2022-07-15",
+      "fechaInicial": "2021-07-15",
+      "plazo": "01 UN AÑO"
+    },
+    "institucionDependencia": {
+      "clave": "052",
+      "nombre": "Honorable Ayuntamiento de Lázaro Cárdenas",
+      "siglas": "--"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Pesos Mexicanos (MXN)"
+      },
+      "monto": 0
+    },
+    "observaciones": "SOLO SE APLICO INHABILITACION, NO MULTA",
+    "resolucion": {
+      "fechaResolucion": "2021-07-08",
+      "url": "https://drive.google.com/file/d/19amio033raqt6phanewwmexz86yys4m3/view?usp=sharing"
+    },
+    "servidorPublicoSancionado": {
+      "curp": "JAFI900830HMNCLS05",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "nivel": "DIRECTOR",
+      "nombres": "ISAIAS",
+      "primerApellido": "JACINTO",
+      "puesto": "DIRECTOR DE SERVICIOS PUBLICOS MUNICIPALES",
+      "rfc": "JAFI9008309Y4",
+      "segundoApellido": "FLORES"
+    },
+    "tipoFalta": {
+      "clave": "IDSP",
+      "valor": "INCUMPLIMIENTO EN DECLARACION DE SITUACION PATRIMONIAL"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ]
+  },
+  {
+    "autoridadSancionadora": "CONTRALORÍA MUNICIPAL",
+    "causaMotivoHechos": "SUSTRAJO COMBUSTIBLE DE UN CAMIÓN RECOLECTOR DE BASURA",
+    "expediente": "CM/PRA/04/2020",
+    "fechaCaptura": "2022-05-26T09:40:10.08086",
+    "id": "CIN7BUS2",
+    "inhabilitacion": {
+      "fechaFinal": "2022-04-12",
+      "fechaInicial": "2021-04-12",
+      "plazo": "1 AÑO"
+    },
+    "institucionDependencia": {
+      "clave": "102",
+      "nombre": "Honorable Ayuntamiento de Uruapan",
+      "siglas": "--"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Pesos Mexicanos (MXN)"
+      },
+      "monto": 0
+    },
+    "observaciones": " ",
+    "resolucion": {
+      "fechaResolucion": "2021-04-12",
+      "url": "portal de transparencia y acceso a la información pública del municipio de uruapan, michoacán"
+    },
+    "servidorPublicoSancionado": {
+      "curp": "TOFR810206HMNRRC08",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "nivel": "ADSCRITO A LA DIRECCIÓN DE SANIDAD Y LIMPIA",
+      "nombres": "JOSÉ RICARDO",
+      "primerApellido": "TORRES",
+      "puesto": "AYUDANTE EN LIMPIEZA DE BARRANCAS",
+      "rfc": "TOFR810206AI3",
+      "segundoApellido": "FERNÁNDEZ"
+    },
+    "tipoFalta": {
+      "clave": "ANG",
+      "valor": "ADMINISTRATIVA NO GRAVE"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ]
+  },
+  {
+    "autoridadSancionadora": "CONTRALORIA MUNICIPAL",
+    "causaMotivoHechos": "OMISION EN LA PRESENTACION DE LA DECLARACION DE SITUACION PATRIMONIAL Y DE INTERESES DE CONCLUSION",
+    "documentos": [
+      {
+        "descripcion": "INHABILITACION DEL PRESUNTO RESPONSABLE",
+        "fecha": "2021-07-06",
+        "id": "Uvkp",
+        "tipo": "RESOLUCION",
+        "titulo": "RESOLUCION ADMINISTRATIVA",
+        "url": "https://drive.google.com/file/d/1ayctag0a7cbk-ssotnhd2puiiotugjai/view?usp=sharing"
+      }
+    ],
+    "expediente": "HALC/CONT/JS/PRA/005/2020",
+    "fechaCaptura": "2022-02-28T12:31:51.670718",
+    "id": "CUV8TAC8",
+    "inhabilitacion": {
+      "fechaFinal": "2022-07-12",
+      "fechaInicial": "2021-07-12",
+      "plazo": "01 UN AÑO"
+    },
+    "institucionDependencia": {
+      "clave": "052",
+      "nombre": "Honorable Ayuntamiento de Lázaro Cárdenas",
+      "siglas": "--"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Pesos Mexicanos (MXN)"
+      },
+      "monto": 0
+    },
+    "observaciones": "SE APLICO INHABILITACION, NO MULTA",
+    "resolucion": {
+      "fechaResolucion": "2021-07-06",
+      "url": "https://drive.google.com/file/d/1ayctag0a7cbk-ssotnhd2puiiotugjai/view?usp=sharing"
+    },
+    "servidorPublicoSancionado": {
+      "curp": "BACT880123MMNRNN07",
+      "genero": {
+        "clave": "F",
+        "valor": "FEMENINO"
+      },
+      "nivel": "JEFE",
+      "nombres": "TANIA",
+      "primerApellido": "BARRETO",
+      "puesto": "JEFA DE REGLAMENTOS GIROS BLANCOS",
+      "rfc": "BACT880123RYA",
+      "segundoApellido": "CONTRERAS"
+    },
+    "tipoFalta": {
+      "clave": "IDSP",
+      "valor": "INCUMPLIMIENTO EN DECLARACION DE SITUACION PATRIMONIAL"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ]
+  },
+  {
+    "autoridadSancionadora": "CONTRALORIA MUNICIPAL",
+    "causaMotivoHechos": "POR NO PRESENTAR EN TIEMPO Y FORMA LA DECLARACION PATRIMONIAL ",
+    "expediente": "006/2022",
+    "fechaCaptura": "2022-10-07T09:28:03.967173",
+    "id": "DAT1HUW3",
+    "inhabilitacion": {
+      "fechaFinal": "2022-07-23",
+      "fechaInicial": "2022-07-22",
+      "plazo": "UN DIA"
+    },
+    "institucionDependencia": {
+      "clave": "113",
+      "nombre": "Honorable Ayuntamiento de José Sixto Verduzco",
+      "siglas": "--"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Pesos Mexicanos (MXN)"
+      },
+      "monto": 186.67
+    },
+    "observaciones": "NINGUNA OBSERVACION",
+    "resolucion": {
+      "fechaResolucion": "2022-07-22",
+      "url": "https://josesixtoverduzco.gob.mx/transparencia/josesixtoverduzco/ayuntamiento_35_xviii_220908135758_luciano-vargas.pdf"
+    },
+    "servidorPublicoSancionado": {
+      "curp": "VABL610815HMNRRC07",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "nivel": "CONFIANZA",
+      "nombres": "LUCIANO ",
+      "primerApellido": "VARGAS ",
+      "puesto": "CHOFER",
+      "rfc": "VABL610815E60",
+      "segundoApellido": "BARRA"
+    },
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "OTRO"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "S",
+        "valor": "SUSPENSIÓN DEL EMPLEO, CARGO O COMISIÓN"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA"
+      }
+    ]
+  },
+  {
+    "autoridadSancionadora": "CONTRALORIA MUNICIPAL",
+    "causaMotivoHechos": "OMISION EN LA PRESENTACION DE LA DECLARACION PATRIMONIAL Y DE CONFLICTO DE INTERESES DE CONCLUSION",
+    "documentos": [
+      {
+        "descripcion": "INHABILITACION DEL PRESUNTO RESPONSABLE",
+        "fecha": "2021-07-06",
+        "id": "-Ui1",
+        "tipo": "RESOLUCION",
+        "titulo": "RESOLUCION ADMINISTRATIVA",
+        "url": "https://drive.google.com/file/d/1id2klafpyvdk8gepg7kutbggh1r8bdpd/view?usp=sharing"
+      }
+    ],
+    "expediente": "HALC/CONT/JS/PRA/006/2020",
+    "fechaCaptura": "2022-02-28T12:28:37.232941",
+    "id": "DOX2FUL1",
+    "inhabilitacion": {
+      "fechaFinal": "2022-07-12",
+      "fechaInicial": "2021-07-12",
+      "plazo": "01 UN AÑO"
+    },
+    "institucionDependencia": {
+      "clave": "052",
+      "nombre": "Honorable Ayuntamiento de Lázaro Cárdenas",
+      "siglas": "--"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Pesos Mexicanos (MXN)"
+      },
+      "monto": 0
+    },
+    "observaciones": "SE APLICO INHABILITACION, NO MULTA",
+    "resolucion": {
+      "fechaResolucion": "2021-07-06",
+      "url": "https://drive.google.com/file/d/1id2klafpyvdk8gepg7kutbggh1r8bdpd/view?usp=sharing"
+    },
+    "servidorPublicoSancionado": {
+      "curp": "AENB830803MMNRXR13",
+      "genero": {
+        "clave": "F",
+        "valor": "FEMENINO"
+      },
+      "nivel": "OPERATIVO U HOMOLOGO",
+      "nombres": "BRENDA",
+      "primerApellido": "ARTEAGA",
+      "puesto": "AUXILIAR EN EL CENTRO DE REHABILITACION INTEGRAL",
+      "rfc": "AENB8308034PA",
+      "segundoApellido": "NUÑEZ"
+    },
+    "tipoFalta": {
+      "clave": "IDSP",
+      "valor": "INCUMPLIMIENTO EN DECLARACION DE SITUACION PATRIMONIAL"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ]
+  },
+  {
+    "autoridadSancionadora": "CONTRALORIA MUNICIPAL ",
+    "causaMotivoHechos": "POR NO PRESENTAR EN TIEMPO Y FORMA LA DECLARACION PATRIMONIAL ",
+    "expediente": "006/2022",
+    "fechaCaptura": "2022-10-07T09:31:10.988847",
+    "id": "FAW2TOJ6",
+    "inhabilitacion": {
+      "fechaFinal": "2022-07-23",
+      "fechaInicial": "2022-07-22",
+      "plazo": "UN DIA "
+    },
+    "institucionDependencia": {
+      "clave": "113",
+      "nombre": "Honorable Ayuntamiento de José Sixto Verduzco",
+      "siglas": "--"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Pesos Mexicanos (MXN)"
+      },
+      "monto": 212
+    },
+    "observaciones": "NINGUNA",
+    "resolucion": {
+      "fechaResolucion": "2022-07-22",
+      "url": "https://josesixtoverduzco.gob.mx/transparencia/josesixtoverduzco/ayuntamiento_35_xviii_220908135803_osbaldo-perez.pdf"
+    },
+    "servidorPublicoSancionado": {
+      "curp": "PEAO710807HMNRNS00",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "nivel": "CONFIANZA",
+      "nombres": "OSBALDO",
+      "primerApellido": "PEREZ",
+      "puesto": "AUX. DE MANTENIMIENTO ",
+      "rfc": "PEAO7108076J9",
+      "segundoApellido": "ANDRADE"
+    },
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "OTRO"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "S",
+        "valor": "SUSPENSIÓN DEL EMPLEO, CARGO O COMISIÓN"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA"
+      }
+    ]
+  },
+  {
+    "autoridadSancionadora": "CONTRALORIA MUNICIPAL ",
+    "causaMotivoHechos": "POR NO PRESENTAR EN TIEMPO Y FORMA LA DECLARACION PATRIMONIAL ",
+    "expediente": "006/2022",
+    "fechaCaptura": "2022-10-05T09:20:48.276742",
+    "id": "FIJ8HIV4",
+    "inhabilitacion": {
+      "fechaFinal": "2022-07-23",
+      "fechaInicial": "2022-07-22",
+      "plazo": "UN DIA"
+    },
+    "institucionDependencia": {
+      "clave": "113",
+      "nombre": "Honorable Ayuntamiento de José Sixto Verduzco",
+      "siglas": "--"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Pesos Mexicanos (MXN)"
+      },
+      "monto": 172.87
+    },
+    "observaciones": "NINGUNA OBSERVACION ",
+    "resolucion": {
+      "fechaResolucion": "2022-07-22",
+      "url": "https://josesixtoverduzco.gob.mx/transparencia/josesixtoverduzco/ayuntamiento_35_xviii_220908135810_armando-vazquez.pdf"
+    },
+    "servidorPublicoSancionado": {
+      "curp": "VASA680129HMNZNR06",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "nivel": "CONFIANZA",
+      "nombres": "ARMANDO",
+      "primerApellido": "VAZQUEZ",
+      "puesto": "VELADOR DEL CAM",
+      "rfc": "VASA680129490",
+      "segundoApellido": "SAENZ"
+    },
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "OTRO"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "S",
+        "valor": "SUSPENSIÓN DEL EMPLEO, CARGO O COMISIÓN"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA"
+      }
+    ]
+  },
+  {
+    "autoridadSancionadora": "CONTRALORIA MUNICIPAL",
+    "causaMotivoHechos": "OMISION EN LA PRESENTACION DE LA DECLARACION DE SITUACION PATRIMONIAL Y DE CONFLICTO DE INTERESES DE CONCLUSION",
+    "documentos": [
+      {
+        "descripcion": "INHABILITACION DEL PRESUNTO RESPONSABLE",
+        "fecha": "2021-07-08",
+        "id": "ywaK",
+        "tipo": "RESOLUCION",
+        "titulo": "RESOLUCION ADMINISTRATIVA",
+        "url": "https://drive.google.com/file/d/1mhvolo5vrkz08_5s4uehus3jmlfvbxms/view?usp=sharing"
+      }
+    ],
+    "expediente": "HALC/CONT/JS/PRA/008/2020",
+    "fechaCaptura": "2022-02-28T12:28:08.543546",
+    "id": "FIW2LIW1",
+    "inhabilitacion": {
+      "fechaFinal": "2022-07-13",
+      "fechaInicial": "2021-07-13",
+      "plazo": "01 UN AÑO"
+    },
+    "institucionDependencia": {
+      "clave": "052",
+      "nombre": "Honorable Ayuntamiento de Lázaro Cárdenas",
+      "siglas": "--"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Pesos Mexicanos (MXN)"
+      },
+      "monto": 0
+    },
+    "observaciones": "SOLO SE APLICO INHABILITACION, NO MULTA",
+    "resolucion": {
+      "fechaResolucion": "2021-07-08",
+      "url": "https://drive.google.com/file/d/1mhvolo5vrkz08_5s4uehus3jmlfvbxms/view?usp=sharing"
+    },
+    "servidorPublicoSancionado": {
+      "curp": "GUCE700512MMNTDL09",
+      "genero": {
+        "clave": "F",
+        "valor": "FEMENINO"
+      },
+      "nivel": "DIRECTORA",
+      "nombres": "ELIZABETH ZULEMA ",
+      "primerApellido": "GUTIERREZ",
+      "puesto": "DIRECTORA DEL COMITE DE PLANEACION PARA EL DESARROLLO MUNICIPAL",
+      "rfc": "GUCE700512DP7",
+      "segundoApellido": "CUADRA"
+    },
+    "tipoFalta": {
+      "clave": "IDSP",
+      "valor": "INCUMPLIMIENTO EN DECLARACION DE SITUACION PATRIMONIAL"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ]
+  },
+  {
+    "autoridadSancionadora": "CONTRALORÍA MUNICIPAL",
+    "causaMotivoHechos": "NO INTEGRÓ DEBIDAMENTE 135 EXPEDIENTES DE OBRA DURANTE EL AÑO 2015",
+    "expediente": "CM/PAR/06/02/2016",
+    "fechaCaptura": "2022-05-26T09:35:45.669864",
+    "id": "JAQ2FUT2",
+    "inhabilitacion": {
+      "fechaFinal": "2021-01-10",
+      "fechaInicial": "2020-01-10",
+      "plazo": "1 AÑO"
+    },
+    "institucionDependencia": {
+      "clave": "102",
+      "nombre": "Honorable Ayuntamiento de Uruapan",
+      "siglas": "--"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Pesos Mexicanos (MXN)"
+      },
+      "monto": 0
+    },
+    "observaciones": " ",
+    "resolucion": {
+      "fechaResolucion": "2020-01-10",
+      "url": "portal de transparencia y acceso a la información pública del municipio de uruapan michoacán"
+    },
+    "servidorPublicoSancionado": {
+      "curp": "MERG671202HMNNDR02",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "nivel": "SECRETARIO",
+      "nombres": "GERARDO",
+      "primerApellido": "MENDOZA",
+      "puesto": "SECRETARIO DE DESARROLLO SOCIAL",
+      "rfc": "MERG671202BK1",
+      "segundoApellido": "RODRÍGUEZ"
+    },
+    "tipoFalta": {
+      "clave": "ANG",
+      "valor": "ADMINISTRATIVA NO GRAVE"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ]
+  },
+  {
+    "autoridadSancionadora": "CONTRALORIA ",
+    "causaMotivoHechos": "POR TOMAR UN ARMA DE FUEGO, SIN PERMISO DE SU JEFE SUPERIOR INMEDIATO",
+    "expediente": "NO TIENE NUMERO DE EXPEDIENTE ",
+    "fechaCaptura": "2022-10-13T14:10:21.878418",
+    "id": "JUK8PAQ5",
+    "inhabilitacion": {
+      "fechaFinal": "2020-09-17",
+      "fechaInicial": "2020-09-02",
+      "plazo": "15 DIAS "
+    },
+    "institucionDependencia": {
+      "clave": "113",
+      "nombre": "Honorable Ayuntamiento de José Sixto Verduzco",
+      "siglas": "--"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Pesos Mexicanos (MXN)"
+      },
+      "monto": 5585
+    },
+    "observaciones": "NINGUNA",
+    "resolucion": {
+      "fechaResolucion": "2020-09-02",
+      "url": "https://josesixtoverduzco.gob.mx/transparencia/josesixtoverduzco/ayuntamiento_35_xviii_220307145602_sanciones-200006290326.pdf"
+    },
+    "servidorPublicoSancionado": {
+      "curp": "GOCF970309HMNNRR00",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "nivel": "CONFIANZA",
+      "nombres": "JOSE FRANCISCO",
+      "primerApellido": "GONZALEZ",
+      "puesto": "POLICIA MUNICIPAL COMISIONADO A LA OFICINA DE TRANSITO 2018-2021",
+      "rfc": "GOCF970309U47",
+      "segundoApellido": "CERVANTES"
+    },
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "OTRO"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "M",
+        "valor": "MULTADO"
+      },
+      {
+        "clave": "S",
+        "valor": "SUSPENSIÓN DEL EMPLEO, CARGO O COMISIÓN"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA"
+      }
+    ]
+  },
+  {
+    "autoridadSancionadora": "CONTRALORIA",
+    "causaMotivoHechos": "POR NO PRESENTAR EN TIEMPO Y FORMA LA DECLARACION PATRIMONIAL",
+    "expediente": "006/2022",
+    "fechaCaptura": "2022-10-07T09:31:47.856473",
+    "id": "KEM7SEG2",
+    "inhabilitacion": {
+      "fechaFinal": "2022-07-23",
+      "fechaInicial": "2022-07-22",
+      "plazo": "UN DIA"
+    },
+    "institucionDependencia": {
+      "clave": "113",
+      "nombre": "Honorable Ayuntamiento de José Sixto Verduzco",
+      "siglas": "--"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Pesos Mexicanos (MXN)"
+      },
+      "monto": 172.87
+    },
+    "observaciones": "NINGUNA OBSERVACION",
+    "resolucion": {
+      "fechaResolucion": "2022-07-22",
+      "url": "https://josesixtoverduzco.gob.mx/transparencia/josesixtoverduzco/ayuntamiento_35_xviii_220908135757_leonel-vargas.pdf"
+    },
+    "servidorPublicoSancionado": {
+      "curp": "VACL720521HMNRHN04",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "nivel": "CONFIANZA",
+      "nombres": "LEONEL",
+      "primerApellido": "VARGAS",
+      "puesto": "CHOFER",
+      "rfc": "VACL720521337",
+      "segundoApellido": "CHAVEZ"
+    },
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "OTRO"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "S",
+        "valor": "SUSPENSIÓN DEL EMPLEO, CARGO O COMISIÓN"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA"
+      }
+    ]
+  },
+  {
+    "autoridadSancionadora": "CONTRALORIA MUNICIPAL",
+    "causaMotivoHechos": "POR NO PRESENTAR EN TIEMPO Y FORMA LA DECLARACION PATRIMINIAL ",
+    "expediente": "006/2022",
+    "fechaCaptura": "2022-10-07T09:29:09.989002",
+    "id": "KIS8PEX6",
+    "inhabilitacion": {
+      "fechaFinal": "2022-07-23",
+      "fechaInicial": "2022-07-22",
+      "plazo": "UN DIA"
+    },
+    "institucionDependencia": {
+      "clave": "113",
+      "nombre": "Honorable Ayuntamiento de José Sixto Verduzco",
+      "siglas": "--"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Pesos Mexicanos (MXN)"
+      },
+      "monto": 253.22
+    },
+    "observaciones": "NINGUNA OBSERVACION",
+    "resolucion": {
+      "fechaResolucion": "2022-07-22",
+      "url": "https://josesixtoverduzco.gob.mx/transparencia/josesixtoverduzco/ayuntamiento_35_xviii_220908135806_yesenia-lemus.pdf"
+    },
+    "servidorPublicoSancionado": {
+      "curp": "LETY961022MMNMRS08",
+      "genero": {
+        "clave": "F",
+        "valor": "FEMENINO"
+      },
+      "nivel": "CONFIANZA",
+      "nombres": "YESENIA",
+      "primerApellido": "LEMUS",
+      "puesto": "ENFERMERA ",
+      "rfc": "LETY961022MCA",
+      "segundoApellido": "TORRES"
+    },
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "OTRO"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "S",
+        "valor": "SUSPENSIÓN DEL EMPLEO, CARGO O COMISIÓN"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA"
+      }
+    ]
+  },
+  {
+    "autoridadSancionadora": "CONTRALORIA MUNICIPAL",
+    "causaMotivoHechos": "OMISION EN LA PRESENTACION DE LA DECLARACION DE SITUACION PATRIMONIAL Y DE CONFLICTO DE INTERESES DE CONCLUSION",
+    "documentos": [
+      {
+        "descripcion": "INHABILITACION DEL PRESUNTO RESPONSABLE",
+        "fecha": "2021-07-08",
+        "id": "Qqxz",
+        "tipo": "RESOLUCION",
+        "titulo": "RESOLUCION ADMINISTRATIVA",
+        "url": "https://drive.google.com/file/d/1-n-jlxwz2scmpfrh3lpcrvrlmyhkxxs0/view?usp=sharing"
+      }
+    ],
+    "expediente": "HALC/CONT/JS/PRA/009/2020",
+    "fechaCaptura": "2022-02-28T12:28:24.775737",
+    "id": "KOV2CIM7",
+    "inhabilitacion": {
+      "fechaFinal": "2022-07-15",
+      "fechaInicial": "2021-07-15",
+      "plazo": "01 UN AÑO"
+    },
+    "institucionDependencia": {
+      "clave": "052",
+      "nombre": "Honorable Ayuntamiento de Lázaro Cárdenas",
+      "siglas": "--"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Pesos Mexicanos (MXN)"
+      },
+      "monto": 0
+    },
+    "observaciones": "SOLO SE APLICO INHABILITACION, NO MULTA",
+    "resolucion": {
+      "fechaResolucion": "2021-07-08",
+      "url": "https://drive.google.com/file/d/1-n-jlxwz2scmpfrh3lpcrvrlmyhkxxs0/view?usp=sharing"
+    },
+    "servidorPublicoSancionado": {
+      "curp": "CAAN780827MMNSRB08",
+      "genero": {
+        "clave": "F",
+        "valor": "FEMENINO"
+      },
+      "nivel": "ADMINISTRADORA",
+      "nombres": "NUBIA MONICA",
+      "primerApellido": "CASTILLO",
+      "puesto": "ADMINISTRADORA DE LA CASA DE LA CULTURA",
+      "rfc": "CAAN780827SC1",
+      "segundoApellido": "ARELLANO"
+    },
+    "tipoFalta": {
+      "clave": "IDSP",
+      "valor": "INCUMPLIMIENTO EN DECLARACION DE SITUACION PATRIMONIAL"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ]
+  },
+  {
+    "autoridadSancionadora": "CONTRALORÍA MUNICIPAL",
+    "causaMotivoHechos": "SUSCRIBIÓ UN DICTÁMEN PSICOLÓGICO SIN REVISAR PERSONALMENTE ALPACIENTE",
+    "expediente": "CM/PRA/18/07/2018",
+    "fechaCaptura": "2022-05-26T09:14:55.190432",
+    "id": "LIH3HUQ6",
+    "inhabilitacion": {
+      "fechaFinal": "2020-04-22",
+      "fechaInicial": "2019-04-22",
+      "plazo": "1 AÑO"
+    },
+    "institucionDependencia": {
+      "clave": "102",
+      "nombre": "Honorable Ayuntamiento de Uruapan",
+      "siglas": "--"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Pesos Mexicanos (MXN)"
+      },
+      "monto": 0
+    },
+    "observaciones": " ",
+    "resolucion": {
+      "fechaResolucion": "2019-03-15",
+      "url": "portal de transparencia y acceso a la información pública del municipio de uruapan michoacán"
+    },
+    "servidorPublicoSancionado": {
+      "curp": "AEGS870530MMNLDS01",
+      "genero": {
+        "clave": "F",
+        "valor": "FEMENINO"
+      },
+      "nivel": "AUXILIAR",
+      "nombres": "SUSANA",
+      "primerApellido": "ALEMAN",
+      "puesto": "AUXILIAR AMINISTRATIVO",
+      "rfc": "AEGS870530IJ5",
+      "segundoApellido": "GODOY"
+    },
+    "tipoFalta": {
+      "clave": "ANG",
+      "valor": "ADMINISTRATIVA NO GRAVE"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "O",
+        "valor": "OTRO"
+      }
+    ]
+  },
+  {
+    "autoridadSancionadora": "CONTRALORIA MUNICPAL",
+    "causaMotivoHechos": "POR NO PRESENTAR EN TIEMPO Y FORMA LA DECLARACION PATRIMONIAL",
+    "expediente": "006/2022",
+    "fechaCaptura": "2022-10-07T09:38:32.623562",
+    "id": "MAK9MAV7",
+    "inhabilitacion": {
+      "fechaFinal": "2022-07-23",
+      "fechaInicial": "2022-07-22",
+      "plazo": "UN DIA"
+    },
+    "institucionDependencia": {
+      "clave": "113",
+      "nombre": "Honorable Ayuntamiento de José Sixto Verduzco",
+      "siglas": "--"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Pesos Mexicanos (MXN)"
+      },
+      "monto": 172.87
+    },
+    "observaciones": "SIN OBSERVACIONES",
+    "resolucion": {
+      "fechaResolucion": "2022-07-22",
+      "url": "https://josesixtoverduzco.gob.mx/transparencia/josesixtoverduzco/ayuntamiento_35_xviii_220908135755_jose-marcelo.pdf"
+    },
+    "servidorPublicoSancionado": {
+      "curp": "POPM540116HMNLRR06",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "nivel": "CONFIANZA",
+      "nombres": "JOSE ",
+      "primerApellido": "MARCELO",
+      "puesto": "VELADOR ",
+      "rfc": "POPM5401168M7",
+      "segundoApellido": "POLINA"
+    },
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "OTRO"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "O",
+        "valor": "OTRO"
+      },
+      {
+        "clave": "S",
+        "valor": "SUSPENSIÓN DEL EMPLEO, CARGO O COMISIÓN"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA"
+      }
+    ]
+  },
+  {
+    "autoridadSancionadora": "CONTRALORIA MUNICIPAL",
+    "causaMotivoHechos": "OMISION EN LA PRESENTACION DE LA DECLARACION DE SITUACION PATRIMONIAL Y DE CONFLICTO DE INTERESES DE CONCLUSION",
+    "documentos": [
+      {
+        "descripcion": "INHABILITACION DEL PRESUNTO RESPONSABLE",
+        "fecha": "2021-07-13",
+        "id": "8Eii",
+        "tipo": "RESOLUCION",
+        "titulo": "RESOLUCION ADMINISTRATIVA",
+        "url": "https://drive.google.com/file/d/1whrmi-ojimwluccdelbgrblzhhdbs5po/view?usp=sharing"
+      }
+    ],
+    "expediente": "HALC/CONT/JS/PRA/013/2020",
+    "fechaCaptura": "2022-02-28T12:27:40.301835",
+    "id": "MUL9CEN5",
+    "inhabilitacion": {
+      "fechaFinal": "2022-07-22",
+      "fechaInicial": "2021-07-22",
+      "plazo": "01 UN AÑO"
+    },
+    "institucionDependencia": {
+      "clave": "052",
+      "nombre": "Honorable Ayuntamiento de Lázaro Cárdenas",
+      "siglas": "--"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Pesos Mexicanos (MXN)"
+      },
+      "monto": 0
+    },
+    "observaciones": "SE APLICO INHABILITACION, NO MULTA",
+    "resolucion": {
+      "fechaResolucion": "2021-07-13",
+      "url": "https://drive.google.com/file/d/1whrmi-ojimwluccdelbgrblzhhdbs5po/view?usp=sharing"
+    },
+    "servidorPublicoSancionado": {
+      "curp": "SILR770718HMNBPC05",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "nivel": "JEFE",
+      "nombres": "RICARDO",
+      "primerApellido": "SIBAJA",
+      "puesto": "JEFE DEL DEPARTAMENTO DE LOS JOVENES",
+      "rfc": "SILR7707184B6",
+      "segundoApellido": "LOPEZ"
+    },
+    "tipoFalta": {
+      "clave": "IDSP",
+      "valor": "INCUMPLIMIENTO EN DECLARACION DE SITUACION PATRIMONIAL"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ]
+  },
+  {
+    "autoridadSancionadora": "CONTRALORIA MUNICIPAL",
+    "causaMotivoHechos": "POR NO PRESENTAR EN TIEMPO Y FORMA LA DECLARACION PATRIMONIAL ",
+    "expediente": "006/2022",
+    "fechaCaptura": "2022-10-07T09:34:04.661747",
+    "id": "PAX8NUS2",
+    "inhabilitacion": {
+      "fechaFinal": "2022-07-23",
+      "fechaInicial": "2022-07-22",
+      "plazo": "UN DIA"
+    },
+    "institucionDependencia": {
+      "clave": "113",
+      "nombre": "Honorable Ayuntamiento de José Sixto Verduzco",
+      "siglas": "--"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Pesos Mexicanos (MXN)"
+      },
+      "monto": 172.87
+    },
+    "observaciones": "NO HAY OBSERVACION",
+    "resolucion": {
+      "fechaResolucion": "2022-07-22",
+      "url": "https://josesixtoverduzco.gob.mx/transparencia/josesixtoverduzco/ayuntamiento_35_xviii_220908135812_arturo-gonzalez.pdf"
+    },
+    "servidorPublicoSancionado": {
+      "curp": "GOCA620305HMNNMR02",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "nivel": "CONFIANZA",
+      "nombres": "ARTURO ",
+      "primerApellido": "GONZALEZ",
+      "puesto": "VELADOR",
+      "rfc": "GOCA620305J24",
+      "segundoApellido": "CAMPOS"
+    },
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "OTRO"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "O",
+        "valor": "OTRO"
+      },
+      {
+        "clave": "S",
+        "valor": "SUSPENSIÓN DEL EMPLEO, CARGO O COMISIÓN"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA"
+      }
+    ]
+  },
+  {
+    "autoridadSancionadora": "CONTRALORÍA MUNICIPAL",
+    "causaMotivoHechos": "NO INTEGRÓ DEBIDAMENTE 135 EXPEDIENTES DE OBRA DURANTE EL AÑO 2015",
+    "expediente": "CM/PAR/06/02/2016",
+    "fechaCaptura": "2022-05-26T09:19:43.11588",
+    "id": "POH4QUQ5",
+    "inhabilitacion": {
+      "fechaFinal": "2021-01-10",
+      "fechaInicial": "2020-01-10",
+      "plazo": "1 AÑO"
+    },
+    "institucionDependencia": {
+      "clave": "102",
+      "nombre": "Honorable Ayuntamiento de Uruapan",
+      "siglas": "--"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Pesos Mexicanos (MXN)"
+      },
+      "monto": 0
+    },
+    "observaciones": " REGISTRO DUPLICADO",
+    "resolucion": {
+      "fechaResolucion": "2020-01-10",
+      "url": "portal de transparencia y acceso a la información pública del municipio de uruapan michoacán"
+    },
+    "servidorPublicoSancionado": {
+      "curp": "SOAC790331MMNLRR07",
+      "genero": {
+        "clave": "F",
+        "valor": "FEMENINO"
+      },
+      "nivel": "ENCARGADA DE DIRECCIÓN",
+      "nombres": "MARÍA CRISTINA",
+      "primerApellido": "SOLANO",
+      "puesto": "ENCARGADA DE LA DIRECCIÓN DE DESARROLLO SOCIAL ZONA URBANA",
+      "rfc": "SOAC790331MZ4",
+      "segundoApellido": "ARRIAGA"
+    },
+    "tipoFalta": {
+      "clave": "ANG",
+      "valor": "ADMINISTRATIVA NO GRAVE"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ]
+  },
+  {
+    "autoridadSancionadora": "CONTRALORIA MUNICIPAL",
+    "causaMotivoHechos": "POR NO PRESENTAR EN TIEMPO Y FORMA LA DECLARACION PATRIMONIAL",
+    "expediente": "006/2022",
+    "fechaCaptura": "2022-10-07T09:30:12.853704",
+    "id": "QIC5HOP7",
+    "inhabilitacion": {
+      "fechaFinal": "2022-07-23",
+      "fechaInicial": "2022-07-22",
+      "plazo": "UN DIA"
+    },
+    "institucionDependencia": {
+      "clave": "113",
+      "nombre": "Honorable Ayuntamiento de José Sixto Verduzco",
+      "siglas": "--"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Pesos Mexicanos (MXN)"
+      },
+      "monto": 443.33
+    },
+    "observaciones": "NINGUNA OBSERVACION",
+    "resolucion": {
+      "fechaResolucion": "2022-07-22",
+      "url": "https://josesixtoverduzco.gob.mx/transparencia/josesixtoverduzco/ayuntamiento_35_xviii_220908135813_catalina-avila.pdf"
+    },
+    "servidorPublicoSancionado": {
+      "curp": "AITC770504MMNVRT04",
+      "genero": {
+        "clave": "F",
+        "valor": "FEMENINO"
+      },
+      "nivel": "CONFIANZA",
+      "nombres": "CATALINA",
+      "primerApellido": "AVILA",
+      "puesto": "JURIDICO",
+      "rfc": "AITC7705047F0",
+      "segundoApellido": "TORRES"
+    },
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "OTRO"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "S",
+        "valor": "SUSPENSIÓN DEL EMPLEO, CARGO O COMISIÓN"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA"
+      }
+    ]
+  },
+  {
+    "autoridadSancionadora": "ÓRGANO INTERNO DE CONTROL DEL INSTITUTO ELECTORAL DE MICHOACÁN ",
+    "causaMotivoHechos": "VIOLACIÓN A LOS ARTÍCULOS 6° FRACCIONES I Y V, 49, FRACCIÓN I, III Y V DE LA LEY DE RESPONSABILIDAES ADMINISTRATIVAS DEL ESTADO DE MICHOACÁN DE OCAMPO. 271, FRACCIONES III, VII Y X DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO. 1, 11 Y 12 DEL REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DE MICHOACÁN",
+    "expediente": "IEM-OIC-INV-002-2021",
+    "fechaCaptura": "2022-10-18T10:58:24.760282",
+    "id": "SEM3WIC2",
+    "inhabilitacion": {
+      "fechaFinal": "2023-01-31",
+      "fechaInicial": "2022-02-01",
+      "plazo": "1 AÑO "
+    },
+    "institucionDependencia": {
+      "clave": "IEM",
+      "nombre": "Instituto Electoral de Michoacán",
+      "siglas": "-"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Pesos Mexicanos (MXN)"
+      },
+      "monto": 0
+    },
+    "observaciones": "N/A",
+    "resolucion": {
+      "fechaResolucion": "2021-11-30",
+      "url": "en trámite "
+    },
+    "servidorPublicoSancionado": {
+      "curp": "ROMI930927MGRDNV03",
+      "genero": {
+        "clave": "F",
+        "valor": "FEMENINO"
+      },
+      "nivel": "00",
+      "nombres": "IVETTE ",
+      "primerApellido": "RODRÍGUEZ ",
+      "puesto": "CAPACITADOR ELECTORAL ",
+      "rfc": "ROMI9309278W2",
+      "segundoApellido": "MENDOZA"
+    },
+    "tipoFalta": {
+      "clave": "ANG",
+      "valor": "ADMINISTRATIVA NO GRAVE"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ]
+  },
+  {
+    "autoridadSancionadora": "CONTRALORIA MUNICIPAL ",
+    "causaMotivoHechos": "POR NO PRESENTAR EN TIEMPO Y FORMA LA DECLARACION PATRIMONIAL",
+    "expediente": "006/2022",
+    "fechaCaptura": "2022-10-07T09:33:12.204117",
+    "id": "SOM9HIQ6",
+    "inhabilitacion": {
+      "fechaFinal": "2022-07-23",
+      "fechaInicial": "2022-07-22",
+      "plazo": "UN DIA"
+    },
+    "institucionDependencia": {
+      "clave": "113",
+      "nombre": "Honorable Ayuntamiento de José Sixto Verduzco",
+      "siglas": "--"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Pesos Mexicanos (MXN)"
+      },
+      "monto": 172.87
+    },
+    "observaciones": "NINGUNA OBSERVACION",
+    "resolucion": {
+      "fechaResolucion": "2022-07-22",
+      "url": "https://josesixtoverduzco.gob.mx/transparencia/josesixtoverduzco/ayuntamiento_35_xviii_220908135805_sergio-aguilar.pdf"
+    },
+    "servidorPublicoSancionado": {
+      "curp": "AUMS780112HMNGRR01",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "nivel": "CONFIANZA",
+      "nombres": "SERGIO",
+      "primerApellido": "AGUILAR ",
+      "puesto": "AUXILIAR",
+      "rfc": "AUMS780112HZ6",
+      "segundoApellido": "MARTINEZ"
+    },
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "OTRO"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "S",
+        "valor": "SUSPENSIÓN DEL EMPLEO, CARGO O COMISIÓN"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA"
+      }
+    ]
+  },
+  {
+    "autoridadSancionadora": "CONTRALORIA MUNICIPAL",
+    "causaMotivoHechos": "POR NO PRESENTAR EN TIEMPO Y FORMA LA DECLARACION PATRIMONIAL ",
+    "expediente": "006/2022",
+    "fechaCaptura": "2022-10-07T09:27:46.843784",
+    "id": "TIK4ZIF8",
+    "inhabilitacion": {
+      "fechaFinal": "2022-07-23",
+      "fechaInicial": "2022-07-22",
+      "plazo": "UN DIA"
+    },
+    "institucionDependencia": {
+      "clave": "113",
+      "nombre": "Honorable Ayuntamiento de José Sixto Verduzco",
+      "siglas": "--"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Pesos Mexicanos (MXN)"
+      },
+      "monto": 230.87
+    },
+    "observaciones": "NINGUNA OBSERVACION ",
+    "resolucion": {
+      "fechaResolucion": "2022-07-22",
+      "url": "https://josesixtoverduzco.gob.mx/transparencia/josesixtoverduzco/ayuntamiento_35_xviii_220908135752_jose-benito-martinez.pdf"
+    },
+    "servidorPublicoSancionado": {
+      "curp": "MAAB600710HMNRGN15",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "nivel": "CONFIANZA",
+      "nombres": "J. BENITO",
+      "primerApellido": "MERTINEZ",
+      "puesto": "OPERADOR D8",
+      "rfc": "MAAB600710E52",
+      "segundoApellido": "AGUILAR"
+    },
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "OTRO"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "S",
+        "valor": "SUSPENSIÓN DEL EMPLEO, CARGO O COMISIÓN"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA"
+      }
+    ]
+  },
+  {
+    "autoridadSancionadora": "ORGANO INTERNO DE CONTROL ",
+    "causaMotivoHechos": "NO CUMPLIR CON LAS NORMAS QUE REGULAN EL PROCEDIMIENTO DE LA NORMA ",
+    "documentos": [
+      {
+        "descripcion": "RESOLUCIÓN QUE SE IMPUSO ",
+        "fecha": "2019-01-25",
+        "id": "bW6y",
+        "tipo": "RESOLUCION",
+        "titulo": "SANCION ADMINISTRATIVA ",
+        "url": "file:///c:/users/usuario/downloads/resolucion-definitiva-exp-002-2018-franc-version-publica.pdf "
+      }
+    ],
+    "expediente": "CI//PA/002/2018",
+    "fechaCaptura": "2022-05-02T14:11:38.266183",
+    "id": "TIS2MIY3",
+    "inhabilitacion": {
+      "fechaFinal": "2022-02-01",
+      "fechaInicial": "2019-02-01",
+      "plazo": "3  AÑOS "
+    },
+    "institucionDependencia": {
+      "clave": "CEDH",
+      "nombre": "Comisión Estatal de Derechos Humanos",
+      "siglas": "-"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Pesos Mexicanos (MXN)"
+      },
+      "monto": 0
+    },
+    "observaciones": "NINGUNA ",
+    "resolucion": {
+      "fechaResolucion": "2019-01-25",
+      "url": "file:///c:/users/usuario/downloads/resolucion-definitiva-exp-002-2018-franc-version-publica.pdf "
+    },
+    "servidorPublicoSancionado": {
+      "curp": "RASF720121HDFNLR03",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "nivel": "JEFE DE DEPARTAMENTO ",
+      "nombres": "FRANCISCO ",
+      "primerApellido": "RANGEL ",
+      "puesto": "VISITADOR  AUXILIAR ",
+      "rfc": "RASF720121IX3",
+      "segundoApellido": "SALGADO"
+    },
+    "tipoFalta": {
+      "clave": "AG",
+      "valor": "ADMINISTRATIVA GRAVE"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ]
+  },
+  {
+    "autoridadSancionadora": "CONTRALORIA MUNICIPAL",
+    "causaMotivoHechos": "OMISION EN LA PRESENTACION DE LA DECLARACION PATRIMONIAL Y DE CONFLICTO DE INTERESES DE CONCLUSION",
+    "documentos": [
+      {
+        "descripcion": "INHABILITACION DEL PRESUNTO RESPONSABLE",
+        "fecha": "2021-07-19",
+        "id": "8LAb",
+        "tipo": "RESOLUCION",
+        "titulo": "RESOLUCION ADMINISTRATIVA",
+        "url": "https://drive.google.com/file/d/1_bbjjpxen_ynixlncyoihz5mjqhr3kom/view?usp=sharing"
+      }
+    ],
+    "expediente": "HALC/CONT/JS/PRA/016/2020",
+    "fechaCaptura": "2022-02-28T12:27:19.259528",
+    "id": "TOL1LIQ2",
+    "inhabilitacion": {
+      "fechaFinal": "2022-07-22",
+      "fechaInicial": "2021-07-22",
+      "plazo": "01 UN AÑO"
+    },
+    "institucionDependencia": {
+      "clave": "052",
+      "nombre": "Honorable Ayuntamiento de Lázaro Cárdenas",
+      "siglas": "--"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Pesos Mexicanos (MXN)"
+      },
+      "monto": 0
+    },
+    "observaciones": "SE APLICO INHABILITACION, NO MULTA",
+    "resolucion": {
+      "fechaResolucion": "2021-07-19",
+      "url": "https://drive.google.com/file/d/1_bbjjpxen_ynixlncyoihz5mjqhr3kom/view?usp=sharing"
+    },
+    "servidorPublicoSancionado": {
+      "curp": "LUOJ930929HMNNCN05",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "nivel": "SUBDIRECTOR OPERATIVO",
+      "nombres": "JUAN CARLOS",
+      "primerApellido": "LUNA",
+      "puesto": "SUBDIRECTOR OPERATIVO DE SEGURIDAD PUBLICA MUNICIPAL",
+      "rfc": "LUOJ930929SH5",
+      "segundoApellido": "OCHOA"
+    },
+    "tipoFalta": {
+      "clave": "IDSP",
+      "valor": "INCUMPLIMIENTO EN DECLARACION DE SITUACION PATRIMONIAL"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ]
+  },
+  {
+    "autoridadSancionadora": "CONTRALORIA MUNICIPAL",
+    "causaMotivoHechos": "POR NO PRESENTAR EN TIEMPO Y FORMA LA DECLARACION PATRIMONIAL",
+    "expediente": "006/2022",
+    "fechaCaptura": "2022-10-07T09:33:40.787823",
+    "id": "VUM1DUM3",
+    "inhabilitacion": {
+      "fechaFinal": "2022-07-23",
+      "fechaInicial": "2022-07-22",
+      "plazo": "UN DIA"
+    },
+    "institucionDependencia": {
+      "clave": "113",
+      "nombre": "Honorable Ayuntamiento de José Sixto Verduzco",
+      "siglas": "--"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Pesos Mexicanos (MXN)"
+      },
+      "monto": 172.87
+    },
+    "observaciones": "NINGUNA OBSERVACION",
+    "resolucion": {
+      "fechaResolucion": "2022-07-22",
+      "url": "https://josesixtoverduzco.gob.mx/transparencia/josesixtoverduzco/ayuntamiento_35_xviii_220908135800_maria-guadalupe-robledo.pdf"
+    },
+    "servidorPublicoSancionado": {
+      "curp": "ROTG670801MMNBRD05",
+      "genero": {
+        "clave": "F",
+        "valor": "FEMENINO"
+      },
+      "nivel": "CONFIANZA",
+      "nombres": "MARIA GUADALUPE",
+      "primerApellido": "ROBLEDO",
+      "puesto": "INTENDENTE DEL CAM",
+      "rfc": "ROTG670801VC5",
+      "segundoApellido": "TORRES"
+    },
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "OTRO"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "S",
+        "valor": "SUSPENSIÓN DEL EMPLEO, CARGO O COMISIÓN"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA"
+      }
+    ]
+  },
+  {
+    "autoridadSancionadora": "CONTRALORIA MUNICIPAL",
+    "causaMotivoHechos": "OMISION EN LA PRESENTACION DE LA DECLARACION DE SITUACION PATRIMONIAL Y DE CONFLICTO DE INTERESES DE CONCLUSION",
+    "documentos": [
+      {
+        "descripcion": "INHABILITACION DEL PRESUNTO RESPONSABLE",
+        "fecha": "2021-07-20",
+        "id": "8C7U",
+        "tipo": "RESOLUCION",
+        "titulo": "RESOLUCION ADMINISTRATIVA",
+        "url": "https://drive.google.com/file/d/1v_cjxnjbp6whsy9ams0lqq-p0cbd9yn4/view?usp=sharing"
+      }
+    ],
+    "expediente": "HALC/CONT/JS/PRA/022/2020",
+    "fechaCaptura": "2022-02-28T12:26:57.806786",
+    "id": "WEF8MIG1",
+    "inhabilitacion": {
+      "fechaFinal": "2022-07-23",
+      "fechaInicial": "2021-07-23",
+      "plazo": "01 UN AÑO"
+    },
+    "institucionDependencia": {
+      "clave": "052",
+      "nombre": "Honorable Ayuntamiento de Lázaro Cárdenas",
+      "siglas": "--"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Pesos Mexicanos (MXN)"
+      },
+      "monto": 0
+    },
+    "observaciones": "SE APLICO INHABILITACION, NO MULTA",
+    "resolucion": {
+      "fechaResolucion": "2021-07-20",
+      "url": "https://drive.google.com/file/d/1v_cjxnjbp6whsy9ams0lqq-p0cbd9yn4/view?usp=sharing"
+    },
+    "servidorPublicoSancionado": {
+      "curp": "RACC871130HMNMRR04",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "nivel": "JEFE",
+      "nombres": "CARLOS JOSE",
+      "primerApellido": "RAMIREZ",
+      "puesto": "JEFE DE INGRESOS MUNICIPALES",
+      "rfc": "RACC871130ME4",
+      "segundoApellido": "CRUZ"
+    },
+    "tipoFalta": {
+      "clave": "IDSP",
+      "valor": "INCUMPLIMIENTO EN DECLARACION DE SITUACION PATRIMONIAL"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ]
+  },
+  {
+    "autoridadSancionadora": "INHABILITACIÓN TEMPORAL DE DOS AÑOS",
+    "causaMotivoHechos": "INCUMPLIMIENTO A LAS OBLIGACIONES ESTABLECIDAS EN EL ARTÍCULO 271 FRACCIONES III, V, VII Y X DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN",
+    "expediente": "IEM-OIC-INV-007/2021",
+    "fechaCaptura": "2022-10-12T13:57:45.026491",
+    "id": "XAG1YAQ8",
+    "inhabilitacion": {
+      "fechaFinal": "2024-07-05",
+      "fechaInicial": "2022-07-05",
+      "plazo": "DOS AÑOS"
+    },
+    "institucionDependencia": {
+      "clave": "IEM",
+      "nombre": "Instituto Electoral de Michoacán",
+      "siglas": "-"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Pesos Mexicanos (MXN)"
+      },
+      "monto": 0
+    },
+    "observaciones": "NOTIFICADO A LA RESPONSABLE EL DÍA CINCO DE JULIO DE 2022",
+    "resolucion": {
+      "fechaResolucion": "2022-06-24",
+      "url": "n/a"
+    },
+    "servidorPublicoSancionado": {
+      "curp": "EIGL910504MMNLVZ02",
+      "genero": {
+        "clave": "F",
+        "valor": "FEMENINO"
+      },
+      "nivel": "N/A",
+      "nombres": "LUZ MARÍA",
+      "primerApellido": "ELÍAS",
+      "puesto": "SECRETARIA DEL COMITÉ MUNICIPAL ELECTORAL DE TINGÜINDÍN, MICHOACÁN",
+      "rfc": "EIGL9105047EQ",
+      "segundoApellido": "GOVEA"
+    },
+    "tipoFalta": {
+      "clave": "ANG",
+      "valor": "ADMINISTRATIVA NO GRAVE"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ]
+  },
+  {
+    "autoridadSancionadora": "CONTRALORIA MUNICIPAL",
+    "causaMotivoHechos": "POR NO PRESENTAR EN TIEMPO Y FORMA LA DECLARACION PATRIMONIAL",
+    "expediente": "006/2022",
+    "fechaCaptura": "2022-10-07T09:32:46.046268",
+    "id": "XIW7JUY2",
+    "inhabilitacion": {
+      "fechaFinal": "2022-07-23",
+      "fechaInicial": "2022-07-22",
+      "plazo": "UN DIA"
+    },
+    "institucionDependencia": {
+      "clave": "113",
+      "nombre": "Honorable Ayuntamiento de José Sixto Verduzco",
+      "siglas": "--"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Pesos Mexicanos (MXN)"
+      },
+      "monto": 220
+    },
+    "observaciones": "NINGUNA OBSERVACION",
+    "resolucion": {
+      "fechaResolucion": "2022-07-22",
+      "url": "https://josesixtoverduzco.gob.mx/transparencia/josesixtoverduzco/ayuntamiento_35_xviii_220908135808_alejandro-perez.pdf"
+    },
+    "servidorPublicoSancionado": {
+      "curp": "PETA670404HMNRRL06",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "nivel": "CONFIANZA",
+      "nombres": "ALEJANDRO",
+      "primerApellido": "PEREZ",
+      "puesto": "ANCARGADO ALUMBRADO PUBLICO",
+      "rfc": "PETA6704047N2",
+      "segundoApellido": "TORRES"
+    },
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "OTRO"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "S",
+        "valor": "SUSPENSIÓN DEL EMPLEO, CARGO O COMISIÓN"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA"
+      }
+    ]
+  },
+  {
+    "autoridadSancionadora": "CONTRALORIA MUNICIPAL",
+    "causaMotivoHechos": "OMISION EN LA PRESENTACION  DE LA DECLARACION DE SITUACION PATRIMONIAL Y DE CONFLICTO DE INTERESES DE CONCLUSION",
+    "documentos": [
+      {
+        "descripcion": "INHABILITACION DEL PRESUNTO RESPONSABLE.",
+        "fecha": "2021-07-06",
+        "id": "sgVb",
+        "tipo": "RESOLUCION",
+        "titulo": "RESOLUCION ADMINISTRATIVA",
+        "url": "https://drive.google.com/file/d/1x8kl4cwxg3nzyt69ovbkgs8ghkgido7l/view?usp=sharing"
+      }
+    ],
+    "expediente": "HALC/CONT/JS/004/2020",
+    "fechaCaptura": "2022-02-28T12:32:09.394808",
+    "id": "XUQ5CUG1",
+    "inhabilitacion": {
+      "fechaFinal": "2022-07-12",
+      "fechaInicial": "2021-07-12",
+      "plazo": "01 UN AÑO"
+    },
+    "institucionDependencia": {
+      "clave": "052",
+      "nombre": "Honorable Ayuntamiento de Lázaro Cárdenas",
+      "siglas": "--"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Pesos Mexicanos (MXN)"
+      },
+      "monto": 0
+    },
+    "observaciones": "SOLO SE APLICO INHABILITACION Y NO MULTA.",
+    "resolucion": {
+      "fechaResolucion": "2021-07-06",
+      "url": "https://drive.google.com/file/d/1x8kl4cwxg3nzyt69ovbkgs8ghkgido7l/view?usp=sharing"
+    },
+    "servidorPublicoSancionado": {
+      "curp": "SILR810502MMNBPY06",
+      "genero": {
+        "clave": "F",
+        "valor": "FEMENINO"
+      },
+      "nivel": "COORDINADORA",
+      "nombres": "REYNA ",
+      "primerApellido": "SIBAJA",
+      "puesto": "COORDINADORA DE FOMENTO DEPORTIVO",
+      "rfc": "SILR810502VIO",
+      "segundoApellido": "LOPEZ"
+    },
+    "tipoFalta": {
+      "clave": "IDSP",
+      "valor": "INCUMPLIMIENTO EN DECLARACION DE SITUACION PATRIMONIAL"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ]
+  },
+  {
+    "autoridadSancionadora": "CONTRALORÍA MUNICIPAL",
+    "causaMotivoHechos": "INCUMPLIÓ CON SUS OBLIGACIONES Y TRATÓ MAL A ALGUNOS CIUDADANOS",
+    "expediente": "CM/PRA/20/07/2018",
+    "fechaCaptura": "2022-05-26T09:14:29.125023",
+    "id": "YAH9TIM8",
+    "inhabilitacion": {
+      "fechaFinal": "2020-05-30",
+      "fechaInicial": "2019-05-30",
+      "plazo": "1 AÑO"
+    },
+    "institucionDependencia": {
+      "clave": "102",
+      "nombre": "Honorable Ayuntamiento de Uruapan",
+      "siglas": "--"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Pesos Mexicanos (MXN)"
+      },
+      "monto": 0
+    },
+    "observaciones": " ",
+    "resolucion": {
+      "fechaResolucion": "2019-03-15",
+      "url": "portal de transparencia y acceso a la información pública del municipio de uruapan michoacán"
+    },
+    "servidorPublicoSancionado": {
+      "curp": "MASG801124MMNDRD05",
+      "genero": {
+        "clave": "F",
+        "valor": "FEMENINO"
+      },
+      "nivel": "COORDINADORA",
+      "nombres": "GUADALUPE",
+      "primerApellido": "MADRIGAL",
+      "puesto": "COORDINADORA DEL INSTITUTO MUNICIPAL DE LA MUJER",
+      "rfc": "MASG8011244M4",
+      "segundoApellido": "SERVÍN"
+    },
+    "tipoFalta": {
+      "clave": "ANG",
+      "valor": "ADMINISTRATIVA NO GRAVE"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ]
+  },
+  {
+    "autoridadSancionadora": "CONTRALORÍA MUNICIPAL",
+    "causaMotivoHechos": "NO INTEGRÓ DEBIDAMENTE LOS EXPEDIENTES DE 135 OBRAS EJECUTADAS DURANTE EL AÑO 2015 ",
+    "expediente": "CM/PAR/06/02/2016",
+    "fechaCaptura": "2022-05-26T09:37:41.095564",
+    "id": "YET5RET2",
+    "inhabilitacion": {
+      "fechaFinal": "2021-01-10",
+      "fechaInicial": "2020-01-10",
+      "plazo": "1 AÑO"
+    },
+    "institucionDependencia": {
+      "clave": "102",
+      "nombre": "Honorable Ayuntamiento de Uruapan",
+      "siglas": "--"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Pesos Mexicanos (MXN)"
+      },
+      "monto": 0
+    },
+    "observaciones": " ",
+    "resolucion": {
+      "fechaResolucion": "2020-01-10",
+      "url": "portal de transparencia y acceso a la información pública del municipio de uruapan michoacán"
+    },
+    "servidorPublicoSancionado": {
+      "curp": "PICA600412HMNCRD09",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "nivel": "SECRETARIO",
+      "nombres": "ADRIAN",
+      "primerApellido": "PICHARDO",
+      "puesto": "SECRETARIO DE DESARROLLO SOCIAL",
+      "rfc": "PICA600412LM6",
+      "segundoApellido": "CRUZ"
+    },
+    "tipoFalta": {
+      "clave": "ANG",
+      "valor": "ADMINISTRATIVA NO GRAVE"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ]
+  },
+  {
+    "autoridadSancionadora": "CONTRALORÍA MUNICIPAL",
+    "causaMotivoHechos": "NO INTEGRÓ DEBIDAMENTE 135 EXPEDIENTES DE OBRA DURANTE EL AÑO 2015",
+    "expediente": "CM/PAR/06/02/2016",
+    "fechaCaptura": "2022-05-26T09:15:24.270393",
+    "id": "YOP4JEF8",
+    "inhabilitacion": {
+      "fechaFinal": "2021-01-10",
+      "fechaInicial": "2020-01-10",
+      "plazo": "1 AÑO"
+    },
+    "institucionDependencia": {
+      "clave": "102",
+      "nombre": "Honorable Ayuntamiento de Uruapan",
+      "siglas": "--"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Pesos Mexicanos (MXN)"
+      },
+      "monto": 0
+    },
+    "observaciones": " ",
+    "resolucion": {
+      "fechaResolucion": "2020-01-10",
+      "url": "portal de transparencia y acceso a la información pública del municipio de uruapan michoacán"
+    },
+    "servidorPublicoSancionado": {
+      "curp": "DIGI730812HMNZTN04",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "nivel": "DIRECTOR",
+      "nombres": "INDALECIO",
+      "primerApellido": "DÍAZ",
+      "puesto": "DIRECTOR DE DESARROLLO SOCIAL ZONA URBANA",
+      "rfc": "DIGI730812P87",
+      "segundoApellido": "GUTIÉRREZ"
+    },
+    "tipoFalta": {
+      "clave": "ANG",
+      "valor": "ADMINISTRATIVA NO GRAVE"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ]
+  },
+  {
+    "autoridadSancionadora": "CONTRALORIA MUNICIPAL",
+    "causaMotivoHechos": "POR NO PRESENTAR EN TIEMPO Y FORMA LA DECLARACION PATRIMONIAL",
+    "expediente": "006/2022",
+    "fechaCaptura": "2022-10-07T09:32:19.525317",
+    "id": "ZEC3VEY5",
+    "inhabilitacion": {
+      "fechaFinal": "2022-07-23",
+      "fechaInicial": "2022-07-22",
+      "plazo": "UN DIA "
+    },
+    "institucionDependencia": {
+      "clave": "113",
+      "nombre": "Honorable Ayuntamiento de José Sixto Verduzco",
+      "siglas": "--"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Pesos Mexicanos (MXN)"
+      },
+      "monto": 172.87
+    },
+    "observaciones": "NINGUNA OBSERVACION",
+    "resolucion": {
+      "fechaResolucion": "2022-07-22",
+      "url": "https://josesixtoverduzco.gob.mx/transparencia/josesixtoverduzco/ayuntamiento_35_xviii_220908135801_miguel-ceballos.pdf"
+    },
+    "servidorPublicoSancionado": {
+      "curp": "CEAM710907HMNBNG00",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "nivel": "CONFIANZA",
+      "nombres": "MIGUEL",
+      "primerApellido": "CEBALLOS",
+      "puesto": "JARDINERO",
+      "rfc": "CEAM710907G10",
+      "segundoApellido": "ANGUIANO"
+    },
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "OTRO"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "S",
+        "valor": "SUSPENSIÓN DEL EMPLEO, CARGO O COMISIÓN"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA"
+      }
+    ]
+  },
+  {
+    "autoridadSancionadora": "CONTRALORIA MUNICIPAL",
+    "causaMotivoHechos": "POR NO PRESENTAR EN TIEMPO Y FORMA LA DECLARACION PATRIMINIAL ",
+    "expediente": "006/2022",
+    "fechaCaptura": "2022-10-07T09:28:40.004726",
+    "id": "ZEH6DET2",
+    "inhabilitacion": {
+      "fechaFinal": "2022-07-23",
+      "fechaInicial": "2022-07-22",
+      "plazo": "UN DIA"
+    },
+    "institucionDependencia": {
+      "clave": "113",
+      "nombre": "Honorable Ayuntamiento de José Sixto Verduzco",
+      "siglas": "--"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Pesos Mexicanos (MXN)"
+      },
+      "monto": 370.99
+    },
+    "observaciones": "NINGUNA OBSERVACION",
+    "resolucion": {
+      "fechaResolucion": "2022-07-22",
+      "url": "https://josesixtoverduzco.gob.mx/transparencia/josesixtoverduzco/ayuntamiento_35_xviii_220908135815_francisco-robledo.pdf"
+    },
+    "servidorPublicoSancionado": {
+      "curp": "ROLF851031HMNBYR05",
+      "genero": {
+        "clave": "M",
+        "valor": "MASCULINO"
+      },
+      "nivel": "CONFIANZA",
+      "nombres": "FRANCISCO",
+      "primerApellido": "ROBLEDO ",
+      "puesto": "AUX. ADMITIVO OBRAS  A",
+      "rfc": "ROLF8510311Y9",
+      "segundoApellido": "LEYVA"
+    },
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "OTRO"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      },
+      {
+        "clave": "S",
+        "valor": "SUSPENSIÓN DEL EMPLEO, CARGO O COMISIÓN"
+      },
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA"
+      }
+    ]
+  }
+]

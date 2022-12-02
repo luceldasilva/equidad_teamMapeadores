@@ -1,0 +1,774 @@
+[
+  {
+    "id": "a19aceea-a95b-401e-92ad-22635d71a903",
+    "fechaCaptura": "2022-07-22T13:54:33Z",
+    "ejercicioFiscal": "2021",
+    "ramo": {
+      "clave": 28,
+      "valor": "Participaciones a Entidades Federativas y Municipios"
+    },
+    "nombres": "JORGE ALBERTO",
+    "primerApellido": "NAFATE",
+    "segundoApellido": "POZO",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Chiapas",
+      "siglas": "SESAECH",
+      "clave": "71"
+    },
+    "puesto": {
+      "nivel": "MANDO MEDIO",
+      "nombre": "JEFE DE LA UNIDAD DE APOYO ADMINISTRATIVO"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      },
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      },
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "DAYANHARA",
+      "primerApellido": "AGUILAR",
+      "segundoApellido": "BALLINAS",
+      "puesto": {
+        "nivel": "MANDO MEDIO SUPERIOR",
+        "nombre": "SECRETARIA TÉCNICA"
+      }
+    }
+  },
+  {
+    "id": "cb7a58a3-7681-4182-8059-4acaaa814259",
+    "fechaCaptura": "2022-07-22T13:59:51Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 28,
+      "valor": "Participaciones a Entidades Federativas y Municipios"
+    },
+    "nombres": "KENIA LIZBETH",
+    "primerApellido": "JIMENEZ",
+    "segundoApellido": "ALEGRIA",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Chiapas",
+      "siglas": "SESAECH",
+      "clave": "71"
+    },
+    "puesto": {
+      "nivel": "MANDO MEDIO",
+      "nombre": "COORDINADORA DE ARCHIVO"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      },
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      },
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "DAYANHARA",
+      "primerApellido": "AGUILAR",
+      "segundoApellido": "BALLINAS",
+      "puesto": {
+        "nivel": "MANDO MEDIO SUPERIOR",
+        "nombre": "SECRETARIA TÉCNICA"
+      }
+    }
+  },
+  {
+    "id": "b754b41c-bb63-422e-b3b5-74cf586ea078",
+    "fechaCaptura": "2022-07-22T14:06:46Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 28,
+      "valor": "Participaciones a Entidades Federativas y Municipios"
+    },
+    "nombres": "DAYANHARA",
+    "primerApellido": "AGUILAR",
+    "segundoApellido": "BALLINAS",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Chiapas",
+      "siglas": "SESAECH",
+      "clave": "71"
+    },
+    "puesto": {
+      "nivel": "MANDO MEDIO",
+      "nombre": "SECRETARIA TÉCNICA"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "NA",
+      "primerApellido": "NA",
+      "segundoApellido": "NA",
+      "puesto": {
+        "nivel": "NA",
+        "nombre": "NA"
+      }
+    }
+  },
+  {
+    "id": "a85c1c6f-4bbe-470c-afd6-87e977e16e07",
+    "fechaCaptura": "2022-07-22T14:09:50Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 28,
+      "valor": "Participaciones a Entidades Federativas y Municipios"
+    },
+    "nombres": "ANA ISABEL",
+    "primerApellido": "RAMON",
+    "segundoApellido": "LAGUNA",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Chiapas",
+      "siglas": "SESAECH",
+      "clave": "71"
+    },
+    "puesto": {
+      "nivel": "MANDO MEDIO",
+      "nombre": "JEFE DE LA UNIDAD DE APOYO ADMINISTRATIVO"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      },
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      },
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "DAYANHARA",
+      "primerApellido": "AGUILAR",
+      "segundoApellido": "BALLINAS",
+      "puesto": {
+        "nivel": "MANDO MEDIO SUPERIOR",
+        "nombre": "SECRETARIA TÉCNICA"
+      }
+    }
+  },
+  {
+    "id": "49ffd1a8-1993-4e19-9ac8-a13e5e51a8cd",
+    "fechaCaptura": "2022-07-22T14:21:08Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 28,
+      "valor": "Participaciones a Entidades Federativas y Municipios"
+    },
+    "nombres": "JULIO CESAR",
+    "primerApellido": "GARCIA",
+    "segundoApellido": "BENITEZ",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Chiapas",
+      "siglas": "SESAECH",
+      "clave": "71"
+    },
+    "puesto": {
+      "nivel": "MANDO MEDIO",
+      "nombre": "DIRECTOR DE EVALUACION Y POLITICAS PUBLICAS"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      },
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      },
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "DAYANHARA",
+      "primerApellido": "AGUILAR",
+      "segundoApellido": "BALLINAS",
+      "puesto": {
+        "nivel": "MANDO MEDIO SUPERIOR",
+        "nombre": "SECRETARIA TÉCNICA"
+      }
+    }
+  },
+  {
+    "id": "e10edf1c-7a1f-449d-9d64-cb6d0f74b676",
+    "fechaCaptura": "2022-07-22T14:22:39Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 28,
+      "valor": "Participaciones a Entidades Federativas y Municipios"
+    },
+    "nombres": "OSCAR JAVIER",
+    "primerApellido": "MENESES",
+    "segundoApellido": "MARTINEZ",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Chiapas",
+      "siglas": "SESAECH",
+      "clave": "71"
+    },
+    "puesto": {
+      "nivel": "MANDO MEDIO",
+      "nombre": "DIRECTOR DE SISTEMAS ELECTRONICOS Y PLATAFORMA DIGITAL"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      },
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      },
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "DAYANHARA",
+      "primerApellido": "AGUILAR",
+      "segundoApellido": "BALLINAS",
+      "puesto": {
+        "nivel": "MANDO MEDIO SUPERIOR",
+        "nombre": "SECRETARIA TÉCNICA"
+      }
+    }
+  },
+  {
+    "id": "ca144cb4-36b9-4334-af4f-29af5130857f",
+    "fechaCaptura": "2022-07-22T14:24:03Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 28,
+      "valor": "Participaciones a Entidades Federativas y Municipios"
+    },
+    "nombres": "ORQUIDEA",
+    "primerApellido": "ANAYA",
+    "segundoApellido": "GOMEZ",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Chiapas",
+      "siglas": "SESAECH",
+      "clave": "71"
+    },
+    "puesto": {
+      "nivel": "MANDO MEDIO",
+      "nombre": "DIRECTORA JURIDICA"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      },
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      },
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "DAYANHARA",
+      "primerApellido": "AGUILAR",
+      "segundoApellido": "BALLINAS",
+      "puesto": {
+        "nivel": "MANDO MEDIO SUPERIOR",
+        "nombre": "SECRETARIA TÉCNICA"
+      }
+    }
+  },
+  {
+    "id": "0ccad148-96ca-4c33-9c1d-2b902d976565",
+    "fechaCaptura": "2022-07-22T14:26:17Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 28,
+      "valor": "Participaciones a Entidades Federativas y Municipios"
+    },
+    "nombres": "CARLOS GABRIEL",
+    "primerApellido": "TELLEZ GIRON",
+    "segundoApellido": "GOMEZ",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Chiapas",
+      "siglas": "SESAECH",
+      "clave": "71"
+    },
+    "puesto": {
+      "nivel": "MANDO MEDIO",
+      "nombre": "JEFE DE UNIDAD DE TRANSPARENCIA"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      },
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      },
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "DAYANHARA",
+      "primerApellido": "AGUILAR",
+      "segundoApellido": "BALLINAS",
+      "puesto": {
+        "nivel": "MANDO MEDIO SUPERIOR",
+        "nombre": "SECRETARIA TÉCNICA"
+      }
+    }
+  },
+  {
+    "id": "dd6fac1a-0429-41e3-ba2d-6236b363df2f",
+    "fechaCaptura": "2022-07-22T14:28:47Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 28,
+      "valor": "Participaciones a Entidades Federativas y Municipios"
+    },
+    "nombres": "ANDREA",
+    "primerApellido": "CARBAJAL",
+    "segundoApellido": "GONZALEZ",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Chiapas",
+      "siglas": "SESAECH",
+      "clave": "71"
+    },
+    "puesto": {
+      "nivel": "MANDO MEDIO",
+      "nombre": "CORDINADORA DE ARCHIVOS"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      },
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      },
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "DAYANHARA",
+      "primerApellido": "AGUILAR",
+      "segundoApellido": "BALLINAS",
+      "puesto": {
+        "nivel": "MANDO MEDIO SUPERIOR",
+        "nombre": "SECRETARIA TÉCNICA"
+      }
+    }
+  },
+  {
+    "id": "f65e18ac-824b-4fdf-b5a9-1f31b6e1c633",
+    "fechaCaptura": "2022-07-22T14:30:54Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 28,
+      "valor": "Participaciones a Entidades Federativas y Municipios"
+    },
+    "nombres": "KARLA ROCIO",
+    "primerApellido": "ALVAREZ",
+    "segundoApellido": "MOLINA",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Chiapas",
+      "siglas": "SESAECH",
+      "clave": "71"
+    },
+    "puesto": {
+      "nivel": "MANDO OPERA",
+      "nombre": "JEFA DE RECURSOS HUMANOS Y MATERIALES"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      },
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      },
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "ANA ISABEL",
+      "primerApellido": "RAMON",
+      "segundoApellido": "LAGUNA",
+      "puesto": {
+        "nivel": "MANDO MEDIO E",
+        "nombre": "JEFA DE LA UNIDAD DE APOYO ADMINISTRATIVO"
+      }
+    }
+  },
+  {
+    "id": "955faa7c-632f-4011-96a6-5baa212a8922",
+    "fechaCaptura": "2022-07-22T14:37:30Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 28,
+      "valor": "Participaciones a Entidades Federativas y Municipios"
+    },
+    "nombres": "ANGEL DE JESUS",
+    "primerApellido": "GARCIA ",
+    "segundoApellido": "HERNANDEZ",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Chiapas",
+      "siglas": "SESAECH",
+      "clave": "71"
+    },
+    "puesto": {
+      "nivel": "AUXILIAR AD",
+      "nombre": "GESTOR ADMINISTRATIVO"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 5,
+        "valor": "OTRO"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "KARLA ROCIO",
+      "primerApellido": "ALVAREZ",
+      "segundoApellido": "SOLAR",
+      "puesto": {
+        "nivel": "MANDO OPERATIVO G",
+        "nombre": "JEFA DE RECURSOS HUMANOS Y MATERIALES"
+      }
+    }
+  }
+]

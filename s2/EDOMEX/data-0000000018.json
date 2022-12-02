@@ -1,0 +1,995 @@
+[
+  {
+    "id": "637852587943e2ab46eebe86",
+    "fechaCaptura": "2022-11-18T04:11:05Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 13,
+      "valor": "Coordinación de la Política de Gobierno"
+    },
+    "nombres": "MONICA ARGELIA",
+    "primerApellido": "MENDOZA",
+    "segundoApellido": "SALGADO",
+    "institucionDependencia": {
+      "nombre": "Instituto Electoral del Estado de México",
+      "siglas": "ieem",
+      "clave": "oau-004"
+    },
+    "puesto": {
+      "nombre": "JEFE DE LA UNIDAD",
+      "nivel": "32"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "AMALIA",
+      "primerApellido": "PULIDO",
+      "segundoApellido": "GOMEZ",
+      "puesto": {
+        "nombre": "CONSEJERO PRESIDENTE",
+        "nivel": "36"
+      }
+    }
+  },
+  {
+    "id": "6377de0b8410ef02ef82129d",
+    "fechaCaptura": "2022-11-18T13:33:31Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 18,
+      "valor": "Otros Servicios Generales"
+    },
+    "nombres": "ANTONIO",
+    "primerApellido": "GOMEZ",
+    "segundoApellido": "SANCHEZ",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Ecatzingo",
+      "siglas": "ecatzingo",
+      "clave": "mun-035"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR",
+      "nivel": "NA"
+    },
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 5,
+        "valor": "OTRO"
+      }
+    ]
+  },
+  {
+    "id": "637d04731e5398f68d0608e2",
+    "fechaCaptura": "2022-11-22T10:11:35Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 13,
+      "valor": "Coordinación de la Política de Gobierno"
+    },
+    "nombres": "SUSANA",
+    "primerApellido": "MUNGUIA",
+    "segundoApellido": "FERNANDEZ",
+    "institucionDependencia": {
+      "nombre": "Instituto Electoral del Estado de México",
+      "siglas": "ieem",
+      "clave": "oau-004"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTOR",
+      "nivel": "28"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "FRANCISCO JAVIER",
+      "primerApellido": "LOPEZ",
+      "segundoApellido": "CORRAL",
+      "puesto": {
+        "nombre": "SECRETARIO EJECUTIVO",
+        "nivel": "34"
+      }
+    }
+  },
+  {
+    "id": "637d31102822a31eb66b352c",
+    "fechaCaptura": "2022-11-22T14:29:04Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 24,
+      "valor": "Recreación, Cultura y Otras Manifestaciones Sociales"
+    },
+    "nombres": "MARCO ANTONIO ",
+    "primerApellido": "LIMA ",
+    "segundoApellido": "MARTINEZ",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Tepetlixpa",
+      "siglas": "tepetlixpa",
+      "clave": "mun-096"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR",
+      "nivel": "NA"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "ABELARDO",
+      "primerApellido": "RODRIGUEZ",
+      "segundoApellido": "GARCIA",
+      "puesto": {
+        "nombre": "PRESIDENTE MUNICIPAL CONSTITUCIONAL",
+        "nivel": "NA"
+      }
+    }
+  },
+  {
+    "id": "637d40eb2822a31eb66b3666",
+    "fechaCaptura": "2022-11-22T15:36:43Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 24,
+      "valor": "Recreación, Cultura y Otras Manifestaciones Sociales"
+    },
+    "nombres": "JANET",
+    "primerApellido": "SERRANO",
+    "segundoApellido": "RUEDA",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Tepetlixpa",
+      "siglas": "tepetlixpa",
+      "clave": "mun-096"
+    },
+    "puesto": {
+      "nombre": "SINDICO",
+      "nivel": "NA"
+    },
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 5,
+        "valor": "OTRO"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "ABELARRDO",
+      "primerApellido": "RODRIGUEZ",
+      "segundoApellido": "GARCIA",
+      "puesto": {
+        "nombre": "PRESIDENTE MUNICIPAL CONSTITUCIONAL",
+        "nivel": "NA"
+      }
+    }
+  },
+  {
+    "id": "637e967a2822a31eb66b3988",
+    "fechaCaptura": "2022-11-23T15:54:02Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 12,
+      "valor": "Justicia"
+    },
+    "nombres": "WENCESLAO",
+    "primerApellido": "ROMERO",
+    "segundoApellido": "GARCIA",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Rayón",
+      "siglas": "rayon",
+      "clave": "mun-073"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR",
+      "nivel": "NA"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "ERICK",
+      "primerApellido": "VLADIMIR",
+      "segundoApellido": "CEDILLO HINOJOSA",
+      "puesto": {
+        "nombre": "PRESIDENTE MUNICIPAL CONSTITUCIONAL",
+        "nivel": "NA"
+      }
+    }
+  },
+  {
+    "id": "637f9b0f2822a31eb66b3a64",
+    "fechaCaptura": "2022-11-24T10:25:51Z",
+    "ejercicioFiscal": "2022",
+    "nombres": "MIRIAM ",
+    "primerApellido": "CORONEL",
+    "segundoApellido": "MENESES",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Axapusco",
+      "siglas": "axapusco",
+      "clave": "mun-016"
+    },
+    "puesto": {
+      "nombre": "PRESIDENTE MUNICIPAL CONSTITUCIONAL",
+      "nivel": "NA"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 4,
+        "valor": "ASIGNACIÓN Y EMISIÓN DE DICTÁMENES DE AVALÚOS NACIONALES"
+      },
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "637f9d6e2822a31eb66b3aca",
+    "fechaCaptura": "2022-11-24T10:35:58Z",
+    "ejercicioFiscal": "2022",
+    "nombres": "SILVIA ALEJANDRA",
+    "primerApellido": "GAMEZ",
+    "segundoApellido": "RESENDIZ",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Axapusco",
+      "siglas": "axapusco",
+      "clave": "mun-016"
+    },
+    "puesto": {
+      "nombre": "TESORERO MUNICIPAL",
+      "nivel": "NA"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 4,
+        "valor": "ASIGNACIÓN Y EMISIÓN DE DICTÁMENES DE AVALÚOS NACIONALES"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "637f9e592822a31eb66b3b08",
+    "fechaCaptura": "2022-11-24T10:39:53Z",
+    "ejercicioFiscal": "2022",
+    "nombres": "OSWALDO",
+    "primerApellido": "ESPINOZA",
+    "segundoApellido": "PEREZ",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Axapusco",
+      "siglas": "axapusco",
+      "clave": "mun-016"
+    },
+    "puesto": {
+      "nombre": "SECRETARIO DEL AYUNTAMIENTO",
+      "nivel": "NA"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 4,
+        "valor": "ASIGNACIÓN Y EMISIÓN DE DICTÁMENES DE AVALÚOS NACIONALES"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "637fa98c2822a31eb66b3bed",
+    "fechaCaptura": "2022-11-24T11:27:40Z",
+    "ejercicioFiscal": "2022",
+    "nombres": "JAVIER",
+    "primerApellido": "GARRIDO",
+    "segundoApellido": "GASPAR",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Axapusco",
+      "siglas": "axapusco",
+      "clave": "mun-016"
+    },
+    "puesto": {
+      "nombre": "SINDICO",
+      "nivel": "NA"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 4,
+        "valor": "ASIGNACIÓN Y EMISIÓN DE DICTÁMENES DE AVALÚOS NACIONALES"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "637fab192822a31eb66b3c18",
+    "fechaCaptura": "2022-11-24T11:34:17Z",
+    "ejercicioFiscal": "2022",
+    "nombres": "FIDEL ALEJANDRO",
+    "primerApellido": "PEREZ",
+    "segundoApellido": "JAIMES",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Axapusco",
+      "siglas": "axapusco",
+      "clave": "mun-016"
+    },
+    "puesto": {
+      "nombre": "ADMINISTRADOR DEL AYUNTAMIENTO",
+      "nivel": "NA"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      },
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      },
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 4,
+        "valor": "ASIGNACIÓN Y EMISIÓN DE DICTÁMENES DE AVALÚOS NACIONALES"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "637fad4c2822a31eb66b3c30",
+    "fechaCaptura": "2022-11-24T11:43:40Z",
+    "ejercicioFiscal": "2022",
+    "nombres": "ANEL ESTEFANIA",
+    "primerApellido": "LUNA ",
+    "segundoApellido": "FRANCO",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Axapusco",
+      "siglas": "axapusco",
+      "clave": "mun-016"
+    },
+    "puesto": {
+      "nombre": "SECRETARIO TECNICO",
+      "nivel": "NA"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 4,
+        "valor": "ASIGNACIÓN Y EMISIÓN DE DICTÁMENES DE AVALÚOS NACIONALES"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "637fb0822822a31eb66b3d51",
+    "fechaCaptura": "2022-11-24T11:57:22Z",
+    "nombres": "RAUL",
+    "primerApellido": "AGUILAR ",
+    "segundoApellido": "ILLIAN",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Axapusco",
+      "siglas": "axapusco",
+      "clave": "mun-016"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE AREA",
+      "nivel": "NA"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      },
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      },
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 4,
+        "valor": "ASIGNACIÓN Y EMISIÓN DE DICTÁMENES DE AVALÚOS NACIONALES"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "637fb2172822a31eb66b3d8f",
+    "fechaCaptura": "2022-11-24T12:04:07Z",
+    "ejercicioFiscal": "2022",
+    "nombres": "ALFONSO",
+    "primerApellido": "SANCHEZ",
+    "segundoApellido": "GONZALEZ",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Axapusco",
+      "siglas": "axapusco",
+      "clave": "mun-016"
+    },
+    "puesto": {
+      "nombre": "CONTRALOR",
+      "nivel": "NA"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 4,
+        "valor": "ASIGNACIÓN Y EMISIÓN DE DICTÁMENES DE AVALÚOS NACIONALES"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "637fbe5b2822a31eb66b3e77",
+    "fechaCaptura": "2022-11-24T12:56:27Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 18,
+      "valor": "Otros Servicios Generales"
+    },
+    "nombres": "LUIS ENRIQUE",
+    "primerApellido": "SERRANO ",
+    "segundoApellido": "PEREZ ",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Xalatlaco",
+      "siglas": "xalatlaco",
+      "clave": "mun-119"
+    },
+    "puesto": {
+      "nombre": "TESORERO MUNICIPAL",
+      "nivel": "NA"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 5,
+        "valor": "OTRO"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "ABEL ",
+      "primerApellido": "FLORES ",
+      "segundoApellido": "GUZMAN ",
+      "puesto": {
+        "nombre": "PRESIDENTE",
+        "nivel": "NA"
+      }
+    }
+  },
+  {
+    "id": "637fc0762822a31eb66b3ebf",
+    "fechaCaptura": "2022-11-24T13:05:26Z",
+    "ejercicioFiscal": "2022",
+    "nombres": "CYNTHIA",
+    "primerApellido": "PASARAN",
+    "segundoApellido": "CORIA",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Axapusco",
+      "siglas": "axapusco",
+      "clave": "mun-016"
+    },
+    "puesto": {
+      "nombre": "ASESOR",
+      "nivel": "NA"
+    },
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 4,
+        "valor": "ASIGNACIÓN Y EMISIÓN DE DICTÁMENES DE AVALÚOS NACIONALES"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "637feea62822a31eb66b40a6",
+    "fechaCaptura": "2022-11-24T16:22:30Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 38,
+      "valor": "Ciencia, Tecnología e Innovación"
+    },
+    "nombres": "JUAN ARTURO ",
+    "primerApellido": "SANCHEZ ",
+    "segundoApellido": "MORENO",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Chiautla",
+      "siglas": "chiautla",
+      "clave": "mun-023"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE AREA",
+      "nivel": "NA"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 5,
+        "valor": "OTRO"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARICELA ",
+      "primerApellido": "MELO ",
+      "segundoApellido": "ROJAS ",
+      "puesto": {
+        "nombre": "PRESIDENTE MUNICIPAL CONSTITUCIONAL",
+        "nivel": "NA"
+      }
+    }
+  },
+  {
+    "id": "638503bc2822a31eb66b47af",
+    "fechaCaptura": "2022-11-28T12:53:48Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 15,
+      "valor": "Asuntos Financieros y Hacendarios"
+    },
+    "nombres": "RAQUEL",
+    "primerApellido": "VAZQUEZ",
+    "segundoApellido": "ADAYA",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Tepetlixpa",
+      "siglas": "tepetlixpa",
+      "clave": "mun-096"
+    },
+    "puesto": {
+      "nombre": "TITULAR",
+      "nivel": "NA"
+    },
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARCO ANTONIO",
+      "primerApellido": "LIMA",
+      "segundoApellido": "MARTINEZ",
+      "puesto": {
+        "nombre": "TITULAR",
+        "nivel": "NA"
+      }
+    }
+  },
+  {
+    "id": "638646902822a31eb66b4d58",
+    "fechaCaptura": "2022-11-29T11:51:12Z",
+    "ejercicioFiscal": "2022",
+    "nombres": "JOSE ALEJANDRO",
+    "primerApellido": "CANO",
+    "institucionDependencia": {
+      "nombre": "Nezahualcóyotl",
+      "siglas": "nezahualcoyotl",
+      "clave": "mun-062"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR",
+      "nivel": "NA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  }
+]

@@ -1,0 +1,6197 @@
+[
+  {
+    "id": "188316",
+    "nombres": "CARLOS ALEJANDRO DE GUADALUPE",
+    "primerApellido": "REYES",
+    "segundoApellido": "SAHAGUN",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO CULTURAL DE AGUASCALIENTES",
+      "siglas": "ICA",
+      "clave": "31"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR GENERAL DEL INSTITUTO CULTURAL DE AGUASCALIENTES",
+      "nivel": "1042 - DIRECTIVO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199420",
+    "nombres": "CARLOS ALEXANDER",
+    "primerApellido": "MENDEZ",
+    "segundoApellido": "MUÑOZ",
+    "institucionDependencia": {
+      "nombre": "SUPREMO TRIBUNAL DE JUSTICIA DE AGUASCALIENTES",
+      "siglas": "",
+      "clave": "74"
+    },
+    "puesto": {
+      "nombre": "ADMINISTRADOR DE CAUSAS",
+      "nivel": "SECRETARIO DE ACUERDOS/SECRETARIO PROYECTISTA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "134579",
+    "nombres": "CARLOS DE JESUS ",
+    "primerApellido": "MAGALLANES ",
+    "segundoApellido": "GARCIA ",
+    "institucionDependencia": {
+      "nombre": "FIDEICOMISOS DE INVERSION Y ADMINISTRACION PARA EL DESARROLLO ECONOMICO DEL ESTADO",
+      "siglas": "FIADE",
+      "clave": "24"
+    },
+    "puesto": {
+      "nombre": "SECRETARIO DE FINANZAS DEL ESTADO DE AGUASCALIENTES ",
+      "nivel": "SECRETARIO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199552",
+    "nombres": "CARLOS EDUARDO",
+    "primerApellido": "MACIAS",
+    "segundoApellido": "RAMOS",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE TURISMO",
+      "siglas": "SECTUR",
+      "clave": "112"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR GENERAL DE ADMINISTRACION Y SERVICIOS DE LA ISLA SAN MARCOS",
+      "nivel": "DIRECTOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199082",
+    "nombres": "CARLOS EDUARDO",
+    "primerApellido": "ROMO",
+    "segundoApellido": "BACCO",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD AUTONOMA DE AGUASCALIENTES",
+      "siglas": "UAA",
+      "clave": "83"
+    },
+    "puesto": {
+      "nombre": "SECRETARIO DE CENTRO",
+      "nivel": "PROFESOR INVESTIGADOR TITULAR C"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198799",
+    "nombres": "CARLOS EFRAIN",
+    "primerApellido": "LOPEZ",
+    "segundoApellido": "NAVARRO",
+    "institucionDependencia": {
+      "nombre": "FISCALIA GENERAL DEL ESTADO",
+      "siglas": "",
+      "clave": "25"
+    },
+    "puesto": {
+      "nombre": "ADMINISTRADOR DE BASE DE DATOS DE LA UNIDAD AUXILIAR ADJETIVA DE INNOVACION PLANEACION Y DESARROLLO TECNOLOGICO",
+      "nivel": "ADMINISTRADOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "194433",
+    "nombres": "CARLOS EMILIANO",
+    "primerApellido": "JUAREZ",
+    "segundoApellido": "SANDOVAL",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES",
+      "siglas": "ISSSSPEA",
+      "clave": "37"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE PRESTACIONES ECONOMICAS",
+      "nivel": "DIRECTOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "195351",
+    "nombres": "CARLOS ERNESTO",
+    "primerApellido": "ESPAÑA",
+    "segundoApellido": "MARTINEZ",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE AGUASCALIENTES",
+      "siglas": "",
+      "clave": "54"
+    },
+    "puesto": {
+      "nombre": "SECRETARIO SERVICIOS PUBLICOS",
+      "nivel": "SECRETARIO \"C\" / COORDINADOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "194427",
+    "nombres": "CARLOS ESTEBAN",
+    "primerApellido": "GALLEGOS",
+    "segundoApellido": "ESPINOZA",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES",
+      "siglas": "ISSSSPEA",
+      "clave": "37"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR GENERAL DEL ISSSSPEA",
+      "nivel": "DIRECTOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "196267",
+    "nombres": "CARLOS FERNANDO",
+    "primerApellido": "DURAN",
+    "segundoApellido": "CORREA",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE GESTION URBANISTICA ORDENAMIENTO TERRITORIAL REGISTRAL Y CATASTRAL",
+      "siglas": "SEGUOT",
+      "clave": "92"
+    },
+    "puesto": {
+      "nombre": "JEFE DEL DEPTO. JURIDICO CONSULTIVO",
+      "nivel": "JEFE DE DEPTO./ESPECIALISTA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198863",
+    "nombres": "CARLOS GABRIEL",
+    "primerApellido": "GAITAN",
+    "segundoApellido": "MERCADO",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE OBRAS PUBLICAS DEL ESTADO",
+      "siglas": "SOP",
+      "clave": "110"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR GENERAL DE PLANEACION, COSTOS Y LICITACION DE OBRA",
+      "nivel": "DIRECTOR GENERAL"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199321",
+    "nombres": "CARLOS GUILLERMO",
+    "primerApellido": "RANDOLPH",
+    "segundoApellido": "MORA",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE ASIENTOS",
+      "siglas": "",
+      "clave": "55"
+    },
+    "puesto": {
+      "nombre": "JEFE DEPTO PLAN Y DES URBANO",
+      "nivel": "6"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 4,
+        "valor": "ASIGNACIÓN Y EMISIÓN DE DICTÁMENES DE AVALÚOS NACIONALES"
+      }
+    ]
+  },
+  {
+    "id": "191891",
+    "nombres": "CARLOS JACOBO",
+    "primerApellido": "HINOJOSA",
+    "segundoApellido": "MANRIQUE",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD TECNOLOGICA DEL NORTE DE AGUASCALIENTES",
+      "siglas": "UTNA",
+      "clave": "87"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO DE REDES Y TELECOMUNICACIONES ",
+      "nivel": "JEFE DE DEPARTAMENTO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198997",
+    "nombres": "CARLOS ROBERTO",
+    "primerApellido": "RODRIGUEZ",
+    "segundoApellido": "CASTELLANOS",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD AUTONOMA DE AGUASCALIENTES",
+      "siglas": "UAA",
+      "clave": "83"
+    },
+    "puesto": {
+      "nombre": "SECRETARIO DE CENTRO",
+      "nivel": "PROFESOR INVESTIGADOR TITULAR C"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199892",
+    "nombres": "CARMEN CECILIA",
+    "primerApellido": "MONTOYA",
+    "segundoApellido": "GARCIA",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "siglas": "SAE",
+      "clave": "102"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR GENERAL JURIDICO",
+      "nivel": "DIRECTOR GENERAL"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "196263",
+    "nombres": "CAROLINA",
+    "primerApellido": "LOPEZ",
+    "segundoApellido": "LOPEZ",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE GESTION URBANISTICA ORDENAMIENTO TERRITORIAL REGISTRAL Y CATASTRAL",
+      "siglas": "SEGUOT",
+      "clave": "92"
+    },
+    "puesto": {
+      "nombre": "SECRETARIA DE GESTION URBANISTICA, ORDENAMIENTO TERRITORIAL, REGISTRAL Y CATASTRAL",
+      "nivel": "SECRETARIO/COORDINADOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199071",
+    "nombres": "CAROLINA",
+    "primerApellido": "REYNOSO",
+    "segundoApellido": "FEMAT",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD AUTONOMA DE AGUASCALIENTES",
+      "siglas": "UAA",
+      "clave": "83"
+    },
+    "puesto": {
+      "nombre": "SECRETARIA DE CONFIANZA",
+      "nivel": "6N"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198864",
+    "nombres": "CAROLINA",
+    "primerApellido": "LOPEZ",
+    "segundoApellido": "LOPEZ",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE OBRAS PUBLICAS DEL ESTADO",
+      "siglas": "SOP",
+      "clave": "110"
+    },
+    "puesto": {
+      "nombre": "SECRETARIA DE OBRAS PUBLICAS",
+      "nivel": "SECRETARIO/COORDINADOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199837",
+    "nombres": "CAROLINA",
+    "primerApellido": "LOPEZ",
+    "segundoApellido": "LOPEZ",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO DE VIVIENDA SOCIAL Y ORDENAMIENTO DE LA PROPIEDAD",
+      "siglas": "IVSOP",
+      "clave": "40"
+    },
+    "puesto": {
+      "nombre": "REPRESENTANTE DEL COMITE",
+      "nivel": "REPRESENTANTE"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199320",
+    "nombres": "CAROLINA",
+    "primerApellido": "COLIS",
+    "segundoApellido": "DE LIRA",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE ASIENTOS",
+      "siglas": "",
+      "clave": "55"
+    },
+    "puesto": {
+      "nombre": "JEFE DEPTO PREVENCION DEL DELITO",
+      "nivel": "6"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "200056",
+    "nombres": "CECILIA",
+    "primerApellido": "PEDROZA",
+    "segundoApellido": "SORIA",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD TECNOLOGICA DE CALVILLO",
+      "siglas": "UTC",
+      "clave": "86"
+    },
+    "puesto": {
+      "nombre": "COORDINADORA DE CONTABILIDAD",
+      "nivel": "COORDINADOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "197916",
+    "nombres": "CECYL ",
+    "primerApellido": "GARCIA",
+    "segundoApellido": "REYNOSO",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE SEGURIDAD PUBLICA",
+      "siglas": "SSP",
+      "clave": "101"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR DE SERVICIOS DE EMERGENCIA ",
+      "nivel": "COORDINADOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198782",
+    "nombres": "CEILIA",
+    "primerApellido": "PACHECO",
+    "segundoApellido": "RANGEL",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO ESTATAL DE SEGURIDAD PUBLICA DE AGUASCALIENTES",
+      "siglas": "IESPA",
+      "clave": "44"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA GENERAL",
+      "nivel": "DIRECTOR GENERAL"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "195146",
+    "nombres": "CESAR",
+    "primerApellido": "LANDEROS",
+    "segundoApellido": "LOPEZ",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD TECNOLOGICA DE AGUASCALIENTES",
+      "siglas": "UTA",
+      "clave": "85"
+    },
+    "puesto": {
+      "nombre": "ABOGADO GENERAL",
+      "nivel": "ABOGADO GENERAL"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "199672",
+    "nombres": "CESAR",
+    "primerApellido": "ESQUIVEL",
+    "segundoApellido": "MORALES",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO DEL AGUA",
+      "siglas": "INAGUA",
+      "clave": "41"
+    },
+    "puesto": {
+      "nombre": "JEFE DEL DEPTO. DE PROYECTOS",
+      "nivel": "80 C"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "195358",
+    "nombres": "CESAR ALEJANDRO",
+    "primerApellido": "GONZALEZ",
+    "segundoApellido": "LARA",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE AGUASCALIENTES",
+      "siglas": "",
+      "clave": "54"
+    },
+    "puesto": {
+      "nombre": "ENCARGADO",
+      "nivel": "ENCARGADO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198940",
+    "nombres": "CESAR ALFONSO",
+    "primerApellido": "GUZMAN",
+    "segundoApellido": "PORTAL",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD AUTONOMA DE AGUASCALIENTES",
+      "siglas": "UAA",
+      "clave": "83"
+    },
+    "puesto": {
+      "nombre": "SECRETARIO DE CENTRO ",
+      "nivel": "PROFESOR INVESTIGADOR TITULAR C"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199235",
+    "nombres": "CESAR DAGOBERTO",
+    "primerApellido": "ARMAS",
+    "segundoApellido": "IBARRA",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO DE SERVICIOS DE SALUD DEL ESTADO ",
+      "siglas": "ISSEA",
+      "clave": "38"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR ADMINISTRATIVO DE LA DIRECCION DEL AREA DE ADQUISICIONES, SERVICIOS Y PATRIMONIO, REPRESENTANTE DE LOS ENTES REQUIRENTES",
+      "nivel": "SERVIDOR PUBLICO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198862",
+    "nombres": "CESAR ENRIQUE",
+    "primerApellido": "PERALTA",
+    "segundoApellido": "PLANCARTE",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE OBRAS PUBLICAS DEL ESTADO",
+      "siglas": "SOP",
+      "clave": "110"
+    },
+    "puesto": {
+      "nombre": "SUBSECRETARIO DE COORDINACION TECNICA",
+      "nivel": "SUBSECRETARIO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "196538",
+    "nombres": "CESAR FERNANDO",
+    "primerApellido": "MEDINA",
+    "segundoApellido": "CERVANTES",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE FINANZAS DE JESUS MARIA",
+      "siglas": "DEFIJM",
+      "clave": "106"
+    },
+    "puesto": {
+      "nombre": "SECRETARIO DE OBRAS PUBLICAS",
+      "nivel": "SECRETARIO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198731",
+    "nombres": "CESAR GERMAN URIEL",
+    "primerApellido": "DIAZ DE LEON",
+    "segundoApellido": "NUÑEZ",
+    "institucionDependencia": {
+      "nombre": "SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO",
+      "siglas": "DIF",
+      "clave": "81"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE ADMINISTRACION Y FINANZAS ",
+      "nivel": "DIRECTOR "
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "195374",
+    "nombres": "CESAR GERMAN URIEL",
+    "primerApellido": "DIAZ DE LEON",
+    "segundoApellido": "NUÑEZ",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE AGUASCALIENTES",
+      "siglas": "",
+      "clave": "54"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR ADMINISTRATIVO",
+      "nivel": "DIRECTOR \"C\""
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "196262",
+    "nombres": "CESAR HUMBERTO",
+    "primerApellido": "VAZQUEZ",
+    "segundoApellido": "NOVELO",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE GESTION URBANISTICA ORDENAMIENTO TERRITORIAL REGISTRAL Y CATASTRAL",
+      "siglas": "SEGUOT",
+      "clave": "92"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR GENERAL DE ORDENAMIENTO TERRITORIAL",
+      "nivel": "DIRECTOR GENERAL"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "194434",
+    "nombres": "CESAR OCTAVIO",
+    "primerApellido": "CELIS",
+    "segundoApellido": "ALDERETE",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES",
+      "siglas": "ISSSSPEA",
+      "clave": "37"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR DE INFORMATICA",
+      "nivel": "COORDINADOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "197896",
+    "nombres": "CESAR OCTAVIO",
+    "primerApellido": "LOPEZ",
+    "segundoApellido": "RODRIGUEZ",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE SEGURIDAD PUBLICA",
+      "siglas": "SSP",
+      "clave": "101"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR GENERAL JURIDICO",
+      "nivel": "DIRECTOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "196264",
+    "nombres": "CESAR SALVADOR",
+    "primerApellido": "CAPUCHINO",
+    "segundoApellido": "DELGADO",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE GESTION URBANISTICA ORDENAMIENTO TERRITORIAL REGISTRAL Y CATASTRAL",
+      "siglas": "SEGUOT",
+      "clave": "92"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR GENERAL DEL INSTITUTO CATASTRAL",
+      "nivel": "DIRECTOR GENERAL"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199920",
+    "nombres": "CEZAR",
+    "primerApellido": "PEDROZA ",
+    "segundoApellido": "ORTEGA",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE EL LLANO",
+      "siglas": "",
+      "clave": "58"
+    },
+    "puesto": {
+      "nombre": "PRESIDENTE MUNICIPAL",
+      "nivel": "DIRECTIVO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "199874",
+    "nombres": "CHESSED HNAUM",
+    "primerApellido": "GUERRA",
+    "segundoApellido": "DELGADO",
+    "institucionDependencia": {
+      "nombre": "FIDEICOMISO COMPLEJO TRES CENTURIAS",
+      "siglas": "FICOTRECE",
+      "clave": "20"
+    },
+    "puesto": {
+      "nombre": "JEFE DEL DEPARTAMENTO DE RECURSOS MATERIALES Y SERVICIOS",
+      "nivel": "JEFE DE DEPARTAMENTO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "195373",
+    "nombres": "CHRISTIAN SALVADOR",
+    "primerApellido": "GUTIERREZ",
+    "segundoApellido": "MARQUEZ",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE AGUASCALIENTES",
+      "siglas": "",
+      "clave": "54"
+    },
+    "puesto": {
+      "nombre": "SECRETARIO DE ADMINISTRACION",
+      "nivel": "SECRETARIO \"C\" / COORDINADOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "195147",
+    "nombres": "CHRISTOPHER ",
+    "primerApellido": "MAGAÑA",
+    "segundoApellido": "VAZQUEZ",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD TECNOLOGICA DE AGUASCALIENTES",
+      "siglas": "UTA",
+      "clave": "85"
+    },
+    "puesto": {
+      "nombre": "UNIDAD INVESTIGADORA",
+      "nivel": "JEFATURA DE DEPARTAMENTO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "198730",
+    "nombres": "CHRISTOPHER ",
+    "primerApellido": "ESCAMILLA",
+    "segundoApellido": "VERA",
+    "institucionDependencia": {
+      "nombre": "SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO",
+      "siglas": "DIF",
+      "clave": "81"
+    },
+    "puesto": {
+      "nombre": "AUX. ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS ",
+      "nivel": "OPERATIVO "
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199691",
+    "nombres": "CHRYSTIAN OMAR",
+    "primerApellido": "VAZQUEZ",
+    "segundoApellido": "OCHOA",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO DEL AGUA",
+      "siglas": "INAGUA",
+      "clave": "41"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR DE OBRA",
+      "nivel": "90 B"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "193004",
+    "nombres": "CINDY VIANEY",
+    "primerApellido": "MUÑOZ",
+    "segundoApellido": "HERRADA",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE PABELLON DE ARTEAGA",
+      "siglas": "",
+      "clave": "60"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA DEL DIF MUNICIPAL",
+      "nivel": "B1"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199574",
+    "nombres": "CINTHYA YOLANDA",
+    "primerApellido": "OLAGUE",
+    "segundoApellido": "MARTINEZ",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE CALVILLO",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "SECRETARIO DE GOBERNACION",
+      "nivel": "SECRETARIO \"B\""
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "199318",
+    "nombres": "CIRO ALEJANDRO",
+    "primerApellido": "GAYTAN",
+    "segundoApellido": "SILVA",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE ASIENTOS",
+      "siglas": "",
+      "clave": "55"
+    },
+    "puesto": {
+      "nombre": "ENC PANTEON CABECERA MUNICIPAL",
+      "nivel": "7"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199810",
+    "nombres": "CITLALLI",
+    "primerApellido": "VENTURA",
+    "segundoApellido": "RAMIREZ",
+    "institucionDependencia": {
+      "nombre": "ORGANO SUPERIOR DE FISCALIZACION DEL ESTADO DE AGUASCALIENTES",
+      "siglas": "OSFAGS",
+      "clave": "114"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTOR JURIDICO",
+      "nivel": "SUBDIRECTOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "195359",
+    "nombres": "CLARA ARGENTINA",
+    "primerApellido": "ALONSO",
+    "segundoApellido": "MULLER",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE AGUASCALIENTES",
+      "siglas": "",
+      "clave": "54"
+    },
+    "puesto": {
+      "nombre": "SRIA. DE COMUNICACION SOCIAL",
+      "nivel": "SECRETARIO \"C\" / COORDINADOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198789",
+    "nombres": "CLAUDE JULIEN",
+    "primerApellido": "PARISET",
+    "segundoApellido": "CASTORENA",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCION",
+      "siglas": "SESEA",
+      "clave": "79"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR GENERAL DE VINCULACION Y POLITICAS PUBLICAS",
+      "nivel": "DIRECTOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "191892",
+    "nombres": "CLAUDIA",
+    "primerApellido": "PRIETO",
+    "segundoApellido": "MACIAS",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD TECNOLOGICA DEL NORTE DE AGUASCALIENTES",
+      "siglas": "UTNA",
+      "clave": "87"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA DE ADMINISTRACION Y FINANZAS",
+      "nivel": "DIRECTOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "198231",
+    "nombres": "CLAUDIA ADRIANA",
+    "primerApellido": "ALBA",
+    "segundoApellido": "PEDROZA",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALIENTES",
+      "siglas": "ITEA",
+      "clave": "39"
+    },
+    "puesto": {
+      "nombre": "AUTORIDAD INVESTIGADORA",
+      "nivel": "JEFE DE DEPARTAMENTO DOS"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "194595",
+    "nombres": "CLAUDIA ANGELICA",
+    "primerApellido": "SALDIVAR",
+    "segundoApellido": "SOTO",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO",
+      "siglas": "IDSCEA",
+      "clave": "52"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA GENERAL DEL IDSCEA",
+      "nivel": "DIRECTOR GENERAL"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199121",
+    "nombres": "CLAUDIA ANGELICA",
+    "primerApellido": "SALDIVAR",
+    "segundoApellido": "SOTO",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE DESARROLLO RURAL Y AGROEMPRESARIAL",
+      "siglas": "SEDRAE",
+      "clave": "99"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA GENERAL DE ADMINISTRACION",
+      "nivel": "3"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "134586",
+    "nombres": "CLAUDIA ANGELICA ",
+    "primerApellido": "SALDIVAR ",
+    "segundoApellido": "SOTO ",
+    "institucionDependencia": {
+      "nombre": "FIDEICOMISOS DE INVERSION Y ADMINISTRACION PARA EL DESARROLLO ECONOMICO DEL ESTADO",
+      "siglas": "FIADE",
+      "clave": "24"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR ADMINISTRATIVO ",
+      "nivel": "DIRECTOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198931",
+    "nombres": "CLAUDIA BEATRIZ",
+    "primerApellido": "VALDEZ",
+    "segundoApellido": "ARECHIGA",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD AUTONOMA DE AGUASCALIENTES",
+      "siglas": "UAA",
+      "clave": "83"
+    },
+    "puesto": {
+      "nombre": "JEFE DE LA SECCION DE SEGURIDAD Y PRESTACIONES SOCIALES ",
+      "nivel": "2N"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199879",
+    "nombres": "CLAUDIA CELINA",
+    "primerApellido": "IBARRA",
+    "segundoApellido": "MALO",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD TECNOLOGICA METROPOLITANA",
+      "siglas": "",
+      "clave": "89"
+    },
+    "puesto": {
+      "nombre": "JEFE DE NANOTECNOLOGIA",
+      "nivel": "MANDOS MEDIOS"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199887",
+    "nombres": "CLAUDIA DENISS",
+    "primerApellido": "ALBA",
+    "segundoApellido": "ARREGUIN",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "siglas": "SAE",
+      "clave": "102"
+    },
+    "puesto": {
+      "nombre": "JEFE DEL DEPARTAMENTO DE ADJUDICACIONES DIRECTAS POR TABLA COMPARATIVA",
+      "nivel": "JEFE DE DEPARTAMENTO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198827",
+    "nombres": "CLAUDIA ELIZABETH",
+    "primerApellido": "MARTINEZ",
+    "segundoApellido": "BARRAZA",
+    "institucionDependencia": {
+      "nombre": "FISCALIA GENERAL DEL ESTADO",
+      "siglas": "",
+      "clave": "25"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR ADMINISTRATIVO DE SERVICIOS GENERALES",
+      "nivel": "AUXILIAR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "196209",
+    "nombres": "CLAUDIA ESTHER",
+    "primerApellido": "DIAZ",
+    "segundoApellido": "MARTINEZ",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE DESARROLLO SOCIAL",
+      "siglas": "SEDESO",
+      "clave": "100"
+    },
+    "puesto": {
+      "nombre": "ENCARGADO DE GASTO CORRIENTE",
+      "nivel": "ADMINISTRATIVO "
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198945",
+    "nombres": "CLAUDIA EUGENIA",
+    "primerApellido": "MARTINEZ",
+    "segundoApellido": "HERRERA",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD AUTONOMA DE AGUASCALIENTES",
+      "siglas": "UAA",
+      "clave": "83"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO ",
+      "nivel": "1A"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199481",
+    "nombres": "CLAUDIA GABRIELA",
+    "primerApellido": "VILLALOBOS",
+    "segundoApellido": "HERNANDEZ",
+    "institucionDependencia": {
+      "nombre": "SUPREMO TRIBUNAL DE JUSTICIA DE AGUASCALIENTES",
+      "siglas": "",
+      "clave": "74"
+    },
+    "puesto": {
+      "nombre": "SECRETARIA DE MAGISTRADO PRESIDENTE",
+      "nivel": "ENCARGADO DE AREA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199845",
+    "nombres": "CLAUDIA GABRIELA",
+    "primerApellido": "CAUDEL",
+    "segundoApellido": "DE LUNA",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO DE VIVIENDA SOCIAL Y ORDENAMIENTO DE LA PROPIEDAD",
+      "siglas": "IVSOP",
+      "clave": "40"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR GENERAL",
+      "nivel": "DIRECCION"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "200513",
+    "nombres": "CLAUDIA GERALDINE",
+    "primerApellido": "GUILLEN",
+    "segundoApellido": "HERNANDEZ",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO DEL AGUA",
+      "siglas": "INAGUA",
+      "clave": "41"
+    },
+    "puesto": {
+      "nombre": "JEFE DEL DEPTO. DE PLANEACION",
+      "nivel": "80 C"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "195159",
+    "nombres": "CLAUDIA ISABEL",
+    "primerApellido": "ZERMEÑO",
+    "segundoApellido": "GUARDADO",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD TECNOLOGICA DE AGUASCALIENTES",
+      "siglas": "UTA",
+      "clave": "85"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA DEL AREA ECONOMICO ADMINISTRATIVA",
+      "nivel": "DIRECTOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "196255",
+    "nombres": "CLAUDIA MAYELA",
+    "primerApellido": "ORTIZ",
+    "segundoApellido": "PALOS",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE GESTION URBANISTICA ORDENAMIENTO TERRITORIAL REGISTRAL Y CATASTRAL",
+      "siglas": "SEGUOT",
+      "clave": "92"
+    },
+    "puesto": {
+      "nombre": "ANALISTA DE ADQUISICIONES",
+      "nivel": "AUXILIAR/ANALISTA \"B\""
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "200769",
+    "nombres": "CLAUDIA MAYELA",
+    "primerApellido": "ORTIZ",
+    "segundoApellido": "PALOS",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA GENERAL DE GOBIERNO",
+      "siglas": "SEGGOB",
+      "clave": "95"
+    },
+    "puesto": {
+      "nombre": "ANALISTA DE ADQUISICIONES",
+      "nivel": "TECNICO "
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198939",
+    "nombres": "CLAUDIA MONICA",
+    "primerApellido": "MARTINEZ",
+    "segundoApellido": "ESPARZA",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD AUTONOMA DE AGUASCALIENTES",
+      "siglas": "UAA",
+      "clave": "83"
+    },
+    "puesto": {
+      "nombre": "JEFE DEL AREA ADMINISTRATIVA",
+      "nivel": "1A"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199748",
+    "nombres": "CLAUDIA SAYRI",
+    "primerApellido": "SAENZ",
+    "segundoApellido": "DIAZ",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO MUNICIPAL DE PLANEACION DE AGUASCALIENTES",
+      "siglas": "IMPLAN",
+      "clave": "50"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO DE COMUNICACIO Y CALIDAD",
+      "nivel": "14"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199306",
+    "nombres": "CLAUDIO CESAR",
+    "primerApellido": "ESPINOZA",
+    "segundoApellido": "ESPINOZA",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE ASIENTOS",
+      "siglas": "",
+      "clave": "55"
+    },
+    "puesto": {
+      "nombre": "ENCARGADO JUEZ CALIFICADOR",
+      "nivel": "7"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199236",
+    "nombres": "CLEMENTE DANIEL",
+    "primerApellido": "RODRIGUEZ",
+    "segundoApellido": "TREJO",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO DE SERVICIOS DE SALUD DEL ESTADO ",
+      "siglas": "ISSEA",
+      "clave": "38"
+    },
+    "puesto": {
+      "nombre": "APOYO ADMINISTRATIVO COMPRAS DIRECTAS ",
+      "nivel": "SERVIDOR PUBLICO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199819",
+    "nombres": "CLEMENTINA XOCOTZIN ",
+    "primerApellido": "BARBA ",
+    "segundoApellido": "ESPINOZA",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO DE EDUCACION DE AGUASCALIENTES",
+      "siglas": "IEA",
+      "clave": "33"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTORA DE SERVICIOS ADMINISTRATIVOS",
+      "nivel": "SUBDIRECTOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      },
+      {
+        "clave": 4,
+        "valor": "ASIGNACIÓN Y EMISIÓN DE DICTÁMENES DE AVALÚOS NACIONALES"
+      }
+    ]
+  },
+  {
+    "id": "198768",
+    "nombres": "CLOTILDE CLAUDIA",
+    "primerApellido": "CORONA",
+    "segundoApellido": "MARTINEZ",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO DE EDUCACION DE AGUASCALIENTES",
+      "siglas": "IEA",
+      "clave": "33"
+    },
+    "puesto": {
+      "nombre": "COMPRADOR",
+      "nivel": "ADMINISTRATIVO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199732",
+    "nombres": "C.P. HECTOR NOE",
+    "primerApellido": "PEREZ ",
+    "segundoApellido": "DE ALBA",
+    "institucionDependencia": {
+      "nombre": "COMISION DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE JESUS MARIA",
+      "siglas": "CAPASJM",
+      "clave": "14"
+    },
+    "puesto": {
+      "nombre": "DIRECCION DE FINANZAS ",
+      "nivel": "DIRECTOR A"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199727",
+    "nombres": "C.P. JUAN FRANCISCO ",
+    "primerApellido": "CABRAL ",
+    "segundoApellido": "RAMIREZ",
+    "institucionDependencia": {
+      "nombre": "COMISION DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE JESUS MARIA",
+      "siglas": "CAPASJM",
+      "clave": "14"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR DE COMPRAS ",
+      "nivel": "OPERATIVO TECNICO A I"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199187",
+    "nombres": "C.P LUIS ALEJANDRO ",
+    "primerApellido": "RANGEL ",
+    "segundoApellido": "MAGDALENO ",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE JESUS MARIA",
+      "siglas": "",
+      "clave": "59"
+    },
+    "puesto": {
+      "nombre": "SECRETARIO DE FINANZAS ",
+      "nivel": "SECRETARIA "
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199197",
+    "nombres": "C.P LUIS ALEJANDRO ",
+    "primerApellido": "RANGEL ",
+    "segundoApellido": "MAGDALENO ",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE JESUS MARIA",
+      "siglas": "",
+      "clave": "59"
+    },
+    "puesto": {
+      "nombre": "SECRETARIO DE FINANZAS ",
+      "nivel": "SECRETARIA "
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199193",
+    "nombres": "C.P LUIS ALEJANDRO ",
+    "primerApellido": "RANGEL ",
+    "segundoApellido": "MAGDALENO",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE JESUS MARIA",
+      "siglas": "",
+      "clave": "59"
+    },
+    "puesto": {
+      "nombre": "SECRETARIO DE FINANZAS ",
+      "nivel": "SECRETARIA "
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "194596",
+    "nombres": "CRISTINA LETICIA",
+    "primerApellido": "PEREZ",
+    "segundoApellido": "MEDINA",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO",
+      "siglas": "IDSCEA",
+      "clave": "52"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR ADMINISTRATIVO",
+      "nivel": "COORDINADOR DE AREA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199673",
+    "nombres": "CRISTOBAL",
+    "primerApellido": "JIMENEZ",
+    "segundoApellido": "SERRATOS",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO DEL AGUA",
+      "siglas": "INAGUA",
+      "clave": "41"
+    },
+    "puesto": {
+      "nombre": "JEFE DEL DEPTO. DE TECNOLOGIA DEL AGUA",
+      "nivel": "80 C"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199662",
+    "nombres": "CRISTOBAL ANDRES",
+    "primerApellido": "HERMOSILLO ",
+    "segundoApellido": "GOMEZ",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO DEL AGUA",
+      "siglas": "INAGUA",
+      "clave": "41"
+    },
+    "puesto": {
+      "nombre": "TITULAR DE LA UNIDAD INVESTIGADORA",
+      "nivel": "80 A"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198796",
+    "nombres": "CRUZ IVAN",
+    "primerApellido": "GARAY",
+    "segundoApellido": "MARQUEZ",
+    "institucionDependencia": {
+      "nombre": "FISCALIA GENERAL DEL ESTADO",
+      "siglas": "",
+      "clave": "25"
+    },
+    "puesto": {
+      "nombre": "AUDITOR DE PROCESOS ADMINISTRATIVOS DE LA OFICIALIA MAYOR",
+      "nivel": "AUDITOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "200538",
+    "nombres": "CUAHUTEMOC",
+    "primerApellido": "ESCOBEDO",
+    "segundoApellido": "TEJADA",
+    "institucionDependencia": {
+      "nombre": "H. CONGRESO DEL ESTADO DE AGUASCALIENTES",
+      "siglas": "HCEA",
+      "clave": "91"
+    },
+    "puesto": {
+      "nombre": "DIPUTADO DE LA LXV LEGISLATURA",
+      "nivel": "DIPUTADO DE LA LXV LEGISLATURA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199913",
+    "nombres": "CUAUHTEMOC",
+    "primerApellido": "RANGEL",
+    "segundoApellido": "MACIAS",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE EL LLANO",
+      "siglas": "",
+      "clave": "58"
+    },
+    "puesto": {
+      "nombre": "JEFE DEPARTAMENTO DE DESARROLLO RURAL",
+      "nivel": "DIRECTIVO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "199483",
+    "nombres": "CYNTHIA",
+    "primerApellido": "ARAIZA",
+    "segundoApellido": "HERNANDEZ",
+    "institucionDependencia": {
+      "nombre": "SUPREMO TRIBUNAL DE JUSTICIA DE AGUASCALIENTES",
+      "siglas": "",
+      "clave": "74"
+    },
+    "puesto": {
+      "nombre": "SECRETARIA DE SALA CIVIL",
+      "nivel": "SECRETARIA DE SALA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199333",
+    "nombres": "DAGOBERTO ",
+    "primerApellido": "MACIAS",
+    "segundoApellido": "GONZALEZ",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE ASIENTOS",
+      "siglas": "",
+      "clave": "55"
+    },
+    "puesto": {
+      "nombre": "SUBDELEGADO ADOLFO LOPEZ MATEOS",
+      "nivel": "7"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198489",
+    "nombres": "DAILANY ROCIO",
+    "primerApellido": "SOTO",
+    "segundoApellido": "SILVA",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO DE INFRAESTRUCTURA FISICA EDUCATIVA DEL ESTADO DE AGUASCALIENTES",
+      "siglas": "IIFEA",
+      "clave": "34"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR DE CONTROL PATRIMONIAL",
+      "nivel": "AUXILIAR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "192999",
+    "nombres": "DALEL VERONICA",
+    "primerApellido": "HERNANDEZ",
+    "segundoApellido": "-",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE PABELLON DE ARTEAGA",
+      "siglas": "",
+      "clave": "60"
+    },
+    "puesto": {
+      "nombre": "DERECTORA DE LA DIRECCION DE DESARROLLO SOCIAL",
+      "nivel": "D1"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199522",
+    "nombres": "DALIA GUADALUPE",
+    "primerApellido": "MACIAS",
+    "segundoApellido": "ROSALES",
+    "institucionDependencia": {
+      "nombre": "RADIO Y TELEVISION DE AGUASCALIENTES",
+      "siglas": "RYTA",
+      "clave": "77"
+    },
+    "puesto": {
+      "nombre": "TITULAR DE UNIDAD AUDITORA",
+      "nivel": "TECNICO/COORDINADOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "200510",
+    "nombres": "DANIEL",
+    "primerApellido": "RIVERA",
+    "segundoApellido": "ARIAS",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO DEL AGUA",
+      "siglas": "INAGUA",
+      "clave": "41"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR JURIDICO",
+      "nivel": "60 D"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "197019",
+    "nombres": "DANIEL",
+    "primerApellido": "ROMO",
+    "segundoApellido": "URRUTIA",
+    "institucionDependencia": {
+      "nombre": "ORGANISMO OPERADOR DE SERVICIOS DE AGUA DE CALVILLO",
+      "siglas": "OOSAC",
+      "clave": "69"
+    },
+    "puesto": {
+      "nombre": "PRESIDENTE DEL CONSEJO DIRECTIVO",
+      "nivel": "PRESIDENTE MUNICIPAL"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "199357",
+    "nombres": "DANIEL",
+    "primerApellido": "DE LIRA",
+    "segundoApellido": "CARLIN",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE ASIENTOS",
+      "siglas": "",
+      "clave": "55"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPTO DE RECURSOS MATERIALES",
+      "nivel": "6"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "196085",
+    "nombres": "DANIEL",
+    "primerApellido": "OROSCO",
+    "segundoApellido": "SANCHEZ",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO DEL DEPORTE DEL ESTADO DE AGUASCALIENTES",
+      "siglas": "IDEA",
+      "clave": "43"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR ADMINISTRATIVO",
+      "nivel": "DIRECTOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "200057",
+    "nombres": "DANIEL",
+    "primerApellido": "ROJAS",
+    "segundoApellido": "SALAZAR",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD TECNOLOGICA DE CALVILLO",
+      "siglas": "UTC",
+      "clave": "86"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR DE ADQUISICIONES",
+      "nivel": "COORDINADOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "195862",
+    "nombres": "DANIEL",
+    "primerApellido": "FRAUSTO",
+    "segundoApellido": "AVILA",
+    "institucionDependencia": {
+      "nombre": "COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS DEL ESTADO DE AGUASCALIENTES",
+      "siglas": "CECYTEA",
+      "clave": "11"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTMENTO DE CEMSAD",
+      "nivel": "JEFATURA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "194226",
+    "nombres": "DANIEL",
+    "primerApellido": "CHAVEZ",
+    "segundoApellido": "RODRIGUEZ",
+    "institucionDependencia": {
+      "nombre": "COORDINACION GENERAL DE MOVILIDAD",
+      "siglas": "CMOV",
+      "clave": "94"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR ",
+      "nivel": "ADMINISTRATIVO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "197877",
+    "nombres": "DANIEL",
+    "primerApellido": "ORTEGA",
+    "segundoApellido": "CALVILLO",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE SEGURIDAD PUBLICA",
+      "siglas": "SSP",
+      "clave": "101"
+    },
+    "puesto": {
+      "nombre": "AUX. DE ADQUISICIONES",
+      "nivel": "ADMINISTRATIVO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "199572",
+    "nombres": "DANIEL",
+    "primerApellido": "ROMO",
+    "segundoApellido": "URRUTIA",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE CALVILLO",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "PRESIDENTE MUNICIPAL",
+      "nivel": "PRESIDENTE"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "199570",
+    "nombres": "DANIEL ",
+    "primerApellido": "PAREDES ",
+    "segundoApellido": "DE LOERA",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE CALVILLO",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "ENCARGADA DE CONTROL PATRIMONIAL",
+      "nivel": "COORDINADOR OPERATIVO \"D\""
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199387",
+    "nombres": "DANIEL ARTURO",
+    "primerApellido": "AVILES",
+    "segundoApellido": "MARTINEZ",
+    "institucionDependencia": {
+      "nombre": "COORDINACION GENERAL DE COMUNICACION SOCIAL",
+      "siglas": "CCOMS",
+      "clave": "103"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR GENERAL DE ADMINISTRACION",
+      "nivel": "DIRECCION"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "193000",
+    "nombres": "DANTE",
+    "primerApellido": "AGUILERA",
+    "segundoApellido": "TORRES",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE PABELLON DE ARTEAGA",
+      "siglas": "",
+      "clave": "60"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE DIRECCION JURIDICA",
+      "nivel": "D1"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198854",
+    "nombres": "DARIANA ALEJANDRA",
+    "primerApellido": "ESCOBAR",
+    "segundoApellido": "CORNEJO",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE OBRAS PUBLICAS DEL ESTADO",
+      "siglas": "SOP",
+      "clave": "110"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR DE LICITACION",
+      "nivel": "TECNICO COORDINADOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199084",
+    "nombres": "DAVID",
+    "primerApellido": "CARRILLO",
+    "segundoApellido": "LOPEZ",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD AUTONOMA DE AGUASCALIENTES",
+      "siglas": "UAA",
+      "clave": "83"
+    },
+    "puesto": {
+      "nombre": "SECRETARIO ADMINISTRATIVO DE CENTRO",
+      "nivel": "PROFESOR INVESTIGADOR TITULAR C"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199002",
+    "nombres": "DAVID",
+    "primerApellido": "MASUOKA",
+    "segundoApellido": "ITO",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD AUTONOMA DE AGUASCALIENTES",
+      "siglas": "UAA",
+      "clave": "83"
+    },
+    "puesto": {
+      "nombre": "JEFE SUSTITUTO DEL DEPARTAMENTO DE ESTOMATOLOGIA",
+      "nivel": "PROFESOR INVESTIGADOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199936",
+    "nombres": "DAVID",
+    "primerApellido": "ORTIZ",
+    "segundoApellido": "ROMO",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE EL LLANO",
+      "siglas": "",
+      "clave": "58"
+    },
+    "puesto": {
+      "nombre": "JEFE DEPARTAMENTO DE COMPRAS",
+      "nivel": "JEFATURA DEPARTAMENTO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "197893",
+    "nombres": "DAVID",
+    "primerApellido": "PEREZ",
+    "segundoApellido": "LANDEROS",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE SEGURIDAD PUBLICA",
+      "siglas": "SSP",
+      "clave": "101"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR GENERAL DE SEGURIDAD PUBLICA Y VIALIDAD",
+      "nivel": "DIRECTOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199036",
+    "nombres": "DAVID",
+    "primerApellido": "LUJAN",
+    "segundoApellido": "HERNANDEZ",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD AUTONOMA DE AGUASCALIENTES",
+      "siglas": "UAA",
+      "clave": "83"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO ",
+      "nivel": "PROFESOR INVESTIGADOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198808",
+    "nombres": "DAVID",
+    "primerApellido": "QUEZADA",
+    "segundoApellido": "MORA",
+    "institucionDependencia": {
+      "nombre": "FISCALIA GENERAL DEL ESTADO",
+      "siglas": "",
+      "clave": "25"
+    },
+    "puesto": {
+      "nombre": "OFICIAL MAYOR",
+      "nivel": "OFICIALIA MAYOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "197868",
+    "nombres": "DAVID ALEJANDRO",
+    "primerApellido": "MORENO",
+    "segundoApellido": "LOPEZ",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE SEGURIDAD PUBLICA",
+      "siglas": "SSP",
+      "clave": "101"
+    },
+    "puesto": {
+      "nombre": "JEFE DEL DEPTO. DE INFORMATICA Y SISTEMAS",
+      "nivel": "JEFE DE DEPARTAMENTO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "199617",
+    "nombres": "DAVID SAMUEL",
+    "primerApellido": "GARCIA",
+    "segundoApellido": "MARTINEZ",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO MUNICIPAL AGUASCALENTENSE PARA LA CULTURA",
+      "siglas": "IMAC",
+      "clave": "46"
+    },
+    "puesto": {
+      "nombre": "JEFE DEPTO. \"A\"",
+      "nivel": "1A0700"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "200220",
+    "nombres": "DENISSE LIZBETH",
+    "primerApellido": "RUVALCABA",
+    "segundoApellido": "QUEZADA",
+    "institucionDependencia": {
+      "nombre": "COLEGIO DE EDUCACION PROFESIONAL TECNICA DEL ESTADO DE AGUASCALIENTES",
+      "siglas": "CONALEP",
+      "clave": "10"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE PLANTEL",
+      "nivel": "DIRECTOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198836",
+    "nombres": "DIANA ERICKA",
+    "primerApellido": "MENDOZA",
+    "segundoApellido": "MEDINA",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE FINANZAS",
+      "siglas": "SEFI",
+      "clave": "98"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR DE RECURSOS FINANCIEROS",
+      "nivel": "TECNICO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199518",
+    "nombres": "DIANA ESTEFANIA",
+    "primerApellido": "PALACIOS",
+    "segundoApellido": "TIRADO",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO AGUASCALENTENSE DE LAS MUJERES",
+      "siglas": "IAM",
+      "clave": "30"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA ADMINISTRATIVA",
+      "nivel": "DIRECTORA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "198852",
+    "nombres": "DIANA ISABEL",
+    "primerApellido": "SIERRA",
+    "segundoApellido": "SIERRA",
+    "institucionDependencia": {
+      "nombre": "SISTEMA DE FINANCIAMIENTO DE AGUASCALIENTES",
+      "siglas": "SIFIA",
+      "clave": "115"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPTO. DE PRESUPUESTO, CONTABILIDAD Y FINANZAS",
+      "nivel": "JEFATURA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198805",
+    "nombres": "DIANA KARINA",
+    "primerApellido": "LOPEZ",
+    "segundoApellido": "ESPINOZA",
+    "institucionDependencia": {
+      "nombre": "FISCALIA GENERAL DEL ESTADO",
+      "siglas": "",
+      "clave": "25"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR DE ADMINISTRACION DE INVESTIGACION PERICIAL",
+      "nivel": "AUXILIAR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199366",
+    "nombres": "DIANA KARINA",
+    "primerApellido": "VAZQUEZ",
+    "segundoApellido": "LOPEZ",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE ASIENTOS",
+      "siglas": "",
+      "clave": "55"
+    },
+    "puesto": {
+      "nombre": "REGIDOR ",
+      "nivel": "1"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 4,
+        "valor": "ASIGNACIÓN Y EMISIÓN DE DICTÁMENES DE AVALÚOS NACIONALES"
+      }
+    ]
+  },
+  {
+    "id": "199310",
+    "nombres": "DIANA ROSARIO",
+    "primerApellido": "RIVERA",
+    "segundoApellido": "BOCANEGRA",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE ASIENTOS",
+      "siglas": "",
+      "clave": "55"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA DE TURISMO",
+      "nivel": "4"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "199422",
+    "nombres": "DIANA YAZMIN",
+    "primerApellido": "RODRIGUEZ",
+    "segundoApellido": "DIAZ",
+    "institucionDependencia": {
+      "nombre": "SUPREMO TRIBUNAL DE JUSTICIA DE AGUASCALIENTES",
+      "siglas": "",
+      "clave": "74"
+    },
+    "puesto": {
+      "nombre": "SECRETARIA PROYECTISTA DE MAGISTRADO S.T.J.",
+      "nivel": "SECRETARIO PROYECTISTA DE MAGISTRADO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198957",
+    "nombres": "DIEGO",
+    "primerApellido": "VALDIVIA",
+    "segundoApellido": "MARTINEZ",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD AUTONOMA DE AGUASCALIENTES",
+      "siglas": "UAA",
+      "clave": "83"
+    },
+    "puesto": {
+      "nombre": "ENCARGADO DE CONTROL PRESUPUESTAL ",
+      "nivel": "4N"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199350",
+    "nombres": "DIEGO",
+    "primerApellido": "PRIETO",
+    "segundoApellido": "MUÑOZ",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE ASIENTOS",
+      "siglas": "",
+      "clave": "55"
+    },
+    "puesto": {
+      "nombre": "ENCARGADO DEPORTES ADOLFO LOPEZ MATEOS",
+      "nivel": "7"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199889",
+    "nombres": "DIEGO",
+    "primerApellido": "MURO",
+    "segundoApellido": "GONZALEZ",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE ADMINISTRACION",
+      "siglas": "SAE",
+      "clave": "102"
+    },
+    "puesto": {
+      "nombre": "JEFE DEL DEPARTAMENTO DE ADJUDICACIONES DIRECTAS POR EXCEPCION",
+      "nivel": "JEFE DE DEPARTAMENTO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198869",
+    "nombres": "DORA MARIA",
+    "primerApellido": "REYNOSO",
+    "segundoApellido": "LOZA",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE SAN FRANCISCO DE LOS ROMO",
+      "siglas": "",
+      "clave": "62"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO DE COMPRAS Y SUMINISTROS",
+      "nivel": "CONFIANZA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "195378",
+    "nombres": "DULCE",
+    "primerApellido": "ANDRADE",
+    "segundoApellido": "LOVERA",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE AGUASCALIENTES",
+      "siglas": "",
+      "clave": "54"
+    },
+    "puesto": {
+      "nombre": "COORD. DE SALUD PUBLICA",
+      "nivel": "SECRETARIO \"C\" / COORDINADOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "200058",
+    "nombres": "DULCE MARIA",
+    "primerApellido": "HERNANDEZ",
+    "segundoApellido": "MARTINEZ",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD TECNOLOGICA DE CALVILLO",
+      "siglas": "UTC",
+      "clave": "86"
+    },
+    "puesto": {
+      "nombre": "TITULAR DE LA UNIDAD AUDITORA DEL ORGANO INTERNO DE CONTROL",
+      "nivel": "COORDINADOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "197382",
+    "nombres": "DULCE MARIA",
+    "primerApellido": "GARCIA",
+    "segundoApellido": "RUEDA",
+    "institucionDependencia": {
+      "nombre": "ORGANISMO OPERADOR DE AGUA DEL MUNICIPIO DE SAN FRANCISCO DE LOS ROMO",
+      "siglas": "ORGOA",
+      "clave": "66"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO DE ALMACEN",
+      "nivel": "JEFE DE DEPARTAMENTO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "199075",
+    "nombres": "DULCE MARIA",
+    "primerApellido": "REYES",
+    "segundoApellido": "LOPEZ",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD AUTONOMA DE AGUASCALIENTES",
+      "siglas": "UAA",
+      "clave": "83"
+    },
+    "puesto": {
+      "nombre": "ASISTENTE ADMINISTRATIVO",
+      "nivel": "5B"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "197881",
+    "nombres": "DULCE MARIA",
+    "primerApellido": "BARBA ",
+    "segundoApellido": "ARCEO",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE SEGURIDAD PUBLICA",
+      "siglas": "SSP",
+      "clave": "101"
+    },
+    "puesto": {
+      "nombre": "ESPECIALISTA DE ATENCION AL PUBLICO",
+      "nivel": "JEFE DE DEPARTAMENTO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "199072",
+    "nombres": "EDGAR",
+    "primerApellido": "LOPEZ",
+    "segundoApellido": "DELGADILLO",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD AUTONOMA DE AGUASCALIENTES",
+      "siglas": "UAA",
+      "clave": "83"
+    },
+    "puesto": {
+      "nombre": "SECRETARIO DE CENTRO ",
+      "nivel": "PROFESOR INVESTIGADOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "197867",
+    "nombres": "EDGAR ",
+    "primerApellido": "LABRA",
+    "segundoApellido": "SALAS",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE SEGURIDAD PUBLICA",
+      "siglas": "SSP",
+      "clave": "101"
+    },
+    "puesto": {
+      "nombre": "COORDINACION DE PRENSA Y COMUNICACION",
+      "nivel": "COORDINADOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198008",
+    "nombres": "EDGAR ADRIAN ",
+    "primerApellido": "ARANDA",
+    "segundoApellido": "RAMIREZ",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO MUNICIPAL AGUASCALENTENSE PARA LA CULTURA",
+      "siglas": "IMAC",
+      "clave": "46"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR \"C\"",
+      "nivel": "1A0430"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199388",
+    "nombres": "EDGAR FERNANDO",
+    "primerApellido": "GONZALEZ",
+    "segundoApellido": "ROMERO",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO DE ASESORIA Y DEFENSORIA PUBLICA DEL ESTADO",
+      "siglas": "IADPEA",
+      "clave": "26"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO ADMINISTRATIVO",
+      "nivel": "JEFATURA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199786",
+    "nombres": "EDGAR FERNANDO",
+    "primerApellido": "PONCE ",
+    "segundoApellido": "RUELAS",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE SUSTENTABILIDAD MEDIO AMBIENTE Y AGUA",
+      "siglas": "SSMAA",
+      "clave": "108"
+    },
+    "puesto": {
+      "nombre": "TECNICO EN CAMBIO CLIMATICO",
+      "nivel": "MANDO MEDIO "
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "199486",
+    "nombres": "EDGAR HIRAM",
+    "primerApellido": "PEREA",
+    "segundoApellido": "HERRERA",
+    "institucionDependencia": {
+      "nombre": "SUPREMO TRIBUNAL DE JUSTICIA DE AGUASCALIENTES",
+      "siglas": "",
+      "clave": "74"
+    },
+    "puesto": {
+      "nombre": "SECRETARIO PARTICULAR",
+      "nivel": "SECRETARIO PARTICULAR/SECRETARIO GENERAL SAE"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199815",
+    "nombres": "EDGAR RICARDO",
+    "primerApellido": "ROQUE",
+    "segundoApellido": "RODRIGUEZ",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO AGUASCALENTENSE DE LA JUVENTUD",
+      "siglas": "IAJU",
+      "clave": "29"
+    },
+    "puesto": {
+      "nombre": "ENCARGADO DE FINANZAS",
+      "nivel": "ENCARGADO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "200055",
+    "nombres": "EDUARDO",
+    "primerApellido": "GONZALEZ",
+    "segundoApellido": "BLAS",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD TECNOLOGICA DE CALVILLO",
+      "siglas": "UTC",
+      "clave": "86"
+    },
+    "puesto": {
+      "nombre": "RECTOR",
+      "nivel": "RECTORIA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "191894",
+    "nombres": "EDUARDO",
+    "primerApellido": "SOTRES",
+    "segundoApellido": "RAMOS",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD TECNOLOGICA DEL NORTE DE AGUASCALIENTES",
+      "siglas": "UTNA",
+      "clave": "87"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE PROMOCION, COMUNICACION Y EXTENSION UNIVERSITARIA",
+      "nivel": "DIRECTOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "191893",
+    "nombres": "EDUARDO",
+    "primerApellido": "ARELLANO",
+    "segundoApellido": "MORENO",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD TECNOLOGICA DEL NORTE DE AGUASCALIENTES",
+      "siglas": "UTNA",
+      "clave": "87"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO DE ADQUISICIONES",
+      "nivel": "JEFE DE DEPARTAMENTO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "199118",
+    "nombres": "EDUARDO",
+    "primerApellido": "VELAZQUEZ",
+    "segundoApellido": "TORRES",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE DESARROLLO RURAL Y AGROEMPRESARIAL",
+      "siglas": "SEDRAE",
+      "clave": "99"
+    },
+    "puesto": {
+      "nombre": "ESPECIALISTA EN TECNOLOGIAS DE LA INFORMACION",
+      "nivel": "5"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198517",
+    "nombres": "EDUARDO",
+    "primerApellido": "GONZALEZ",
+    "segundoApellido": "ALAFITA",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE DESARROLLO ECONOMICO",
+      "siglas": "SEDEC",
+      "clave": "96"
+    },
+    "puesto": {
+      "nombre": "JEFE DEL DEPARTAMENTO DE RECURSOS MATERIALES",
+      "nivel": "JEFATURA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198879",
+    "nombres": "EDUARDO",
+    "primerApellido": "DIAZ",
+    "segundoApellido": "REYES",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE TEPEZALA",
+      "siglas": "",
+      "clave": "64"
+    },
+    "puesto": {
+      "nombre": "SINDICO MUNICIPAL",
+      "nivel": "DIRECTOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "197903",
+    "nombres": "EDUARDO",
+    "primerApellido": "BAHENA",
+    "segundoApellido": "PINEDA",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE SEGURIDAD PUBLICA",
+      "siglas": "SSP",
+      "clave": "101"
+    },
+    "puesto": {
+      "nombre": "SECRETARIO DE SEGURIDAD PUBLICA",
+      "nivel": "SECRETARIO/COORDINADOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "193642",
+    "nombres": "EDUARDO",
+    "primerApellido": "ROJAS",
+    "segundoApellido": "GUILLEN",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD TECNOLOGICA DEL RETOÑO",
+      "siglas": "UTR",
+      "clave": "88"
+    },
+    "puesto": {
+      "nombre": "VOCAL DEL COMITE DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DE LA UNIVERSIDAD TECNOLOGICA EL RETOÑO",
+      "nivel": "4"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "198228",
+    "nombres": "EDUARDO JESUS",
+    "primerApellido": "GALLEGOS",
+    "segundoApellido": "SILVA",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALIENTES",
+      "siglas": "ITEA",
+      "clave": "39"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO DE PROTECCION DE DATOS PERSONALES",
+      "nivel": "JEFE DE DEPARTAMENTO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199018",
+    "nombres": "EFRAIN",
+    "primerApellido": "CONTRERAS",
+    "segundoApellido": "RODRIGUEZ",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD AUTONOMA DE AGUASCALIENTES",
+      "siglas": "UAA",
+      "clave": "83"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR DEL DEPARTAMENTO DE COMPRAS",
+      "nivel": "IX MIN"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "188432",
+    "nombres": "EFRAIN",
+    "primerApellido": "PALACIOS",
+    "segundoApellido": "CASTAÑEDA",
+    "institucionDependencia": {
+      "nombre": "CONTRALORIA DEL ESTADO",
+      "siglas": "CE",
+      "clave": "104"
+    },
+    "puesto": {
+      "nombre": "ENCARGADO ADMINISTRATIVO",
+      "nivel": "ENCARGADO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198911",
+    "nombres": "EFRAIN",
+    "primerApellido": "LOZANO",
+    "segundoApellido": "GALAVIZ",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD AUTONOMA DE AGUASCALIENTES",
+      "siglas": "UAA",
+      "clave": "83"
+    },
+    "puesto": {
+      "nombre": "ENCARGADO DE LICITACIONES ",
+      "nivel": "2A"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198232",
+    "nombres": "EFREN",
+    "primerApellido": "LEON",
+    "segundoApellido": "ALVAREZ",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALIENTES",
+      "siglas": "ITEA",
+      "clave": "39"
+    },
+    "puesto": {
+      "nombre": "CONTRALOR INTERNO",
+      "nivel": "DIRECTOR DOS"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "197901",
+    "nombres": "EFREN",
+    "primerApellido": "ROJAS",
+    "segundoApellido": "LEGUIZAMO",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE SEGURIDAD PUBLICA",
+      "siglas": "SSP",
+      "clave": "101"
+    },
+    "puesto": {
+      "nombre": "JEFE DEL DEPTO. DE LICENCIAS Y PERMISOS DE CONDUCIR",
+      "nivel": "JEFE DE DEPARTAMENTO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "134584",
+    "nombres": "EFREN ",
+    "primerApellido": "MARTINEZ ",
+    "segundoApellido": "COLLAZO ",
+    "institucionDependencia": {
+      "nombre": "FIDEICOMISOS DE INVERSION Y ADMINISTRACION PARA EL DESARROLLO ECONOMICO DEL ESTADO",
+      "siglas": "FIADE",
+      "clave": "24"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR JURIDICO ",
+      "nivel": "DIRECTOR "
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199946",
+    "nombres": "ELEAZAR",
+    "primerApellido": "AGUIÑAGA",
+    "segundoApellido": "CAMPOS",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE EL LLANO",
+      "siglas": "",
+      "clave": "58"
+    },
+    "puesto": {
+      "nombre": "RECAUDACION DE AGUA POTABLE",
+      "nivel": "JEFATURA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "199014",
+    "nombres": "ELENA PATRICIA",
+    "primerApellido": "MOJICA",
+    "segundoApellido": "CARRILLO",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD AUTONOMA DE AGUASCALIENTES",
+      "siglas": "UAA",
+      "clave": "83"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO ",
+      "nivel": "PROFESOR INVESTIGADOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199290",
+    "nombres": "ELIAS",
+    "primerApellido": "CASILLAS",
+    "segundoApellido": "HERNANDEZ",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE SAN JOSE DE GRACIA",
+      "siglas": "",
+      "clave": "63"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE SERVICIOS PUBLICOS",
+      "nivel": "DIRECTOR DE SERVICIOS PUBLICOS"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199360",
+    "nombres": "ELISIEL",
+    "primerApellido": "MARTINEZ",
+    "segundoApellido": "MARTINEZ",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE ASIENTOS",
+      "siglas": "",
+      "clave": "55"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTOR DE DESARROLLO ECONOMICO",
+      "nivel": "5"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 4,
+        "valor": "ASIGNACIÓN Y EMISIÓN DE DICTÁMENES DE AVALÚOS NACIONALES"
+      }
+    ]
+  },
+  {
+    "id": "199851",
+    "nombres": "ELIZABETH",
+    "primerApellido": "ORTIZ",
+    "segundoApellido": "RAMOS",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO DE VIVIENDA SOCIAL Y ORDENAMIENTO DE LA PROPIEDAD",
+      "siglas": "IVSOP",
+      "clave": "40"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO DE URBANIZACION Y EDIFICACION",
+      "nivel": "JEFATURA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199083",
+    "nombres": "ELIZABETH",
+    "primerApellido": "CASILLAS",
+    "segundoApellido": "CASILLAS",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD AUTONOMA DE AGUASCALIENTES",
+      "siglas": "UAA",
+      "clave": "83"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA GENERAL SUSTITUTA",
+      "nivel": "3A"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198877",
+    "nombres": "ELIZET",
+    "primerApellido": "OLIVARES ",
+    "segundoApellido": "CALZADA",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE TEPEZALA",
+      "siglas": "",
+      "clave": "64"
+    },
+    "puesto": {
+      "nombre": "ENCARGADA DE DESPACHO DE LA DIRECCION DE OBRAS PUBLICAS",
+      "nivel": "DIRECTOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "198797",
+    "nombres": "ELSA KARINA",
+    "primerApellido": "ORTEGA",
+    "segundoApellido": "DIAZ",
+    "institucionDependencia": {
+      "nombre": "FISCALIA GENERAL DEL ESTADO",
+      "siglas": "",
+      "clave": "25"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR DE AUDITORIA ADSCRITA AL ORGANO INTERNO DE CONTROL Y VIGILANCIA",
+      "nivel": "AUXILIAR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198475",
+    "nombres": "ELSA LILIANA",
+    "primerApellido": "ROMO",
+    "segundoApellido": "ANDRADE",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO DE INFRAESTRUCTURA FISICA EDUCATIVA DEL ESTADO DE AGUASCALIENTES",
+      "siglas": "IIFEA",
+      "clave": "34"
+    },
+    "puesto": {
+      "nombre": "ANALISTA JURIDICO",
+      "nivel": "ANALISTA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198981",
+    "nombres": "ELSA MARGARITA",
+    "primerApellido": "MARQUEZ",
+    "segundoApellido": "AGUILAR",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD AUTONOMA DE AGUASCALIENTES",
+      "siglas": "UAA",
+      "clave": "83"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR DEL DEPARTAMENTO DE COMPRAS ",
+      "nivel": "IX MIN"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198976",
+    "nombres": "ELVIA",
+    "primerApellido": "FARFAN",
+    "segundoApellido": "ROSAS",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD AUTONOMA DE AGUASCALIENTES",
+      "siglas": "UAA",
+      "clave": "83"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO",
+      "nivel": "1A"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "200617",
+    "nombres": "ELVIRA GUADALUPE",
+    "primerApellido": "ARELLANO ",
+    "segundoApellido": "BAEZ ",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO DE CAPACITACION PARA EL TRABAJO DEL ESTADO DE AGUASCALIENTES",
+      "siglas": "ICTEA",
+      "clave": "32"
+    },
+    "puesto": {
+      "nombre": "JEFE DEL DEPARTAMENTO JURIDICO",
+      "nivel": "JEFE DE DEPARTAMENTO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "200543",
+    "nombres": "EMANUELLE",
+    "primerApellido": "SANCHEZ",
+    "segundoApellido": "NAJERA",
+    "institucionDependencia": {
+      "nombre": "H. CONGRESO DEL ESTADO DE AGUASCALIENTES",
+      "siglas": "HCEA",
+      "clave": "91"
+    },
+    "puesto": {
+      "nombre": "DIPUTADO DE LA LXV LEGISLATURA",
+      "nivel": "DIPUTADO DE LA LXV LEGISLATURA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "126045",
+    "nombres": "EMMANUEL",
+    "primerApellido": "VILLARREAL",
+    "segundoApellido": "HERNANDEZ",
+    "institucionDependencia": {
+      "nombre": "OPERADORA DE FIDEICOMISOS DEL ESTADO DE AGUASCALIENTES S.A. DE C.V.",
+      "siglas": "OFISA",
+      "clave": "65"
+    },
+    "puesto": {
+      "nombre": "JEFE DEL DEPTO DE INSTRUMENTACION JURIDICA",
+      "nivel": "JEFATURA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "193645",
+    "nombres": "EMMANUEL",
+    "primerApellido": "CARRILLO",
+    "segundoApellido": "MARTINEZ",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD TECNOLOGICA DEL RETOÑO",
+      "siglas": "UTR",
+      "clave": "88"
+    },
+    "puesto": {
+      "nombre": "PRESIDENTE DEL COMITE DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DE LA UNIVERSIDAD TECNOLOGICA EL RETOÑO",
+      "nivel": "1"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "199827",
+    "nombres": "ENGELS RAFAEL ",
+    "primerApellido": "RUELAS",
+    "segundoApellido": "OLVERA",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO DE EDUCACION DE AGUASCALIENTES",
+      "siglas": "IEA",
+      "clave": "33"
+    },
+    "puesto": {
+      "nombre": "TITULAR DE LA UNIDAD AUDITORA DEL ORGANO INTERNO DE CONTROL DEL IEA",
+      "nivel": "UNIDAD"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "197838",
+    "nombres": "ENRIQUE",
+    "primerApellido": "GUZMAN",
+    "segundoApellido": "OTERO",
+    "institucionDependencia": {
+      "nombre": "COMISION CIUDADANA DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE AGUASCALIENTES",
+      "siglas": "CCAPAMA",
+      "clave": "12"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR DE OBRA",
+      "nivel": "EVENTUAL"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "198995",
+    "nombres": "ENRIQUE",
+    "primerApellido": "LOPEZ",
+    "segundoApellido": "DIAZ",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD AUTONOMA DE AGUASCALIENTES",
+      "siglas": "UAA",
+      "clave": "83"
+    },
+    "puesto": {
+      "nombre": "ENCARGADO DE CONTROL PRESUPUESTAL",
+      "nivel": "4N"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "195151",
+    "nombres": "ENRIQUE",
+    "primerApellido": "VAZQUEZ ",
+    "segundoApellido": "MARTINEZ",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD TECNOLOGICA DE AGUASCALIENTES",
+      "siglas": "UTA",
+      "clave": "85"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO DE SERVICIOS GENERALES",
+      "nivel": "JEFE DE DEPARTAMENTO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "196088",
+    "nombres": "ENRIQUE",
+    "primerApellido": "MONTALVO",
+    "segundoApellido": "VIVANCO",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO DEL DEPORTE DEL ESTADO DE AGUASCALIENTES",
+      "siglas": "IDEA",
+      "clave": "43"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE INSTALACIONES DEPORTIVAS",
+      "nivel": "DIRECTOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198971",
+    "nombres": "ENRIQUE",
+    "primerApellido": "LUNA",
+    "segundoApellido": "AVILA",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD AUTONOMA DE AGUASCALIENTES",
+      "siglas": "UAA",
+      "clave": "83"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO",
+      "nivel": "2A"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198975",
+    "nombres": "ENRIQUE",
+    "primerApellido": "JIMENEZ",
+    "segundoApellido": "DE LA HOYA",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD AUTONOMA DE AGUASCALIENTES",
+      "siglas": "UAA",
+      "clave": "83"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO ",
+      "nivel": "1C"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198921",
+    "nombres": "ENRIQUE",
+    "primerApellido": "LUJAN",
+    "segundoApellido": "SALAZAR",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD AUTONOMA DE AGUASCALIENTES",
+      "siglas": "UAA",
+      "clave": "83"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO ",
+      "nivel": "PROFESOR INVESTIGADOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199803",
+    "nombres": "ENRIQUE",
+    "primerApellido": "LLAMAS",
+    "segundoApellido": "RAMIREZ",
+    "institucionDependencia": {
+      "nombre": "ORGANO SUPERIOR DE FISCALIZACION DEL ESTADO DE AGUASCALIENTES",
+      "siglas": "OSFAGS",
+      "clave": "114"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR JURIDICO",
+      "nivel": "DIRECTOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "198229",
+    "nombres": "ENRIQUE",
+    "primerApellido": "APPENDINI",
+    "segundoApellido": "CARRERA",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALIENTES",
+      "siglas": "ITEA",
+      "clave": "39"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE DIFUSION",
+      "nivel": "DIRECTOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199485",
+    "nombres": "ENRIQUE",
+    "primerApellido": "GONZALEZ",
+    "segundoApellido": "AGUILAR",
+    "institucionDependencia": {
+      "nombre": "SUPREMO TRIBUNAL DE JUSTICIA DE AGUASCALIENTES",
+      "siglas": "",
+      "clave": "74"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR JURIDICO",
+      "nivel": "COORDINADOR GENERAL"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199859",
+    "nombres": "ENRIQUE ALBERTO",
+    "primerApellido": "RODRIGUEZ",
+    "segundoApellido": "RODRIGUEZ",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO DE VIVIENDA SOCIAL Y ORDENAMIENTO DE LA PROPIEDAD",
+      "siglas": "IVSOP",
+      "clave": "40"
+    },
+    "puesto": {
+      "nombre": "RESPONSABLE DE ARCHIVO CONTABLE",
+      "nivel": "ANALISTA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": null
+  },
+  {
+    "id": "198814",
+    "nombres": "ENRIQUE GERMAN",
+    "primerApellido": "SOLANA",
+    "segundoApellido": "AGUILAR",
+    "institucionDependencia": {
+      "nombre": "FISCALIA GENERAL DEL ESTADO",
+      "siglas": "",
+      "clave": "25"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR DE INFORMES PERICIALES B DE LA UNIDAD AUXILIAR ADMINISTRATIVA SUSTANTIVA DE INVESTIGACION PERICIAL",
+      "nivel": "JEFATURA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "195865",
+    "nombres": "ERICA MARITZA",
+    "primerApellido": "ORTIZ",
+    "segundoApellido": "GOMEZ",
+    "institucionDependencia": {
+      "nombre": "COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS DEL ESTADO DE AGUASCALIENTES",
+      "siglas": "CECYTEA",
+      "clave": "11"
+    },
+    "puesto": {
+      "nombre": "JEFE DEL DEPARTAMENTO DE RECURSOS HUMANOS",
+      "nivel": "JEFATURA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199382",
+    "nombres": "ERIK",
+    "primerApellido": "GARCIA",
+    "segundoApellido": "CIRIZA",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE ASIENTOS",
+      "siglas": "",
+      "clave": "55"
+    },
+    "puesto": {
+      "nombre": "ENC DEPORTES ASIENTOS",
+      "nivel": "7"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199012",
+    "nombres": "ERIKA",
+    "primerApellido": "DE LUNA",
+    "segundoApellido": "SALCEDO",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD AUTONOMA DE AGUASCALIENTES",
+      "siglas": "UAA",
+      "clave": "83"
+    },
+    "puesto": {
+      "nombre": "ASISTENTE DEL SECRETARIO ADMINISTRATIVO",
+      "nivel": "5N"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198914",
+    "nombres": "ERIKA DEL CARMEN",
+    "primerApellido": "CABRERA",
+    "segundoApellido": "REYES",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD AUTONOMA DE AGUASCALIENTES",
+      "siglas": "UAA",
+      "clave": "83"
+    },
+    "puesto": {
+      "nombre": "ENCARGADO DE CONTROL PRESUPUESTAL",
+      "nivel": "4B"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199432",
+    "nombres": "ERIKA JANETH",
+    "primerApellido": "GUTIERREZ",
+    "segundoApellido": "RODRIGUEZ",
+    "institucionDependencia": {
+      "nombre": "SUPREMO TRIBUNAL DE JUSTICIA DE AGUASCALIENTES",
+      "siglas": "",
+      "clave": "74"
+    },
+    "puesto": {
+      "nombre": "SECRETARIA PROYECTISTA DE MAGISTRADO S.T.J.",
+      "nivel": "SECRETARIO PROYECTISTA DE MAGISTRADO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199935",
+    "nombres": "ERIK ALVARO",
+    "primerApellido": "GARCIA",
+    "segundoApellido": "MUÑOZ",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE EL LLANO",
+      "siglas": "",
+      "clave": "58"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE ADMINISTRACION Y FINANZAS",
+      "nivel": "DIRECTIVO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "198958",
+    "nombres": "ERIKA SUSANA",
+    "primerApellido": "BANDA",
+    "segundoApellido": "DE LIRA",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD AUTONOMA DE AGUASCALIENTES",
+      "siglas": "UAA",
+      "clave": "83"
+    },
+    "puesto": {
+      "nombre": "ASISTENTE ADMINISTRATIVO",
+      "nivel": "5B"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199491",
+    "nombres": "ERIKA VIRIDIANA",
+    "primerApellido": "DIAZ",
+    "segundoApellido": "MADRIGAL",
+    "institucionDependencia": {
+      "nombre": "SUPREMO TRIBUNAL DE JUSTICIA DE AGUASCALIENTES",
+      "siglas": "",
+      "clave": "74"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA DE PSICOLOGIA",
+      "nivel": "DIRECTOR DE AREA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "126042",
+    "nombres": "ERIKA YAJAIRA",
+    "primerApellido": "RUELAS",
+    "segundoApellido": "DE LUNA",
+    "institucionDependencia": {
+      "nombre": "OPERADORA DE FIDEICOMISOS DEL ESTADO DE AGUASCALIENTES S.A. DE C.V.",
+      "siglas": "OFISA",
+      "clave": "65"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPTO DE CAPITAL HUMANO, SERVICIOS GENERALES Y RECURSOS HUMANOS",
+      "nivel": "JEFE DE DEPARTAMENTO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "122371",
+    "nombres": "ERIKA YAJAIRA ",
+    "primerApellido": "RUELAS",
+    "segundoApellido": "DE LUNA",
+    "institucionDependencia": {
+      "nombre": "OPERADORA DE FIDEICOMISOS DEL ESTADO DE AGUASCALIENTES S.A. DE C.V.",
+      "siglas": "OFISA",
+      "clave": "65"
+    },
+    "puesto": {
+      "nombre": "JEFE DEL DEPTO DE CAPITAL HUMANO Y SERVICIOS GENERALES Y RECURSOS MATERIALES",
+      "nivel": "JEFATURA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199834",
+    "nombres": "ERIK PATRICIO",
+    "primerApellido": "JIMENEZ",
+    "segundoApellido": "RAMIREZ",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO DE VIVIENDA SOCIAL Y ORDENAMIENTO DE LA PROPIEDAD",
+      "siglas": "IVSOP",
+      "clave": "40"
+    },
+    "puesto": {
+      "nombre": "ANALISTA DE SEGUIMIENTO DE SOLICITUDES Y CONFORMACION DE EXPEDIENTES",
+      "nivel": "ANALISTA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199122",
+    "nombres": "ERNESTO",
+    "primerApellido": "DE LUCAS",
+    "segundoApellido": "PALACIOS",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE DESARROLLO RURAL Y AGROEMPRESARIAL",
+      "siglas": "SEDRAE",
+      "clave": "99"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR GENERAL DE GANADERIA",
+      "nivel": "3"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "191899",
+    "nombres": "ERNESTO",
+    "primerApellido": "MACIAS",
+    "segundoApellido": "GOMEZ",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD TECNOLOGICA DEL NORTE DE AGUASCALIENTES",
+      "siglas": "UTNA",
+      "clave": "87"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTOR DE SERVICIOS ADMINISTRATIVOS",
+      "nivel": "SUBDIRECTOR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      }
+    ]
+  },
+  {
+    "id": "199088",
+    "nombres": "ERNESTO",
+    "primerApellido": "HERNANDEZ",
+    "segundoApellido": "SERRANO",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD AUTONOMA DE AGUASCALIENTES",
+      "siglas": "UAA",
+      "clave": "83"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR DE ALMACEN",
+      "nivel": "VII MIN "
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199307",
+    "nombres": "ERNESTO",
+    "primerApellido": "RANGEL",
+    "segundoApellido": "MUÑOZ",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE ASIENTOS",
+      "siglas": "",
+      "clave": "55"
+    },
+    "puesto": {
+      "nombre": "ENCARGADO DEPORTES VILLA JUAREZ",
+      "nivel": "7"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198769",
+    "nombres": "ERNESTO",
+    "primerApellido": "ROSALES",
+    "segundoApellido": "PEREZ",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO DE EDUCACION DE AGUASCALIENTES",
+      "siglas": "IEA",
+      "clave": "33"
+    },
+    "puesto": {
+      "nombre": "COMPRADOR",
+      "nivel": "ADMINISTRATIVO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "200518",
+    "nombres": "ESTEFANIA",
+    "primerApellido": "MACIAS",
+    "segundoApellido": "DIAZ ",
+    "institucionDependencia": {
+      "nombre": "H. CONGRESO DEL ESTADO DE AGUASCALIENTES",
+      "siglas": "HCEA",
+      "clave": "91"
+    },
+    "puesto": {
+      "nombre": "JEFA DEL DEPARTAMENTO DE CONTROL PRESUPUESTAL DEL H CONGRESO DEL ESTADO DE AGUASCALIENTES",
+      "nivel": "JEFA DEL DEPARTAMENTO DE CONTROL PRESUPUESTAL DEL H CONGRESO DEL ESTADO DE AGUASCALIENTES"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "200714",
+    "nombres": "ESTEFANY CAROLINA",
+    "primerApellido": "ALANIZ",
+    "segundoApellido": "ALVARADO",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA GENERAL DE GOBIERNO",
+      "siglas": "SEGGOB",
+      "clave": "95"
+    },
+    "puesto": {
+      "nombre": "ANALISTA ADMINISTRATIVO",
+      "nivel": "COORDINADOR/ANALISTA \"A\""
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199406",
+    "nombres": "ESTEFANY DAYANA",
+    "primerApellido": "PONCE",
+    "segundoApellido": "ROMO",
+    "institucionDependencia": {
+      "nombre": "SUPREMO TRIBUNAL DE JUSTICIA DE AGUASCALIENTES",
+      "siglas": "",
+      "clave": "74"
+    },
+    "puesto": {
+      "nombre": "SECRETARIA PROYECTISTA DE MAGISTRADO S.T.J.",
+      "nivel": "SECRETARIO PROYECTISTA DE MAGISTRADO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198516",
+    "nombres": "ESTEFANY FABIOLA",
+    "primerApellido": "GARCIA",
+    "segundoApellido": "VALADEZ",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE DESARROLLO ECONOMICO",
+      "siglas": "SEDEC",
+      "clave": "96"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR GENERAL DE FORTALECIMIENTO DE MIPYMES",
+      "nivel": "DIRECTOR GENERAL"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198478",
+    "nombres": "ESTELA",
+    "primerApellido": "VELASCO",
+    "segundoApellido": "YAÑEZ",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO DE INFRAESTRUCTURA FISICA EDUCATIVA DEL ESTADO DE AGUASCALIENTES",
+      "siglas": "IIFEA",
+      "clave": "34"
+    },
+    "puesto": {
+      "nombre": "JEFE DEL DEPTO. DE COSTOS Y PRESUPUESTOS",
+      "nivel": "JEFATURA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "198987",
+    "nombres": "ESTELA LIZBETH",
+    "primerApellido": "MUÑOZ",
+    "segundoApellido": "ANDRADE",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD AUTONOMA DE AGUASCALIENTES",
+      "siglas": "UAA",
+      "clave": "83"
+    },
+    "puesto": {
+      "nombre": "SECRETARIO DE CENTRO",
+      "nivel": "PROFESOR INVESTIGADOR "
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199425",
+    "nombres": "EULALIO DE JESUS",
+    "primerApellido": "CAMPOS",
+    "segundoApellido": "LOPEZ",
+    "institucionDependencia": {
+      "nombre": "SUPREMO TRIBUNAL DE JUSTICIA DE AGUASCALIENTES",
+      "siglas": "",
+      "clave": "74"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR DE SERVICIOS GENERALES ORALIDAD ",
+      "nivel": "TECNICO PROFESIONAL"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "199376",
+    "nombres": "EVA",
+    "primerApellido": "MACIAS",
+    "segundoApellido": "MACIAS",
+    "institucionDependencia": {
+      "nombre": "MUNICIPIO DE ASIENTOS",
+      "siglas": "",
+      "clave": "55"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA DE DESARROLLO SOCIAL",
+      "nivel": "4"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS"
+      }
+    ]
+  },
+  {
+    "id": "198234",
+    "nombres": "EVA DANIELA",
+    "primerApellido": "MORENO",
+    "segundoApellido": "MUÑOZ",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALIENTES",
+      "siglas": "ITEA",
+      "clave": "39"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA DE ASUNTOS JURIDICOS, PROTECCION DE DATOS PERSONALES Y EVALUACION",
+      "nivel": "DIRECTORA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  }
+]

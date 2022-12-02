@@ -1,0 +1,4127 @@
+[
+  {
+    "id": "203",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "MARTHA BEATRÍZ",
+    "primerApellido": "ÁLVAREZ ",
+    "segundoApellido": "GONZÁLEZ",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR/A EJECUTIVO/A A",
+      "nivel": "2501"
+    },
+    "tipoArea": [
+      {
+        "clave": "RE",
+        "valor": "Responsable de la ejecución de los trabajos"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "JERÓNIMO",
+      "primerApellido": "ORDAZ",
+      "segundoApellido": "LUNA",
+      "puesto": {
+        "nombre": "DIRECTOR/A DE AREA A",
+        "nivel": "2901"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "204",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "JOSÉ GUADALUPE",
+    "primerApellido": "BARRÓN ",
+    "segundoApellido": "MARTÍNEZ",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "PROFESIONAL ADMINISTRATIVO/A B",
+      "nivel": "1701"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "OMAR GERARDO",
+      "primerApellido": "MAGAÑA ",
+      "segundoApellido": "MALDONADO",
+      "puesto": {
+        "nombre": "COORDINADOR/A EJECUTIVO/A A",
+        "nivel": "2501"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "205",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "CLAUDIA",
+    "primerApellido": "DÍAZ ",
+    "segundoApellido": "ÁLVAREZ",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "PROFESIONAL ADMINISTRATIVO/A A",
+      "nivel": "2201"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "OMAR GERARDO",
+      "primerApellido": "MAGAÑA ",
+      "segundoApellido": "MALDONADO",
+      "puesto": {
+        "nombre": "COORDINADOR/A EJECUTIVO/A A",
+        "nivel": "2501"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "206",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "ESTEBAN",
+    "primerApellido": "GARCÍA",
+    "segundoApellido": "GONZÁLEZ",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "PROFESIONAL ADMINISTRATIVO/A B",
+      "nivel": "1701"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "OMAR GERARDO",
+      "primerApellido": "MAGAÑA ",
+      "segundoApellido": "MALDONADO",
+      "puesto": {
+        "nombre": "COORDINADOR/A EJECUTIVO/A A",
+        "nivel": "2501"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "207",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "NORMA ALEJANDRA",
+    "primerApellido": "VÁZQUEZ",
+    "segundoApellido": "JIMENEZ",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "PROFESIONAL ADMINISTRATIVO/A B",
+      "nivel": "1701"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "OMAR GERARDO",
+      "primerApellido": "MAGAÑA ",
+      "segundoApellido": "MALDONADO",
+      "puesto": {
+        "nombre": "COORDINADOR/A EJECUTIVO/A A",
+        "nivel": "2501"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "208",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "HÉCTOR",
+    "primerApellido": "VILLEGAS",
+    "segundoApellido": "ZAVALA",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "PROFESIONAL ADMINISTRATIVO/A A",
+      "nivel": "2201"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "OMAR GERARDO",
+      "primerApellido": "MAGAÑA ",
+      "segundoApellido": "MALDONADO",
+      "puesto": {
+        "nombre": "COORDINADOR/A EJECUTIVO/A A",
+        "nivel": "2501"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "209",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "IVAN ALBERTO",
+    "primerApellido": "GARCÍA",
+    "segundoApellido": "IRAZABA",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR/A EJECUTIVO/A A",
+      "nivel": "2501"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MANUEL LUDOVICO",
+      "primerApellido": "MATA",
+      "segundoApellido": "VEGA",
+      "puesto": {
+        "nombre": "COORDINADOR/A GENERAL",
+        "nivel": "3205"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "210",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "MARIO ALEJANDRO",
+    "primerApellido": "NAVARRO",
+    "segundoApellido": "SALDAÑA",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "PRESIDENTE/A MUNICIPAL",
+      "nivel": "3701"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "",
+      "primerApellido": "",
+      "segundoApellido": "",
+      "puesto": {
+        "nombre": "",
+        "nivel": ""
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "211",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "MANUEL LUDOVICO",
+    "primerApellido": "MATA",
+    "segundoApellido": "VEGA",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR/A GENERAL",
+      "nivel": "3205"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARIO ALEJANDRO",
+      "primerApellido": "NAVARRO",
+      "segundoApellido": "SALDAÑA",
+      "puesto": {
+        "nombre": "PRESIDENTE/A MUNICIPAL",
+        "nivel": "3701"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "212",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "IRMA",
+    "primerApellido": "MANDUJANO ",
+    "segundoApellido": "GARCÍA",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "TESORERO/A MUNICIPAL",
+      "nivel": "3602"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARIO ALEJANDRO",
+      "primerApellido": "NAVARRO",
+      "segundoApellido": "SALDAÑA",
+      "puesto": {
+        "nombre": "PRESIDENTE/A MUNICIPAL",
+        "nivel": "3701"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "213",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "MARCO ANTONIO",
+    "primerApellido": "CAMPOS ",
+    "segundoApellido": "BRIONES",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "REGIDOR/A",
+      "nivel": "3301"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "",
+      "primerApellido": "",
+      "segundoApellido": "",
+      "puesto": {
+        "nombre": "",
+        "nivel": ""
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "214",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "PATRICIA",
+    "primerApellido": "PRECIADO",
+    "segundoApellido": "PUGA",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "REGIDOR/A",
+      "nivel": "3301"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "",
+      "primerApellido": "",
+      "segundoApellido": "",
+      "puesto": {
+        "nombre": "",
+        "nivel": ""
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "215",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "ESTEFANÍA ",
+    "primerApellido": "PORRAS",
+    "segundoApellido": "BARAJAS",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "REGIDOR/A",
+      "nivel": "3301"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "",
+      "primerApellido": "",
+      "segundoApellido": "",
+      "puesto": {
+        "nombre": "",
+        "nivel": ""
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "216",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "LILIANA ALEJANDRA",
+    "primerApellido": "PRECIADO ",
+    "segundoApellido": "ZÁRATE",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "REGIDOR/A",
+      "nivel": "3301"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "",
+      "primerApellido": "",
+      "segundoApellido": "",
+      "puesto": {
+        "nombre": "",
+        "nivel": ""
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "217",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "CELIA CAROLINA",
+    "primerApellido": "VALADEZ",
+    "segundoApellido": "BELTRÁN",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "REGIDOR/A",
+      "nivel": "3301"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "",
+      "primerApellido": "",
+      "segundoApellido": "",
+      "puesto": {
+        "nombre": "",
+        "nivel": ""
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "218",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "JOSÉ LUIS",
+    "primerApellido": "VEGA",
+    "segundoApellido": "GODINEZ",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR/A GENERAL",
+      "nivel": "3101"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "",
+      "primerApellido": "",
+      "segundoApellido": "",
+      "puesto": {
+        "nombre": "",
+        "nivel": ""
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "219",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "MARTHA ISABEL",
+    "primerApellido": "DELGADO ",
+    "segundoApellido": "ZÁRATE",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR/A GENERAL A",
+      "nivel": "3202"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARIO ALEJANDRO",
+      "primerApellido": "NAVARRO",
+      "segundoApellido": "SALDAÑA",
+      "puesto": {
+        "nombre": "PRESIDENTE/A MUNICIPAL",
+        "nivel": "3701"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "220",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 5,
+      "valor": "Aportaciones Federales para Entidades Federativas y Municipios"
+    },
+    "nombres": "SAMUEL",
+    "primerApellido": "UGALDE",
+    "segundoApellido": "GARCÍA",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "SECRETARIO/A DE SEGURIDAD",
+      "nivel": "3603"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARIO ALEJANDRO",
+      "primerApellido": "NAVARRO",
+      "segundoApellido": "SALDAÑA",
+      "puesto": {
+        "nombre": "PRESIDENTE/A MUNICIPAL",
+        "nivel": "3701"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "221",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "DAVID CRISTIÁN",
+    "primerApellido": "CANTERO",
+    "segundoApellido": "LÓPEZ",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "SECRETARIO/A PARTICULAR",
+      "nivel": "3203"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARIO ALEJANDRO",
+      "primerApellido": "NAVARRO",
+      "segundoApellido": "SALDAÑA",
+      "puesto": {
+        "nombre": "PRESIDENTE/A MUNICIPAL",
+        "nivel": "3701"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "222",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "PEDRO PABLO",
+    "primerApellido": "CARDONA ",
+    "segundoApellido": "MALDONADO",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "CONTRALOR/A",
+      "nivel": "3201"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARIO ALEJANDRO",
+      "primerApellido": "NAVARRO",
+      "segundoApellido": "SALDAÑA",
+      "puesto": {
+        "nombre": "PRESIDENTE/A MUNICIPAL",
+        "nivel": "3701"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "223",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "AXEL ALEJANDRO",
+    "primerApellido": "VEGA ",
+    "segundoApellido": "GODINEZ",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR/A DE AREA",
+      "nivel": "2801"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARIO ALEJANDRO",
+      "primerApellido": "NAVARRO",
+      "segundoApellido": "SALDAÑA",
+      "puesto": {
+        "nombre": "PRESIDENTE/A MUNICIPAL",
+        "nivel": "3701"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "224",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "JOSÉ LUIS",
+    "primerApellido": "VEGA ",
+    "segundoApellido": "GODINEZ",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR/A GENERAL",
+      "nivel": "3101"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARIO ALEJANDRO",
+      "primerApellido": "NAVARRO",
+      "segundoApellido": "SALDAÑA",
+      "puesto": {
+        "nombre": "PRESIDENTE/A MUNICIPAL",
+        "nivel": "3701"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "225",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "MARCO ANTONIO",
+    "primerApellido": "ORTIZ ",
+    "segundoApellido": "RENDÓN",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR/A GENERAL A",
+      "nivel": "3202"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARIO ALEJANDRO",
+      "primerApellido": "NAVARRO",
+      "segundoApellido": "SALDAÑA",
+      "puesto": {
+        "nombre": "PRESIDENTE/A MUNICIPAL",
+        "nivel": "3701"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "226",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "ALEJANDRO ",
+    "primerApellido": "BARBARINO",
+    "segundoApellido": "SOSA",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR/A GENERAL A",
+      "nivel": "3202"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARIO ALEJANDRO",
+      "primerApellido": "NAVARRO",
+      "segundoApellido": "SALDAÑA",
+      "puesto": {
+        "nombre": "PRESIDENTE/A MUNICIPAL",
+        "nivel": "3701"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "227",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "TOPILTZIN",
+    "primerApellido": "ALCANTAR",
+    "segundoApellido": "FERRO",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR/A EJECUTIVO/A A",
+      "nivel": "2501"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARIO ALEJANDRO",
+      "primerApellido": "NAVARRO",
+      "segundoApellido": "SALDAÑA",
+      "puesto": {
+        "nombre": "PRESIDENTE/A MUNICIPAL",
+        "nivel": "3701"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "228",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "ADRIÁN",
+    "primerApellido": "ZUÑIGA",
+    "segundoApellido": "GUZMÁN",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR/A GENERAL",
+      "nivel": "3101"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARIO ALEJANDRO",
+      "primerApellido": "NAVARRO",
+      "segundoApellido": "SALDAÑA",
+      "puesto": {
+        "nombre": "PRESIDENTE/A MUNICIPAL",
+        "nivel": "3701"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "229",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "DANIEL",
+    "primerApellido": "GUTIÉRREZ",
+    "segundoApellido": "MEAVE",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR/A GENERAL",
+      "nivel": "3101"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARIO ALEJANDRO",
+      "primerApellido": "NAVARRO",
+      "segundoApellido": "SALDAÑA",
+      "puesto": {
+        "nombre": "PRESIDENTE/A MUNICIPAL",
+        "nivel": "3701"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "230",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "JESÚS ANTONIO",
+    "primerApellido": "BORJA",
+    "segundoApellido": "PÉREZ",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR/A GENERAL",
+      "nivel": "3101"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARIO ALEJANDRO",
+      "primerApellido": "NAVARRO",
+      "segundoApellido": "SALDAÑA",
+      "puesto": {
+        "nombre": "PRESIDENTE/A MUNICIPAL",
+        "nivel": "3701"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "231",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "LILIANA",
+    "primerApellido": "AGUILERA ",
+    "segundoApellido": "PADILLA",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR/A GENERAL",
+      "nivel": "3101"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARIO ALEJANDRO",
+      "primerApellido": "NAVARRO",
+      "segundoApellido": "SALDAÑA",
+      "puesto": {
+        "nombre": "PRESIDENTE/A MUNICIPAL",
+        "nivel": "3701"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "232",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "PATRICIA ELAIN",
+    "primerApellido": "SÁNCHEZ",
+    "segundoApellido": "STEVENSON",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR/A GENERAL",
+      "nivel": "3101"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARIO ALEJANDRO",
+      "primerApellido": "NAVARRO",
+      "segundoApellido": "SALDAÑA",
+      "puesto": {
+        "nombre": "PRESIDENTE/A MUNICIPAL",
+        "nivel": "3701"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "233",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "JUAN CARLOS",
+    "primerApellido": "DELGADO ",
+    "segundoApellido": "ZÁRATE",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR/A GENERAL A",
+      "nivel": "3202"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARIO ALEJANDRO",
+      "primerApellido": "NAVARRO",
+      "segundoApellido": "SALDAÑA",
+      "puesto": {
+        "nombre": "PRESIDENTE/A MUNICIPAL",
+        "nivel": "3701"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "234",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "OMAR LUIS",
+    "primerApellido": "ROSAS",
+    "segundoApellido": "OJEDA",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR/A GENERAL A",
+      "nivel": "3202"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARIO ALEJANDRO",
+      "primerApellido": "NAVARRO",
+      "segundoApellido": "SALDAÑA",
+      "puesto": {
+        "nombre": "PRESIDENTE/A MUNICIPAL",
+        "nivel": "3701"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "235",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "EDGAR IVÁN",
+    "primerApellido": "ZÁRATE ",
+    "segundoApellido": "MUÑOZ",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR/A GENERAL",
+      "nivel": "3101"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARIO ALEJANDRO",
+      "primerApellido": "NAVARRO",
+      "segundoApellido": "SALDAÑA",
+      "puesto": {
+        "nombre": "PRESIDENTE/A MUNICIPAL",
+        "nivel": "3701"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "236",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "RICARDO CARLOS",
+    "primerApellido": "RODRÍGUEZ",
+    "segundoApellido": "OJEDA",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR/A DE AREA",
+      "nivel": "2801"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARIO ALEJANDRO",
+      "primerApellido": "NAVARRO",
+      "segundoApellido": "SALDAÑA",
+      "puesto": {
+        "nombre": "PRESIDENTE/A MUNICIPAL",
+        "nivel": "3701"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "237",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "MIGUEL ÁNGEL",
+    "primerApellido": "MATILLA",
+    "segundoApellido": "BLANCO",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR/A GENERAL",
+      "nivel": "3101"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARIO ALEJANDRO",
+      "primerApellido": "NAVARRO",
+      "segundoApellido": "SALDAÑA",
+      "puesto": {
+        "nombre": "PRESIDENTE/A MUNICIPAL",
+        "nivel": "3701"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "238",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "ALEXAANDER",
+    "primerApellido": "HERÁNDEZ",
+    "segundoApellido": "MEDINA",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR/A GENERAL",
+      "nivel": "3101"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARIO ALEJANDRO",
+      "primerApellido": "NAVARRO",
+      "segundoApellido": "SALDAÑA",
+      "puesto": {
+        "nombre": "PRESIDENTE/A MUNICIPAL",
+        "nivel": "3701"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "239",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "EFRÉN DANIEL",
+    "primerApellido": "ZÚÑIGA",
+    "segundoApellido": "SANDOVAL",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR/A DE AREA A",
+      "nivel": "2901"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARIO ALEJANDRO",
+      "primerApellido": "NAVARRO",
+      "segundoApellido": "SALDAÑA",
+      "puesto": {
+        "nombre": "PRESIDENTE/A MUNICIPAL",
+        "nivel": "3701"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "240",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "JONATHAN ",
+    "primerApellido": "MORENO ",
+    "segundoApellido": "MEZA",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "JUEZ/A ADMINISTRATIVO/A MUNICIPAL",
+      "nivel": "2802"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARIO ALEJANDRO",
+      "primerApellido": "NAVARRO",
+      "segundoApellido": "SALDAÑA",
+      "puesto": {
+        "nombre": "PRESIDENTE/A MUNICIPAL",
+        "nivel": "3701"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "241",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "HUGO ALEJANDRO",
+    "primerApellido": "ALCOCER",
+    "segundoApellido": "GARCÍA DE LEÓN",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTOR/A A",
+      "nivel": "2701"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARIO ALEJANDRO",
+      "primerApellido": "NAVARRO",
+      "segundoApellido": "SALDAÑA",
+      "puesto": {
+        "nombre": "PRESIDENTE/A MUNICIPAL",
+        "nivel": "3701"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "242",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "MARIO GUSTAVO",
+    "primerApellido": "BUCK",
+    "segundoApellido": "GONZÁLEZ",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR/A DE AREA",
+      "nivel": "2801"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARIO ALEJANDRO",
+      "primerApellido": "NAVARRO",
+      "segundoApellido": "SALDAÑA",
+      "puesto": {
+        "nombre": "PRESIDENTE/A MUNICIPAL",
+        "nivel": "3701"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "243",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "ERICK",
+    "primerApellido": "GONZÁLEZ",
+    "segundoApellido": "RAMÍREZ",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR/A EJECUTIVO/A A",
+      "nivel": "2501"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARIO ALEJANDRO",
+      "primerApellido": "NAVARRO",
+      "segundoApellido": "SALDAÑA",
+      "puesto": {
+        "nombre": "PRESIDENTE/A MUNICIPAL",
+        "nivel": "3701"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "244",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "MARÍA GUADALUPE",
+    "primerApellido": "MELÉNDEZ ",
+    "segundoApellido": "RANGEL",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR/A GENERAL",
+      "nivel": "3205"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARIO ALEJANDRO",
+      "primerApellido": "NAVARRO",
+      "segundoApellido": "SALDAÑA",
+      "puesto": {
+        "nombre": "PRESIDENTE/A MUNICIPAL",
+        "nivel": "3701"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "245",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "LEONEL HUMBERTO",
+    "primerApellido": "RAMÍREZ",
+    "segundoApellido": "RANGEL",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR/A DE AREA A",
+      "nivel": "2901"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARIO ALEJANDRO",
+      "primerApellido": "NAVARRO",
+      "segundoApellido": "SALDAÑA",
+      "puesto": {
+        "nombre": "PRESIDENTE/A MUNICIPAL",
+        "nivel": "3701"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "246",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "JUAN",
+    "primerApellido": "RIVERA ",
+    "segundoApellido": "FLORES",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTOR/A A",
+      "nivel": "2701"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARIO ALEJANDRO",
+      "primerApellido": "NAVARRO",
+      "segundoApellido": "SALDAÑA",
+      "puesto": {
+        "nombre": "PRESIDENTE/A MUNICIPAL",
+        "nivel": "3701"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "247",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "ALFREDO",
+    "primerApellido": "LÓPEZ",
+    "segundoApellido": "MÁRQUEZ",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR/A DE AREA A",
+      "nivel": "2901"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARIO ALEJANDRO",
+      "primerApellido": "NAVARRO",
+      "segundoApellido": "SALDAÑA",
+      "puesto": {
+        "nombre": "PRESIDENTE/A MUNICIPAL",
+        "nivel": "3701"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "248",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 1,
+      "valor": "Provisiones salariales y económicas"
+    },
+    "nombres": "JOSÉ FELIX",
+    "primerApellido": "PÉREZ",
+    "segundoApellido": "RAMÍREZ",
+    "institucionDependencia": {
+      "nombre": "Municipio de Guanajuato",
+      "siglas": "",
+      "clave": "56"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR/A DE AREA",
+      "nivel": "2801"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "MARIO ALEJANDRO",
+      "primerApellido": "NAVARRO",
+      "segundoApellido": "SALDAÑA",
+      "puesto": {
+        "nombre": "PRESIDENTE/A MUNICIPAL",
+        "nivel": "3701"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "249",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 6,
+      "valor": "Convenios y programas Federales y Estatales"
+    },
+    "nombres": "ANALUCIA",
+    "primerApellido": "RODRIGUEZ ",
+    "segundoApellido": "PRADO",
+    "institucionDependencia": {
+      "nombre": "Municipio de Salvatierra",
+      "siglas": "",
+      "clave": "70"
+    },
+    "puesto": {
+      "nombre": "REGIDOR ",
+      "nivel": "1-C"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "Responsable de la contratación"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "GERMÁN ",
+      "primerApellido": "CERVANTES ",
+      "segundoApellido": "VEGA ",
+      "puesto": {
+        "nombre": "PRESIDENTE MUNICIPAL",
+        "nivel": "1-A"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "250",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 6,
+      "valor": "Convenios y programas Federales y Estatales"
+    },
+    "nombres": "MARIA TERESA ",
+    "primerApellido": "CERDA ",
+    "segundoApellido": "ROSAS ",
+    "institucionDependencia": {
+      "nombre": "Municipio de Salvatierra",
+      "siglas": "",
+      "clave": "70"
+    },
+    "puesto": {
+      "nombre": "REGIDOR ",
+      "nivel": "1-C"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "Responsable de la contratación"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "GERMÁN ",
+      "primerApellido": "CERVANTES ",
+      "segundoApellido": "VEGA ",
+      "puesto": {
+        "nombre": "PRESIDENTE MUNICIPAL",
+        "nivel": "1-A"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "251",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 6,
+      "valor": "Convenios y programas Federales y Estatales"
+    },
+    "nombres": "JORGE LUIS ",
+    "primerApellido": "ROSAS",
+    "segundoApellido": "TAPIA",
+    "institucionDependencia": {
+      "nombre": "Municipio de Salvatierra",
+      "siglas": "",
+      "clave": "70"
+    },
+    "puesto": {
+      "nombre": "REGIDOR ",
+      "nivel": "1-C"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      },
+      {
+        "clave": "RC",
+        "valor": "Responsable de la contratación"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "GERMÁN ",
+      "primerApellido": "CERVANTES ",
+      "segundoApellido": "VEGA ",
+      "puesto": {
+        "nombre": "PRESIDENTE MUNICIPAL",
+        "nivel": "1-A"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "252",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 6,
+      "valor": "Convenios y programas Federales y Estatales"
+    },
+    "nombres": "JOSE ANTONIO",
+    "primerApellido": "LOPEZ",
+    "segundoApellido": "MEDINA ",
+    "institucionDependencia": {
+      "nombre": "Municipio de Salvatierra",
+      "siglas": "",
+      "clave": "70"
+    },
+    "puesto": {
+      "nombre": "TESORERO MUNICIPAL",
+      "nivel": "2"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      },
+      {
+        "clave": "RC",
+        "valor": "Responsable de la contratación"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "GERMÁN ",
+      "primerApellido": "CERVANTES ",
+      "segundoApellido": "VEGA ",
+      "puesto": {
+        "nombre": "PRESIDENTE MUNICIPAL",
+        "nivel": "1-A"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "253",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 6,
+      "valor": "Convenios y programas Federales y Estatales"
+    },
+    "nombres": "MARIA TERESA ",
+    "primerApellido": "PIZANO ",
+    "segundoApellido": "MANDUJANO ",
+    "institucionDependencia": {
+      "nombre": "Municipio de Salvatierra",
+      "siglas": "",
+      "clave": "70"
+    },
+    "puesto": {
+      "nombre": "OFICIAL MAYOR",
+      "nivel": "2"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "Responsable de la contratación"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "GERMÁN ",
+      "primerApellido": "CERVANTES ",
+      "segundoApellido": "VEGA ",
+      "puesto": {
+        "nombre": "PRESIDENTE MUNICIPAL",
+        "nivel": "1-A"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "254",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 6,
+      "valor": "Convenios y programas Federales y Estatales"
+    },
+    "nombres": "REMIGIO",
+    "primerApellido": "LOPEZ",
+    "segundoApellido": "LOPEZ",
+    "institucionDependencia": {
+      "nombre": "Municipio de Salvatierra",
+      "siglas": "",
+      "clave": "70"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE DESARROLLO RURAL",
+      "nivel": "3"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "Responsable de la contratación"
+      },
+      {
+        "clave": "C",
+        "valor": "Contratante"
+      },
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      },
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "GERMÁN ",
+      "primerApellido": "CERVANTES ",
+      "segundoApellido": "VEGA ",
+      "puesto": {
+        "nombre": "PRESIDENTE MUNICIPAL",
+        "nivel": "1-A"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "255",
+    "fechaCaptura": "2022-11-14T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 6,
+      "valor": "Convenios y programas Federales y Estatales"
+    },
+    "nombres": "OSCAR ",
+    "primerApellido": "GUZMAN ",
+    "segundoApellido": "LOPEZ",
+    "institucionDependencia": {
+      "nombre": "Municipio de Salvatierra",
+      "siglas": "",
+      "clave": "70"
+    },
+    "puesto": {
+      "nombre": "PROYECTISTA ",
+      "nivel": "6"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      },
+      {
+        "clave": "RC",
+        "valor": "Responsable de la contratación"
+      },
+      {
+        "clave": "RE",
+        "valor": "Responsable de la ejecución de los trabajos"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "REMIGIO",
+      "primerApellido": "LOPEZ",
+      "segundoApellido": "LOPEZ",
+      "puesto": {
+        "nombre": "DIRECTOR DE DESARROLLO RURAL",
+        "nivel": "3"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "256",
+    "fechaCaptura": "2022-11-13T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 7,
+      "valor": "Ramo 28 Participaciones a Entidades Federativas y Municipios"
+    },
+    "nombres": "JOSE CUAUHTEMOC",
+    "primerApellido": "CHAVEZ",
+    "segundoApellido": "MUÑOZ",
+    "institucionDependencia": {
+      "nombre": "Tribunal de justicia Administrativa",
+      "siglas": "",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "MAGISTRADO",
+      "nivel": "20"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "Contratante"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "",
+      "primerApellido": "",
+      "segundoApellido": "",
+      "puesto": {
+        "nombre": "",
+        "nivel": ""
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "257",
+    "fechaCaptura": "2022-11-13T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 7,
+      "valor": "Ramo 28 Participaciones a Entidades Federativas y Municipios"
+    },
+    "nombres": "GERARDO",
+    "primerApellido": "ARROYO",
+    "segundoApellido": "FIGUEROA",
+    "institucionDependencia": {
+      "nombre": "Tribunal de justicia Administrativa",
+      "siglas": "",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "MAGISTRADO",
+      "nivel": "20"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "Contratante"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "",
+      "primerApellido": "",
+      "segundoApellido": "",
+      "puesto": {
+        "nombre": "",
+        "nivel": ""
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "258",
+    "fechaCaptura": "2022-11-13T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 7,
+      "valor": "Ramo 28 Participaciones a Entidades Federativas y Municipios"
+    },
+    "nombres": "ANTONIA GUILLERMINA",
+    "primerApellido": "VALDOVINO",
+    "segundoApellido": "GUZMAN",
+    "institucionDependencia": {
+      "nombre": "Tribunal de justicia Administrativa",
+      "siglas": "",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "MAGISTRADO",
+      "nivel": "20"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "Contratante"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "",
+      "primerApellido": "",
+      "segundoApellido": "",
+      "puesto": {
+        "nombre": "",
+        "nivel": ""
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "259",
+    "fechaCaptura": "2022-11-13T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 7,
+      "valor": "Ramo 28 Participaciones a Entidades Federativas y Municipios"
+    },
+    "nombres": "ELIVERIO",
+    "primerApellido": "GARCIA",
+    "segundoApellido": "MONZON",
+    "institucionDependencia": {
+      "nombre": "Tribunal de justicia Administrativa",
+      "siglas": "",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "MAGISTRADO",
+      "nivel": "20"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "Contratante"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "",
+      "primerApellido": "",
+      "segundoApellido": "",
+      "puesto": {
+        "nombre": "",
+        "nivel": ""
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "260",
+    "fechaCaptura": "2022-11-13T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 7,
+      "valor": "Ramo 28 Participaciones a Entidades Federativas y Municipios"
+    },
+    "nombres": "ARTURO",
+    "primerApellido": "LARA",
+    "segundoApellido": "MARTINEZ",
+    "institucionDependencia": {
+      "nombre": "Tribunal de justicia Administrativa",
+      "siglas": "",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "MAGISTRADO",
+      "nivel": "20"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "Contratante"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "",
+      "primerApellido": "",
+      "segundoApellido": "",
+      "puesto": {
+        "nombre": "",
+        "nivel": ""
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "261",
+    "fechaCaptura": "2022-11-13T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 7,
+      "valor": "Ramo 28 Participaciones a Entidades Federativas y Municipios"
+    },
+    "nombres": "ISAIAS",
+    "primerApellido": "DOMINGUEZ",
+    "segundoApellido": "OLVERA",
+    "institucionDependencia": {
+      "nombre": "Tribunal de justicia Administrativa",
+      "siglas": "",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR/A GENERAL A",
+      "nivel": "15"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      },
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      },
+      {
+        "clave": "C",
+        "valor": "Contratante"
+      },
+      {
+        "clave": "RE",
+        "valor": "Responsable de la ejecución de los trabajos"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "ELIVERIO",
+      "primerApellido": "GARCIA",
+      "segundoApellido": "MONZON",
+      "puesto": {
+        "nombre": "MAGISTRADO",
+        "nivel": "20"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "262",
+    "fechaCaptura": "2022-11-13T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 7,
+      "valor": "Ramo 28 Participaciones a Entidades Federativas y Municipios"
+    },
+    "nombres": "MARIANA",
+    "primerApellido": "MARTINEZ",
+    "segundoApellido": "PIÑA",
+    "institucionDependencia": {
+      "nombre": "Tribunal de justicia Administrativa",
+      "siglas": "",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR/A GENERAL A",
+      "nivel": "15"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "ELIVERIO",
+      "primerApellido": "GARCIA",
+      "segundoApellido": "MONZON",
+      "puesto": {
+        "nombre": "MAGISTRADO",
+        "nivel": "20"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "263",
+    "fechaCaptura": "2022-11-13T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 7,
+      "valor": "Ramo 28 Participaciones a Entidades Federativas y Municipios"
+    },
+    "nombres": "MIRIAM",
+    "primerApellido": "RAMIREZ",
+    "segundoApellido": "SEVILLA",
+    "institucionDependencia": {
+      "nombre": "Tribunal de justicia Administrativa",
+      "siglas": "",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR/A DE AREA A",
+      "nivel": "14"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "ELIVERIO",
+      "primerApellido": "GARCIA",
+      "segundoApellido": "MONZON",
+      "puesto": {
+        "nombre": "MAGISTRADO",
+        "nivel": "20"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "264",
+    "fechaCaptura": "2022-11-13T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 7,
+      "valor": "Ramo 28 Participaciones a Entidades Federativas y Municipios"
+    },
+    "nombres": "MARÍA ELIZABETH",
+    "primerApellido": "AGUILAR",
+    "segundoApellido": "GONZALEZ",
+    "institucionDependencia": {
+      "nombre": "Tribunal de justicia Administrativa",
+      "siglas": "",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE AREA",
+      "nivel": "13"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "ELIVERIO",
+      "primerApellido": "GARCIA",
+      "segundoApellido": "MONZON",
+      "puesto": {
+        "nombre": "MAGISTRADO",
+        "nivel": "20"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "265",
+    "fechaCaptura": "2022-11-13T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 7,
+      "valor": "Ramo 28 Participaciones a Entidades Federativas y Municipios"
+    },
+    "nombres": "JORGE ALEJANDRO",
+    "primerApellido": "ESQUIVEL",
+    "segundoApellido": "PALOMARES",
+    "institucionDependencia": {
+      "nombre": "Tribunal de justicia Administrativa",
+      "siglas": "",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR",
+      "nivel": "13"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "ELIVERIO",
+      "primerApellido": "GARCIA",
+      "segundoApellido": "MONZON",
+      "puesto": {
+        "nombre": "MAGISTRADO",
+        "nivel": "20"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "266",
+    "fechaCaptura": "2022-11-13T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 7,
+      "valor": "Ramo 28 Participaciones a Entidades Federativas y Municipios"
+    },
+    "nombres": "ERIKA YOLANDA",
+    "primerApellido": "CERON",
+    "segundoApellido": "RAMIREZ",
+    "institucionDependencia": {
+      "nombre": "Tribunal de justicia Administrativa",
+      "siglas": "",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE AREA",
+      "nivel": "13"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "ELIVERIO",
+      "primerApellido": "GARCIA",
+      "segundoApellido": "MONZON",
+      "puesto": {
+        "nombre": "MAGISTRADO",
+        "nivel": "20"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "267",
+    "fechaCaptura": "2022-11-13T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 7,
+      "valor": "Ramo 28 Participaciones a Entidades Federativas y Municipios"
+    },
+    "nombres": "ISAIAS",
+    "primerApellido": "AREVALO",
+    "segundoApellido": "RANGEL",
+    "institucionDependencia": {
+      "nombre": "Tribunal de justicia Administrativa",
+      "siglas": "",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR/A DE PROYECTOS A",
+      "nivel": "12"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      },
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "ELIVERIO",
+      "primerApellido": "GARCIA",
+      "segundoApellido": "MONZON",
+      "puesto": {
+        "nombre": "MAGISTRADO",
+        "nivel": "20"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "268",
+    "fechaCaptura": "2022-11-13T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 7,
+      "valor": "Ramo 28 Participaciones a Entidades Federativas y Municipios"
+    },
+    "nombres": "DIANA ALEJANDRA",
+    "primerApellido": "DARDON",
+    "segundoApellido": "MARQUEZ",
+    "institucionDependencia": {
+      "nombre": "Tribunal de justicia Administrativa",
+      "siglas": "",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR/A DE PROYECTOS B",
+      "nivel": "11"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      },
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "ISAIAS",
+      "primerApellido": "DOMINGUEZ",
+      "segundoApellido": "OLVERA",
+      "puesto": {
+        "nombre": "DIRECTOR/A GENERAL A",
+        "nivel": "15"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "269",
+    "fechaCaptura": "2022-11-13T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 7,
+      "valor": "Ramo 28 Participaciones a Entidades Federativas y Municipios"
+    },
+    "nombres": "RAFAEL",
+    "primerApellido": "MIGUEL",
+    "segundoApellido": "GALVAN",
+    "institucionDependencia": {
+      "nombre": "Tribunal de justicia Administrativa",
+      "siglas": "",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR/A DE PROYECTOS B",
+      "nivel": "11"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      },
+      {
+        "clave": "RE",
+        "valor": "Responsable de la ejecución de los trabajos"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "ISAIAS",
+      "primerApellido": "DOMINGUEZ",
+      "segundoApellido": "OLVERA",
+      "puesto": {
+        "nombre": "DIRECTOR/A GENERAL A",
+        "nivel": "15"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "270",
+    "fechaCaptura": "2022-11-13T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 7,
+      "valor": "Ramo 28 Participaciones a Entidades Federativas y Municipios"
+    },
+    "nombres": "MA CONSUELO",
+    "primerApellido": "CADENA",
+    "segundoApellido": "GONZALEZ",
+    "institucionDependencia": {
+      "nombre": "Tribunal de justicia Administrativa",
+      "siglas": "",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR/A DE PROYECTOS B",
+      "nivel": "11"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "Responsable de la contratación"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "ISAIAS",
+      "primerApellido": "DOMINGUEZ",
+      "segundoApellido": "OLVERA",
+      "puesto": {
+        "nombre": "DIRECTOR/A GENERAL A",
+        "nivel": "15"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "271",
+    "fechaCaptura": "2022-11-13T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 7,
+      "valor": "Ramo 28 Participaciones a Entidades Federativas y Municipios"
+    },
+    "nombres": "LAURA ESPERANZA",
+    "primerApellido": "ARAUJO",
+    "segundoApellido": "ANGUIANO",
+    "institucionDependencia": {
+      "nombre": "Tribunal de justicia Administrativa",
+      "siglas": "",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO \"A\"",
+      "nivel": "10"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "Responsable de la contratación"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "ISAIAS",
+      "primerApellido": "DOMINGUEZ",
+      "segundoApellido": "OLVERA",
+      "puesto": {
+        "nombre": "DIRECTOR/A GENERAL A",
+        "nivel": "15"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "272",
+    "fechaCaptura": "2022-11-13T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 7,
+      "valor": "Ramo 28 Participaciones a Entidades Federativas y Municipios"
+    },
+    "nombres": "MAURO ABRAHAM",
+    "primerApellido": "CUEVAS",
+    "segundoApellido": "ALBA",
+    "institucionDependencia": {
+      "nombre": "Tribunal de justicia Administrativa",
+      "siglas": "",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO \"A\"",
+      "nivel": "10"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "ELIVERIO",
+      "primerApellido": "GARCIA",
+      "segundoApellido": "MONZON",
+      "puesto": {
+        "nombre": "MAGISTRADO",
+        "nivel": "20"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "273",
+    "fechaCaptura": "2022-11-13T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 7,
+      "valor": "Ramo 28 Participaciones a Entidades Federativas y Municipios"
+    },
+    "nombres": "LAURA MARIANA",
+    "primerApellido": "LLOVERA",
+    "segundoApellido": "BARRANCO",
+    "institucionDependencia": {
+      "nombre": "Tribunal de justicia Administrativa",
+      "siglas": "",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO \"A\"",
+      "nivel": "10"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "Responsable de la contratación"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "ISAIAS",
+      "primerApellido": "DOMINGUEZ",
+      "segundoApellido": "OLVERA",
+      "puesto": {
+        "nombre": "DIRECTOR/A GENERAL A",
+        "nivel": "15"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "274",
+    "fechaCaptura": "2022-11-13T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 7,
+      "valor": "Ramo 28 Participaciones a Entidades Federativas y Municipios"
+    },
+    "nombres": "ARNULFO",
+    "primerApellido": "MORALES",
+    "segundoApellido": "GONZALEZ",
+    "institucionDependencia": {
+      "nombre": "Tribunal de justicia Administrativa",
+      "siglas": "",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "ANALISTA DE PROYECTOS C",
+      "nivel": "8"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      },
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "ELIVERIO",
+      "primerApellido": "GARCIA",
+      "segundoApellido": "MONZON",
+      "puesto": {
+        "nombre": "MAGISTRADO",
+        "nivel": "20"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "275",
+    "fechaCaptura": "2022-11-13T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 7,
+      "valor": "Ramo 28 Participaciones a Entidades Federativas y Municipios"
+    },
+    "nombres": "MARIA GUADALUPE",
+    "primerApellido": "MEDRANO",
+    "segundoApellido": "NAVARRO",
+    "institucionDependencia": {
+      "nombre": "Tribunal de justicia Administrativa",
+      "siglas": "",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "JEFE DE UNIDAD \"A\"",
+      "nivel": "6"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "Responsable de la contratación"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "ISAIAS",
+      "primerApellido": "DOMINGUEZ",
+      "segundoApellido": "OLVERA",
+      "puesto": {
+        "nombre": "DIRECTOR/A GENERAL A",
+        "nivel": "15"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "276",
+    "fechaCaptura": "2022-11-13T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 7,
+      "valor": "Ramo 28 Participaciones a Entidades Federativas y Municipios"
+    },
+    "nombres": "ANA GABRIELA",
+    "primerApellido": "CEBALLOS",
+    "segundoApellido": "ACOSTA",
+    "institucionDependencia": {
+      "nombre": "Tribunal de justicia Administrativa",
+      "siglas": "",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "ANALISTA DE PROYECTOS C",
+      "nivel": "8"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "Responsable de la contratación"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "ISAIAS",
+      "primerApellido": "DOMINGUEZ",
+      "segundoApellido": "OLVERA",
+      "puesto": {
+        "nombre": "DIRECTOR/A GENERAL A",
+        "nivel": "15"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "277",
+    "fechaCaptura": "2022-11-13T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 7,
+      "valor": "Ramo 28 Participaciones a Entidades Federativas y Municipios"
+    },
+    "nombres": "PAOLA VALERIA",
+    "primerApellido": "CUEVAS",
+    "segundoApellido": "ALBA",
+    "institucionDependencia": {
+      "nombre": "Tribunal de justicia Administrativa",
+      "siglas": "",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "ANALISTA DE PROYECTOS C",
+      "nivel": "8"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "ELIVERIO",
+      "primerApellido": "GARCIA",
+      "segundoApellido": "MONZON",
+      "puesto": {
+        "nombre": "MAGISTRADO",
+        "nivel": "20"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "278",
+    "fechaCaptura": "2022-11-13T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 7,
+      "valor": "Ramo 28 Participaciones a Entidades Federativas y Municipios"
+    },
+    "nombres": "JORGE",
+    "primerApellido": "TORRES",
+    "segundoApellido": "ARROYO",
+    "institucionDependencia": {
+      "nombre": "Tribunal de justicia Administrativa",
+      "siglas": "",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR/A DE PROYECTOS B",
+      "nivel": "11"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requirente"
+      },
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "ISAIAS",
+      "primerApellido": "DOMINGUEZ",
+      "segundoApellido": "OLVERA",
+      "puesto": {
+        "nombre": "DIRECTOR/A GENERAL A",
+        "nivel": "15"
+      }
+    },
+    "observaciones": ""
+  },
+  {
+    "id": "279",
+    "fechaCaptura": "2022-11-13T18:00:00Z",
+    "ejercicioFiscal": "2022",
+    "ramo": {
+      "clave": 7,
+      "valor": "Ramo 28 Participaciones a Entidades Federativas y Municipios"
+    },
+    "nombres": "ALEJANDRO",
+    "primerApellido": "RAMIREZ",
+    "segundoApellido": "MEJÍA",
+    "institucionDependencia": {
+      "nombre": "Tribunal de justicia Administrativa",
+      "siglas": "",
+      "clave": "122"
+    },
+    "puesto": {
+      "nombre": "ASISTENTE ADMINISTRATIVO",
+      "nivel": "5"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "Responsable de la contratación"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones Públicas"
+      }
+    ],
+    "superiorInmediato": {
+      "nombres": "RAFAEL",
+      "primerApellido": "MIGUEL",
+      "segundoApellido": "GALVAN",
+      "puesto": {
+        "nombre": "COORDINADOR/A DE PROYECTOS B",
+        "nivel": "11"
+      }
+    },
+    "observaciones": ""
+  }
+]

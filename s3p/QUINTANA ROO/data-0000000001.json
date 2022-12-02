@@ -1,0 +1,75 @@
+[
+  {
+    "id": "61e1db512a16a00013957b07",
+    "institucionDependencia": {
+      "nombre": "DIRECCIÓN DE JUZGADOS CIVICOS DE BENITO JUÁREZ",
+      "siglas": "DJCBJ"
+    },
+    "particularSancionado": {
+      "domicilioMexico": {
+        "pais": {
+          "clave": "MX",
+          "valor": "México"
+        },
+        "entidadFederativa": {
+          "clave": "23",
+          "valor": "Quintana Roo"
+        },
+        "municipio": {
+          "clave": "005",
+          "valor": "Benito Juárez"
+        },
+        "localidad": {
+          "clave": "0001",
+          "valor": "Cancún"
+        },
+        "vialidad": {
+          "clave": "CALLE",
+          "valor": "LAGUNA VERDE"
+        },
+        "codigoPostal": "77539"
+      },
+      "nombreRazonSocial": "JUAN CARLOS IBARRA GUEVARA",
+      "tipoPersona": "F"
+    },
+    "responsableSancion": {
+      "nombres": "JUAN CARLOS ",
+      "primerApellido": "IBARRA",
+      "segundoApellido": "GUEVARA"
+    },
+    "resolucion": {
+      "sentido": "SE DETERMINA RESPONSABILIDAD CLASIFICADA COMO SOBORNO"
+    },
+    "multa": {
+      "moneda": {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO"
+      },
+      "monto": 8688
+    },
+    "__v": 0,
+    "acto": "SOBORNO",
+    "autoridadSancionadora": "TERCERA SALA UNITARIA DEL TJAQROO",
+    "causaMotivoHechos": "UN CONOCIDO DEL PARTICULAR FUE DETENIDO Y PUESTO A DISPOSICIÓN  DEL JUEZ CÍVICO Y HACE DEL CONOCIMIENTO DEL PARTICULAR  EL MONTO DE LA MULTA PERO AL NO TENER EL DINERO EN ESE MOMENTO LA REFERIDA SERVIDORALE RECIBIÓ 1000 PESOS  JUNTO CON EL RELOJ DEL PARTICULAR",
+    "documentos": [
+      {
+        "id": "1",
+        "titulo": "SENTENCIA DEFINITIVA DEL EXPEDIENTE TJA/QR-SU3-092-2019",
+        "tipo": "RESOLUCION",
+        "descripcion": "SENTENCIA DE FECHA 21 DE SEPTIEMBRE DE 2020 POR LA QUE SE DETERMINÓ LA RESPONSABILIDAD ADMINISTRATIVA GRAVE DE JUAN CARLOS IBARRA GUEVARA (PARTICULAR)",
+        "url": "https://drive.google.com/file/d/11r8DZBS682ixinpGZSn-eoPJmCnbtu7M/view",
+        "fecha": "2021-09-21"
+      }
+    ],
+    "expediente": "TJA/QR-SU3-092-2019",
+    "fechaCaptura": "2022-07-15T18:32:17+00:00",
+    "tipoFalta": "ABUSO DE FUNCIONES",
+    "tipoSancion": [
+      {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA",
+        "descripcion": "SANCIÓN ECONÓMICA POR LA CANTIDAD DE 8,688.00"
+      }
+    ]
+  }
+]

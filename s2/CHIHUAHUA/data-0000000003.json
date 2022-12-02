@@ -1,0 +1,1910 @@
+[
+  {
+    "id": "757",
+    "ramo": {
+      "clave": 8,
+      "valor": "Municipios"
+    },
+    "institucionDependencia": {
+      "nombre": "Municipio de Juárez",
+      "siglas": "",
+      "clave": "240"
+    },
+    "puesto": {
+      "nombre": "Jefe de departamento",
+      "nivel": "0012"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Director",
+        "nivel": "0011"
+      },
+      "nombres": "JESSICA KARINA",
+      "primerApellido": "ESPINO",
+      "segundoApellido": "LÓPEZ"
+    },
+    "fechaCaptura": "2021-12-17T22:27:39.000000Z",
+    "ejercicioFiscal": "2021",
+    "nombres": "ADRIANA MONSERRAT",
+    "primerApellido": "AGUILAR",
+    "segundoApellido": "GALLEGOS",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      },
+      {
+        "clave": "RE",
+        "valor": "Responsable de la ejecución de los trabajos"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ]
+  },
+  {
+    "id": "758",
+    "ramo": {
+      "clave": 8,
+      "valor": "Municipios"
+    },
+    "institucionDependencia": {
+      "nombre": "Municipio de Juárez",
+      "siglas": "",
+      "clave": "240"
+    },
+    "puesto": {
+      "nombre": "Auxiliar",
+      "nivel": "0560"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Director",
+        "nivel": "0011"
+      },
+      "nombres": "PEDRO",
+      "primerApellido": "MARTÍNEZ",
+      "segundoApellido": "CHAIREZ"
+    },
+    "fechaCaptura": "2021-12-17T22:31:41.000000Z",
+    "ejercicioFiscal": "2021",
+    "nombres": "LUCRECIA",
+    "primerApellido": "CARMONA",
+    "segundoApellido": "SEGURA",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      },
+      {
+        "clave": "RE",
+        "valor": "Responsable de la ejecución de los trabajos"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "Concesiones, licencias, permisos, autorizaciones y prorrogas"
+      }
+    ]
+  },
+  {
+    "id": "764",
+    "ramo": {
+      "clave": 4,
+      "valor": "Organismos descentralizados"
+    },
+    "institucionDependencia": {
+      "nombre": "Instituto Chihuahuense de Infraestructura Fisica Educativa ",
+      "siglas": "",
+      "clave": "430"
+    },
+    "puesto": {
+      "nombre": "Director",
+      "nivel": "0011"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Director general",
+        "nivel": "0035"
+      },
+      "nombres": "RAUL",
+      "primerApellido": "GARCIA",
+      "segundoApellido": "RUIZ"
+    },
+    "fechaCaptura": "2021-12-21T19:35:34.000000Z",
+    "ejercicioFiscal": "2021",
+    "nombres": "JAVIER",
+    "primerApellido": "ARREOLA",
+    "segundoApellido": "RUIZ DE LA PEÑA",
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "Otra"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones públicas"
+      }
+    ]
+  },
+  {
+    "id": "765",
+    "ramo": {
+      "clave": 4,
+      "valor": "Organismos descentralizados"
+    },
+    "institucionDependencia": {
+      "nombre": "Instituto Chihuahuense de Infraestructura Fisica Educativa ",
+      "siglas": "",
+      "clave": "430"
+    },
+    "puesto": {
+      "nombre": "Jefe de departamento",
+      "nivel": "0012"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Director general",
+        "nivel": "0035"
+      },
+      "nombres": "RAUL",
+      "primerApellido": "GARCIA",
+      "segundoApellido": "RUIZ"
+    },
+    "fechaCaptura": "2021-12-21T19:37:05.000000Z",
+    "ejercicioFiscal": "2021",
+    "nombres": "GUILLERMO ARMANDO",
+    "primerApellido": "VILLANUEVA",
+    "segundoApellido": "AVALOS",
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "Otra"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones públicas"
+      }
+    ]
+  },
+  {
+    "id": "766",
+    "ramo": {
+      "clave": 4,
+      "valor": "Organismos descentralizados"
+    },
+    "institucionDependencia": {
+      "nombre": "Instituto Chihuahuense de Infraestructura Fisica Educativa ",
+      "siglas": "",
+      "clave": "430"
+    },
+    "puesto": {
+      "nombre": "Director",
+      "nivel": "0011"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Coordinador",
+        "nivel": "0007"
+      },
+      "nombres": "MANUEL BASILIO",
+      "primerApellido": "OROZCO",
+      "segundoApellido": "RUIZ"
+    },
+    "fechaCaptura": "2021-12-21T19:43:32.000000Z",
+    "ejercicioFiscal": "2021",
+    "nombres": "EDMUNDO",
+    "primerApellido": "GOMEZ",
+    "segundoApellido": "CASILLAS",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      },
+      {
+        "clave": "RE",
+        "valor": "Responsable de la ejecución de los trabajos"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones públicas"
+      }
+    ]
+  },
+  {
+    "id": "767",
+    "ramo": {
+      "clave": 4,
+      "valor": "Organismos descentralizados"
+    },
+    "institucionDependencia": {
+      "nombre": "Instituto Chihuahuense de Infraestructura Fisica Educativa ",
+      "siglas": "",
+      "clave": "430"
+    },
+    "puesto": {
+      "nombre": "Coordinador",
+      "nivel": "0007"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Director",
+        "nivel": "0011"
+      },
+      "nombres": "EDMUNDO",
+      "primerApellido": "GOMEZ",
+      "segundoApellido": "CASILLAS"
+    },
+    "fechaCaptura": "2021-12-21T19:53:09.000000Z",
+    "ejercicioFiscal": "2021",
+    "nombres": "ISMAEL",
+    "primerApellido": "MEDINA",
+    "segundoApellido": "MEDINA",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones públicas"
+      }
+    ]
+  },
+  {
+    "id": "768",
+    "ramo": {
+      "clave": 4,
+      "valor": "Organismos descentralizados"
+    },
+    "institucionDependencia": {
+      "nombre": "Instituto Chihuahuense de Infraestructura Fisica Educativa ",
+      "siglas": "",
+      "clave": "430"
+    },
+    "puesto": {
+      "nombre": "Coordinador",
+      "nivel": "0007"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Director",
+        "nivel": "0011"
+      },
+      "nombres": "EDMUNDO",
+      "primerApellido": "GOMEZ",
+      "segundoApellido": "CASILLAS"
+    },
+    "fechaCaptura": "2021-12-21T19:56:09.000000Z",
+    "ejercicioFiscal": "2021",
+    "nombres": "GUILLERMO",
+    "primerApellido": "ALBA",
+    "segundoApellido": "PADILLA",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones públicas"
+      }
+    ]
+  },
+  {
+    "id": "769",
+    "ramo": {
+      "clave": 4,
+      "valor": "Organismos descentralizados"
+    },
+    "institucionDependencia": {
+      "nombre": "Instituto Chihuahuense de Infraestructura Fisica Educativa ",
+      "siglas": "",
+      "clave": "430"
+    },
+    "puesto": {
+      "nombre": "Coordinador",
+      "nivel": "0007"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Director",
+        "nivel": "0011"
+      },
+      "nombres": "EDMUNDO",
+      "primerApellido": "GOMEZ",
+      "segundoApellido": "CASILLAS"
+    },
+    "fechaCaptura": "2021-12-21T19:57:54.000000Z",
+    "ejercicioFiscal": "2021",
+    "nombres": "NORBERTO",
+    "primerApellido": "LUJAN",
+    "segundoApellido": "SAENZ",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones públicas"
+      }
+    ]
+  },
+  {
+    "id": "770",
+    "ramo": {
+      "clave": 4,
+      "valor": "Organismos descentralizados"
+    },
+    "institucionDependencia": {
+      "nombre": "Instituto Chihuahuense de Infraestructura Fisica Educativa ",
+      "siglas": "",
+      "clave": "430"
+    },
+    "puesto": {
+      "nombre": "Jefe de departamento",
+      "nivel": "0012"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Director",
+        "nivel": "0011"
+      },
+      "nombres": "EDMUNDO",
+      "primerApellido": "GOMEZ",
+      "segundoApellido": "CASILLAS"
+    },
+    "fechaCaptura": "2021-12-21T19:59:27.000000Z",
+    "ejercicioFiscal": "2021",
+    "nombres": "LAURA REBECA",
+    "primerApellido": "OJEDA",
+    "segundoApellido": "SAENZ",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones públicas"
+      }
+    ]
+  },
+  {
+    "id": "771",
+    "ramo": {
+      "clave": 4,
+      "valor": "Organismos descentralizados"
+    },
+    "institucionDependencia": {
+      "nombre": "Instituto Chihuahuense de Infraestructura Fisica Educativa ",
+      "siglas": "",
+      "clave": "430"
+    },
+    "puesto": {
+      "nombre": "Secretaria de director",
+      "nivel": "0398"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Director",
+        "nivel": "0011"
+      },
+      "nombres": "EDMUNDO",
+      "primerApellido": "GOMEZ",
+      "segundoApellido": "CASILLAS"
+    },
+    "fechaCaptura": "2021-12-21T20:02:41.000000Z",
+    "ejercicioFiscal": "2021",
+    "nombres": "JANETH",
+    "primerApellido": "LOPEZ",
+    "segundoApellido": "MARTINEZ",
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "Otra"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones públicas"
+      }
+    ]
+  },
+  {
+    "id": "772",
+    "ramo": {
+      "clave": 4,
+      "valor": "Organismos descentralizados"
+    },
+    "institucionDependencia": {
+      "nombre": "Instituto Chihuahuense de Infraestructura Fisica Educativa ",
+      "siglas": "",
+      "clave": "430"
+    },
+    "puesto": {
+      "nombre": "Director",
+      "nivel": "0011"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Director general",
+        "nivel": "0035"
+      },
+      "nombres": "RAUL",
+      "primerApellido": "GARCIA",
+      "segundoApellido": "RUIZ"
+    },
+    "fechaCaptura": "2021-12-27T22:59:16.000000Z",
+    "ejercicioFiscal": "2021",
+    "nombres": "MARIA LIZETH",
+    "primerApellido": "DIAZ",
+    "segundoApellido": "MARIN",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requiriente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones públicas"
+      }
+    ]
+  },
+  {
+    "id": "773",
+    "ramo": {
+      "clave": 4,
+      "valor": "Organismos descentralizados"
+    },
+    "institucionDependencia": {
+      "nombre": "Instituto Chihuahuense de Infraestructura Fisica Educativa ",
+      "siglas": "",
+      "clave": "430"
+    },
+    "puesto": {
+      "nombre": "Jefe de departamento",
+      "nivel": "0012"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Director",
+        "nivel": "0011"
+      },
+      "nombres": "MARIA LIZETH",
+      "primerApellido": "DIAZ",
+      "segundoApellido": "MARIN"
+    },
+    "fechaCaptura": "2021-12-27T23:01:23.000000Z",
+    "ejercicioFiscal": "2021",
+    "nombres": "MARGARITA ASUNCION",
+    "primerApellido": "PORTILLO",
+    "segundoApellido": "ESPINOZA",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requiriente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones públicas"
+      }
+    ]
+  },
+  {
+    "id": "782",
+    "ramo": {
+      "clave": 4,
+      "valor": "Organismos descentralizados"
+    },
+    "institucionDependencia": {
+      "nombre": "Instituto Chihuahuense de Infraestructura Fisica Educativa ",
+      "siglas": "",
+      "clave": "430"
+    },
+    "puesto": {
+      "nombre": "Jefe de departamento",
+      "nivel": "0012"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Director",
+        "nivel": "0011"
+      },
+      "nombres": "DANIELA",
+      "primerApellido": "MICHAUS",
+      "segundoApellido": "CHAVEZ"
+    },
+    "fechaCaptura": "2022-01-31T19:56:05.000000Z",
+    "ejercicioFiscal": "2021",
+    "nombres": "RICARDO ANTONIO",
+    "primerApellido": "DAVILA",
+    "segundoApellido": "LOERA",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones públicas"
+      }
+    ]
+  },
+  {
+    "id": "784",
+    "ramo": {
+      "clave": 4,
+      "valor": "Organismos descentralizados"
+    },
+    "institucionDependencia": {
+      "nombre": "Pensiones Civiles del Estado de Chihuahua",
+      "siglas": "",
+      "clave": "421"
+    },
+    "puesto": {
+      "nombre": "Jefe de departamento",
+      "nivel": "0012"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Director",
+        "nivel": "0011"
+      },
+      "nombres": "Rene",
+      "primerApellido": "Núñez",
+      "segundoApellido": "Bautista"
+    },
+    "fechaCaptura": "2022-02-01T17:10:59.000000Z",
+    "ejercicioFiscal": "2022",
+    "nombres": "Guadalupe",
+    "primerApellido": "Sánchez",
+    "segundoApellido": "Guzmán",
+    "tipoArea": [
+      {
+        "clave": "RE",
+        "valor": "Responsable de la ejecución de los trabajos"
+      },
+      {
+        "clave": "RC",
+        "valor": "Responsable de la contratación"
+      },
+      {
+        "clave": "C",
+        "valor": "Contratante"
+      },
+      {
+        "clave": "R",
+        "valor": "Requiriente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones públicas"
+      },
+      {
+        "clave": 2,
+        "valor": "Concesiones, licencias, permisos, autorizaciones y prorrogas"
+      }
+    ]
+  },
+  {
+    "id": "802",
+    "ramo": {
+      "clave": 4,
+      "valor": "Organismos descentralizados"
+    },
+    "institucionDependencia": {
+      "nombre": "Universidad Tecnológica de Chihuahua ",
+      "siglas": "",
+      "clave": "402"
+    },
+    "puesto": {
+      "nombre": "Director",
+      "nivel": "0011"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Director",
+        "nivel": "0011"
+      },
+      "nombres": "RICARDO",
+      "primerApellido": "GUEVARA",
+      "segundoApellido": "VELAZQUEZ"
+    },
+    "fechaCaptura": "2022-02-18T19:27:36.000000Z",
+    "ejercicioFiscal": "2022",
+    "nombres": "RICARDO",
+    "primerApellido": "GUEVARA",
+    "segundoApellido": "VELAZQUEZ",
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "Otra"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones públicas"
+      },
+      {
+        "clave": 2,
+        "valor": "Concesiones, licencias, permisos, autorizaciones y prorrogas"
+      }
+    ]
+  },
+  {
+    "id": "803",
+    "ramo": {
+      "clave": 4,
+      "valor": "Organismos descentralizados"
+    },
+    "institucionDependencia": {
+      "nombre": "Universidad Tecnológica de Chihuahua ",
+      "siglas": "",
+      "clave": "402"
+    },
+    "puesto": {
+      "nombre": "Director",
+      "nivel": "0011"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Director",
+        "nivel": "0011"
+      },
+      "nombres": "ANDRES",
+      "primerApellido": "PEREZ",
+      "segundoApellido": "GARCIA"
+    },
+    "fechaCaptura": "2022-02-18T19:29:31.000000Z",
+    "ejercicioFiscal": "2022",
+    "nombres": "ANDRES",
+    "primerApellido": "PEREZ",
+    "segundoApellido": "GARCIA",
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "Otra"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones públicas"
+      },
+      {
+        "clave": 2,
+        "valor": "Concesiones, licencias, permisos, autorizaciones y prorrogas"
+      }
+    ]
+  },
+  {
+    "id": "804",
+    "ramo": {
+      "clave": 4,
+      "valor": "Organismos descentralizados"
+    },
+    "institucionDependencia": {
+      "nombre": "Universidad Tecnológica de Chihuahua ",
+      "siglas": "",
+      "clave": "402"
+    },
+    "puesto": {
+      "nombre": "Académico",
+      "nivel": "00069"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Académico",
+        "nivel": "00069"
+      },
+      "nombres": "EMMA LETICIA",
+      "primerApellido": "ALDERETE",
+      "segundoApellido": "OCHOA"
+    },
+    "fechaCaptura": "2022-02-18T19:30:41.000000Z",
+    "ejercicioFiscal": "2022",
+    "nombres": "EMMA LETICIA",
+    "primerApellido": "ALDERETE",
+    "segundoApellido": "OCHOA",
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "Otra"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones públicas"
+      },
+      {
+        "clave": 2,
+        "valor": "Concesiones, licencias, permisos, autorizaciones y prorrogas"
+      }
+    ]
+  },
+  {
+    "id": "805",
+    "ramo": {
+      "clave": 4,
+      "valor": "Organismos descentralizados"
+    },
+    "institucionDependencia": {
+      "nombre": "Universidad Tecnológica de Chihuahua ",
+      "siglas": "",
+      "clave": "402"
+    },
+    "puesto": {
+      "nombre": "Jefe de departamento",
+      "nivel": "0012"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Director",
+        "nivel": "0011"
+      },
+      "nombres": "RICARDO",
+      "primerApellido": "GUEVARA",
+      "segundoApellido": "VELAZQUEZ"
+    },
+    "fechaCaptura": "2022-02-18T19:31:38.000000Z",
+    "ejercicioFiscal": "2022",
+    "nombres": "BLANCA IRENE",
+    "primerApellido": "GONZALEZ",
+    "segundoApellido": "ACUÑA",
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "Otra"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones públicas"
+      },
+      {
+        "clave": 2,
+        "valor": "Concesiones, licencias, permisos, autorizaciones y prorrogas"
+      }
+    ]
+  },
+  {
+    "id": "806",
+    "ramo": {
+      "clave": 4,
+      "valor": "Organismos descentralizados"
+    },
+    "institucionDependencia": {
+      "nombre": "Universidad Tecnológica de Chihuahua ",
+      "siglas": "",
+      "clave": "402"
+    },
+    "puesto": {
+      "nombre": "Abogado",
+      "nivel": "00063"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Abogado",
+        "nivel": "00063"
+      },
+      "nombres": "SONIA IVETTE",
+      "primerApellido": "MIRELES",
+      "segundoApellido": "ORTIZ"
+    },
+    "fechaCaptura": "2022-02-18T19:32:23.000000Z",
+    "ejercicioFiscal": "2022",
+    "nombres": "SONIA IVETTE",
+    "primerApellido": "MIRELES",
+    "segundoApellido": "ORTIZ",
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "Otra"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones públicas"
+      },
+      {
+        "clave": 2,
+        "valor": "Concesiones, licencias, permisos, autorizaciones y prorrogas"
+      }
+    ]
+  },
+  {
+    "id": "807",
+    "ramo": {
+      "clave": 4,
+      "valor": "Organismos descentralizados"
+    },
+    "institucionDependencia": {
+      "nombre": "Universidad Tecnológica de Chihuahua ",
+      "siglas": "",
+      "clave": "402"
+    },
+    "puesto": {
+      "nombre": "Subdirector",
+      "nivel": "00064"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Subdirector",
+        "nivel": "00064"
+      },
+      "nombres": "CESAR HUMBERTO",
+      "primerApellido": "QUIÑONEZ",
+      "segundoApellido": "ARAUJO"
+    },
+    "fechaCaptura": "2022-02-18T19:33:12.000000Z",
+    "ejercicioFiscal": "2022",
+    "nombres": "CESAR HUMBERTO",
+    "primerApellido": "QUIÑONEZ",
+    "segundoApellido": "ARAUJO",
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "Otra"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones públicas"
+      },
+      {
+        "clave": 2,
+        "valor": "Concesiones, licencias, permisos, autorizaciones y prorrogas"
+      }
+    ]
+  },
+  {
+    "id": "830",
+    "ramo": {
+      "clave": 4,
+      "valor": "Organismos descentralizados"
+    },
+    "institucionDependencia": {
+      "nombre": "Universidad Tecnológica de Chihuahua ",
+      "siglas": "",
+      "clave": "402"
+    },
+    "puesto": {
+      "nombre": "Director",
+      "nivel": "0011"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Director",
+        "nivel": "0011"
+      },
+      "nombres": "Alonso",
+      "primerApellido": "Chacon",
+      "segundoApellido": "Terrazas"
+    },
+    "fechaCaptura": "2022-02-24T22:28:29.000000Z",
+    "ejercicioFiscal": "2022",
+    "nombres": "Alonso",
+    "primerApellido": "Chacon",
+    "segundoApellido": "Terrazas",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      },
+      {
+        "clave": "R",
+        "valor": "Requiriente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones públicas"
+      }
+    ]
+  },
+  {
+    "id": "831",
+    "ramo": {
+      "clave": 4,
+      "valor": "Organismos descentralizados"
+    },
+    "institucionDependencia": {
+      "nombre": "Universidad Tecnológica de Chihuahua ",
+      "siglas": "",
+      "clave": "402"
+    },
+    "puesto": {
+      "nombre": "Subdirector",
+      "nivel": "00064"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Subdirector",
+        "nivel": "00064"
+      },
+      "nombres": "Benjamin",
+      "primerApellido": "Cervantes",
+      "segundoApellido": "Martinez"
+    },
+    "fechaCaptura": "2022-02-24T22:29:49.000000Z",
+    "ejercicioFiscal": "2022",
+    "nombres": "Benjamin",
+    "primerApellido": "Cervantes",
+    "segundoApellido": "Martinez",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      },
+      {
+        "clave": "R",
+        "valor": "Requiriente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones públicas"
+      }
+    ]
+  },
+  {
+    "id": "832",
+    "ramo": {
+      "clave": 4,
+      "valor": "Organismos descentralizados"
+    },
+    "institucionDependencia": {
+      "nombre": "Universidad Tecnológica de Chihuahua ",
+      "siglas": "",
+      "clave": "402"
+    },
+    "puesto": {
+      "nombre": "Director",
+      "nivel": "0011"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Director",
+        "nivel": "0011"
+      },
+      "nombres": "Daniel Aarón",
+      "primerApellido": "Leon",
+      "segundoApellido": "Reza"
+    },
+    "fechaCaptura": "2022-02-24T22:31:16.000000Z",
+    "ejercicioFiscal": "2022",
+    "nombres": "Daniel Aarón",
+    "primerApellido": "Leon",
+    "segundoApellido": "Reza",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      },
+      {
+        "clave": "R",
+        "valor": "Requiriente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones públicas"
+      }
+    ]
+  },
+  {
+    "id": "833",
+    "ramo": {
+      "clave": 4,
+      "valor": "Organismos descentralizados"
+    },
+    "institucionDependencia": {
+      "nombre": "Universidad Tecnológica de Chihuahua ",
+      "siglas": "",
+      "clave": "402"
+    },
+    "puesto": {
+      "nombre": "Jefe de departamento",
+      "nivel": "0012"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Jefe de departamento",
+        "nivel": "0012"
+      },
+      "nombres": "Edwing Gabriel",
+      "primerApellido": "Lujan",
+      "segundoApellido": "Davila"
+    },
+    "fechaCaptura": "2022-02-24T22:32:42.000000Z",
+    "ejercicioFiscal": "2022",
+    "nombres": "Edwing Gabriel",
+    "primerApellido": "Lujan",
+    "segundoApellido": "Davila",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      },
+      {
+        "clave": "R",
+        "valor": "Requiriente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones públicas"
+      }
+    ]
+  },
+  {
+    "id": "834",
+    "ramo": {
+      "clave": 4,
+      "valor": "Organismos descentralizados"
+    },
+    "institucionDependencia": {
+      "nombre": "Universidad Tecnológica de Chihuahua ",
+      "siglas": "",
+      "clave": "402"
+    },
+    "puesto": {
+      "nombre": "Director",
+      "nivel": "0011"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Director",
+        "nivel": "0011"
+      },
+      "nombres": "Esperanza Raquel",
+      "primerApellido": "Moreno",
+      "segundoApellido": "Ojeda"
+    },
+    "fechaCaptura": "2022-02-24T22:33:58.000000Z",
+    "ejercicioFiscal": "2022",
+    "nombres": "Esperanza Raquel",
+    "primerApellido": "Moreno",
+    "segundoApellido": "Ojeda",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      },
+      {
+        "clave": "R",
+        "valor": "Requiriente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones públicas"
+      }
+    ]
+  },
+  {
+    "id": "835",
+    "ramo": {
+      "clave": 4,
+      "valor": "Organismos descentralizados"
+    },
+    "institucionDependencia": {
+      "nombre": "Universidad Tecnológica de Chihuahua ",
+      "siglas": "",
+      "clave": "402"
+    },
+    "puesto": {
+      "nombre": "Director",
+      "nivel": "0011"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Director",
+        "nivel": "0011"
+      },
+      "nombres": "Karina",
+      "primerApellido": "Dominguez",
+      "segundoApellido": "Rodriguez"
+    },
+    "fechaCaptura": "2022-02-24T22:35:04.000000Z",
+    "ejercicioFiscal": "2022",
+    "nombres": "Karina",
+    "primerApellido": "Dominguez",
+    "segundoApellido": "Rodriguez",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      },
+      {
+        "clave": "R",
+        "valor": "Requiriente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones públicas"
+      }
+    ]
+  },
+  {
+    "id": "836",
+    "ramo": {
+      "clave": 4,
+      "valor": "Organismos descentralizados"
+    },
+    "institucionDependencia": {
+      "nombre": "Universidad Tecnológica de Chihuahua ",
+      "siglas": "",
+      "clave": "402"
+    },
+    "puesto": {
+      "nombre": "Director",
+      "nivel": "0011"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Director",
+        "nivel": "0011"
+      },
+      "nombres": "Marcelino",
+      "primerApellido": "Sanchez",
+      "segundoApellido": "Alvarado"
+    },
+    "fechaCaptura": "2022-02-24T22:36:02.000000Z",
+    "ejercicioFiscal": "2022",
+    "nombres": "Marcelino",
+    "primerApellido": "Sanchez",
+    "segundoApellido": "Alvarado",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      },
+      {
+        "clave": "R",
+        "valor": "Requiriente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones públicas"
+      }
+    ]
+  },
+  {
+    "id": "837",
+    "ramo": {
+      "clave": 4,
+      "valor": "Organismos descentralizados"
+    },
+    "institucionDependencia": {
+      "nombre": "Universidad Tecnológica de Chihuahua ",
+      "siglas": "",
+      "clave": "402"
+    },
+    "puesto": {
+      "nombre": "Director",
+      "nivel": "0011"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Director",
+        "nivel": "0011"
+      },
+      "nombres": "Maria del Rocio",
+      "primerApellido": "Flores",
+      "segundoApellido": "Licon"
+    },
+    "fechaCaptura": "2022-02-24T22:37:01.000000Z",
+    "ejercicioFiscal": "2022",
+    "nombres": "Maria del Rocio",
+    "primerApellido": "Flores",
+    "segundoApellido": "Licon",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      },
+      {
+        "clave": "R",
+        "valor": "Requiriente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones públicas"
+      }
+    ]
+  },
+  {
+    "id": "838",
+    "ramo": {
+      "clave": 4,
+      "valor": "Organismos descentralizados"
+    },
+    "institucionDependencia": {
+      "nombre": "Universidad Tecnológica de Chihuahua ",
+      "siglas": "",
+      "clave": "402"
+    },
+    "puesto": {
+      "nombre": "Director",
+      "nivel": "0011"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Director",
+        "nivel": "0011"
+      },
+      "nombres": "Karla",
+      "primerApellido": "Cardenas",
+      "segundoApellido": "Luna"
+    },
+    "fechaCaptura": "2022-02-24T22:38:01.000000Z",
+    "ejercicioFiscal": "2022",
+    "nombres": "Karla",
+    "primerApellido": "Cardenas",
+    "segundoApellido": "Luna",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      },
+      {
+        "clave": "R",
+        "valor": "Requiriente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones públicas"
+      }
+    ]
+  },
+  {
+    "id": "839",
+    "ramo": {
+      "clave": 4,
+      "valor": "Organismos descentralizados"
+    },
+    "institucionDependencia": {
+      "nombre": "Universidad Tecnológica de Chihuahua ",
+      "siglas": "",
+      "clave": "402"
+    },
+    "puesto": {
+      "nombre": "Director",
+      "nivel": "0011"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Director",
+        "nivel": "0011"
+      },
+      "nombres": "Vianney",
+      "primerApellido": "Trevizo",
+      "segundoApellido": "Zamarron"
+    },
+    "fechaCaptura": "2022-02-24T22:38:57.000000Z",
+    "ejercicioFiscal": "2022",
+    "nombres": "Vianney",
+    "primerApellido": "Trevizo",
+    "segundoApellido": "Zamarron",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      },
+      {
+        "clave": "R",
+        "valor": "Requiriente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones públicas"
+      }
+    ]
+  },
+  {
+    "id": "841",
+    "ramo": {
+      "clave": 4,
+      "valor": "Organismos descentralizados"
+    },
+    "institucionDependencia": {
+      "nombre": "Fideapech",
+      "siglas": "",
+      "clave": "501"
+    },
+    "puesto": {
+      "nombre": "Jefe de departamento",
+      "nivel": "0012"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Director general",
+        "nivel": "0035"
+      },
+      "nombres": "JUAN ROBERTO",
+      "primerApellido": "MARTINEZ",
+      "segundoApellido": "ARAIZA"
+    },
+    "fechaCaptura": "2022-06-27T19:21:48.000000Z",
+    "ejercicioFiscal": "2022",
+    "nombres": "JORGE ADALBERTO",
+    "primerApellido": "SEAÑEZ",
+    "segundoApellido": "DOMINGUEZ",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "Requiriente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones públicas"
+      }
+    ]
+  },
+  {
+    "id": "842",
+    "ramo": {
+      "clave": 5,
+      "valor": "Fideicomisos estatales"
+    },
+    "institucionDependencia": {
+      "nombre": "Fideapech",
+      "siglas": "",
+      "clave": "501"
+    },
+    "puesto": {
+      "nombre": "Jefe de departamento",
+      "nivel": "0012"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Director general",
+        "nivel": "0035"
+      },
+      "nombres": "JUAN ROBERTO",
+      "primerApellido": "MARTINEZ",
+      "segundoApellido": "ARAIZA"
+    },
+    "fechaCaptura": "2022-06-27T19:27:06.000000Z",
+    "ejercicioFiscal": "2022",
+    "nombres": "JHANA IKI",
+    "primerApellido": "KORTRIGHT",
+    "segundoApellido": "RODRIGUEZ",
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "Responsable de la contratación"
+      },
+      {
+        "clave": "C",
+        "valor": "Contratante"
+      },
+      {
+        "clave": "R",
+        "valor": "Requiriente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ]
+  },
+  {
+    "id": "843",
+    "ramo": {
+      "clave": 5,
+      "valor": "Fideicomisos estatales"
+    },
+    "institucionDependencia": {
+      "nombre": "Fideapech",
+      "siglas": "",
+      "clave": "501"
+    },
+    "puesto": {
+      "nombre": "Jefe de departamento",
+      "nivel": "0012"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Director general",
+        "nivel": "0035"
+      },
+      "nombres": "JUAN ROBERTO",
+      "primerApellido": "MARTINEZ",
+      "segundoApellido": "ARAIZA"
+    },
+    "fechaCaptura": "2022-06-27T19:29:06.000000Z",
+    "ejercicioFiscal": "2022",
+    "nombres": "GRISEL ESLI",
+    "primerApellido": "PERALTA",
+    "segundoApellido": "QUIÑONES",
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "Responsable de la contratación"
+      },
+      {
+        "clave": "C",
+        "valor": "Contratante"
+      },
+      {
+        "clave": "R",
+        "valor": "Requiriente"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones públicas"
+      },
+      {
+        "clave": 3,
+        "valor": "Enajenación de bienes muebles"
+      }
+    ]
+  },
+  {
+    "id": "845",
+    "ramo": {
+      "clave": 4,
+      "valor": "Organismos descentralizados"
+    },
+    "institucionDependencia": {
+      "nombre": "Servicios Educativos del Estado de Chihuahua  (Seech)",
+      "siglas": "",
+      "clave": "401"
+    },
+    "puesto": {
+      "nombre": "Analista",
+      "nivel": "0208"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Analista",
+        "nivel": "0208"
+      },
+      "nombres": "ISHAID",
+      "primerApellido": "HUIE",
+      "segundoApellido": "REZA"
+    },
+    "fechaCaptura": "2022-09-15T15:52:03.000000Z",
+    "ejercicioFiscal": "2022",
+    "nombres": "ISHAID",
+    "primerApellido": "HUIE",
+    "segundoApellido": "REZA",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones públicas"
+      }
+    ]
+  },
+  {
+    "id": "846",
+    "ramo": {
+      "clave": 4,
+      "valor": "Organismos descentralizados"
+    },
+    "institucionDependencia": {
+      "nombre": "Servicios Educativos del Estado de Chihuahua  (Seech)",
+      "siglas": "",
+      "clave": "401"
+    },
+    "puesto": {
+      "nombre": "Analista",
+      "nivel": "0208"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Analista",
+        "nivel": "0208"
+      },
+      "nombres": "JORGE ANTONIO",
+      "primerApellido": "PERALES",
+      "segundoApellido": "LOBATOS"
+    },
+    "fechaCaptura": "2022-09-15T15:58:35.000000Z",
+    "ejercicioFiscal": "2022",
+    "nombres": "JORGE ANTONIO",
+    "primerApellido": "PERALES",
+    "segundoApellido": "LOBATOS",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones públicas"
+      }
+    ]
+  },
+  {
+    "id": "847",
+    "ramo": {
+      "clave": 4,
+      "valor": "Organismos descentralizados"
+    },
+    "institucionDependencia": {
+      "nombre": "Servicios Educativos del Estado de Chihuahua  (Seech)",
+      "siglas": "",
+      "clave": "401"
+    },
+    "puesto": {
+      "nombre": "Analista",
+      "nivel": "0208"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Analista",
+        "nivel": "0208"
+      },
+      "nombres": "LORENA IVONNE",
+      "primerApellido": "LOPEZ",
+      "segundoApellido": "MELENDEZ"
+    },
+    "fechaCaptura": "2022-09-15T16:02:45.000000Z",
+    "ejercicioFiscal": "2022",
+    "nombres": "LORENA IVONNE",
+    "primerApellido": "LOPEZ",
+    "segundoApellido": "MELENDEZ",
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "Técnica"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "Contrataciones públicas"
+      }
+    ]
+  }
+]

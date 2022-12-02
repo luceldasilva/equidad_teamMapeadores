@@ -1,0 +1,321 @@
+[
+  {
+    "id": "614b8129b3f1050013f31b0f",
+    "ramo": {
+      "clave": 47,
+      "valor": "ENTIDADES NO SECTORIZADAS"
+    },
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Quintana Roo",
+      "clave": "8301",
+      "siglas": "SESAEQROO"
+    },
+    "puesto": {
+      "nombre": "Director de Administración y Finanzas",
+      "nivel": "200"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Secretario Técnico",
+        "nivel": "100"
+      },
+      "rfc": "AIRL641013498",
+      "curp": "AIRL641013HQRNDS09",
+      "nombres": "Luis Eduardo",
+      "primerApellido": "Anica",
+      "segundoApellido": "Rodríguez"
+    },
+    "ejercicioFiscal": "2021",
+    "rfc": "GOHF761129FS4",
+    "curp": "GOHF761129HCCMRR02",
+    "nombres": "Fredie Edmundo",
+    "primerApellido": "Gómez",
+    "segundoApellido": "Hernández",
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2021-09-22T19:16:57+00:00",
+    "__v": 0
+  },
+  {
+    "id": "61782317bb209f0013f53b9a",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUINTANA ROO",
+      "siglas": "TJAQROO"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTOR DE RECURSOS HUMANOR Y MATERIALES"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "SECRETARIO DE ADMINISTRACION"
+      },
+      "nombres": "RAYMUNDO",
+      "primerApellido": "AVENDAÑO",
+      "segundoApellido": "BALAM"
+    },
+    "ejercicioFiscal": "2021",
+    "rfc": "CAFM860519KJ7",
+    "curp": "CAFM860519HQRRRR09",
+    "nombres": "MARTE PAOLO",
+    "primerApellido": "CARDENAS",
+    "segundoApellido": "FERNANDEZ",
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2021-10-26T15:47:35+00:00",
+    "__v": 0
+  },
+  {
+    "id": "61a808eeddb1cc001a2bc243",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Fiscalía General del Estado de Quintana Roo",
+      "clave": "000123",
+      "siglas": "FGEQROO"
+    },
+    "puesto": {
+      "nombre": "Director General de Administración y Finanzas",
+      "nivel": "100"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Fiscal General del Estado de Quintana Roo ",
+        "nivel": "10"
+      },
+      "rfc": "MORO641124NG5",
+      "curp": "MORO641124HMCNSS01",
+      "nombres": "OSCAR",
+      "primerApellido": "MONTES",
+      "segundoApellido": "DE OCA "
+    },
+    "ejercicioFiscal": "2020",
+    "rfc": "AEHC6911134F0",
+    "curp": "AEHC691113HDFYRS08",
+    "nombres": "Cesar Octavio",
+    "primerApellido": "Ayerdi",
+    "segundoApellido": "Hernández ",
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "fechaCaptura": "2021-12-01T23:44:46+00:00",
+    "__v": 0
+  },
+  {
+    "id": "619ea11cddb1cc001a2bc1d1",
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Fiscalia General del Estado de Quintana Roo",
+      "clave": "000123",
+      "siglas": "FGEQROO"
+    },
+    "puesto": {
+      "nombre": "Subdirector de Capital Material y Servicios Generales ",
+      "nivel": "300"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Director General de Administracion y Finanzas ",
+        "nivel": "100"
+      },
+      "rfc": "AEHC6911134F0",
+      "curp": "AEHC691113HDFYRS08",
+      "nombres": "Cesar Octavio",
+      "primerApellido": "Ayerdi",
+      "segundoApellido": "Hernandez"
+    },
+    "__v": 0,
+    "curp": "VAOJ590128HDFLBR09",
+    "ejercicioFiscal": "2020",
+    "fechaCaptura": "2021-12-01T23:45:37+00:00",
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "nombres": "Jorge Daniel",
+    "primerApellido": "Valdes",
+    "rfc": "VAOJ590128CJ3",
+    "segundoApellido": "Oberhauser",
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "62ed504c86122a001def6c98",
+    "ramo": {
+      "clave": 1,
+      "valor": "PODER LEGISLATIVO"
+    },
+    "genero": {
+      "clave": "M",
+      "valor": "MASCULINO"
+    },
+    "institucionDependencia": {
+      "nombre": "AUDITORÍA SUPERIOR DEL ESTADO DE QUINTANA ROO",
+      "siglas": "ASEQROO"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO",
+      "nivel": "500"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "TITULAR DE LA UNIDAD DE ADMINISTRACIÓN",
+        "nivel": "200"
+      },
+      "rfc": "CACR740330IF2",
+      "curp": "CACR740330HJCHSB04",
+      "nombres": "ROBERTO ",
+      "primerApellido": "CHÁVEZ",
+      "segundoApellido": "CASTAÑEDA"
+    },
+    "ejercicioFiscal": "2022",
+    "rfc": "BAAL720325293",
+    "curp": "BAAL720325HYNSLS00",
+    "nombres": "LUIS ENRIQUE",
+    "primerApellido": "BASULTO",
+    "segundoApellido": "ALVAREZ",
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 5,
+        "valor": "OTRO"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "fechaCaptura": "2022-08-05T17:15:56+00:00",
+    "__v": 0
+  },
+  {
+    "id": "633c96e36e2956001d3d77a5",
+    "genero": {
+      "clave": "F",
+      "valor": "FEMENINO"
+    },
+    "institucionDependencia": {
+      "nombre": "Tribunal Electoral de Quintana Roo",
+      "clave": "4103",
+      "siglas": "TEQROO"
+    },
+    "puesto": {
+      "nombre": "Jefa de Área de Recursos Materiales y Servicios Generales",
+      "nivel": "600"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Jefa de la Unidad de Administración",
+        "nivel": "300"
+      },
+      "rfc": "GOTM671031870",
+      "nombres": "Miriam Gabriela ",
+      "primerApellido": "Gómez",
+      "segundoApellido": "Tún"
+    },
+    "ejercicioFiscal": "2022",
+    "rfc": "BILA851204NS4",
+    "nombres": "Angélica Berenice",
+    "primerApellido": "Briseño",
+    "segundoApellido": "Lomeli",
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "observaciones": "No se encuentra el ramo al que pertenece el Tribunal Electoral de Quintana Roo",
+    "fechaCaptura": "2022-10-04T20:26:11+00:00",
+    "__v": 0
+  }
+]

@@ -1,0 +1,3719 @@
+[
+  {
+    "id": "3701",
+    "fechaCaptura": "2019-09-06T05:08:24Z",
+    "expediente": "27/2018",
+    "institucionDependencia": {
+      "nombre": "CONSEJO DE LA JUDICATURA FEDERAL",
+      "siglas": "CJF",
+      "clave": "94"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "MARIO ALBERTO",
+      "primerApellido": "PRADO",
+      "segundoApellido": "RODRÍGUEZ",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "SECRETARIO TÉCNICO",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "COMISIÓN DE DISCIPLINA DEL CONSEJO DE LA JUDICATURA FEDERAL",
+    "tipoFalta": {
+      "clave": "AUT",
+      "valor": "ABUSO DE AUTORIDAD"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2019-06-18"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "10 AÑOS",
+      "fechaInicial": "2019-08-06",
+      "fechaFinal": "2029-08-05"
+    },
+    "observaciones": "OBTENER INGRESOS DISTINTOS A LOS QUE POR RAZÓN DE SU CARGO PÚBLICO LE CORRESPONDÍAN.",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2019-06-18"
+      }
+    ]
+  },
+  {
+    "id": "3684",
+    "fechaCaptura": "2019-08-08T05:13:57Z",
+    "expediente": "11/2011",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE FINANZAS Y ADMINISTRACION",
+      "siglas": "SFA",
+      "clave": "254"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "MARIO GUILLERMO",
+      "primerApellido": "MONTENEGRO",
+      "segundoApellido": "FREGOSO",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "COORDINADOR GENERAL DE POLÍTICA Y CONTROL DE EGRESOS",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "DELEGACIÓN DE LA SECRETARÍA DE LA CONTRALORÍA EN EL SECTOR FINANZAS Y ADMINISTRACIÓN",
+    "tipoFalta": {
+      "clave": "AUT",
+      "valor": "ABUSO DE AUTORIDAD"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2015-10-20"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "12 AÑOS",
+      "fechaInicial": "2019-07-04",
+      "fechaFinal": "2031-07-04"
+    },
+    "observaciones": "NO CUMPLIÓ CON LA MÁXIMA DILIGENCIA EL SERVICIO QUE LE FUE ENCOMENDADO, TODA VEZ QUE, TRANSGREDIÓ LA CONFIANZA PARA LA CORRECTA APLICACIÓN Y COMPROBACIÓN DE RECURSOS ESTATALES CONSIGNADOS.",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2015-10-20"
+      }
+    ]
+  },
+  {
+    "id": "3787",
+    "fechaCaptura": "2020-11-23T08:26:34Z",
+    "expediente": "34/2018 Y SU ACUMULADO 12/2019",
+    "institucionDependencia": {
+      "nombre": "TRIBUNAL COLEGIADO EN MATERIA CIVIL DEL DECIMO SEGUNDO CIRCUITO CON  RESIDENCIA EN MAZATLAN, SINALOA",
+      "siglas": "PJF",
+      "clave": "1584"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "MARTIN",
+      "primerApellido": "MAYORQUIN",
+      "segundoApellido": "TREJO",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "SECRETARIO",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "COMISION DE DISCIPLINA DEL CONSEJO DE LA JUDICATURA FEDERAL",
+    "tipoFalta": {
+      "clave": "VPC",
+      "valor": "VIOLACION PROCEDIMIENTOS DE CONTRATACION"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2020-08-05"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "10 AÑOS",
+      "fechaInicial": "2020-08-19",
+      "fechaFinal": "2030-08-18"
+    },
+    "observaciones": "OBTUVO INDEBIDAMENTE A TRAVES DE SU EXCONYUGE LAS PREGUNTAS Y RESPUESTAS DE LA PRIMERA ETAPA, ASI COMO DE CASO PRACTICO DEL VIGESIMO OCTAVO CONCURSO INTERNO DE OPOSICION PARA LA DESIGNACION DE JUECES DE DISTRITO.",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2020-08-05"
+      }
+    ]
+  },
+  {
+    "id": "352",
+    "fechaCaptura": "2019-02-13T13:05:50Z",
+    "expediente": "ADMINISTRATIVO: 129/2016 DE DETERMINACIÓN DE RESPONSABILIDAD ADMINISTRATIVA: 08/2017",
+    "institucionDependencia": {
+      "nombre": "H. AYUNTAMIENTO DE TEHUACAN, PUE",
+      "siglas": "AT",
+      "clave": "159"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "MARTIN",
+      "primerApellido": "ZAMORA",
+      "segundoApellido": "MEZA",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "DIRECTOR DE DESARROLLO RURAL, AGRICULTURA Y GANADERÍA",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "CONTRALORÍA MUNICIPAL DEL H. AYUNTAMIENTO CONSTITUCIONAL DE TEHUACÁN PUEBLA 2014-2018",
+    "tipoFalta": {
+      "clave": "VLNP",
+      "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2018-01-19"
+    },
+    "multa": {
+      "monto": 3771000,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "5 AÑOS",
+      "fechaInicial": "2018-03-14",
+      "fechaFinal": "2023-03-14"
+    },
+    "observaciones": "INVITÓ A VARIOS HABITANTES DE LA JUNTA AUXILIAR DE SAN CRISTÓBAL TEPETEOPAN A FORMAR GRUPO DE TRABAJO PARA SER BENEFICIADOS CON GANADO OVINO CON MOTIVO DE LOS PROGRAMAS QUE OFERTA SAGARPA, SOLICITANDO Y RECIBIENDO NUMERARIO QUE SUMADO ARROJA LA CANTIDAD DE $22,300.00 Y DEBIDO A QUE NO SE CONCRETABA DICHO PROGRAMA, SE PODRÍA INTERPRETAR QUE LA OBTENCIÓN DE DICHO DINERO FUE PARA BENEFICIO PERSONAL.",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2018-01-19"
+      }
+    ]
+  },
+  {
+    "id": "404",
+    "fechaCaptura": "2019-03-22T07:44:23Z",
+    "expediente": "R.C. 02/2009 DENTRO DEL EXPEDIENTE: P.A. 17/2007",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE ZACAPALA PUEBLA 2005-2008",
+      "siglas": "AZP",
+      "clave": "485"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "MARTÍN",
+      "primerApellido": "HUERTA",
+      "segundoApellido": "HERRERA",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "PRESIDENTE MUNICIPAL",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "QUINCUAGÉSIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA",
+    "tipoFalta": {
+      "clave": "VLNP",
+      "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2016-11-30"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "8 AÑOS 6 MESES",
+      "fechaInicial": "2017-03-13",
+      "fechaFinal": "2025-09-13"
+    },
+    "observaciones": "POR CONFIRMARSE E IMPUTARSE LAS IRREGULARIDADES QUE NO FUERON DESVIRTUADAS Y QUE OCASIONARON DAÑO PATRIMONIAL AL ERARIO PÚBLICO MUNICIPAL DE ZACAPALA PUEBLA, POR LA CANTIDAD DE 913,515.34 CONTENIDAS EN EL DECRETO DE RESOLUCIÓN DICTADA POR EL HONORABLE QUINCUAGÉSIMO SÉPTIMO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA,  DE 28 DE OCTUBRE DE 2008.",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2016-11-30"
+      }
+    ]
+  },
+  {
+    "id": "193",
+    "fechaCaptura": "2019-01-16T12:55:14Z",
+    "expediente": "04/2012",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE PAHUATLAN",
+      "siglas": "HAP",
+      "clave": "34"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "MARTIN HUMBERTO",
+      "primerApellido": "ORTIZ",
+      "segundoApellido": "SANTOS",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "PRESIDENTE MUNICIPAL",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "QUINCUAGÉSIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA",
+    "tipoFalta": {
+      "clave": "VLNP",
+      "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2018-03-15"
+    },
+    "multa": {
+      "monto": 1592223362,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "",
+      "fechaInicial": "2018-05-10",
+      "fechaFinal": "2030-05-09"
+    },
+    "observaciones": "",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2018-03-15"
+      }
+    ]
+  },
+  {
+    "id": "312",
+    "fechaCaptura": "2019-01-16T12:55:14Z",
+    "expediente": "P.A. 12/2013",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE PAHUATLAN",
+      "siglas": "APP",
+      "clave": "34"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "MARTÍN HUMBERTO",
+      "primerApellido": "ORTIZ",
+      "segundoApellido": "SANTOS",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "Presidente Municipal",
+      "nivel": "BAJO"
+    },
+    "autoridadSancionadora": "Honorable Quincuagésimo Noveno Congreso Costitucional del Estado Libre y Soberano de Puebla.",
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "OTRO"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2018-03-15"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "",
+      "fechaInicial": "2017-05-31",
+      "fechaFinal": "2023-11-10"
+    },
+    "observaciones": "Cursar maestría sin contar con autorización para ausentarse y validar y autorizar mediante su firma sus certificados de terminación de estudios de Licenciatura y Maestría ",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2018-03-15"
+      }
+    ]
+  },
+  {
+    "id": "103",
+    "fechaCaptura": "2019-01-16T12:55:14Z",
+    "expediente": "06/2012",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE DOMINGO ARENAS, PUEBLA",
+      "siglas": "ADAP",
+      "clave": "18"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "MAURO",
+      "primerApellido": "GIL ",
+      "segundoApellido": "DE LA ROSA",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "PRESIDENTE MUNICIPAL CONSTITUCIONAL ",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "QUINCUAGÉSIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO ",
+    "tipoFalta": {
+      "clave": "VLNP",
+      "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2016-11-30"
+    },
+    "multa": {
+      "monto": 1806865532,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "",
+      "fechaInicial": "2017-02-24",
+      "fechaFinal": "2029-02-24"
+    },
+    "observaciones": "",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2016-11-30"
+      }
+    ]
+  },
+  {
+    "id": "257",
+    "fechaCaptura": "2019-01-16T12:55:14Z",
+    "expediente": "12/2017",
+    "institucionDependencia": {
+      "nombre": "JUZGADO QUINTO DE DISTRITO EN MATERIA DE AMPARO Y JUICIOS FEDERALES EN EL ESTADO DE MEXICO",
+      "siglas": "JQDMAJFEM",
+      "clave": "209"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "MAYUMI GUADALUPE",
+      "primerApellido": "SANCHEZ",
+      "segundoApellido": "TORRES",
+      "genero": {
+        "clave": "F",
+        "valor": "Femenino"
+      },
+      "puesto": "ACTUARIA",
+      "nivel": "BAJO"
+    },
+    "autoridadSancionadora": "COMISIÓN DE DISCIPLINA DEL CONSEJO DE LA JUDICATURA FEDERAL",
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "OTRO"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2017-10-24"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "",
+      "fechaInicial": "2009-12-09",
+      "fechaFinal": "2037-10-25"
+    },
+    "observaciones": "",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2017-10-24"
+      }
+    ]
+  },
+  {
+    "id": "293",
+    "fechaCaptura": "2019-01-16T12:55:14Z",
+    "expediente": "04/2008",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE AMIXTLAN, PUEBLA",
+      "siglas": "A.A.",
+      "clave": "9"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "MIGUEL",
+      "primerApellido": "ZARAGOZA",
+      "segundoApellido": "DIAZ",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "PRESIDENTE MUNICIPAL CONSTITUCIONAL ",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "QUINCUAGÉSIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO ",
+    "tipoFalta": {
+      "clave": "VLNP",
+      "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2015-07-31"
+    },
+    "multa": {
+      "monto": 413669295,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "",
+      "fechaInicial": "2018-01-31",
+      "fechaFinal": "2027-10-22"
+    },
+    "observaciones": "",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2015-07-31"
+      }
+    ]
+  },
+  {
+    "id": "133",
+    "fechaCaptura": "2019-01-16T12:55:14Z",
+    "expediente": "25/2016",
+    "institucionDependencia": {
+      "nombre": "DESARROLLO URBANO Y ECOLOGÍA, MUNICIPIO ATLIXCO, PUEBLA",
+      "siglas": "DUEMAP",
+      "clave": "375"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "MOISES",
+      "primerApellido": "IZUCAR",
+      "segundoApellido": "PAYAN",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "DIRECTOR",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "CONTRALORA MUNICIPAL DEL H. AYUNTAMIENTO DE ATLIXCO, PUEBLA",
+    "tipoFalta": {
+      "clave": "NAD",
+      "valor": "NEGLIGENCIA ADMINISTRATIVA"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2018-01-31"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "",
+      "fechaInicial": "2018-03-05",
+      "fechaFinal": "2028-03-05"
+    },
+    "observaciones": "",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2018-01-31"
+      }
+    ]
+  },
+  {
+    "id": "3830",
+    "fechaCaptura": "2021-05-26T13:55:57Z",
+    "expediente": "25/2018",
+    "institucionDependencia": {
+      "nombre": "DEPARTAMENTO DE INDICIOS Y BIENES AFECTOS, DE LA FISCALIA GENERAL DEL ESTADO DE PUEBLA",
+      "siglas": "DIBAFGEP",
+      "clave": "1605"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "NAHUR",
+      "primerApellido": "HERNANDEZ",
+      "segundoApellido": "SANTAELLA",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "RESPONSABLE DE LA BOVEDA DE INDICIOS Y EVIDENCIAS DE LA PROCURADURIA GENERAL DE JUSTICIA Y/O JEFE DEL AREA DE INDICIOS Y EVIDENCIAS DE LA FISCALIA GENERAL DEL ESTADO DE PUEBLA.",
+      "nivel": "BAJO"
+    },
+    "autoridadSancionadora": "ORGANO INTERNO DE CONTROL Y VISITADURIA DE LA FISCALIA GENERAL DEL ESTADO DE PUEBLA",
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "OTRO"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2020-03-12"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "12 AÑOS",
+      "fechaInicial": "2020-05-19",
+      "fechaFinal": "2032-05-19"
+    },
+    "observaciones": "OMITIO CUMPLIR CON MAXIMA DILIGENCIA EL SERVICIO, QUE LE FUE ENCOMENDADO. ABSTENIENDOSE DE CUALQUIER ACTO U OMISION QUE CAUSE LA SUSPENSION DE DICHO SERVICIO.",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2020-03-12"
+      }
+    ]
+  },
+  {
+    "id": "186",
+    "fechaCaptura": "2019-01-16T12:55:14Z",
+    "expediente": "02/2010",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE INFRAESTRUCTURA DEL ESTADO DE PUEBLA",
+      "siglas": "SIEP",
+      "clave": "259"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "NATALIO",
+      "primerApellido": "NAVA ",
+      "segundoApellido": "MARTINEZ",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "RESIDENTE Y/O SUPERVISOR DE OBRA ADSCRITO A LA SEDUOP",
+      "nivel": "MEDIO"
+    },
+    "autoridadSancionadora": "SECRETARIA DE LA CONTRALORIA DEL ESTADO",
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "OTRO"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2023-03-17"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "",
+      "fechaInicial": "2017-09-01",
+      "fechaFinal": "2023-03-17"
+    },
+    "observaciones": "",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2023-03-17"
+      }
+    ]
+  },
+  {
+    "id": "152",
+    "fechaCaptura": "2019-01-16T12:55:14Z",
+    "expediente": "19/2014",
+    "institucionDependencia": {
+      "nombre": "UNIVERSIDAD DEL DESARROLLO DEL ESTADO DE PUEBLA Y CONSEJO DE CIENCIA Y TECNOLOGÍA DEL ESTADO ",
+      "siglas": "UDEPCCTE",
+      "clave": "433"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "NORMA BEATRIZ",
+      "primerApellido": "LOREDO",
+      "segundoApellido": "MENDOZA",
+      "genero": {
+        "clave": "F",
+        "valor": "Femenino"
+      },
+      "puesto": "ENCARGADA DE DESPACHO DE LA DIRECCIÓN ADMINISTRATIVA Y DIRECTORA DE PLANEACIÓN ESTRATÉGICA Y ADMINISTRATIVA",
+      "nivel": "BAJO"
+    },
+    "autoridadSancionadora": "DELEGACIÓN DE LA CONTRALORÍA EN EL SECTOR EDUCATIVO",
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "OTRO"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2015-11-03"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "",
+      "fechaInicial": "2015-12-11",
+      "fechaFinal": "2022-12-11"
+    },
+    "observaciones": "",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2015-11-03"
+      }
+    ]
+  },
+  {
+    "id": "4865",
+    "fechaCaptura": "2021-10-04T13:05:01Z",
+    "expediente": "CEASPUE-04/2019",
+    "institucionDependencia": {
+      "nombre": "NO APLICA",
+      "siglas": "",
+      "clave": "220"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "OLI CONSTRUCCIONES, S.A. DE C.V.",
+      "primerApellido": "",
+      "segundoApellido": "",
+      "genero": {
+        "clave": "O",
+        "valor": "Otro"
+      },
+      "puesto": "N/A",
+      "nivel": "MEDIO"
+    },
+    "autoridadSancionadora": "OIC EN LA COMISION ESTATAL DE AGUA Y SANEAMIENTO DEL ESTADO DE PUEBLA",
+    "tipoFalta": {
+      "clave": "NAD",
+      "valor": "NEGLIGENCIA ADMINISTRATIVA"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2021-06-30"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "5 AÑOS",
+      "fechaInicial": "2021-09-14",
+      "fechaFinal": "2026-09-14"
+    },
+    "observaciones": "INCURRIO EN RESPONSABILIDAD ADMINISTRATIVA AL RECIBIR EL PAGO TOTAL DEL CONTRATO DE OBRA PUBLICA A PRECIO ALZADO Y TIEMPO DETERMINADO SIN CONCLUIR TOTALMENTE LA OBRA.",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2021-06-30"
+      }
+    ]
+  },
+  {
+    "id": "337",
+    "fechaCaptura": "2019-01-30T12:50:53Z",
+    "expediente": "P. A. 56/2015",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE SOLTEPEC PUEBLA 2011-2014",
+      "siglas": "ASP",
+      "clave": "445"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "OSCAR",
+      "primerApellido": "PERALTA",
+      "segundoApellido": "PÉREZ",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "PRESIDENTE MUNICIPAL CONSTITUCIONAL",
+      "nivel": "BAJO"
+    },
+    "autoridadSancionadora": "COMISIÓN GENERAL INSPECTORA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE PUEBLA",
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "OTRO"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2018-07-31"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "5 AÑOS, 6 MESES",
+      "fechaInicial": "2018-09-13",
+      "fechaFinal": "2024-03-13"
+    },
+    "observaciones": "NO PROBÓ NI JUSTIFICÓ LA CANTIDAD DE $827,289.89/100 M.N. OCASIONANDO DEFICIENCIAS ADMINISTRATIVAS AL ERARIO DEL AYUNTAMIENTO DE SOLTEPEC, PUEBLA.",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2018-07-31"
+      }
+    ]
+  },
+  {
+    "id": "3724",
+    "fechaCaptura": "2019-11-19T14:24:39Z",
+    "expediente": "CPJF/PA/363/2017",
+    "institucionDependencia": {
+      "nombre": "DIRECCIÓN GENERAL DE TECNOLOGÍAS DE LA INFORMACIÓN DEL CONSEJO DE LA JUDICATURA FEDERAL",
+      "siglas": "PJF",
+      "clave": "133"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "ÓSCAR GABRIEL",
+      "primerApellido": "VALDEZ",
+      "segundoApellido": "MILLÁN",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "DIRECTOR DE ÁREA",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "COMISIÓN DE DISCIPLINA DEL CONSEJO DE LA JUDICATURA FEDERAL",
+    "tipoFalta": {
+      "clave": "NAD",
+      "valor": "NEGLIGENCIA ADMINISTRATIVA"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2019-09-03"
+    },
+    "multa": {
+      "monto": 145056384,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "10 AÑOS",
+      "fechaInicial": "2019-09-28",
+      "fechaFinal": "2029-09-27"
+    },
+    "observaciones": "DEFICIENCIA EN LA ELABORACIÓN Y AUTORIZACIÓN DEL DICTAMEN TÉCNICO, SIN HABER REALIZADO UN ESTUDIO DE LAS PROPUESTAS DE LOS PARTICIPANTES, INCUMPLIERON LAS DISPOSICIONES RELACIONADAS CON EL SERVICIO PÚBLICO ENCOMENDADO ARTÍCULOS 56, 59 Y 78 DEL ACUERDO GENERAL 6/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, ASÍ COMO EL APARTADO 4.2 DE LAS BASES DE LA LICITACIÓN PÚBLICA NACIONAL OM/SEA/DGERM/DCS/LPN/032/2014.",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2019-09-03"
+      }
+    ]
+  },
+  {
+    "id": "161",
+    "fechaCaptura": "2019-01-16T12:55:14Z",
+    "expediente": "32/2008",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE LOS REYES DE JUÁREZ, PUEBLA",
+      "siglas": "ARJP",
+      "clave": "357"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "OTHON",
+      "primerApellido": "MACHORRO",
+      "segundoApellido": "HUERTA",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "PRESIDENTE MUNICIPAL ",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "QUINCUAGÉSIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA",
+    "tipoFalta": {
+      "clave": "VLNP",
+      "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2016-03-03"
+    },
+    "multa": {
+      "monto": 435300765,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "",
+      "fechaInicial": "2016-07-12",
+      "fechaFinal": "2027-01-12"
+    },
+    "observaciones": "",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2016-03-03"
+      }
+    ]
+  },
+  {
+    "id": "387",
+    "fechaCaptura": "2019-03-06T03:59:35Z",
+    "expediente": "P.A. 59/2009",
+    "institucionDependencia": {
+      "nombre": "H. AYUNTAMIENTO DE LOS REYES DE JUÁREZ PUEBLA",
+      "siglas": "HARJP",
+      "clave": "472"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "OTHÓN",
+      "primerApellido": "MACHORRO",
+      "segundoApellido": "HUERTA",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "PRESIDENTE MUNICIPAL DEL AYUNTAMIENTO DE LOS REYES DE JUÁREZ PUEBLA 2005-2008",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "QUINCUAGÉSIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA",
+    "tipoFalta": {
+      "clave": "NAD",
+      "valor": "NEGLIGENCIA ADMINISTRATIVA"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2018-07-31"
+    },
+    "multa": {
+      "monto": 127372308,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "8 AÑOS 6 MESES",
+      "fechaInicial": "2018-10-02",
+      "fechaFinal": "2027-04-02"
+    },
+    "observaciones": "POR 49 IRREGULARIDADES CONTEMPLADAS EN EL PLIEGO DE CARGOS VENCIDO NÚMERO 04577C/2005-2008, POR UN MONTO TOTAL DE $8'752,532.29 (OCHO MILLONES SETECIENTOS CINCUENTA Y DOS MIL, QUINIENTOS TREINTA Y DOS PESOS, 29/100 M.N.)",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2018-07-31"
+      }
+    ]
+  },
+  {
+    "id": "297",
+    "fechaCaptura": "2019-01-16T12:55:14Z",
+    "expediente": "P.A. 54/2013",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE TOCHIMILCO, PUEBLA, ADMINISTRACIÓN 2008-2011",
+      "siglas": "AT",
+      "clave": "71"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "PASCUAL",
+      "primerApellido": "TUFIÑO",
+      "segundoApellido": "TELES",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "Presidente Municipal",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "Honorable Quincuagésimo Noveno Congreso Costitucional del Estado Libre y Soberano de Puebla.",
+    "tipoFalta": {
+      "clave": "VLNP",
+      "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2018-03-15"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "",
+      "fechaInicial": "2018-04-30",
+      "fechaFinal": "2026-11-21"
+    },
+    "observaciones": "Diversas Irregularidades no desvirtuadas contempladas en el Pliego de Cargos Vencido número 05952C/2008-2011, derivado de la revisión al control legislativo del gasto efectuado en la Cuenta Pública, por el ejercicio comprendido del uno de enero al catorce de febrero de dos mil once  subsistió sin comprobar, ni justificar la cantidad de $20,766,459.04.",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2018-03-15"
+      }
+    ]
+  },
+  {
+    "id": "3790",
+    "fechaCaptura": "2020-11-24T08:53:08Z",
+    "expediente": "34/2018 Y SU ACUMULADO 12/2019",
+    "institucionDependencia": {
+      "nombre": "CUARTO TRIBUNAL COLEGIADO DEL CENTRO AUXILIAR DE LA PRIMERA REGION",
+      "siglas": "PJF",
+      "clave": "1587"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "PATRICIA GUADALUPE",
+      "primerApellido": "LEE",
+      "segundoApellido": "MARTINEZ",
+      "genero": {
+        "clave": "F",
+        "valor": "Femenino"
+      },
+      "puesto": "SECRETARIA",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "COMISION DE DISCIPLINA DEL CONSEJO DE LA JUDICATURA FEDERAL",
+    "tipoFalta": {
+      "clave": "VPC",
+      "valor": "VIOLACION PROCEDIMIENTOS DE CONTRATACION"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2020-08-05"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "10 AÑOS",
+      "fechaInicial": "2020-08-20",
+      "fechaFinal": "2030-08-19"
+    },
+    "observaciones": "COMPRO LAS PREGUNTAS Y RESPUESTAS DE LA PRIMERA ETAPA, ASI COMO DEL CASO PRACTICO DEL VIGESIMO OCTAVO CONCURSO INTERNO DE OPOSICION PARA LA DESIGNACION DE JUECES DE DISTRITO.",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2020-08-05"
+      }
+    ]
+  },
+  {
+    "id": "3793",
+    "fechaCaptura": "2020-11-24T09:41:51Z",
+    "expediente": "34/2018 Y SU ACUMULADO 12/2019",
+    "institucionDependencia": {
+      "nombre": "JUZGADO DECIMO PRIMERO DE DISTRITO EN EL ESTADO DE VERACRUZ, CON RESIDENCIA EN POZA RICA",
+      "siglas": "PJF",
+      "clave": "203"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "PAULO CESAR",
+      "primerApellido": "FALCON",
+      "segundoApellido": "GOMEZ",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "SECRETARIO",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "COMISION DE DISCIPLINA DEL CONSEJO DE LA JUDICATURA FEDERAL",
+    "tipoFalta": {
+      "clave": "VPC",
+      "valor": "VIOLACION PROCEDIMIENTOS DE CONTRATACION"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2020-08-05"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "10 AÑOS",
+      "fechaInicial": "2020-08-20",
+      "fechaFinal": "2030-08-19"
+    },
+    "observaciones": "COMPRAR PREGUNTAS Y RESPUESTAS DE LA PRIMERA ETAPA, DEL VIGESIMO OCTAVO CONCURSO INTERNO DE OPOSICION PARA LA DESIGNACION DE JUECES DE DISTRITO.",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2020-08-05"
+      }
+    ]
+  },
+  {
+    "id": "270",
+    "fechaCaptura": "2019-01-16T12:55:14Z",
+    "expediente": "95/2009",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE TEOTLALCO, PUEBLA",
+      "siglas": "A.T",
+      "clave": "59"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "PEDRO",
+      "primerApellido": "TEJEDA",
+      "segundoApellido": "HERRERA",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "PRESIDENTE MUNICIPAL ",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "QUINCUAGÉSIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO ",
+    "tipoFalta": {
+      "clave": "VLNP",
+      "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2015-01-21"
+    },
+    "multa": {
+      "monto": 456922089,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "",
+      "fechaInicial": "2014-05-26",
+      "fechaFinal": "2023-03-11"
+    },
+    "observaciones": "",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2015-01-21"
+      }
+    ]
+  },
+  {
+    "id": "49",
+    "fechaCaptura": "2019-01-16T12:55:14Z",
+    "expediente": "48/2014",
+    "institucionDependencia": {
+      "nombre": "JUZGADO PRIMERO DE DISTRITO EN EL ESTADO DE DURANGO",
+      "siglas": "PJF",
+      "clave": "206"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "PERFECTO NICOLAS",
+      "primerApellido": "CASTILLO",
+      "segundoApellido": "MIRELES",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "SECRETARIO",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL ",
+    "tipoFalta": {
+      "clave": "NAD",
+      "valor": "NEGLIGENCIA ADMINISTRATIVA"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2016-11-30"
+    },
+    "multa": {
+      "monto": 113474532,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "",
+      "fechaInicial": "2017-02-21",
+      "fechaFinal": "2032-02-21"
+    },
+    "observaciones": "",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2016-11-30"
+      }
+    ]
+  },
+  {
+    "id": "33",
+    "fechaCaptura": "2019-01-16T12:55:14Z",
+    "expediente": "111/2009",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE TEPATLAXCO DE HIDALGO, PUEBLA",
+      "siglas": "ATH",
+      "clave": "60"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "PLACIDO JORGE",
+      "primerApellido": "BONILLA",
+      "segundoApellido": "JUAREZ",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "PRESIDENTE MUNICIPAL",
+      "nivel": "BAJO"
+    },
+    "autoridadSancionadora": "QUINCUAGÉSIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA",
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "OTRO"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2016-11-03"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "",
+      "fechaInicial": "2017-04-14",
+      "fechaFinal": "2029-06-14"
+    },
+    "observaciones": "",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2016-11-03"
+      }
+    ]
+  },
+  {
+    "id": "3815",
+    "fechaCaptura": "2021-03-12T12:04:46Z",
+    "expediente": "CAUSA PENAL 30/2012 - CARPETA DE EJECUCION 809/2017/JES/E",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE SEGURIDAD PUBLICA DEL ESTADO DE PUEBLA",
+      "siglas": "SSPYTM",
+      "clave": "263"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "PONCIANO",
+      "primerApellido": "VARELA",
+      "segundoApellido": "SALAZAR",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "POLICIA TERCERO",
+      "nivel": "BAJO"
+    },
+    "autoridadSancionadora": "JUEZ CUARTO DE LO PENAL",
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "OTRO"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2016-10-18"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "2 AÑOS, 10 MESES Y 15 DIAS",
+      "fechaInicial": "2021-02-18",
+      "fechaFinal": "2024-01-02"
+    },
+    "observaciones": "POR SOLICITAR O RECIBIR INDEBIDAMENTE DINERO, ALGUN SERVICIO O CUALQUIER OTRA DADIVA,  PARA HACER O DEJAR DE HACER ALGO JUSTO O INJUSTO RELACIONADO CON SUS FUNCIONES.",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2016-10-18"
+      }
+    ]
+  },
+  {
+    "id": "189",
+    "fechaCaptura": "2019-01-16T12:55:14Z",
+    "expediente": "26/2013",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE ATEXCAL, PUEBLA",
+      "siglas": "HAAP",
+      "clave": "10"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "PORFIRIO",
+      "primerApellido": "OLMEDO",
+      "segundoApellido": "RAMOS",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "PRESIDENTE MUNICIPAL CONSTITUCIONAL",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "QUINCUAGÉSIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA",
+    "tipoFalta": {
+      "clave": "VLNP",
+      "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2016-11-15"
+    },
+    "multa": {
+      "monto": 189120988,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "",
+      "fechaInicial": "2017-01-18",
+      "fechaFinal": "2023-11-10"
+    },
+    "observaciones": "",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2016-11-15"
+      }
+    ]
+  },
+  {
+    "id": "45",
+    "fechaCaptura": "2019-01-16T12:55:14Z",
+    "expediente": "PA129/06",
+    "institucionDependencia": {
+      "nombre": "ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE PUEBLA",
+      "siglas": "ORFIS",
+      "clave": "409"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "QUIRINO RAUL",
+      "primerApellido": "CAÑONGO ",
+      "segundoApellido": "DIRSIO",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "PRESIDENTE MUNICIPAL DEL AYTO. DE CHIAUTLA ",
+      "nivel": "BAJO"
+    },
+    "autoridadSancionadora": "H. CONGRESO DEL ESTADO DE PUEBLA",
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "OTRO"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2011-12-02"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "",
+      "fechaInicial": "2011-01-13",
+      "fechaFinal": "2023-01-13"
+    },
+    "observaciones": "",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2011-12-02"
+      }
+    ]
+  },
+  {
+    "id": "3733",
+    "fechaCaptura": "2019-12-26T03:52:20Z",
+    "expediente": "39/2016",
+    "institucionDependencia": {
+      "nombre": "PODER JUDICIAL DE LA FEDERACION",
+      "siglas": "PJF",
+      "clave": "232"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "RAFAEL",
+      "primerApellido": "SÁNCHEZ",
+      "segundoApellido": "BALTAZAR",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "SECRETARIO DE ACUERDOS",
+      "nivel": "MEDIO"
+    },
+    "autoridadSancionadora": "COMISIÓN DE DISCIPLINA DEL CONSEJO DE LA JUDICATURA FEDERAL",
+    "tipoFalta": {
+      "clave": "NAD",
+      "valor": "NEGLIGENCIA ADMINISTRATIVA"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2019-06-18"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "10 AÑOS",
+      "fechaInicial": "2019-07-19",
+      "fechaFinal": "2029-07-18"
+    },
+    "observaciones": "POR PRESUNTAMENTE DESEMPEÑAR DIVERSOS CARGOS DE FORMA SIMULTÁNEA EN EL PODER JUDICIAL DE LA FEDERACIÓN Y EN EL TRIBUNAL SUPERIOR AGRARIO.",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2019-06-18"
+      }
+    ]
+  },
+  {
+    "id": "3775",
+    "fechaCaptura": "2020-10-16T10:58:20Z",
+    "expediente": "03/2018",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE FOMENTO ECONOMICO Y DESARROLLO SOCIAL DEL H. A. DE SAN ANDRES CHOLULA",
+      "siglas": "HASAC",
+      "clave": "1577"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "RAFAEL",
+      "primerApellido": "TECAXCO",
+      "segundoApellido": "SANCHEZ",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "ANALISTA \"D\" DE LA DIRECCION DE PROGRAMAS SOCIALES Y DEL CAMPO",
+      "nivel": "BAJO"
+    },
+    "autoridadSancionadora": "CONTRALORIA DEL H. AYUNTAMIENTO DE SAN ANDRES CHOLULA, PUEBLA",
+    "tipoFalta": {
+      "clave": "AFN",
+      "valor": "ABUSO DE FUNCIONES"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2020-08-05"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "5 AÑOS",
+      "fechaInicial": "2020-09-28",
+      "fechaFinal": "2025-09-28"
+    },
+    "observaciones": "POR NO CUMPLIR CON MAXIMA DILIGENCIA EL SERVICIO ENCOMENDADO Y NO ABSTENERSE DE ACTOS QUE IMPLICARAN ABUSO DE SU EMPLEO E INCURRIR EN ACTOS U OMISIONES QUE AFECTEN LA LEGALIDAD, HONRADEZ, LEALTAD, IMPARCIALIDAD Y EFICIENCIA QUE DEBAN OBSERVAR EN EL DESEMPEÑO DE SUS EMPLEOS, CARGOS O COMISIONES.",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2020-08-05"
+      }
+    ]
+  },
+  {
+    "id": "129",
+    "fechaCaptura": "2019-01-16T12:55:14Z",
+    "expediente": "34/2010",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE TLAPACOYA, PUEBLA",
+      "siglas": "ATP",
+      "clave": "360"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "RAUL",
+      "primerApellido": "HERRERO",
+      "segundoApellido": "REYES",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "PRESIDENTE MUNICIPAL CONSTITUCIONAL ",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "QUINCUAGÉSIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO ",
+    "tipoFalta": {
+      "clave": "VLNP",
+      "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2016-07-29"
+    },
+    "multa": {
+      "monto": 1137745379,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "",
+      "fechaInicial": "2016-10-06",
+      "fechaFinal": "2028-10-06"
+    },
+    "observaciones": "",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2016-07-29"
+      }
+    ]
+  },
+  {
+    "id": "295",
+    "fechaCaptura": "2019-01-16T12:55:14Z",
+    "expediente": "P.A. 52/2013",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE TLAPACOYA, PUEBLA",
+      "siglas": "ATPA",
+      "clave": "360"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "RAUL",
+      "primerApellido": "HERRERO",
+      "segundoApellido": "REYES",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "Presidente Municipal ",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "Honorable Quincuagésimo Noveno Congreso Costitucional del Estado Libre y Soberano de Puebla.",
+    "tipoFalta": {
+      "clave": "VLNP",
+      "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2018-03-15"
+    },
+    "multa": {
+      "monto": 49032785,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "",
+      "fechaInicial": "2018-05-31",
+      "fechaFinal": "2030-05-31"
+    },
+    "observaciones": "No cumplió con la máxima diligencia el cargo que le fue encomendado, al no observar las leyes y reglamentos aplicables en materia de obra pública y sus atribuciones como servidor público, a) omitió cumplir y vigilar que el pago a la empresa Constructores Mallinali S.A. de C.V. correspondieran a los ejecutados y aprobó indebidamente para su pago mediante su firma diversas estimaciones, lo que genero un menosbaco de $1,423,119.28.",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2018-03-15"
+      }
+    ]
+  },
+  {
+    "id": "296",
+    "fechaCaptura": "2019-01-16T12:55:14Z",
+    "expediente": "P.A. 24/2012",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE TLAPACOYA, PUEBLA",
+      "siglas": "ATPA",
+      "clave": "360"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "RAUL",
+      "primerApellido": "HERRERO",
+      "segundoApellido": "REYES",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "Presidente Municipal ",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "Honorable Quincuagésimo Noveno Congreso Costitucional del Estado Libre y Soberano de Puebla.",
+    "tipoFalta": {
+      "clave": "VLNP",
+      "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2018-03-15"
+    },
+    "multa": {
+      "monto": 8493908428,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "",
+      "fechaInicial": "2018-06-01",
+      "fechaFinal": "2030-06-01"
+    },
+    "observaciones": "Diversas Irregularidades no desvirtuadas contempladas en el Pliego de Cargos Vencido número 04059C/2005-2008, derivado de la revisión al control legislativo del gasto efectuado en la Cuenta Pública, por el ejercicio comprendido del uno de enero al catorce de febrero de dos mil ocho, subsistió sin comprobar, ni justificar la cantidad de $3,481,394.57",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2018-03-15"
+      }
+    ]
+  },
+  {
+    "id": "3737",
+    "fechaCaptura": "2019-12-26T05:19:52Z",
+    "expediente": "43/2017",
+    "institucionDependencia": {
+      "nombre": "HOSPITAL GENERAL ZONA NORTE \"BICENTENARIO DE LA INDEPENDENCIA\" DEL EDO DE PUEBLA",
+      "siglas": "SSEP",
+      "clave": "1570"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "RAÚL",
+      "primerApellido": "RODRÍGUEZ",
+      "segundoApellido": "ZOZOAGA",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "MÉDICO ESPECIALISTA \"A\" EN EL ÁREA DE URGENCIAS",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "ÓRGANO INTERNO DE CONTROL EN LOS SERVICIOS DE SALUD DEL ESTADO DE PUEBLA",
+    "tipoFalta": {
+      "clave": "NAD",
+      "valor": "NEGLIGENCIA ADMINISTRATIVA"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2019-08-21"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "5 AÑOS",
+      "fechaInicial": "2019-10-10",
+      "fechaFinal": "2024-10-10"
+    },
+    "observaciones": "OMITIÓ BRINDAR LA ATENCIÓN MÉDICA A UNA PACIENTE DURANTE SU TRABAJO DE PARTO Y EN EL PERIODO EXPULSIVO",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2019-08-21"
+      }
+    ]
+  },
+  {
+    "id": "182",
+    "fechaCaptura": "2019-01-16T12:55:14Z",
+    "expediente": "106/2009",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE ZOQUIAPAN, PUEBLA",
+      "siglas": "HAZP",
+      "clave": "75"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "RENE",
+      "primerApellido": "MORENO",
+      "segundoApellido": "TORAL",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "PRESIDENTE MUNICIPAL",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "QUINCUAGÉSIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO ",
+    "tipoFalta": {
+      "clave": "VLNP",
+      "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2015-01-21"
+    },
+    "multa": {
+      "monto": 29111250,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "",
+      "fechaInicial": "2009-03-31",
+      "fechaFinal": "2027-02-24"
+    },
+    "observaciones": "",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2015-01-21"
+      }
+    ]
+  },
+  {
+    "id": "383",
+    "fechaCaptura": "2019-03-05T12:56:58Z",
+    "expediente": "PROCEDIMIENTO DISCIPLINARIO DE OFICIO: 15/2017",
+    "institucionDependencia": {
+      "nombre": "CONSEJO DE LA JUDICATURA FEDERAL",
+      "siglas": "CJPJF",
+      "clave": "94"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "RICARDO",
+      "primerApellido": "ARREOLA",
+      "segundoApellido": "VILLANUEVA",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "SECRETARIO ENCARGADO DEL DESPACHO DEL JUZGADO SEGUNDO DE DISTRITO EN EL ESTADO DE BAJA CALIFORNIA, CON RESIDENCIA EN MEXICALI.",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "COMISIÓN DE DISCIPLINA DEL CONSEJO DE LA JUDICATURA FEDERAL",
+    "tipoFalta": {
+      "clave": "NAD",
+      "valor": "NEGLIGENCIA ADMINISTRATIVA"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2018-11-28"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "10 AÑOS",
+      "fechaInicial": "2019-01-29",
+      "fechaFinal": "2029-01-28"
+    },
+    "observaciones": "POR IRREGULARIDADES DETECTADAS EN SU RESOLUCIÓN DENTRO DEL INCIDENTE DE SUSPENSIÓN 165/2014 DE FECHA 9 DE MAYO DEL 2014, EN LA CUAL CONCEDIÓ LA SUSPENSIÓN DE LOS ACTOS RECLAMADOS A LOS ADMINISTRADORES DE LAS ADUANAS DE MEXICALI Y DE SAN LUIS RÍO COLORADO, ASÍ COMO A OTRAS AUTORIDADES SEÑALADAS COMO RESPONSABLES, OMITIENDO PLASMAR EL ESTUDIO COMPARATIVO RESPECTO A LA MOTIVACIÓN DE LOS ACTOS RECLAMADOS.",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2018-11-28"
+      }
+    ]
+  },
+  {
+    "id": "3810",
+    "fechaCaptura": "2021-02-24T10:39:30Z",
+    "expediente": "PROCEDIMIENTO DISCIPLINARIO DE OFICIO 33/2018",
+    "institucionDependencia": {
+      "nombre": "DECIMO OCTAVO CIRCUITO DEL PODER JUDICIAL  DE LA FEDERACION, CON RESIDENCIA EN CUERNAVACA, MORELOS",
+      "siglas": "DOCPJFRCM",
+      "clave": "1596"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "RICARDO",
+      "primerApellido": "PEREZ",
+      "segundoApellido": "MONTUFAR",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "SECRETARIO DEL PRIMER TRIBUNAL UNITARIO",
+      "nivel": "BAJO"
+    },
+    "autoridadSancionadora": "PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL",
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "OTRO"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2020-08-05"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "3 AÑOS",
+      "fechaInicial": "2020-10-29",
+      "fechaFinal": "2023-10-28"
+    },
+    "observaciones": "HOSTIGAMIENTO SEXUAL, TRATO INADECUADO, FUMAR EN INSTALACIONES DEL ORGANO JURISDICCIONAL, INGERIR BEBIDAS ALCOHOLICAS O PRESENTARSE CON ALIENTO ALCOHOLICO AL TRIBUNAL, FIRMAR DETERMINACIONES COMO ENCARGADO DE DESPACHO SIN ESTAR ASISTIDO DE SECRETARIO QUE DIERA FE DE SUS ACTOS, OMITIO TURNAR OPORTUNAMENTE LOS EXPEDIENTES AL AREA DE ACTUARIA PARA SU NOTIFICACION, OMITIR REALIZAR GESTIONES PARA LA DEBIDA INTEGRACION DEL TOCA PENAL 37/2016, OBTENER INGRESOS DISTINTOS A LOS QUE POR RAZON DE SU CARGO PUBLICO  LE ",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2020-08-05"
+      }
+    ]
+  },
+  {
+    "id": "380",
+    "fechaCaptura": "2019-03-05T12:42:33Z",
+    "expediente": "P.A. 55/2009",
+    "institucionDependencia": {
+      "nombre": "H. AYUNTAMEINTO DE SAN SEBASTIÁN TLACOTEPEC, PUEBLA.",
+      "siglas": "HASSTP",
+      "clave": "465"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "RIGOBERTO",
+      "primerApellido": "MELO",
+      "segundoApellido": "GARCÍA",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "EXPRESIDENTE MUNICIPAL DEL AYUNTAMIENTO DE SAN SEBASTIÁN TLACOTEPEC, PUEBLA 2005-2008",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "QUINCUAGÉSIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA",
+    "tipoFalta": {
+      "clave": "NAD",
+      "valor": "NEGLIGENCIA ADMINISTRATIVA"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2018-03-15"
+    },
+    "multa": {
+      "monto": 6010198499,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "12 AÑOS",
+      "fechaInicial": "2018-06-29",
+      "fechaFinal": "2030-06-29"
+    },
+    "observaciones": "POR 61 IRREGULARIDADES QUE FUERON CONTEMPLADAS EN EL PLIEGO DE CARGOS VENCIDO NÚMERO 04131C/2005-2008, POR UN MONTO TOTAL DE $148'848,665.10 (CIENTO CUARENTA Y OCHO MILLONES OCHOCIENTOS CUARENTA Y OCHO MIL, SEISCIENTOS SESENTA Y CINCO PESOS 10/100 M.N.)",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2018-03-15"
+      }
+    ]
+  },
+  {
+    "id": "377",
+    "fechaCaptura": "2019-03-05T12:42:33Z",
+    "expediente": "P.A. 11/2008",
+    "institucionDependencia": {
+      "nombre": "H. AYUNTAMEINTO DE SAN SEBASTIÁN TLACOTEPEC, PUEBLA.",
+      "siglas": "HASSTP",
+      "clave": "465"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "RIGOBERTO",
+      "primerApellido": "MELO",
+      "segundoApellido": "GARCÍA",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "EXPRESIDENTE MUNICIPAL DEL AYUNTAMIENTO DE SAN SEBASTIÁN TLACOTEPEC PUEBLA",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "QUINCUAGÉSIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA",
+    "tipoFalta": {
+      "clave": "NAD",
+      "valor": "NEGLIGENCIA ADMINISTRATIVA"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2018-03-15"
+    },
+    "multa": {
+      "monto": 1573274187,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "12 AÑOS",
+      "fechaInicial": "2018-06-29",
+      "fechaFinal": "2030-06-29"
+    },
+    "observaciones": "POR 54 IRREGULARIDADES QUE FUERON CONTEMPLADAS EN EL PLIEGO DE CARGOS VENCIDO NÚMERO 03755C/2005-2008, POR UN MONTO TOTAL DE $46'067,031.22 (CUARENTA Y SEIS MILLONES, SESENTA Y SIETE MIL, TREINTA Y UN PESOS 22/100 M.N.)",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2018-03-15"
+      }
+    ]
+  },
+  {
+    "id": "3788",
+    "fechaCaptura": "2020-11-23T08:41:09Z",
+    "expediente": "34/2018 Y SU ACUMULADO 12/2019",
+    "institucionDependencia": {
+      "nombre": "TERCER TRIBUNAL UNITARIO EN MATERIA PENAL DEL PRIMER CIRCUITO",
+      "siglas": "PJF",
+      "clave": "1585"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "ROBERTO",
+      "primerApellido": "LEON",
+      "segundoApellido": "RODRIGUEZ",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "SECRETARIO",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "COMISION DE DISCIPLINA DEL CONSEJO DE LA JUDICATURA FEDERAL",
+    "tipoFalta": {
+      "clave": "VPC",
+      "valor": "VIOLACION PROCEDIMIENTOS DE CONTRATACION"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2020-08-05"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "10 AÑOS",
+      "fechaInicial": "2020-08-20",
+      "fechaFinal": "2030-08-19"
+    },
+    "observaciones": "COMPRO LAS PREGUNTAS Y RESPUESTAS DE LA PRIMERA ETAPA, ASI COMO DEL CASO PRACTICO DEL VIGESIMO OCTAVO CONCURSO INTERNO DE OPOSICION PARA LA DESIGNACION DE JUECES DE DISTRITO.",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2020-08-05"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "fechaCaptura": "2019-01-16T12:55:14Z",
+    "expediente": "25/2011",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE DESARROLLO URBANO Y OBRAS PUBLICAS",
+      "siglas": "SDUYOP",
+      "clave": "251"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "RODOLFO",
+      "primerApellido": "ARELLANO",
+      "segundoApellido": "ORTEGA",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "JEFE DE DEPARTAMENTO DE SUPERVISIÓN DE OBRA",
+      "nivel": "MEDIO"
+    },
+    "autoridadSancionadora": "DIRECCIÓN DE RESPONSABILIDADES  Y SITUACIÓN PATRIMONIAL DE LA SECRETARÍA DE LA CONTRALORÍA DEL ESTADO DE PUEBLA",
+    "tipoFalta": {
+      "clave": "VLNP",
+      "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2015-04-08"
+    },
+    "multa": {
+      "monto": 1118625718,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "",
+      "fechaInicial": "2015-08-24",
+      "fechaFinal": "2027-08-24"
+    },
+    "observaciones": "",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2015-04-08"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "fechaCaptura": "2019-01-16T12:55:14Z",
+    "expediente": "2/2012",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE DESARROLLO URBANO Y OBRAS PUBLICAS",
+      "siglas": "SDUYOP",
+      "clave": "251"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "RODOLFO",
+      "primerApellido": "ARELLANO",
+      "segundoApellido": "ORTEGA",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "DIRECTOR DE OBRA",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "DIRECCIÓN DE INFORMACIÓN DE ANÁLISIS Y CONTROL DE LA CONDUCTA INDIVIDUAL",
+    "tipoFalta": {
+      "clave": "VLNP",
+      "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2016-10-24"
+    },
+    "multa": {
+      "monto": 956194475,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "",
+      "fechaInicial": "2017-02-23",
+      "fechaFinal": "2029-02-23"
+    },
+    "observaciones": "",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2016-10-24"
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "fechaCaptura": "2019-01-16T12:55:14Z",
+    "expediente": "02/2012",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE DESARROLLO URBANO Y OBRAS PUBLICAS",
+      "siglas": "SDUYOP",
+      "clave": "251"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "RODOLFO",
+      "primerApellido": "ARELLANO",
+      "segundoApellido": "ORTEGA",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "DIRECTOR DE OBRA PÚBLICA",
+      "nivel": "MEDIO"
+    },
+    "autoridadSancionadora": "DIRECCIÓN DE INFORMACIÓN DE ANÁLISIS Y CONTROL DE LA CONDUCTA INDIVIDUAL",
+    "tipoFalta": {
+      "clave": "VLNP",
+      "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2016-10-26"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "",
+      "fechaInicial": "2017-02-23",
+      "fechaFinal": "2029-02-23"
+    },
+    "observaciones": "",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2016-10-26"
+      }
+    ]
+  },
+  {
+    "id": "368",
+    "fechaCaptura": "2019-03-05T11:05:13Z",
+    "expediente": "CPJF/PA/279/2015",
+    "institucionDependencia": {
+      "nombre": "CONSEJO DE LA JUDICATURA FEDERAL",
+      "siglas": "CJFPJF",
+      "clave": "94"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "ROGELIO",
+      "primerApellido": "BUSTAMANTE",
+      "segundoApellido": "HERNANDEZ",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "ENTONCES DIRECTOR DE SERVICIOS INFORMÁTICOS",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "COMISIÓN DE DISCIPLINA DEL CONSEJO DE LA JUDICATURA FEDERAL.",
+    "tipoFalta": {
+      "clave": "NAD",
+      "valor": "NEGLIGENCIA ADMINISTRATIVA"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2018-12-04"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "10 AÑOS",
+      "fechaInicial": "2019-02-12",
+      "fechaFinal": "2029-02-11"
+    },
+    "observaciones": "ELABORÓ Y SUSCRIBIÓ EL DOCUMENTO \"EVALUACIÓN TÉCNICA\", EN EL CUAL SE ESTABLECE RESPECTO AL SOFTWARE, LA INEXISTENCIA DE OTRA SOLUCIÓN TECNOLÓGICA EN EL MERCADO CON EL MISMO NIVEL DE INTEGRACIÓN QUE LA OFRECIDA POR LA EMPRESA \"ASESORÍA Y CONSULTORÍA TECNOLÓGICA S.A. DE C.V.\", SIN QUE SE COMPROBARA TAL CIRCUNSTANCIA CON EL MATERIAL PROBATORIO CORRESPONDIENTE.",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2018-12-04"
+      }
+    ]
+  },
+  {
+    "id": "144",
+    "fechaCaptura": "2019-01-16T12:55:14Z",
+    "expediente": "01/2016",
+    "institucionDependencia": {
+      "nombre": "DEPARTAMENTO DE RECAUDACIÓN DEL ÁREA DE ESTACIONAMIENTOS AHORA \"CONVENCIONES Y PARQUES\"",
+      "siglas": "DRAECP",
+      "clave": "374"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "ROSA LUZ",
+      "primerApellido": "LECONA",
+      "segundoApellido": "FERNANDEZ",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "ANALISTA ESPECIALIZADO ",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "COMISARÍA PÚBLICA EN EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO \"CONVENCIONES Y PARQUES\"",
+    "tipoFalta": {
+      "clave": "AUT",
+      "valor": "ABUSO DE AUTORIDAD"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2016-11-22"
+    },
+    "multa": {
+      "monto": 15666002,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "",
+      "fechaInicial": "2017-01-03",
+      "fechaFinal": "2029-01-03"
+    },
+    "observaciones": "",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2016-11-22"
+      }
+    ]
+  },
+  {
+    "id": "199",
+    "fechaCaptura": "2019-01-16T12:55:14Z",
+    "expediente": "22/2013",
+    "institucionDependencia": {
+      "nombre": "NO EXISTE DATO",
+      "siglas": "NO EXISTE DATO",
+      "clave": "406"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "RUBEN",
+      "primerApellido": "PEDRERO",
+      "segundoApellido": "RODRIGUEZ",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "MAGISTRADO DE CIRCUIRO ADSCRITO AL SEXTO TRIBUNAL COLEGIADO EN MATERIA ADMINISTRATIVA DEL PRIMER CIRCUITO",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL ",
+    "tipoFalta": {
+      "clave": "AUT",
+      "valor": "ABUSO DE AUTORIDAD"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2015-08-12"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "",
+      "fechaInicial": "2014-02-27",
+      "fechaFinal": "2025-11-19"
+    },
+    "observaciones": "",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2015-08-12"
+      }
+    ]
+  },
+  {
+    "id": "353",
+    "fechaCaptura": "2019-02-13T13:13:17Z",
+    "expediente": "P.A. 21/2012",
+    "institucionDependencia": {
+      "nombre": "H. AYUNTAMIENTO DE PETLALCINGO PUEBLA 2005-2008",
+      "siglas": "HAPP",
+      "clave": "453"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "RUTH",
+      "primerApellido": "DEMETRIO",
+      "segundoApellido": "DIAZ",
+      "genero": {
+        "clave": "F",
+        "valor": "Femenino"
+      },
+      "puesto": "PRESIDENTE MUNICIPAL SUSTITUTA DEL AYUNTAMIENTO DE PETLALCINGO PUEBLA 2005-2008",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "AUDITORÍA SUPERIOR DEL ESTADO DE PUEBLA",
+    "tipoFalta": {
+      "clave": "VLNP",
+      "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2018-08-31"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "5 AÑOS",
+      "fechaInicial": "2018-10-04",
+      "fechaFinal": "2023-04-04"
+    },
+    "observaciones": "NO CUMPLIÓ CON EL REQUERIMIENTO PARA EL EJERCICIO DE LA FUNCIÓN DE FISCALIZACIÓN SUPERIOR DE LAS CUENTAS PÚBLICAS, REALIZADO POR EL ENTE FISCALIZADOR A TRAVÉS DE LOS PLIEGOS DE OBSERVACIONES Y DE CARGO VENCIDO 05717C/2008-2011, POR UN MONTO TOTAL DE $11´569,625.49 OBSERVÁNDOSE UN TOTAL DE 19 IRREGULARIDADES.",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2018-08-31"
+      }
+    ]
+  },
+  {
+    "id": "3783",
+    "fechaCaptura": "2020-11-22T06:35:05Z",
+    "expediente": "34/2018 Y SU ACUMULADO 12/2019",
+    "institucionDependencia": {
+      "nombre": "INSTITUTO DE LA JUDICATURA FEDERAL",
+      "siglas": "PJF",
+      "clave": "1583"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "SALVADOR",
+      "primerApellido": "MONDRAGON",
+      "segundoApellido": "REYES",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "DIRECTOR GENERAL",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "COMISION DE DISCIPLINA DEL CONSEJO DE LA JUDICATURA FEDERAL",
+    "tipoFalta": {
+      "clave": "VPC",
+      "valor": "VIOLACION PROCEDIMIENTOS DE CONTRATACION"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2020-08-05"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "10 AÑOS",
+      "fechaInicial": "2020-09-01",
+      "fechaFinal": "2030-08-31"
+    },
+    "observaciones": "OMITIO TOMAR LAS MEDIDAS DE SEGURIDAD OPTIMAS PARA RESGUARDAR LA INFORMACION CONFIDENCIAL RELATIVA AL VIGESIMO OCTAVO  CONCURSO DE OPOSICION PARA JUECES DE DISTRITO, DELEGANDO A UNA SUB ALTERNA LA OBLIGACION DE RESGUARDAR LA SECRECIA DE LOS REACTIVOS Y EL CASO PRACTICO, ASI COMO ENTREVISTARSE A FUERA DE LAS INSTALACIONES DEL INSTITUTO DE LA JUDICATURA FEDERAL CON PATRICIA GUADALUPE LEE MARTINEZ PARTICIPANTE DEL CONCURSO, PONIENDO EN RIESGO LA TRANSPARENCIA DE ESTE.",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2020-08-05"
+      }
+    ]
+  },
+  {
+    "id": "340",
+    "fechaCaptura": "2019-01-30T12:59:27Z",
+    "expediente": "P. A. 46/2009",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE OLINTLA, PUEBLA 2005-2008",
+      "siglas": "AO",
+      "clave": "447"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "SALVADOR",
+      "primerApellido": "SÁNCHEZ",
+      "segundoApellido": "VEGA",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "PRESIDENTE MUNICIPAL CONSTITUCIONAL",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "COMISIÓN GENERAL INSPECTORA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE PUEBLA",
+    "tipoFalta": {
+      "clave": "VLNP",
+      "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2018-07-31"
+    },
+    "multa": {
+      "monto": 677399015,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "12 AÑOS",
+      "fechaInicial": "2018-09-19",
+      "fechaFinal": "2030-09-19"
+    },
+    "observaciones": "DEFICIENCIAS ADMINISTRATIVAS PROVENIENTES DEL FONDO DE PARTICIPACIONES, DEL FONDO DE APORTACIONES PARA LA INFRAESTRUCTURA SOCIAL MUNICIPAL Y DEL FONDO DE APORTACIONES PARA EL FORTALECIMIENTO DE LOS MUNICIPIOS QUE ASCIENDE A LA CANTIDAD DE $7´301,089.31/100 M.N.",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2018-07-31"
+      }
+    ]
+  },
+  {
+    "id": "4911",
+    "fechaCaptura": "2022-04-28T12:31:55Z",
+    "expediente": "01/2020 TOMO C",
+    "institucionDependencia": {
+      "nombre": "H. AYUNTAMIENTO DE SAN ANDRES CHOLULA, PUEBLA",
+      "siglas": "",
+      "clave": "157"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "SAMUEL",
+      "primerApellido": "RUVALCABA",
+      "segundoApellido": "CARDENAS",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "SECRETARIO TECNICO DEL COMITE DE ADJUDICACIONES DEL HONORABLE AYUNTAMIENTO DE SAN ANDRES CHOLULA, PUEBLA",
+      "nivel": "MEDIO"
+    },
+    "autoridadSancionadora": "DIRECCION DE SUBSTANCIACION Y RESOLUCION DE LA CONTRALORIA MUNICIPAL DE SAN ANDRES CHOLULA",
+    "tipoFalta": {
+      "clave": "NAD",
+      "valor": "NEGLIGENCIA ADMINISTRATIVA"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2021-09-02"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "5 AÑOS",
+      "fechaInicial": "2021-09-02",
+      "fechaFinal": "2026-09-02"
+    },
+    "observaciones": "AUTORIZAR MEDIANTE SU FIRMA , EL FALLO DE LICITACION PARA CONCESIONAR LOS SERVICIOS PUBLICOS MUNICIPALES.",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2021-09-02"
+      }
+    ]
+  },
+  {
+    "id": "310",
+    "fechaCaptura": "2019-01-16T12:55:14Z",
+    "expediente": "P.A. 52/2014",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE ATZITZIHUACÁN, PUEBLA, ADMINISTRACIÓN 2011-2014",
+      "siglas": "AA",
+      "clave": "437"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "SANTIAGO",
+      "primerApellido": "MARÍN",
+      "segundoApellido": "DOMÍNGUEZ",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "Presidente Municipal ",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "Honorable Quincuagésimo Noveno Congreso Costitucional del Estado Libre y Soberano de Puebla.",
+    "tipoFalta": {
+      "clave": "VLNP",
+      "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2018-03-15"
+    },
+    "multa": {
+      "monto": 220061500,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "",
+      "fechaInicial": "2018-05-11",
+      "fechaFinal": "2024-11-11"
+    },
+    "observaciones": "Diversas Irregularidades no desvirtuadas contempladas en el Pliego de Cargos Vencidos 04114C/2005-2008, derivado de la revisión al control legislativo del gasto efectuado en la Cuenta Pública, por el periodo comprendido del uno de enero al catorce de febrero de 2008, subsistió sin comprobar, ni justificar la cantidad de $317,462,210.00",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2018-03-15"
+      }
+    ]
+  },
+  {
+    "id": "3710",
+    "fechaCaptura": "2019-09-30T09:45:51Z",
+    "expediente": "109/2009",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE SAN MIGUEL XOXTLA, PUEBLA",
+      "siglas": "HASMX",
+      "clave": "45"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "SEBASTIÁN",
+      "primerApellido": "RAMOS",
+      "segundoApellido": "PALACIOS",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "PRESIDENTE MUNICIPAL",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "HONORABLE QUINCUAGÉSIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA",
+    "tipoFalta": {
+      "clave": "VLNP",
+      "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2016-07-27"
+    },
+    "multa": {
+      "monto": 1001075,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "8 AÑOS",
+      "fechaInicial": "2018-11-16",
+      "fechaFinal": "2026-11-16"
+    },
+    "observaciones": "DIVERSAS IRREGULARIDADES NO DESVIRTUADAS PROVENIENTES DE RECURSOS FEDERALES NO COMPROBADAS Y JUSTIFICADAS, ESPECÍFICAMENTE POR EL PERIODO AUDITADO COMPRENDIDO DEL QUINCE DE FEBRERO AL TREINTA Y UNO DE DICIEMBRE DE DOS MIL OCHO.",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2016-07-27"
+      }
+    ]
+  },
+  {
+    "id": "253",
+    "fechaCaptura": "2019-01-16T12:55:14Z",
+    "expediente": "45/2010",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE SAN FELIPE TEOTLALCINGO, PUEBLA",
+      "siglas": "HASFTP",
+      "clave": "40"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "TOMAS",
+      "primerApellido": "SALGADO",
+      "segundoApellido": "CORONA",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "PRESIDENTE MUNICIPAL",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "QUINCUAGÉSIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA",
+    "tipoFalta": {
+      "clave": "NAD",
+      "valor": "NEGLIGENCIA ADMINISTRATIVA"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2017-07-31"
+    },
+    "multa": {
+      "monto": 3043663500,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "",
+      "fechaInicial": "2015-02-24",
+      "fechaFinal": "2023-11-23"
+    },
+    "observaciones": "",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2017-07-31"
+      }
+    ]
+  },
+  {
+    "id": "394",
+    "fechaCaptura": "2019-03-06T04:27:50Z",
+    "expediente": "P.A. 37/2009",
+    "institucionDependencia": {
+      "nombre": "H. AYUNTAMIENTO DE HUEYAPAN PUEBLA",
+      "siglas": "HAHP",
+      "clave": "479"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "TOMÁS",
+      "primerApellido": "FLORES",
+      "segundoApellido": "MARTÍNEZ",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "PRESIDENTE MUNICIPAL DEL AYUNTAMIENTO DE HUEYAPAN PUEBLA 2005-2008",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "QUINCUAGÉSIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.",
+    "tipoFalta": {
+      "clave": "NAD",
+      "valor": "NEGLIGENCIA ADMINISTRATIVA"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2016-03-03"
+    },
+    "multa": {
+      "monto": 56638849,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "12 AÑOS",
+      "fechaInicial": "2016-07-04",
+      "fechaFinal": "2028-07-04"
+    },
+    "observaciones": "POR 18 IRREGULARIDADES CONTEMPLADAS EN EL PLIEGO DE CARGOS VENCIDO NÚMERO 04162C/2005-2005, POR UN MONTO TOTAL DE $12'677,858.75 (DOCE MILLONES, SEISCIENTOS SETENTA Y SIETE MIL, OCHOCIENTOS CINCUENTA Y OCHO PESOS, 75/100 M.N.)",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2016-03-03"
+      }
+    ]
+  },
+  {
+    "id": "375",
+    "fechaCaptura": "2019-03-05T11:35:33Z",
+    "expediente": "EXPRESIDENTE MUNICIPAL CONSTITUCIONAL DE TEOTLALCINGO PUEBLA 2008-2011",
+    "institucionDependencia": {
+      "nombre": "H. AYUNTAMIENTO DEL MUNICIPIO DE TEOTLALCINGO PUEBLA",
+      "siglas": "HAMTP",
+      "clave": "462"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "TOMÁS",
+      "primerApellido": "SALGADO",
+      "segundoApellido": "CORONA",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "EXPRESIDENTE MUNICIPAL CONSTITUCIONAL DE TEOTLALCINGO PUEBLA 2008-2011",
+      "nivel": "BAJO"
+    },
+    "autoridadSancionadora": "QUINCUAGÉSIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.",
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "OTRO"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2018-07-31"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "7 AÑOS",
+      "fechaInicial": "2019-01-09",
+      "fechaFinal": "2026-01-09"
+    },
+    "observaciones": "POR 13 IRREGULARIDADES QUE FUERON CONTEMPLADAS EN EL PLIEGO DE CARGOS VENCIDO NÚMERO 05889C/2008-2011, POR UN MONTO TOTAL DE $2'292,725.97 (DOS MILLONES DOSCIENTOS NOVENTA Y DOS MIL SETECIENTOS VEINTICINCO PESOS 97/100 M.N.)",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2018-07-31"
+      }
+    ]
+  },
+  {
+    "id": "273",
+    "fechaCaptura": "2019-01-16T12:55:14Z",
+    "expediente": "56/2009",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE AHUEHUETITLA, PUEBLA",
+      "siglas": "AA",
+      "clave": "8"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "URBANO ADELINO",
+      "primerApellido": "TLATELPA",
+      "segundoApellido": "VAQUERO",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "PRESIDENTE MUNICIPAL CONSTITUCIONAL ",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "QUINCUAGÉSIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO ",
+    "tipoFalta": {
+      "clave": "NAD",
+      "valor": "NEGLIGENCIA ADMINISTRATIVA"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2015-07-31"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "",
+      "fechaInicial": "2015-11-18",
+      "fechaFinal": "2027-10-22"
+    },
+    "observaciones": "",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2015-07-31"
+      }
+    ]
+  },
+  {
+    "id": "3817",
+    "fechaCaptura": "2021-03-17T12:49:17Z",
+    "expediente": "05/2019",
+    "institucionDependencia": {
+      "nombre": "FONDO PARA EL FORTALECIMIENTO DE LA MICROEMPRESA. SECRETARIA DE COMPETITIVIDAD, DESARROLLO ECONOMICO",
+      "siglas": "FFMSCDE",
+      "clave": "1600"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "URICEL",
+      "primerApellido": "PALACIOS",
+      "segundoApellido": "ISIDORO",
+      "genero": {
+        "clave": "F",
+        "valor": "Femenino"
+      },
+      "puesto": "APOYO DEL RESPONSABLE DE LA  ATENCION DE LOS ASUNTOS DEL FONDO",
+      "nivel": "BAJO"
+    },
+    "autoridadSancionadora": "DIRECCION DE SEGUIMIENTO A RESPONSABILIDADES",
+    "tipoFalta": {
+      "clave": "OTRO",
+      "valor": "OTRO"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2020-08-03"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "7 AÑOS 9 MESES",
+      "fechaInicial": "2021-02-12",
+      "fechaFinal": "2028-11-12"
+    },
+    "observaciones": "FUE EL BENEFICIADO DIRECTO DE LOS RECURSOS TRANSFERIDOS DE LAS CUENTAS DEL FIDEICOMISO PÚBLICO DENOMINADO FONDO PARA EL FORTALECIMIENTO DE LA MICROEMPRESA  A SU CUENTA PERSONAL SIN QUE OBRARA DOCUMENTACION QUE SOPORTARA LA UTILIZACION DE LOS RECURSOS ECONOMICOS EN ALGUNO DE LOS FINES DEL FONDO.",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2020-08-03"
+      }
+    ]
+  },
+  {
+    "id": "381",
+    "fechaCaptura": "2019-03-05T12:45:48Z",
+    "expediente": "103/2009",
+    "institucionDependencia": {
+      "nombre": "H. AYUNTAMIENTO DEL MUNICIPIO DE XIUTETELCO PUEBLA",
+      "siglas": "HAMXP",
+      "clave": "468"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "VALENTIN",
+      "primerApellido": "MENDEZ",
+      "segundoApellido": "MARTINEZ",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "EX PRESIDENTE MUNICIPAL CONSTITUCIONAL DE XIUTETELCO PUEBLA 2005-2008",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "QUINCUAGÉSIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA",
+    "tipoFalta": {
+      "clave": "NAD",
+      "valor": "NEGLIGENCIA ADMINISTRATIVA"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2018-07-31"
+    },
+    "multa": {
+      "monto": 4538400,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "5 AÑOS 6 MESES",
+      "fechaInicial": "2018-09-19",
+      "fechaFinal": "2024-03-19"
+    },
+    "observaciones": "POR 11 IRREGULARIDADES QUE FUERON CONTEMPLADAS EN EL PLIEGO DE CARGOS VENCIDO NÚMERO 04200C/2005-2008, POR UN MONTO TOTAL DE $4'838,266.62 (CUATRO MILLONES OCHOCIENTOS TREINTA Y OCHO MIL DOSCIENTOS SESENTA Y SEIS PESOS 62/100 M.N.)",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2018-07-31"
+      }
+    ]
+  },
+  {
+    "id": "3792",
+    "fechaCaptura": "2020-11-24T09:31:06Z",
+    "expediente": "34/2018 Y SU ACUMULADO 12/2019",
+    "institucionDependencia": {
+      "nombre": "QUINTO TRIBUNAL COLEGIADO EN MATERIA PENAL DEL PRIMER CIRCUITO",
+      "siglas": "PJF",
+      "clave": "1586"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "VERONICA",
+      "primerApellido": "PATIÑO",
+      "segundoApellido": "OLVERA",
+      "genero": {
+        "clave": "F",
+        "valor": "Femenino"
+      },
+      "puesto": "SECRETARIA PARTICULAR DE MAGISTRADO",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "COMISION DE DISCIPLINA DEL CONSEJO DE LA JUDICATURA FEDERAL",
+    "tipoFalta": {
+      "clave": "VPC",
+      "valor": "VIOLACION PROCEDIMIENTOS DE CONTRATACION"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2020-08-05"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "10 AÑOS",
+      "fechaInicial": "2020-08-20",
+      "fechaFinal": "2030-08-19"
+    },
+    "observaciones": "OBTENER PREGUNTAS Y RESPUESTAS DE LA PRIMERA ETAPA, DEL VIGESIMO OCTAVO CONCURSO INTERNO DE OPOSICION PARA LA DESIGNACION DE JUECES DE DISTRITO.",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2020-08-05"
+      }
+    ]
+  },
+  {
+    "id": "4883",
+    "fechaCaptura": "2021-12-15T11:04:31Z",
+    "expediente": "EXPEDIENTE ADMINISTRATIVO Q-02/2017-PAR-12/2017",
+    "institucionDependencia": {
+      "nombre": "SECRETARIA DE SEGURIDAD PUBLICA Y TRANSITO MUNICIPIAL DEL H. AYTO. DEL MUNICIPIO DE PUEBLA",
+      "siglas": "SSPTM",
+      "clave": "265"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "VICTOR",
+      "primerApellido": "ARTERO",
+      "segundoApellido": "FIGUEROA",
+      "genero": {
+        "clave": "M",
+        "valor": "Masculino"
+      },
+      "puesto": "POLICÍA",
+      "nivel": "MEDIO"
+    },
+    "autoridadSancionadora": "SECRETARÍA DE SEGURIDAD Y TRANSITO MUNICIPAL DEL H. AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA",
+    "tipoFalta": {
+      "clave": "NAD",
+      "valor": "NEGLIGENCIA ADMINISTRATIVA"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2018-07-03"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "7 años",
+      "fechaInicial": "2021-09-14",
+      "fechaFinal": "2028-09-14"
+    },
+    "observaciones": "Omisión que produjo el incumplimiento de sus funciones como servidor público.",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2018-07-03"
+      }
+    ]
+  },
+  {
+    "id": "3678",
+    "fechaCaptura": "2019-07-18T10:14:06Z",
+    "expediente": "30/2018",
+    "institucionDependencia": {
+      "nombre": "HOSPITAL INTEGRAL DE TULCINGO DE VALLE",
+      "siglas": "HITP",
+      "clave": "167"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "YURI MOISES",
+      "primerApellido": "ROJAS",
+      "segundoApellido": "PEREZ",
+      "genero": {
+        "clave": "F",
+        "valor": "Femenino"
+      },
+      "puesto": "ADMINISTRADOR",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "DIRECCIÓN DE SEGUIMIENTO A RESPONSABILIDADES",
+    "tipoFalta": {
+      "clave": "NAD",
+      "valor": "NEGLIGENCIA ADMINISTRATIVA"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2019-04-30"
+    },
+    "multa": {
+      "monto": 2944000,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "5 AÑOS",
+      "fechaInicial": "2019-05-17",
+      "fechaFinal": "2024-05-17"
+    },
+    "observaciones": "OMITIÓ COMPROBAR A LOS SERVICIOS DE SALUD DEL ESTADO DE PUEBLA, EL RECURSO QUE LE FUE ASIGNADO PARA CUBRIR EL GASTO DE OPERACIÓN DEL MES DE DICIEMBRE.",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2019-04-30"
+      }
+    ]
+  },
+  {
+    "id": "233",
+    "fechaCaptura": "2019-07-18T10:14:06Z",
+    "expediente": "44/2017",
+    "institucionDependencia": {
+      "nombre": "HOSPITAL INTEGRAL DE TULCINGO DE VALLE",
+      "siglas": "HITP",
+      "clave": "167"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "YURI MOISES",
+      "primerApellido": "ROJAS",
+      "segundoApellido": "PEREZ",
+      "genero": {
+        "clave": "F",
+        "valor": "Femenino"
+      },
+      "puesto": "ADMINISTRADOR DE HOSPITAL",
+      "nivel": "MEDIO"
+    },
+    "autoridadSancionadora": "ÓRGANO  INTERNO DE CONTROL EN LOS SERVICIOS DE SALUD DEL ESTADO DE PUEBLA",
+    "tipoFalta": {
+      "clave": "NAD",
+      "valor": "NEGLIGENCIA ADMINISTRATIVA"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2018-01-08"
+    },
+    "multa": {
+      "monto": 16884000,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "",
+      "fechaInicial": "2018-05-02",
+      "fechaFinal": "2028-05-02"
+    },
+    "observaciones": "",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2018-01-08"
+      }
+    ]
+  },
+  {
+    "id": "3729",
+    "fechaCaptura": "2019-11-20T09:22:39Z",
+    "expediente": "84/2016",
+    "institucionDependencia": {
+      "nombre": "AYUNTAMIENTO DE TEHUACAN, PUEBLA.",
+      "siglas": "HAT",
+      "clave": "55"
+    },
+    "servidorPublicoSancionado": {
+      "nombres": "ZOILA",
+      "primerApellido": "VALENCIA",
+      "segundoApellido": "REYES",
+      "genero": {
+        "clave": "F",
+        "valor": "Femenino"
+      },
+      "puesto": "COORDINADORA DEL ÁREA JURÍDICA DEL ORGANISMO OPERADOR DEL SERVICIO DE LIMPIA DE TEHUACÁN.",
+      "nivel": "ALTO"
+    },
+    "autoridadSancionadora": "CONTRALORÍA MUNICIPAL DEL AYUNTAMIENTO DE TEHUACÁN",
+    "tipoFalta": {
+      "clave": "NAD",
+      "valor": "NEGLIGENCIA ADMINISTRATIVA"
+    },
+    "tipoSancion": [
+      {
+        "clave": "I",
+        "valor": "INHABILITADO"
+      }
+    ],
+    "causaMotivoHechos": "NEGLIGENCIA ADMINISTRATIVA",
+    "resolucion": {
+      "url": "",
+      "fechaResolucion": "2018-02-06"
+    },
+    "multa": {
+      "monto": 0,
+      "moneda": {
+        "clave": "MXN",
+        "valor": "Peso Mexicano"
+      }
+    },
+    "inhabilitacion": {
+      "plazo": "6 AÑOS",
+      "fechaInicial": "2019-08-16",
+      "fechaFinal": "2025-08-16"
+    },
+    "observaciones": "POR UN ACTUAR QUE CONTRAVIENE LO MANDATADO POR LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE PUEBLA EN SU ARTÍCULO 50 FRACCIONES I Y XXI. POR TENER CONDUCTAS CONTRARIAS A DERECHO, YA QUE ERA SU DEBER COMPORTARSE DE ACUERDO LO SEÑALA LA NORMA, DE TAL MODO QUE DICHAS ACCIONES Y OMISIONES SON ANTIJURÍDICAS YA QUE CONTRARÍAN A LA NORMA Y DAÑAN AL INTERÉS PÚBLICO ASÍ COMO EXISTE UN DETRIMENTO AL PATRIMONIO DEL MUNICIPIO.",
+    "documentos": [
+      {
+        "id": "",
+        "titulo": "",
+        "descripcion": "",
+        "url": "",
+        "fecha": "2018-02-06"
+      }
+    ]
+  }
+]

@@ -1,0 +1,4237 @@
+[
+  {
+    "id": "6318f07899226c00195ba8e8",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "ANALISTA ADVTO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JORGE DAVID",
+    "primerApellido": "RUBIO",
+    "segundoApellido": "CARRILLO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:26:48+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f0b299226c00195ba8fb",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JORGE ISAHI",
+    "primerApellido": "VERDIN",
+    "segundoApellido": "CONCHAS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:27:46+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f0b799226c00195ba907",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "DIR  AR SIT PLAT Y TRA E"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "SERGIO ",
+    "primerApellido": "SOLIS",
+    "segundoApellido": " HERNANDEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:27:51+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f10a99226c00195ba92a",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "JEFE DE OFICINA "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSE ALBERTO",
+    "primerApellido": "MEZA",
+    "segundoApellido": "HERNÁNDEZ ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:29:14+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f13099226c00195ba93d",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "COOR GRAL DE PROY ESTRA B"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "SAÚL",
+    "primerApellido": " ALVEANO",
+    "segundoApellido": " AGUERREBERE",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:29:52+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f15f99226c00195ba950",
+    "institucionDependencia": {
+      "nombre": "Sec. de Medio Ambiente y Desarrollo Territorial",
+      "siglas": "SEMADET"
+    },
+    "puesto": {
+      "nombre": "Secretario de SEMADET"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Sergio Humberto",
+    "primerApellido": "Graf",
+    "segundoApellido": "Montero",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:30:39+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f16a99226c00195ba963",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "DIR DE AREA TECNICA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "SAUL  ",
+    "primerApellido": "GONZALEZ ",
+    "segundoApellido": "RAMIREZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:30:50+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f1a899226c00195ba976",
+    "institucionDependencia": {
+      "nombre": "Sec. de Medio Ambiente y Desarrollo Territorial"
+    },
+    "puesto": {
+      "nombre": "Dir. Gral. Protección Amb"
+    },
+    "nombres": "Sofia",
+    "primerApellido": "Hernandez",
+    "segundoApellido": "Morales",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:31:52+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f1ae99226c00195ba982",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR ESP K"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "SANDRA ",
+    "primerApellido": "GARCIA  ",
+    "segundoApellido": "PALMA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:31:58+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f1d299226c00195ba99c",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "ADVTO ESPECIALIZADO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSE ANTONIO ",
+    "primerApellido": "AGUILAR",
+    "segundoApellido": "SANCHEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:32:34+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f1f899226c00195ba9a8",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "JEFE B DE UNI DEP"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ROSA YADIRA ",
+    "primerApellido": "ARAMBULA ",
+    "segundoApellido": "ESTRADA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:33:12+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f20a99226c00195ba9bb",
+    "institucionDependencia": {
+      "nombre": "Sec. de Medio Ambiente y Desarrollo Territorial"
+    },
+    "puesto": {
+      "nombre": "Dir. Recursos Humanos"
+    },
+    "nombres": "Victor Hugo ",
+    "primerApellido": "Maciel",
+    "segundoApellido": "Gutierrez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:33:30+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f25f99226c00195ba9d5",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "DIR AR DE INV Y CUL VIAL"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ROCIO CITLALLI ",
+    "primerApellido": "ESPINOZA ",
+    "segundoApellido": "MORQUECHO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:34:55+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f27299226c00195ba9e1",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSE DE JESUS",
+    "primerApellido": "HERNANDEZ",
+    "segundoApellido": "GORTAZAR",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:35:14+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f2b899226c00195ba9fb",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "DIRALFABETIZACIÓN DIGITAL"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSPE FRANCISCO",
+    "primerApellido": "PÉREZ ",
+    "segundoApellido": "REYES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:36:24+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f2c199226c00195baa0e",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "DIR DE AREA JUR DEL TRAN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "RICARDO  ",
+    "primerApellido": "SEGURA  ",
+    "segundoApellido": "HUERTA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:36:33+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f2c399226c00195baa1a",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Planeación y Participación Ciudadana"
+    },
+    "puesto": {
+      "nombre": "Dir. Gral. Vinculación"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Celia Andrea",
+    "primerApellido": "Ramírez",
+    "segundoApellido": "Arechiga",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:36:35+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f32b99226c00195baa3c",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Planeación y Participación Ciudadana"
+    },
+    "puesto": {
+      "nombre": "Técnico Especializado"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Cesar Alejandro",
+    "primerApellido": "Salgado",
+    "segundoApellido": "López",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:38:19+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f32f99226c00195baa48",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "SEC PART DEL SEC DE TRAN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "POLO IAMIL ",
+    "primerApellido": "OCHOA ",
+    "segundoApellido": "BELLO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:38:23+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f35199226c00195baa62",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "MAESTRO TÉCNICO "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSE RAFAEL",
+    "primerApellido": "BECERRA",
+    "segundoApellido": "SOTO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:38:57+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f38299226c00195baa75",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Planeación y Participación Ciudadana"
+    },
+    "puesto": {
+      "nombre": "Dir.Gral. Participación C"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Juan Manuel Cesar",
+    "primerApellido": "Diaz",
+    "segundoApellido": "Galván",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:39:46+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f38699226c00195baa81",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "AUX OFICINA DE PAGOS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSÉ SANTOS",
+    "primerApellido": "BRAVO",
+    "segundoApellido": "PARTIDA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:39:50+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f39699226c00195baa94",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "TÉC ESP A"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "PEDRO ",
+    "primerApellido": "MONTAÑO",
+    "segundoApellido": " BOTELLO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:40:06+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f3b599226c00195baaa7",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "MAESTRO TÉCNICO "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSE URBANO",
+    "primerApellido": "CARMONA",
+    "segundoApellido": "HERNANDEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:40:37+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f3e799226c00195baac1",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Planeación y Participación Ciudadana"
+    },
+    "puesto": {
+      "nombre": "Analista financiero"
+    },
+    "nombres": "Luis Enrique",
+    "primerApellido": "Hernández",
+    "segundoApellido": "Orozco",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:41:27+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f3eb99226c00195baacd",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JUAN MANUEL ",
+    "primerApellido": "GARCÍA",
+    "segundoApellido": "SOTELO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:41:31+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f3f499226c00195baae0",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "COOR ADMINISTRATIVO C"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "OSCAR GABRIEL ",
+    "primerApellido": "BERNAL ",
+    "segundoApellido": "LOPEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:41:40+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f43b99226c00195baafa",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Planeación y Participación Ciudadana"
+    },
+    "puesto": {
+      "nombre": "Dir. Administrativo"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Manuel",
+    "primerApellido": "López",
+    "segundoApellido": "González",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:42:51+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f44d99226c00195bab0d",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "SECRETARIA DE APOYO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JUDITH ESMERALDA",
+    "primerApellido": "ALONSO",
+    "segundoApellido": "HERMOSILLO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:43:09+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f45799226c00195bab19",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "DIR DE ÁREA DE TRAN PASA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MIGUEL ÁNGEL ",
+    "primerApellido": " SÁNCHEZ",
+    "segundoApellido": " DE SANTIAGO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:43:19+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f48599226c00195bab33",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Planeación y Participación Ciudadana"
+    },
+    "puesto": {
+      "nombre": "Secretaria de PPC"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Margarita Cristina",
+    "primerApellido": "Sierra",
+    "segundoApellido": "Diaz de Rivera",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:44:05+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f49c99226c00195bab46",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "NUTRIOLOGA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "KAREN ZUEHILY",
+    "primerApellido": "MENDEZ",
+    "segundoApellido": "MORA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:44:28+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f4c299226c00195bab5e",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "DIR DE AREA MULTITRAMITE"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARIBEL ",
+    "primerApellido": "JORGE ",
+    "segundoApellido": "MARTINEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:45:06+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f4ca99226c00195bab6a",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Planeación y Participación Ciudadana"
+    },
+    "puesto": {
+      "nombre": "Secretaria Particular"
+    },
+    "nombres": "María del Mar",
+    "primerApellido": "Ruiz ",
+    "segundoApellido": "Magaña",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:45:14+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f50599226c00195bab84",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Planeación y Participación Ciudadana"
+    },
+    "puesto": {
+      "nombre": "Encargada de Compras"
+    },
+    "nombres": "Marisol",
+    "primerApellido": "Avila",
+    "segundoApellido": "Rayas",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:46:13+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f53c99226c00195bab9e",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "DIR DEL SIS INTE DE REC"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARIANA",
+    "primerApellido": " BULOS ",
+    "segundoApellido": "RODRIGUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:47:08+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f55b99226c00195babb1",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Planeación y Participación Ciudadana"
+    },
+    "puesto": {
+      "nombre": "Dir. Gral. de PPC"
+    },
+    "nombres": "Mónica Teresita",
+    "primerApellido": "Ballesca",
+    "segundoApellido": "Ramírez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:47:39+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f57499226c00195babbd",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "KARLA GISELL",
+    "primerApellido": "RUBIO",
+    "segundoApellido": "CARRILLO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:48:04+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f58c99226c00195babd7",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR B"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARIA LORENZA ",
+    "primerApellido": " FLORES ",
+    "segundoApellido": " JIMENEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:48:28+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f5aa99226c00195babea",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "ANALISTA ESPECIALIZADO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LEONARDO DANIEL ",
+    "primerApellido": "TELLO",
+    "segundoApellido": "HERNÁNDEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:48:58+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f5d199226c00195bac09",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "MENSAJERO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARÍA DEL CARMEN  ",
+    "primerApellido": "ENCISO ",
+    "segundoApellido": "GUERRA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:49:37+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f5e899226c00195bac15",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "ESPECIALISTA TECNICO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LIDIA JANETTE",
+    "primerApellido": "BECERRA",
+    "segundoApellido": "GALLEGOS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:50:00+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f62499226c00195bac46",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "DPTO OPERACION REGIONAL"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LILIA MARENY",
+    "primerApellido": "CASILLAS",
+    "segundoApellido": "ARECHIGA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:51:00+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f63c99226c00195bac59",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Salud"
+    },
+    "puesto": {
+      "nombre": "Dir. General"
+    },
+    "nombres": "Ana Lilia",
+    "primerApellido": "Mosqueda",
+    "segundoApellido": "González",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:51:24+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f64499226c00195bac65",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "AUX OFICINA PAGOS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LILIA ",
+    "primerApellido": "SANTANA",
+    "segundoApellido": "MARIZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:51:32+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f68399226c00195bac89",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "JEFE B DE UNI DEPL"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARIA DE JESUS ",
+    "primerApellido": "GONZALEZ ",
+    "segundoApellido": "GONZALEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:52:35+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f5b599226c00195babfd",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Salud"
+    },
+    "puesto": {
+      "nombre": "Dir. de Enlace Admi."
+    },
+    "__v": 0,
+    "fechaCaptura": "2022-09-07T19:52:54+00:00",
+    "nombres": "Alejandra ",
+    "primerApellido": "López ",
+    "segundoApellido": "Pérez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "6318f6a799226c00195bacb8",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "TITULAR AREA CONTROL ESCO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LIZBETH DEL CARMEN ",
+    "primerApellido": "SALGADO",
+    "segundoApellido": "PEÑA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:53:11+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f6d899226c00195baccb",
+    "institucionDependencia": {
+      "nombre": "SECRETARÍA DE EDUCACIÓN"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LIZETH",
+    "primerApellido": "FLORES",
+    "segundoApellido": "OLEA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:54:00+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f6e299226c00195bacd7",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "COOR  A  TES Y PRE"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARÍA DE JESÚS  ",
+    "primerApellido": "  VERA ",
+    "segundoApellido": " HUERTA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:54:10+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f6f099226c00195bacea",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Salud"
+    },
+    "puesto": {
+      "nombre": "Jefa de Recursos Fin."
+    },
+    "nombres": "Aurora Carolina",
+    "primerApellido": "González",
+    "segundoApellido": "Hidalgo",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:54:24+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f73099226c00195bacf6",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA DE REC FINA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARÍA DE JESÚS  ",
+    "primerApellido": "LARA ",
+    "segundoApellido": "GONZÁLEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:55:28+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f79199226c00195bad09",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "TÉCNICO ESPECIALIZADO A"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARÍA CRISTINA ",
+    "primerApellido": " ZAPATA ",
+    "segundoApellido": " RODRÍGUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:57:05+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f7f399226c00195bad1c",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "REVISOR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARÍA ALICIA ",
+    "primerApellido": " SANTANDER ",
+    "segundoApellido": " LÓPEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T19:58:43+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f85399226c00195bad2f",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR  C COMPRAS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARGARITA ",
+    "primerApellido": " OCEGUEDA",
+    "segundoApellido": " LÓPEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T20:00:19+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f8d199226c00195bad52",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Salud"
+    },
+    "puesto": {
+      "nombre": "Jefe de Recursos Material"
+    },
+    "nombres": "Eduardo",
+    "primerApellido": "Nava",
+    "segundoApellido": "Herrera",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T20:02:25+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f94d99226c00195bad67",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "M. ANGELA",
+    "primerApellido": " MARQUEZ ",
+    "segundoApellido": "RUIZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T20:04:29+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f99899226c00195bad81",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "JEFE B DE UNI DEPL"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LUZ MARIA ",
+    "primerApellido": " CURIEL ",
+    "segundoApellido": " LEAL",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T20:05:44+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f9dc99226c00195bad94",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Comisario de Reclusorio"
+    },
+    "nombres": "Alejandro",
+    "primerApellido": "Serrano",
+    "segundoApellido": "Cervantes",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T20:06:52+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318f9ea99226c00195bada0",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "DIR DE GES DE TRANS ESC"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LUIS PABLO ",
+    "primerApellido": " GUERRERO ",
+    "segundoApellido": " PRECIADO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T20:07:06+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318fa4499226c00195badba",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Encargada de Coordinación"
+    },
+    "nombres": "Ana Laura ",
+    "primerApellido": "Bustos",
+    "segundoApellido": "Nuño",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T20:08:36+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318fa5799226c00195badc6",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "DIR DE REC MAT Y SERV GEN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LUIS MIGUEL  ",
+    "primerApellido": " GARIBAY ",
+    "segundoApellido": " RIVAS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T20:08:55+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318fa9a99226c00195badd9",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR ESPECIALIZADO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LUIS MANUEL ",
+    "primerApellido": " BAÑUELOS ",
+    "segundoApellido": " CASTRO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T20:10:02+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318fb3a99226c00195badf3",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "DIR AREA DE MED ACCI "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LUIS GABRIEL ",
+    "primerApellido": "RODRIGUEZ ",
+    "segundoApellido": "PEREZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T20:12:42+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318fbaa99226c00195bae12",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "ENC. DE SIT. PLAT DE TRAN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LUIS FERNANDO ",
+    "primerApellido": "VACA ",
+    "segundoApellido": "PEÑA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T20:14:34+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318fbf699226c00195bae25",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "COOR ESP F"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LUIS FELIPE ",
+    "primerApellido": " ARIAS  ",
+    "segundoApellido": "  DIAZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T20:15:50+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318fd1299226c00195bae4a",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LUCIA ",
+    "primerApellido": " MARTINEZ ",
+    "segundoApellido": " FLORES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T20:20:34+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318fd4f99226c00195bae5d",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "TÉCNICO ADMINISTRATIVO"
+    },
+    "nombres": "LILIANA GUADALUPE ",
+    "primerApellido": "VILLA",
+    "segundoApellido": " PÉREZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T20:21:35+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318fdcf99226c00195bae70",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "JEFE B DE UNIDAD DEP"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "KARLA MARCELA ",
+    "primerApellido": " PADILLA ",
+    "segundoApellido": "CHAVEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T20:23:43+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318fe0f99226c00195bae83",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "DIR AREA RH"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "KARLA ISABEL ",
+    "primerApellido": "MORA  ",
+    "segundoApellido": "ALVAREZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T20:24:47+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318fe5699226c00195bae96",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "TÉCNICO ADMISNISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSE DE JESUS  ",
+    "primerApellido": " RODRIGUEZ ",
+    "segundoApellido": " MELCHOR",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T20:25:58+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318fea199226c00195baea9",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "TÉCNICO ADMISNISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSE DE JESUS  ",
+    "primerApellido": " RODRIGUEZ ",
+    "segundoApellido": " MELCHOR",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T20:27:13+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318fee199226c00195baebc",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "DIR. GRAL"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JONADAB ",
+    "primerApellido": " MARTINEZ",
+    "segundoApellido": "GARCIA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T20:28:17+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318ff3699226c00195baecf",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "JEFE B DE UNI DEP"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JENNY ELIZABETH ",
+    "primerApellido": "MARTINEZ ",
+    "segundoApellido": " LOPEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T20:29:42+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6318ff8a99226c00195baee2",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "DIR AR TEC INF"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JAIME  ",
+    "primerApellido": "  VAZQUEZ  ",
+    "segundoApellido": "  DELGADILLO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-07T20:31:06+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319501599226c00195baf98",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARCOS ISMAEL",
+    "primerApellido": "GUDIÑO",
+    "segundoApellido": "RODARTE",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:14:45+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319504699226c00195bafab",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "ANALISTA DE COMPRAS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARIA CONCEPCIÓN ",
+    "primerApellido": "CADENA",
+    "segundoApellido": "ALDRETE",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:15:34+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319509299226c00195bafbe",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTOR ALCANTARILLAD"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARIA ELENA",
+    "primerApellido": "PARRAL",
+    "segundoApellido": "ACOSTA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:16:50+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631950bf99226c00195bafd1",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARIBEL",
+    "primerApellido": "ROBLEDO",
+    "segundoApellido": "SIORDIA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:17:35+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631950ee99226c00195bafe4",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE COMUNICACIÓN SOCI"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARIO",
+    "primerApellido": "CORONA",
+    "segundoApellido": "BARBOZA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:18:22+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319511b99226c00195baff7",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "ASISTENTE OPERATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARTHA GUADALUPE",
+    "primerApellido": "VARELA",
+    "segundoApellido": "GARCIA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:19:07+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319514e99226c00195bb00a",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTOR DE LABORATORI"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARTHA VERONICA",
+    "primerApellido": "AVALOS",
+    "segundoApellido": "VACA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:19:58+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319517999226c00195bb01d",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "SECCIÓN DE NOMINAS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MINERVA",
+    "primerApellido": "CAMPOS ",
+    "segundoApellido": "TORRES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:20:41+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631951d299226c00195bb030",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTOR MTO PLANTAS P "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "NESTOR ESTEBAN",
+    "primerApellido": "GONZALEZ",
+    "segundoApellido": "ZAMARRIPA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:22:10+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319521499226c00195bb043",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA COMERCIAL"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "NOHEMI MARICELA",
+    "primerApellido": "SHERMAN",
+    "segundoApellido": "QUINTERO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:23:16+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319524899226c00195bb056",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "OMAR SIGURD",
+    "primerApellido": "RUIZ",
+    "segundoApellido": "ESPINOZA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:24:08+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319527899226c00195bb069",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "PABLO RICARDO",
+    "primerApellido": "AGUIRRE ",
+    "segundoApellido": "ESPINOZA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:24:56+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631952ce99226c00195bb07c",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "SECRETARIA DE SUBDIRECCIO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "PATRICIA",
+    "primerApellido": "LUNA",
+    "segundoApellido": "GAMEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:26:22+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319530099226c00195bb08f",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "AUDITOR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "PATRICIA ELIZABETH",
+    "primerApellido": "ROJAS",
+    "segundoApellido": "TIZCAREÑO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:27:12+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319533799226c00195bb0a2",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "ASISTENTE DE CONTROL DE B"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "PEDRO OMAR",
+    "primerApellido": "RUIZ",
+    "segundoApellido": "LUGO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:28:07+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319536999226c00195bb0b5",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "PEDRO PABLO",
+    "primerApellido": "GARCIA",
+    "segundoApellido": "RUIZ VELASCO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:28:57+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319539a99226c00195bb0c8",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "ASISTENTE DE DIR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "RAFAEL",
+    "primerApellido": "HERNANDEZ",
+    "segundoApellido": "ORDAZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:29:46+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319540299226c00195bb0db",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "RAMON",
+    "primerApellido": "VILLA",
+    "segundoApellido": "MEJIA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:31:30+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319542c99226c00195bb0ee",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "RENE",
+    "primerApellido": "MEJIA",
+    "segundoApellido": "LOMELI",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:32:12+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319544d99226c00195bb101",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "RICARDO",
+    "primerApellido": "BANDA",
+    "segundoApellido": "TINAJERO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:32:45+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319547b99226c00195bb114",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "MEDICO A"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "RICARDO JAVIER",
+    "primerApellido": "PLASENCIA",
+    "segundoApellido": "LIMON",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:33:31+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319549e99226c00195bb127",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "COTIZADOR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ROBERTO ALFREDO",
+    "primerApellido": "GOMEZ",
+    "segundoApellido": "BERNAL",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:34:06+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631954ca99226c00195bb13a",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "ANALISTA RH"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ROGELIO",
+    "primerApellido": "PANTIGA",
+    "segundoApellido": "FUENTES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:34:50+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319558599226c00195bb14d",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ROSA AURORA",
+    "primerApellido": "CARDENAS",
+    "segundoApellido": "CAZAREZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:37:57+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631955ad99226c00195bb160",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTOR DE OBRA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "SALVADOR",
+    "primerApellido": "GONZALEZ",
+    "segundoApellido": "TORRES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:38:37+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631955d899226c00195bb173",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "COORD ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "SANDRA MARGARITA",
+    "primerApellido": "GOMEZ",
+    "segundoApellido": "GARCIA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:39:20+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319560399226c00195bb186",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "SERGIO ISAAC",
+    "primerApellido": "SATURNINO",
+    "segundoApellido": "RODRIGUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:40:03+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319563099226c00195bb199",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "SILVIA ALEJANDRA ",
+    "primerApellido": "SEPULVEDA ",
+    "segundoApellido": "ALCANTARA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:40:48+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319565e99226c00195bb1ac",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE INNOVACION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "SIMÓN ALEJANDRO",
+    "primerApellido": "DELGADO ",
+    "segundoApellido": "BUITRON",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:41:34+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319568b99226c00195bb1bf",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "SUSANA DEL CARMEN",
+    "primerApellido": "BRAVO",
+    "segundoApellido": "FRIAS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:42:19+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631956c299226c00195bb1d2",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "COTIZADOR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "TANIA",
+    "primerApellido": "VILLASEÑOR",
+    "segundoApellido": "RUVALCABA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:43:14+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319570899226c00195bb1e5",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR DE SECCION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "VERÓNICA ",
+    "primerApellido": "JIMENEZ",
+    "segundoApellido": "GONZALEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:44:24+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319573999226c00195bb1f8",
+    "institucionDependencia": {
+      "nombre": "SISTEMA INTERMUNICIPAL DE AGUA POTABLE SIAPA",
+      "siglas": "SIAPA"
+    },
+    "puesto": {
+      "nombre": "ENCARGADO DE MANTENIMIENT"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "VICENTE",
+    "primerApellido": "SOTOMAYOR",
+    "segundoApellido": "SANCHEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:45:13+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319576199226c00195bb20b",
+    "institucionDependencia": {
+      "nombre": "SISTEMA JALISCIENCE DE RADIO Y TELEVISIÓN JALISCO",
+      "siglas": "C7"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR GENERAL"
+    },
+    "__v": 0,
+    "ejercicioFiscal": "2021",
+    "fechaCaptura": "2022-09-08T02:47:00+00:00",
+    "nombres": "ALEJANDRO",
+    "primerApellido": "TAVARES",
+    "segundoApellido": "LOPEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ]
+  },
+  {
+    "id": "631957cb99226c00195bb237",
+    "institucionDependencia": {
+      "nombre": "SISTEMA JALISCIENCE DE RADIO Y TELEVISIÓN JALISCO",
+      "siglas": "C7"
+    },
+    "puesto": {
+      "nombre": "COORD JURIDICA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CATALINA",
+    "primerApellido": "RODRIGUEZ",
+    "segundoApellido": "URIBE",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:47:39+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631957f999226c00195bb24a",
+    "institucionDependencia": {
+      "nombre": "SISTEMA JALISCIENCE DE RADIO Y TELEVISIÓN JALISCO",
+      "siglas": "C7"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE CONTENIDOS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JORGE",
+    "primerApellido": "GARCIA",
+    "segundoApellido": "OROZCO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:48:25+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319582299226c00195bb25d",
+    "institucionDependencia": {
+      "nombre": "SISTEMA JALISCIENCE DE RADIO Y TELEVISIÓN JALISCO",
+      "siglas": "C7"
+    },
+    "puesto": {
+      "nombre": "ADMINISTRACION Y FINANZAS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARIA DEL CARMEN",
+    "primerApellido": "GONZALEZ",
+    "segundoApellido": "CARBAJAL",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:49:06+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319585099226c00195bb270",
+    "institucionDependencia": {
+      "nombre": "SISTEMA JALISCIENCE DE RADIO Y TELEVISIÓN JALISCO",
+      "siglas": "C7"
+    },
+    "puesto": {
+      "nombre": "DIRECCION DE TELEVISION"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "NOE ALEJANDRO",
+    "primerApellido": "QUEZADA",
+    "segundoApellido": "GAMEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:49:52+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319588b99226c00195bb283",
+    "institucionDependencia": {
+      "nombre": "SISTEMA JALISCIENCE DE RADIO Y TELEVISIÓN JALISCO",
+      "siglas": "C7"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE INGENIERIA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "RAFAEL CONRADO",
+    "primerApellido": "LIMON",
+    "segundoApellido": "GONZALEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:50:51+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631958eb99226c00195bb296",
+    "institucionDependencia": {
+      "nombre": "SISTEMA JALISCIENCE DE RADIO Y TELEVISIÓN JALISCO",
+      "siglas": "C7"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA DE RADIO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "SARA BEATRIZ",
+    "primerApellido": "VALENZUELA",
+    "segundoApellido": "GALVAN",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:52:27+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319592e99226c00195bb2a9",
+    "institucionDependencia": {
+      "nombre": "SISTEMA JALISCIENCE DE RADIO Y TELEVISIÓN JALISCO",
+      "siglas": "C7"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR DE NOTICIAS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "YURITZY ALEJANDRA",
+    "primerApellido": "GUZMAN",
+    "segundoApellido": "VEGA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:53:34+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319598f99226c00195bb2bc",
+    "institucionDependencia": {
+      "nombre": "SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA",
+      "siglas": "DIF"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR GENERAL"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JUAN CARLOS ",
+    "primerApellido": "MARTIN",
+    "segundoApellido": "MANCILLA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:55:11+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631959d099226c00195bb2cf",
+    "institucionDependencia": {
+      "nombre": "SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA",
+      "siglas": "DIF"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO"
+    },
+    "nombres": "CECILIA EDITH",
+    "primerApellido": "RAMIREZ",
+    "segundoApellido": "CHANON",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:56:16+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631959f799226c00195bb2e2",
+    "institucionDependencia": {
+      "nombre": "SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA",
+      "siglas": "DIF"
+    },
+    "puesto": {
+      "nombre": "ANALISTA A"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FELIPE DE JESUS",
+    "primerApellido": "CORONEL ",
+    "segundoApellido": "MADERO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:56:55+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63195a2499226c00195bb2f5",
+    "institucionDependencia": {
+      "nombre": "SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA",
+      "siglas": "DIF"
+    },
+    "puesto": {
+      "nombre": "ANALISTA A"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FRANCISCO JAVIER",
+    "primerApellido": "CASTELLANOS",
+    "segundoApellido": "ARCE",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:57:40+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63195a6099226c00195bb308",
+    "institucionDependencia": {
+      "nombre": "SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA",
+      "siglas": "DIF"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FRANCISCO ALONSO",
+    "primerApellido": "MORENO",
+    "segundoApellido": "MUÑOZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:58:40+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63195a9499226c00195bb31b",
+    "institucionDependencia": {
+      "nombre": "SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA",
+      "siglas": "DIF"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FRANCISCO VIDAL",
+    "primerApellido": "RAMOS",
+    "segundoApellido": "HERNANDEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T02:59:32+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63195ab099226c00195bb32e",
+    "institucionDependencia": {
+      "nombre": "SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA",
+      "siglas": "DIF"
+    },
+    "puesto": {
+      "nombre": "ANALISTA A"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JOSE ",
+    "primerApellido": "JIMENEZ",
+    "segundoApellido": "ZEPEDA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T03:00:00+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63195ae099226c00195bb341",
+    "institucionDependencia": {
+      "nombre": "SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA",
+      "siglas": "DIF"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARIA GUADALUPE",
+    "primerApellido": "REYNOSO",
+    "segundoApellido": "CAMARENA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T03:00:48+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63195b0f99226c00195bb354",
+    "institucionDependencia": {
+      "nombre": "SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA",
+      "siglas": "DIF"
+    },
+    "puesto": {
+      "nombre": "ANALISTA B"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARIA MAGDALENA",
+    "primerApellido": "ZAVALA",
+    "segundoApellido": "REYNOSO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T03:01:35+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63195b5199226c00195bb367",
+    "institucionDependencia": {
+      "nombre": "SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA",
+      "siglas": "DIF"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "PAOLA ANDREA",
+    "primerApellido": "AYALA ",
+    "segundoApellido": "BARRAZA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T03:02:41+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63195b7c99226c00195bb37a",
+    "institucionDependencia": {
+      "nombre": "SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA",
+      "siglas": "DIF"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ROBERTO ALEJANDRO ",
+    "primerApellido": "VALLADARES ",
+    "segundoApellido": "ZAMUDIO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T03:03:24+00:00",
+    "__v": 0
+  },
+  {
+    "id": "63195ba699226c00195bb38d",
+    "institucionDependencia": {
+      "nombre": "SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA",
+      "siglas": "DIF"
+    },
+    "puesto": {
+      "nombre": "SUBDIRECTOR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "RODOLFO ",
+    "primerApellido": "ESPINOZA",
+    "segundoApellido": "PRECIADO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T03:04:06+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319f85899226c00195bb3bb",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "DIR GRAL ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ISRAEL ANTONIO ",
+    "primerApellido": " MORENO ",
+    "segundoApellido": " VERA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:12:40+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319fa8a99226c00195bb3e0",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "DG. SUP AL TRANS. PUB"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ISAIAS EBENEZER ",
+    "primerApellido": "RAMIREZ ",
+    "segundoApellido": "ORTIZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:22:02+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319fc0699226c00195bb403",
+    "institucionDependencia": {
+      "nombre": "Universidad Tecnológica Zona Metropolitana GDL"
+    },
+    "puesto": {
+      "nombre": "CONTRALORA INTERNA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MARIA DE LOS ANGELES",
+    "primerApellido": "GUTIERREZ  ",
+    "segundoApellido": "CABALLERO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:28:22+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319fc3499226c00195bb416",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "DIR. ANT. CTRL DE AUT TRA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "IGNACIO ALEJANDRO ",
+    "primerApellido": " SALINAS ",
+    "segundoApellido": " OSORNIO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:29:08+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319fc6599226c00195bb429",
+    "institucionDependencia": {
+      "nombre": "Universidad Tecnológica Zona Metropolitana GDL"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JULIO CÉSAR ",
+    "primerApellido": "VILLASEÑOR ",
+    "segundoApellido": "BRACAMONTES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:29:57+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319fca799226c00195bb43c",
+    "institucionDependencia": {
+      "nombre": "Universidad Tecnológica Zona Metropolitana GDL"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FERNANDO ",
+    "primerApellido": "TOVAR ",
+    "segundoApellido": "MONRAZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:31:03+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319fcca99226c00195bb44a",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "DIR  REG ESTATAL DE MOV "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "GUILLERMO ALEJANDRO ",
+    "primerApellido": "TOPETE ",
+    "segundoApellido": "SOLORZANO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:31:38+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319fd8899226c00195bb473",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Coordinador M"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Ana Lucía",
+    "primerApellido": "Camacho",
+    "segundoApellido": "Sánchez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:34:48+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319fdd999226c00195bb486",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Comisario Reinserción Fem "
+    },
+    "nombres": "Ana Patricia",
+    "primerApellido": "Guerrero",
+    "segundoApellido": "García",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:36:09+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319fde099226c00195bb492",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "GRACIELA ",
+    "primerApellido": "ORTEGA ",
+    "segundoApellido": "MEDINA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:36:16+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319fe5199226c00195bb4b3",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Coor. Armamento y equipo"
+    },
+    "nombres": "Anibal",
+    "primerApellido": "Gutiérrez",
+    "segundoApellido": "Sicairos",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:38:09+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319fe5f99226c00195bb4c5",
+    "institucionDependencia": {
+      "nombre": "Universidad Tecnológica Zona Metropolitana GDL"
+    },
+    "puesto": {
+      "nombre": "RECTOR SUSTITUTO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "EFREN ",
+    "primerApellido": "MARTÍNEZ ",
+    "segundoApellido": "BEAS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:38:23+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319fe9399226c00195bb4d9",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "DIR DE  LO CONTENCIOSO "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "GEORGINA ",
+    "primerApellido": "PADILLA ",
+    "segundoApellido": "OTERO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:39:15+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319fe9d99226c00195bb4ec",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Sub Dir. Administrativo"
+    },
+    "nombres": "Araceli Veronica ",
+    "primerApellido": "González",
+    "segundoApellido": "Camacho ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:39:25+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319feae99226c00195bb4f8",
+    "institucionDependencia": {
+      "nombre": "Universidad Tecnológica Zona Metropolitana GDL"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "EDUARDO DANIEL",
+    "primerApellido": "MIRAMONTES ",
+    "segundoApellido": "GARCÍA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:39:42+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319fef399226c00195bb50b",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "DIR. DE LICENCIAS "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "GABRIEL ",
+    "primerApellido": "RAMÍREZ ",
+    "segundoApellido": "IBARRA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:40:51+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319fefc99226c00195bb51e",
+    "institucionDependencia": {
+      "nombre": "Universidad Tecnológica Zona Metropolitana GDL"
+    },
+    "puesto": {
+      "nombre": "JEFE DE DEPARTAMENTO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "BRENDA ",
+    "primerApellido": "SERNA ",
+    "segundoApellido": "MOLINA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:41:00+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319ff2a99226c00195bb538",
+    "institucionDependencia": {
+      "nombre": "Universidad Tecnológica Zona Metropolitana GDL"
+    },
+    "puesto": {
+      "nombre": "PERSONAL DE APOYO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "AZUCENA BERENICE",
+    "primerApellido": "AGUILAR ",
+    "segundoApellido": "GAYTAN",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:41:46+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319ff5199226c00195bb54b",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "ENC. AREA MULTI TRAMITE"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "EDITH ",
+    "primerApellido": "MALDONADO ",
+    "segundoApellido": "FERNÁNDEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:42:25+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319ff5699226c00195bb557",
+    "institucionDependencia": {
+      "nombre": "Universidad Tecnológica Zona Metropolitana GDL"
+    },
+    "puesto": {
+      "nombre": "PERSONAL DE APOYO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ANA SILVIA",
+    "primerApellido": "GONZÁLEZ ",
+    "segundoApellido": "MADRIGAL",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:42:30+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319ff5b99226c00195bb56a",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Salud"
+    },
+    "puesto": {
+      "nombre": "Coor. de Infraestructura"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Bertha Alicia",
+    "primerApellido": "Zarate",
+    "segundoApellido": "Rodríguez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:42:35+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319ff9499226c00195bb584",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Sub Dir. Administrativo"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Blanca Andrea",
+    "primerApellido": "Álvarez",
+    "segundoApellido": "Aguilar",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:43:32+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319ff9899226c00195bb590",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "SECRETARIO DE MOV Y TRANS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "DIEGO ",
+    "primerApellido": "MONRAZ ",
+    "segundoApellido": "VILLASEÑOR",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:43:36+00:00",
+    "__v": 0
+  },
+  {
+    "id": "6319ffe599226c00195bb5aa",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "DIEGO ARMANDO",
+    "primerApellido": " BECERRA ",
+    "segundoApellido": "LOZANO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:44:53+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a001b99226c00195bb5bd",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Dir. Recursos Materiales"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Carlos Alberto",
+    "primerApellido": "Ávila ",
+    "segundoApellido": "Chávez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:45:47+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a002499226c00195bb5c9",
+    "institucionDependencia": {
+      "nombre": "Universidad Tecnológica Zona Metropolitana GDL"
+    },
+    "puesto": {
+      "nombre": "COORDINADOR RECURSOS M."
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ALEJANDRO FABIÁN",
+    "primerApellido": "BARRÓN ",
+    "segundoApellido": "LUGO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:45:56+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a003599226c00195bb5d5",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "COOR. PROYECTOS ESTRA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "DANIEL ",
+    "primerApellido": "SALDAÑA ",
+    "segundoApellido": "FONSECA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:46:13+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a009299226c00195bb5f6",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "COOR. PLANEA Y PROG"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CAROLINA ",
+    "primerApellido": "GONZALEZ  ",
+    "segundoApellido": "ANGULO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:47:46+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a009c99226c00195bb602",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Encargada de Despacho"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Concepción Guadalupe ",
+    "primerApellido": "Lomelí",
+    "segundoApellido": "Delgado",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:47:56+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a00d399226c00195bb621",
+    "institucionDependencia": {
+      "nombre": "Universidad Tecnológica de Jalisco UTJ"
+    },
+    "puesto": {
+      "nombre": "JEFE DEL DEPARTAMENTO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "MAURO GERARDO",
+    "primerApellido": "RUELAS ",
+    "segundoApellido": "BENTURA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:48:51+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a012d99226c00195bb63f",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Dir. de Enlace Ciudadano"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Conrado ",
+    "primerApellido": "Romo  ",
+    "segundoApellido": "García",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:50:21+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a014799226c00195bb652",
+    "institucionDependencia": {
+      "nombre": "Universidad Tecnológica de Jalisco UTJ"
+    },
+    "puesto": {
+      "nombre": "DIR ADMINISTRACIÓN "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "KARINA ",
+    "primerApellido": "GUEVARA  ",
+    "segundoApellido": "CHACÓN",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:50:47+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a016599226c00195bb667",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Secretario Particular A"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Daniel",
+    "primerApellido": "Madrigal",
+    "segundoApellido": "Jiménez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:51:17+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a018899226c00195bb673",
+    "institucionDependencia": {
+      "nombre": "Universidad Tecnológica de Jalisco UTJ"
+    },
+    "puesto": {
+      "nombre": "JEFE MANTENIMIENTO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JESUS OSVALDO",
+    "primerApellido": "CORTES ",
+    "segundoApellido": "GUERRA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:51:52+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a01cd99226c00195bb68d",
+    "institucionDependencia": {
+      "nombre": "Universidad Tecnológica de Jalisco UTJ"
+    },
+    "puesto": {
+      "nombre": "DIR. DEL ÁREA JURÍDICA"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JESUS ALBERTO",
+    "primerApellido": "BORROEL ",
+    "segundoApellido": "MORA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:53:01+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a01d199226c00195bb699",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Coordinador"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Diego Héctor",
+    "primerApellido": "Cruz",
+    "segundoApellido": "Herrera",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:53:05+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a01f799226c00195bb6b3",
+    "institucionDependencia": {
+      "nombre": "Universidad Tecnológica de Jalisco UTJ"
+    },
+    "puesto": {
+      "nombre": "RECTOR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "HÉCTOR",
+    "primerApellido": "PULIDO ",
+    "segundoApellido": "GONZÁLEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:53:43+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a021399226c00195bb6c6",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Coor. de Informática A"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Elvia Celina",
+    "primerApellido": "Guerrero",
+    "segundoApellido": "Santillán",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:54:11+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a023699226c00195bb6d2",
+    "institucionDependencia": {
+      "nombre": "Universidad Tecnológica de Jalisco UTJ"
+    },
+    "puesto": {
+      "nombre": "JEFA RECURSOS MATERIALES "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "GABRIELA  ",
+    "primerApellido": "PRECIADO ",
+    "segundoApellido": "LÓPEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:54:46+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a025f99226c00195bb6ec",
+    "institucionDependencia": {
+      "nombre": "Universidad Tecnológica de Jalisco UTJ"
+    },
+    "puesto": {
+      "nombre": "SECRETARIO ADMINISTRATIVO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "FELIPE  ",
+    "primerApellido": "NAVA ",
+    "segundoApellido": "AGUILERA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:55:27+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a028599226c00195bb6ff",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Sub Dir. Administrativo "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Emilia ",
+    "primerApellido": "Cueto ",
+    "segundoApellido": "Mares",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:56:05+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a028a99226c00195bb70b",
+    "institucionDependencia": {
+      "nombre": "Universidad Tecnológica de Jalisco UTJ"
+    },
+    "puesto": {
+      "nombre": "SECRETARIA DE DIRECCIÓN"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CRISTINA YAZMIN",
+    "primerApellido": "LOPEZ ",
+    "segundoApellido": "CHAVARIN",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:56:10+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a02bc99226c00195bb725",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Sub Dir. Administrativo"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Erick ",
+    "primerApellido": "Hernández ",
+    "segundoApellido": "Mateo",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:57:00+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a02c799226c00195bb738",
+    "institucionDependencia": {
+      "nombre": "Universidad  Politécnica de la Zona Metropolitana"
+    },
+    "puesto": {
+      "nombre": "RECTOR"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "VICTOR ",
+    "primerApellido": "RAVELERO ",
+    "segundoApellido": "VAZQUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:57:11+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a030599226c00195bb74b",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Preceptor técnico"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Ernesto",
+    "primerApellido": "Rangel",
+    "segundoApellido": "Padilla",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:58:13+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a035d99226c00195bb75e",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Inspector de Centro"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Ernesto",
+    "primerApellido": "Torres",
+    "segundoApellido": "Sarabia",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T14:59:41+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a03a899226c00195bb76a",
+    "institucionDependencia": {
+      "nombre": "Universidad  Politécnica de la Zona Metropolitana"
+    },
+    "puesto": {
+      "nombre": "SECRETARIO ACADÉMICO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "VÍCTOR MANUEL",
+    "primerApellido": "ZAMORA ",
+    "segundoApellido": "RAMOS",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:00:56+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a03f699226c00195bb784",
+    "institucionDependencia": {
+      "nombre": "Universidad  Politécnica de la Zona Metropolitana"
+    },
+    "puesto": {
+      "nombre": "JEFA RECURSOS HUMANOS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "VERONICA LETICIA",
+    "primerApellido": "HERRERA ",
+    "segundoApellido": "GARCIA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:02:14+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a042e99226c00195bb797",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "COOR PROY. ESTRATEGICOS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "CAROL DESIREE",
+    "primerApellido": " RAMIREZ ",
+    "segundoApellido": " DURAN",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:03:10+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a045b99226c00195bb7a3",
+    "institucionDependencia": {
+      "nombre": "Universidad  Politécnica de la Zona Metropolitana"
+    },
+    "puesto": {
+      "nombre": "SECRETARIO ACADÉMICO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "PEDRO ALONSO",
+    "primerApellido": "MAYORAL ",
+    "segundoApellido": "RUIZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:03:55+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a04b799226c00195bb7ba",
+    "institucionDependencia": {
+      "nombre": "Universidad  Politécnica de la Zona Metropolitana"
+    },
+    "puesto": {
+      "nombre": "JEFE OFICINA DE COMPRAS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "LILIANA",
+    "primerApellido": "RAYA ",
+    "segundoApellido": "HERNANDEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:05:27+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a077e99226c00195bb7cf",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "DG. TRANSPORTE ESCO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "BERNARDO ENRIQUE ",
+    "primerApellido": "SANTANA ",
+    "segundoApellido": "MEDINA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:17:18+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a07d199226c00195bb7e2",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "DIRECTOR GENERAL JURIDICO"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ARMANDO ",
+    "primerApellido": "LOPEZ ",
+    "segundoApellido": "VENCES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:18:41+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a081099226c00195bb7f5",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "DG DE TRANS PUB"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "AMILCAR ARNOLDO",
+    "primerApellido": " LÓPEZ ",
+    "segundoApellido": "ZEPEDA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:19:44+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a087599226c00195bb808",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "COOR VIN MULTISECTORIAL"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ALEJANDRA",
+    "primerApellido": " RICO ",
+    "segundoApellido": " ORTIZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:21:25+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a08d199226c00195bb81b",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Transporte"
+    },
+    "puesto": {
+      "nombre": "DG. INFRAESTRUCTURA VIAL"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ADRIAN JEZHEL",
+    "primerApellido": " LOPEZ ",
+    "segundoApellido": "GONZALEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:22:57+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a095499226c00195bb82e",
+    "institucionDependencia": {
+      "nombre": "Sistema para el Desarrollo Integral de la Familia"
+    },
+    "puesto": {
+      "nombre": "ANALISTA B"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "ROSA MARGARITA ",
+    "primerApellido": "CEJA ",
+    "segundoApellido": "HERNANDEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:25:08+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a09cf99226c00195bb851",
+    "institucionDependencia": {
+      "nombre": "Sistema para el Desarrollo Integral de la Familia"
+    },
+    "puesto": {
+      "nombre": "ANALISTA B"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "SANDRA JAZMIN ",
+    "primerApellido": "BECERRA",
+    "segundoApellido": " MARTINEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:27:11+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0a1899226c00195bb864",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Coor. Gral. Vehículos"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Eugenia Carolina",
+    "primerApellido": "Torres",
+    "segundoApellido": "Martínez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:28:24+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0a1999226c00195bb870",
+    "institucionDependencia": {
+      "nombre": "Sistema para el Desarrollo Integral de la Familia "
+    },
+    "puesto": {
+      "nombre": "ENCARGADO DE ÁREA B"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "VERONICA",
+    "primerApellido": " LOPEZ  ",
+    "segundoApellido": "LOPEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:28:25+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0a5799226c00195bb88a",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Sub Dir. Administrativo"
+    },
+    "nombres": "Fabiola",
+    "primerApellido": "Mañon  ",
+    "segundoApellido": "Mociños ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:29:27+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0a7099226c00195bb89d",
+    "institucionDependencia": {
+      "nombre": "Sistema para el Desarrollo Integral de la Familia "
+    },
+    "puesto": {
+      "nombre": "ASESOR TÉCNICO  A"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "YOLANDA ",
+    "primerApellido": "ORTEGA ",
+    "segundoApellido": "VÁZQUEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:29:52+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0a8d99226c00195bb8b0",
+    "institucionDependencia": {
+      "nombre": "Universidad  Politécnica de la Zona Metropolitana"
+    },
+    "puesto": {
+      "nombre": "JEFE RECURSOS MATERIALES "
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JUAN CARLOS",
+    "primerApellido": "PÉREZ ",
+    "segundoApellido": "JIMÉNEZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:30:21+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0a9999226c00195bb8c3",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Dir. Gral. de Academia"
+    },
+    "nombres": "Fernando Rafael",
+    "primerApellido": "Curiel",
+    "segundoApellido": "Campos",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:30:33+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0af499226c00195bb8d6",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Encargado de Coord."
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Gabriela     ",
+    "primerApellido": "Chávez  ",
+    "segundoApellido": "Ogazón",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:32:04+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0b2499226c00195bb8e9",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Sub Dir. Administrativo"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Gabriela",
+    "primerApellido": "Cervantes",
+    "segundoApellido": "Mendoza",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:32:52+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0ba599226c00195bb905",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Coor. Administrativo A"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Gabriela Apolonia ",
+    "primerApellido": "Jiménez ",
+    "segundoApellido": "Rodríguez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:35:01+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0c1699226c00195bb918",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Trabajo y Previsión Social"
+    },
+    "puesto": {
+      "nombre": "ENC COOR REC MAT"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JESÚS ",
+    "primerApellido": " PALACIOS ",
+    "segundoApellido": "ORTIZ",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:36:54+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0c2799226c00195bb92b",
+    "institucionDependencia": {
+      "nombre": "Universidad  Politécnica de la Zona Metropolitana"
+    },
+    "puesto": {
+      "nombre": "JEFA RECURSOS FINANCIEROS"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "IRMA GUADALUPE",
+    "primerApellido": "ACOSTA",
+    "segundoApellido": "ROBLES",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:37:11+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0c6799226c00195bb93e",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Trabajo y Previsión Social"
+    },
+    "puesto": {
+      "nombre": "Auxiliar Administrativo"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "JESUS ",
+    "primerApellido": " HERNANDEZ",
+    "segundoApellido": " PLASCENCIA",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:38:15+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0c6f99226c00195bb94a",
+    "institucionDependencia": {
+      "nombre": "Universidad  Politécnica de la Zona Metropolitana"
+    },
+    "puesto": {
+      "nombre": "DIR CARRERA PYMES"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "GERARDO ",
+    "primerApellido": "GONZALEZ ",
+    "segundoApellido": "SOTO",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:38:23+00:00",
+    "__v": 0
+  },
+  {
+    "id": "631a0c9399226c00195bb95d",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad"
+    },
+    "puesto": {
+      "nombre": "Sub Dir. Administrativo"
+    },
+    "ejercicioFiscal": "2021",
+    "nombres": "Gustavo de Jesús ",
+    "primerApellido": "Gutiérrez ",
+    "segundoApellido": "Sánchez",
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "fechaCaptura": "2022-09-08T15:38:59+00:00",
+    "__v": 0
+  }
+]

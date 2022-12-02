@@ -1,0 +1,1382 @@
+[
+  {
+    "ramo": {
+      "clave": 28,
+      "valor": "Participaciones a Entidades Federativas y Municipios"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DE SERVICIOS GENERALES",
+        "nivel": "DIR A"
+      },
+      "nombres": "ÓSCAR AUGUSTO",
+      "primerApellido": "SOLÍS",
+      "segundoApellido": "GALVÁN"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR ADMINISTRATIVO",
+      "nivel": "TCE1"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 5,
+        "valor": "OTRO"
+      }
+    ],
+    "institucionDependencia": {
+      "nombre": "Fiscalía General de Justicia del Estado",
+      "siglas": "FGJEZ",
+      "clave": "OAZ005"
+    },
+    "nombres": "RODRIGO MIGUEL",
+    "primerApellido": "CHÁVEZ ",
+    "segundoApellido": "GÁNDARA",
+    "ejercicioFiscal": "2022",
+    "id": "5ff36d8b-2f9b-4bd3-8f67-88e00db21fbf",
+    "fechaCaptura": "2022-02-22T21:24:59.390Z"
+  },
+  {
+    "ramo": {
+      "clave": 33,
+      "valor": "Aportaciones Federales para Entidades Federativas y Municipios"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Jefe del Departamento de Catastro",
+        "nivel": "4B1"
+      },
+      "nombres": "JOSÉ CARLOS",
+      "primerApellido": "GÓMEZ",
+      "segundoApellido": "QUEZADA"
+    },
+    "puesto": {
+      "nombre": "Auxiliar Administrativo",
+      "nivel": "15A"
+    },
+    "tipoArea": [],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS",
+        "clave": 2
+      }
+    ],
+    "institucionDependencia": {
+      "nombre": "Municipio de Guadalupe",
+      "clave": "MNZ017",
+      "siglas": "GPE"
+    },
+    "nombres": "ROGELIO",
+    "primerApellido": "VEGA",
+    "segundoApellido": "DUEÑAS",
+    "ejercicioFiscal": "2022",
+    "id": "3ade0a6a-9962-4b9e-87a1-beef7f714888",
+    "fechaCaptura": "2022-05-26T16:43:17.144Z"
+  },
+  {
+    "ramo": {
+      "clave": 28,
+      "valor": "Participaciones a Entidades Federativas y Municipios"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR DE SERVICIOS GENERALES",
+        "nivel": "DIR A"
+      },
+      "nombres": "ÓSCAR AUGUSTO",
+      "primerApellido": "SOLÍS",
+      "segundoApellido": "GALVÁN"
+    },
+    "puesto": {
+      "nombre": "AUXILIAR ADMINISTRATIVO",
+      "nivel": "AE3"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      },
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 5,
+        "valor": "OTRO"
+      }
+    ],
+    "institucionDependencia": {
+      "nombre": "Fiscalía General de Justicia del Estado",
+      "siglas": "FGJEZ",
+      "clave": "OAZ005"
+    },
+    "nombres": "SALVADOR",
+    "primerApellido": "NAVARRO",
+    "segundoApellido": "RAMOS",
+    "ejercicioFiscal": "2022",
+    "id": "1dc235e3-d61e-4c5f-b290-7746daa75816",
+    "fechaCaptura": "2022-02-22T21:25:21.953Z"
+  },
+  {
+    "ramo": {
+      "clave": 28,
+      "valor": "Participaciones a Entidades Federativas y Municipios"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "FISCAL GENERAL DE JUSTICIA DEL ESTADO DE ZACATECAS",
+        "nivel": "FGE"
+      },
+      "nombres": "FRANCISCO JOSÉ ",
+      "primerApellido": "MURILLO ",
+      "segundoApellido": "RUISECO"
+    },
+    "puesto": {
+      "nombre": "FISCAL ESPECIALIZADO EN COMBATE A LA CORRUPCIÓN",
+      "nivel": "FES"
+    },
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "institucionDependencia": {
+      "nombre": "Fiscalía General de Justicia del Estado",
+      "siglas": "FGJEZ",
+      "clave": "OAZ005"
+    },
+    "nombres": "SALVADOR EDUARDO",
+    "primerApellido": "VILLA ",
+    "segundoApellido": "ALMARÁZ",
+    "ejercicioFiscal": "2022",
+    "id": "dbafb75f-ed72-408b-b701-072256d55195",
+    "fechaCaptura": "2022-02-22T21:29:51.344Z"
+  },
+  {
+    "ramo": {
+      "clave": 33,
+      "valor": "Aportaciones Federales para Entidades Federativas y Municipios"
+    },
+    "puesto": {
+      "nombre": "SUPERVISOR",
+      "nivel": "SUPERVISOR DE OBRA"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 5,
+        "valor": "OTRO"
+      }
+    ],
+    "institucionDependencia": {
+      "nombre": "Municipio de Mazapil",
+      "clave": "MNZ026",
+      "siglas": "MAZ"
+    },
+    "nombres": "SAMUEL",
+    "primerApellido": "SILVA",
+    "segundoApellido": "JUAREZ",
+    "ejercicioFiscal": "2022",
+    "id": "89b1e2f0-0c9f-4ace-b71c-c96710d6da93",
+    "fechaCaptura": "2022-11-15T16:20:53.118Z"
+  },
+  {
+    "ramo": {
+      "clave": 33,
+      "valor": "Aportaciones Federales para Entidades Federativas y Municipios"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Director Administrativo",
+        "nivel": "DIR"
+      },
+      "nombres": "Leonel",
+      "primerApellido": "Domínguez",
+      "segundoApellido": "Márquez"
+    },
+    "puesto": {
+      "nombre": "Auxiliar",
+      "nivel": "AUX"
+    },
+    "tipoArea": [],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "institucionDependencia": {
+      "nombre": "Tribunal de Justicia Administrativa del Estado de Zacatecas",
+      "siglas": "TRIJAZAC",
+      "clave": "OAZ006"
+    },
+    "nombres": "Sandra",
+    "primerApellido": "Rodríguez",
+    "segundoApellido": "Frausto",
+    "ejercicioFiscal": "2022",
+    "id": "62d27103-dae5-4407-9db0-686e14e0c8aa",
+    "fechaCaptura": "2022-10-26T17:54:50.396Z"
+  },
+  {
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Presidente Municipal",
+        "nivel": "Presidente Municipal"
+      },
+      "nombres": "Ángel Gerardo",
+      "primerApellido": "Hernández ",
+      "segundoApellido": "Vazquez"
+    },
+    "puesto": {
+      "nombre": "Directora de Obras y Servicios Públicos Municipales",
+      "nivel": "Directora"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS",
+        "clave": 2
+      }
+    ],
+    "institucionDependencia": {
+      "nombre": "Municipio de Calera",
+      "siglas": "CAL",
+      "clave": "MNZ005"
+    },
+    "nombres": "Sandra",
+    "primerApellido": "Carrillo",
+    "segundoApellido": "Alonso",
+    "ejercicioFiscal": "2022",
+    "id": "d5358fbd-80c5-4bfd-96bc-c717f83ca837",
+    "fechaCaptura": "2022-06-07T17:20:47.306Z"
+  },
+  {
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "PRESIDENTE MUNICIPAL LORETO "
+      },
+      "nombres": "GUSTAVO ",
+      "primerApellido": "AGUILAR ",
+      "segundoApellido": "ANDRADE"
+    },
+    "puesto": {
+      "nombre": "TITULAR DE TESORERIA"
+    },
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 5,
+        "valor": "OTRO"
+      }
+    ],
+    "institucionDependencia": {
+      "nombre": "Municipio de Loreto",
+      "siglas": "LOR",
+      "clave": "MNZ024"
+    },
+    "nombres": "SANDRA MAGDALENA",
+    "primerApellido": "MONTOYA ",
+    "segundoApellido": "PEREZ",
+    "ejercicioFiscal": "2022",
+    "id": "c6fe764c-a023-439b-a6f0-da5840b41d4a",
+    "fechaCaptura": "2022-11-11T16:46:04.193Z"
+  },
+  {
+    "ramo": {
+      "clave": 33,
+      "valor": "Aportaciones Federales para Entidades Federativas y Municipios"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "SECRETARIA DE LA TESORERÍA Y FINANZAS",
+        "nivel": "3B"
+      },
+      "nombres": "MARÍA DE LOURDES",
+      "primerApellido": "MARTÍNEZ",
+      "segundoApellido": "PÉREZ"
+    },
+    "puesto": {
+      "nombre": "SUBSECRETARIA DE ADMINISTRACIÓN",
+      "nivel": "4B"
+    },
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS",
+        "clave": 2
+      }
+    ],
+    "institucionDependencia": {
+      "nombre": "Municipio de Guadalupe",
+      "clave": "MNZ017",
+      "siglas": "GPE"
+    },
+    "nombres": "SARA",
+    "primerApellido": "MORENO",
+    "segundoApellido": "ARGUELLES",
+    "ejercicioFiscal": "2022",
+    "id": "76267ef0-6232-4821-b2ca-0d2a6b76b2f6",
+    "fechaCaptura": "2022-06-10T19:54:03.971Z"
+  },
+  {
+    "ramo": {
+      "clave": 33,
+      "valor": "Aportaciones Federales para Entidades Federativas y Municipios"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Síndico Municipal "
+      },
+      "nombres": "MARÍA DE LA LUZ",
+      "primerApellido": "MUÑOZ",
+      "segundoApellido": "MORALES"
+    },
+    "puesto": {
+      "nombre": "Coordinador Jurídico "
+    },
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 5,
+        "valor": "OTRO"
+      }
+    ],
+    "institucionDependencia": {
+      "nombre": "Municipio de Guadalupe",
+      "clave": "MNZ017",
+      "siglas": "GPE"
+    },
+    "nombres": "SERGEY ULISES",
+    "primerApellido": "GUTIÉRREZ",
+    "segundoApellido": "VALLE",
+    "ejercicioFiscal": "2022",
+    "id": "8ff80ba1-5ad4-47b2-b55b-9ca58b3baa01",
+    "fechaCaptura": "2022-06-10T19:59:05.872Z"
+  },
+  {
+    "ramo": {
+      "clave": 33,
+      "valor": "Aportaciones Federales para Entidades Federativas y Municipios"
+    },
+    "puesto": {
+      "nombre": "Sindico",
+      "nivel": "Director"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES"
+      },
+      {
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS",
+        "clave": 2
+      },
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "institucionDependencia": {
+      "nombre": "Municipio de Miguel Auza",
+      "siglas": "MA",
+      "clave": "MNZ029"
+    },
+    "nombres": "Shiomara",
+    "primerApellido": "Soria",
+    "segundoApellido": "Giacoman",
+    "ejercicioFiscal": "2022",
+    "id": "3db03114-2de0-4d0e-bb0c-902fbd8544e6",
+    "fechaCaptura": "2022-09-14T19:00:04.581Z"
+  },
+  {
+    "ramo": {
+      "clave": 33,
+      "valor": "Aportaciones Federales para Entidades Federativas y Municipios"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Jefe de la Unidad de Imagen Urbana",
+        "nivel": "16B"
+      },
+      "nombres": "HILARIO",
+      "primerApellido": "TORRES",
+      "segundoApellido": "CHÁVEZ"
+    },
+    "puesto": {
+      "nombre": "Auxiliar Administrativo",
+      "nivel": "19B"
+    },
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS",
+        "clave": 2
+      }
+    ],
+    "institucionDependencia": {
+      "nombre": "Municipio de Guadalupe",
+      "clave": "MNZ017",
+      "siglas": "GPE"
+    },
+    "nombres": "SILVESTRE",
+    "primerApellido": "CARLOS",
+    "segundoApellido": "CHÁVEZ",
+    "ejercicioFiscal": "2022",
+    "id": "ac6be05b-50b4-40d4-b52a-ed2842ddecad",
+    "fechaCaptura": "2022-05-26T16:48:14.206Z"
+  },
+  {
+    "ramo": {
+      "clave": 28,
+      "valor": "Participaciones a Entidades Federativas y Municipios"
+    },
+    "puesto": {
+      "nombre": "Tesorero"
+    },
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "institucionDependencia": {
+      "nombre": "Municipio de Trinidad García de la Cadena",
+      "siglas": "TGC",
+      "clave": "MNZ011"
+    },
+    "nombres": "Tomas",
+    "primerApellido": "Cabral",
+    "segundoApellido": "Perez",
+    "ejercicioFiscal": "2021",
+    "id": "c6c7d7ba-4bab-4452-8b2c-750c5a9f80ae",
+    "fechaCaptura": "2022-11-09T17:41:55.188Z"
+  },
+  {
+    "ramo": {
+      "clave": 33,
+      "valor": "Aportaciones Federales para Entidades Federativas y Municipios"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "PRESIDENTA MUNICIPAL ",
+        "nivel": "EJECUTIVO "
+      },
+      "nombres": "MARÍA DEL ROCÍO",
+      "primerApellido": "MORENO",
+      "segundoApellido": "SÁNCHEZ"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA OBRAS Y SERVICIOS PÚBLICOS ",
+      "nivel": "CONFIANZA "
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      },
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS",
+        "clave": 2
+      }
+    ],
+    "institucionDependencia": {
+      "nombre": "Municipio de Juchipila",
+      "clave": "MNZ023",
+      "siglas": "JUCH"
+    },
+    "nombres": "TRINIDAD DE JESÚS ",
+    "primerApellido": "MUÑOZ ",
+    "segundoApellido": "GARCÍA ",
+    "ejercicioFiscal": "2022",
+    "id": "fbf3e53a-3d80-4304-b5fd-56977224c6dd",
+    "fechaCaptura": "2022-11-11T19:49:35.811Z"
+  },
+  {
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Presidenta Honorifica del SMDIF",
+        "nivel": "Presidenta"
+      },
+      "nombres": "Ma. Del Carmen ",
+      "primerApellido": "Vázquez",
+      "segundoApellido": "Jaime"
+    },
+    "puesto": {
+      "nombre": "Directora General del SMDIF",
+      "nivel": "Directora"
+    },
+    "tipoArea": [
+      {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 5,
+        "valor": "OTRO"
+      }
+    ],
+    "institucionDependencia": {
+      "nombre": "Municipio de General Pánfilo Natera",
+      "siglas": "GPN",
+      "clave": "MNZ016"
+    },
+    "nombres": "Valeria Concepción",
+    "primerApellido": "Cazares",
+    "segundoApellido": "Salas",
+    "ejercicioFiscal": "2022",
+    "id": "4e03dd9c-a10b-43d3-bd5a-06a2d5169d9d",
+    "fechaCaptura": "2022-05-23T15:17:36.860Z"
+  },
+  {
+    "ramo": {
+      "clave": 28,
+      "valor": "Participaciones a Entidades Federativas y Municipios"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR GENERAL DE ADMINISTRACIÓN",
+        "nivel": "DGF"
+      },
+      "nombres": "JOSÉ ANTONIO",
+      "primerApellido": "MILANÉS",
+      "segundoApellido": "RODRÍGUEZ"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA DE FINANZAS",
+      "nivel": "DIR A"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 5,
+        "valor": "OTRO"
+      }
+    ],
+    "institucionDependencia": {
+      "nombre": "Fiscalía General de Justicia del Estado",
+      "siglas": "FGJEZ",
+      "clave": "OAZ005"
+    },
+    "nombres": "VALERIA PAHOLA ",
+    "primerApellido": "MEDINA",
+    "segundoApellido": "SIERRA",
+    "ejercicioFiscal": "2022",
+    "id": "92d23bac-d331-4e45-99f8-af3801370a13",
+    "fechaCaptura": "2022-02-22T21:33:21.421Z"
+  },
+  {
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "PRESIDENTE MUNICIPAL "
+      },
+      "nombres": "GUSTAVO ",
+      "primerApellido": "AGUILAR ",
+      "segundoApellido": "ANDRADE"
+    },
+    "puesto": {
+      "nombre": "TITULAR DE DESARROLLO ECONOMICO Y SOCIAL"
+    },
+    "tipoArea": [
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "institucionDependencia": {
+      "nombre": "Municipio de Loreto",
+      "siglas": "LOR",
+      "clave": "MNZ024"
+    },
+    "nombres": "VERONICA",
+    "primerApellido": "ESCOBEDO",
+    "segundoApellido": "BRIANO",
+    "ejercicioFiscal": "2022",
+    "id": "cfc809e8-bb47-4916-aa09-f774d3a87562",
+    "fechaCaptura": "2022-11-11T16:37:05.476Z"
+  },
+  {
+    "ramo": {
+      "clave": 28,
+      "valor": "Participaciones a Entidades Federativas y Municipios"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "FISCAL GENERAL DE JUSTICIA DEL ESTADO DE ZACATECAS",
+        "nivel": "FGE"
+      },
+      "nombres": "FRANCISCO JOSÉ ",
+      "primerApellido": "MURILLO ",
+      "segundoApellido": "RUISECO"
+    },
+    "puesto": {
+      "nombre": "TITULAR DEL ÓRGANO INTERNO DE CONTROL",
+      "nivel": "DCI"
+    },
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "institucionDependencia": {
+      "nombre": "Fiscalía General de Justicia del Estado",
+      "siglas": "FGJEZ",
+      "clave": "OAZ005"
+    },
+    "nombres": "VERÓNICA ",
+    "primerApellido": "FAJARDO",
+    "segundoApellido": "LAMAS",
+    "ejercicioFiscal": "2022",
+    "id": "ea896e2c-0bfe-4ea2-a9a2-9d650327e11d",
+    "fechaCaptura": "2022-02-22T21:29:09.866Z"
+  },
+  {
+    "ramo": {
+      "clave": 28,
+      "valor": "Participaciones a Entidades Federativas y Municipios"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Auditor Superior del Estado",
+        "nivel": "Auditor Superior"
+      },
+      "nombres": "Raúl",
+      "primerApellido": "Brito",
+      "segundoApellido": "Berumen"
+    },
+    "puesto": {
+      "nombre": "Jefa de la Unidad General de Administración",
+      "nivel": "Dirección"
+    },
+    "tipoArea": [],
+    "nivelResponsabilidad": [],
+    "tipoProcedimiento": [
+      {
+        "clave": 5,
+        "valor": "OTRO"
+      }
+    ],
+    "institucionDependencia": {
+      "nombre": "Auditoría Superior del Estado de Zacatecas",
+      "siglas": "ASEZ",
+      "clave": "LGZ002"
+    },
+    "nombres": "Verónica Yvette",
+    "primerApellido": "Hernández",
+    "segundoApellido": "López de Lara ",
+    "ejercicioFiscal": "2021",
+    "id": "d7c43ac7-74d7-4979-9603-7660033b72a6",
+    "fechaCaptura": "2021-06-17T17:03:34.628Z"
+  },
+  {
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTOR OBRAS Y SERVICIOS PUBLICOS"
+      },
+      "nombres": "JULIO CESAR",
+      "primerApellido": "RIVERA",
+      "segundoApellido": "PEREZ"
+    },
+    "puesto": {
+      "nombre": "ENCARGADO ECOLOGIA",
+      "nivel": "ENCARGADO"
+    },
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "nivelResponsabilidad": [],
+    "tipoProcedimiento": [
+      {
+        "clave": 5,
+        "valor": "OTRO"
+      }
+    ],
+    "institucionDependencia": {
+      "nombre": "Municipio de Villa de Cos",
+      "siglas": "VC",
+      "clave": "MNZ051"
+    },
+    "nombres": "VICTOR HUGO",
+    "primerApellido": "JUAREZ",
+    "segundoApellido": "SANCHEZ",
+    "ejercicioFiscal": "2022",
+    "id": "0eca7ece-22e9-4a60-8fa9-f6b8f2f8d758",
+    "fechaCaptura": "2022-08-23T20:09:23.653Z"
+  },
+  {
+    "ramo": {
+      "clave": 33,
+      "valor": "Aportaciones Federales para Entidades Federativas y Municipios"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "SECRETARIA DE BIENESTAR SOCIAL",
+        "nivel": "3B"
+      },
+      "nombres": "DIANA ELIZABETH",
+      "primerApellido": "GALAVIZ",
+      "segundoApellido": "TINAJERO"
+    },
+    "puesto": {
+      "nombre": "SUBSECRETARIO DE BIENESTAR SOCIAL",
+      "nivel": "4B"
+    },
+    "tipoArea": [],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 5,
+        "valor": "OTRO"
+      }
+    ],
+    "institucionDependencia": {
+      "nombre": "Municipio de Guadalupe",
+      "clave": "MNZ017",
+      "siglas": "GPE"
+    },
+    "nombres": "VICTOR JESÚS",
+    "primerApellido": "MURILLO",
+    "segundoApellido": "GARAY",
+    "ejercicioFiscal": "2022",
+    "id": "a21ca159-a316-47ef-82a1-bae9bffbcd1b",
+    "fechaCaptura": "2022-06-10T20:19:01.246Z"
+  },
+  {
+    "ramo": {
+      "clave": 28,
+      "valor": "Participaciones a Entidades Federativas y Municipios"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "JEFE DE DEPARTAMENTO DE SERVICIOS GENERALES",
+        "nivel": "JEFE DE SECCIÓN B"
+      },
+      "nombres": "ANA LAURA ",
+      "primerApellido": "DE LUNA",
+      "segundoApellido": "ESQUIVEL "
+    },
+    "puesto": {
+      "nombre": "JEFE DE SECCION DE VEHICULOS",
+      "nivel": "JEFE DE SECCIÓN B"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "institucionDependencia": {
+      "nombre": "Junta Intermunicipal de Agua Potable y Alcantarillado de Zacatecas",
+      "siglas": "JIAPAZ",
+      "clave": "JIZ001"
+    },
+    "nombres": "VICTOR MANUEL ",
+    "primerApellido": "TORRES",
+    "segundoApellido": "SALDAÑA",
+    "ejercicioFiscal": "2022",
+    "id": "73db8faf-5d62-4037-9065-8cdc531ff597",
+    "fechaCaptura": "2022-10-07T13:31:28.966Z"
+  },
+  {
+    "ramo": {
+      "clave": 28,
+      "valor": "Participaciones a Entidades Federativas y Municipios"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "DIRECTORA DE OBRAS Y SERVICIOS PÚBLICOS",
+        "nivel": "CONFIANZA "
+      },
+      "nombres": "TRINIDAD DE JESÚS ",
+      "primerApellido": "MUÑOZ ",
+      "segundoApellido": "GARCÍA"
+    },
+    "puesto": {
+      "nivel": "AUXILIAR ADMINISTRATIVO D.O.P.",
+      "nombre": "RESPONSABLE REVISIÓN CONSTRUCCIONES"
+    },
+    "tipoArea": [
+      {
+        "clave": "R",
+        "valor": "REQUIRENTE"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS",
+        "clave": 2
+      }
+    ],
+    "institucionDependencia": {
+      "nombre": "Municipio de Juchipila",
+      "clave": "MNZ023",
+      "siglas": "JUCH"
+    },
+    "nombres": "VÍCTOR MANUEL ",
+    "primerApellido": "VILLARREAL ",
+    "segundoApellido": "SALAZAR ",
+    "ejercicioFiscal": "2022",
+    "id": "56c9c000-33e2-4c4d-baa2-5c4af71a9777",
+    "fechaCaptura": "2022-11-11T19:32:52.602Z"
+  },
+  {
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Director de Desarrollo Economico",
+        "nivel": "1051"
+      },
+      "nombres": "Eduardo ",
+      "primerApellido": "Gonzalez",
+      "segundoApellido": "Sifuentes"
+    },
+    "puesto": {
+      "nombre": "Auxiliar Administrativo",
+      "nivel": "1113"
+    },
+    "tipoArea": [],
+    "nivelResponsabilidad": [],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "institucionDependencia": {
+      "nombre": "Municipio de Concepción del Oro",
+      "clave": "MNZ007",
+      "siglas": "CO"
+    },
+    "nombres": "Violeta Abigail",
+    "primerApellido": "Trejo",
+    "segundoApellido": "Garza",
+    "ejercicioFiscal": "2022",
+    "id": "8320565e-c48c-4a90-b33a-0b19bd35a233",
+    "fechaCaptura": "2022-11-09T19:54:35.204Z"
+  },
+  {
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Director de Desarrollo Económico y Social ",
+        "nivel": "1051"
+      },
+      "nombres": "Eduardo ",
+      "primerApellido": "Gonzalez",
+      "segundoApellido": "Sifuentes"
+    },
+    "puesto": {
+      "nombre": "Auxiliar Desarrollo Económico y Social, Manejo de Plataforma SIA y MIDS  ",
+      "nivel": "1113"
+    },
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "institucionDependencia": {
+      "nombre": "Municipio de Concepción del Oro",
+      "clave": "MNZ007",
+      "siglas": "CO"
+    },
+    "nombres": "Violeta Abigail ",
+    "primerApellido": "Trejo ",
+    "segundoApellido": "Garza ",
+    "ejercicioFiscal": "2022",
+    "id": "b43777bc-5220-4141-bfc4-30ab932497a9",
+    "fechaCaptura": "2022-11-11T18:39:09.295Z"
+  },
+  {
+    "ramo": {
+      "clave": 33,
+      "valor": "Aportaciones Federales para Entidades Federativas y Municipios"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Jefe de la Unidad de Imagen Urbana",
+        "nivel": "16B"
+      },
+      "nombres": "HILARIO",
+      "primerApellido": "TREJO",
+      "segundoApellido": "CHÁVEZ"
+    },
+    "puesto": {
+      "nombre": "Auxiliar Administrativo",
+      "nivel": "16B"
+    },
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS",
+        "clave": 2
+      }
+    ],
+    "institucionDependencia": {
+      "nombre": "Municipio de Guadalupe",
+      "clave": "MNZ017",
+      "siglas": "GPE"
+    },
+    "nombres": "VLADIMIR",
+    "primerApellido": "MARTÍNEZ",
+    "segundoApellido": "GARCÍA",
+    "ejercicioFiscal": "2022",
+    "id": "09ee274f-c2ac-469f-b49e-47c0009645e8",
+    "fechaCaptura": "2022-05-26T16:52:44.973Z"
+  },
+  {
+    "ramo": {
+      "clave": 28,
+      "valor": "Participaciones a Entidades Federativas y Municipios"
+    },
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "Director de Recursos Materiales",
+        "nivel": "DIRADB"
+      },
+      "nombres": "Emmanuel Alejandro",
+      "primerApellido": "García",
+      "segundoApellido": "De Haro"
+    },
+    "puesto": {
+      "nombre": "Auxiliar Administrativo",
+      "nivel": "AUXADA"
+    },
+    "tipoArea": [
+      {
+        "clave": "T",
+        "valor": "TÉCNICA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 5,
+        "valor": "OTRO"
+      }
+    ],
+    "institucionDependencia": {
+      "siglas": "PJZAC",
+      "nombre": "Poder Judicial del Estado de Zacatecas",
+      "clave": "JDZ001"
+    },
+    "nombres": "Wendy Guadalupe",
+    "primerApellido": "Valdez",
+    "segundoApellido": "Organista",
+    "ejercicioFiscal": "2022",
+    "id": "395be1de-16d4-46cc-a313-2f5ecbb06c7b",
+    "fechaCaptura": "2022-01-31T21:06:05.183Z"
+  },
+  {
+    "ramo": {
+      "clave": 33,
+      "valor": "Aportaciones Federales para Entidades Federativas y Municipios"
+    },
+    "puesto": {
+      "nombre": "TESORERO MUNICIPAL",
+      "nivel": "1"
+    },
+    "tipoArea": [
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 5,
+        "valor": "OTRO"
+      }
+    ],
+    "institucionDependencia": {
+      "nombre": "Municipio de Pinos",
+      "siglas": "PIN",
+      "clave": "MNZ038"
+    },
+    "nombres": "Yahaira Adilene",
+    "primerApellido": "Lugo",
+    "segundoApellido": "Leyva",
+    "ejercicioFiscal": "2022",
+    "id": "32a1183f-1964-4d33-aee5-8b5c8ff401a7",
+    "fechaCaptura": "2022-10-12T18:20:55.188Z"
+  },
+  {
+    "superiorInmediato": {
+      "puesto": {
+        "nombre": "PRESIDENTE MUNICIPAL",
+        "nivel": "PRESIDENTE"
+      },
+      "nombres": "Manuel",
+      "primerApellido": "Becerra",
+      "segundoApellido": "De la Rosa"
+    },
+    "puesto": {
+      "nombre": "DIRECTORA DE DESARROLLO ECONÓMICO Y SOCIAL",
+      "nivel": "DIRECTORA"
+    },
+    "tipoArea": [
+      {
+        "clave": "C",
+        "valor": "CONTRATANTE"
+      },
+      {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN"
+      },
+      {
+        "clave": "O",
+        "valor": "OTRA"
+      }
+    ],
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "institucionDependencia": {
+      "nombre": "Municipio de Noria de Ángeles",
+      "siglas": "NA",
+      "clave": "MNZ035"
+    },
+    "nombres": "Yanine",
+    "primerApellido": "Castillo",
+    "segundoApellido": "Zúñiga",
+    "ejercicioFiscal": "2022",
+    "id": "e12f753e-7b5c-455d-9949-f99b824c905b",
+    "fechaCaptura": "2022-10-20T15:38:00.469Z"
+  }
+]

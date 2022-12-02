@@ -1,0 +1,6870 @@
+[
+  {
+    "id": "62f6d48c4fed2f57415a047d",
+    "fechaCaptura": "2015-12-01T10:40:52Z",
+    "nombres": "ARMANDO",
+    "primerApellido": "GONZÁLEZ",
+    "segundoApellido": "OCADIZ",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Responsable Del Área De Registro, Control Y Almacén De Activo Fijo",
+      "nivel": "VEM95"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GARCÍA",
+      "segundoApellido": "CABALLERO"
+    }
+  },
+  {
+    "id": "62f6d48c4fed2f57415a0480",
+    "fechaCaptura": "2015-12-01T10:43:34Z",
+    "nombres": "CONCEPCIÓN BERENICE",
+    "primerApellido": "CROSBY",
+    "segundoApellido": "CASTREJÓN",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Jefe de Departamento",
+      "nivel": "JCYN9"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GUERRERO ",
+      "segundoApellido": "AGUIRRE"
+    }
+  },
+  {
+    "id": "62f6d48c4fed2f57415a0483",
+    "fechaCaptura": "2015-12-01T10:44:50Z",
+    "nombres": "ANA LUISA",
+    "primerApellido": "CUADROS",
+    "segundoApellido": "SORIANO",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Jefe de Área",
+      "nivel": "PHCSR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "BERNAL",
+      "segundoApellido": "MILLAN"
+    }
+  },
+  {
+    "id": "62f6d48d4fed2f57415a0486",
+    "fechaCaptura": "2015-12-01T10:46:20Z",
+    "nombres": "ARMANDO",
+    "primerApellido": "JIMÉNEZ",
+    "segundoApellido": "BECERRIL",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Analista \"D\"",
+      "nivel": "64RIZ"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "BERNAL",
+      "segundoApellido": "MILLAN"
+    }
+  },
+  {
+    "id": "62f6d48d4fed2f57415a048b",
+    "fechaCaptura": "2015-12-01T10:47:35Z",
+    "nombres": "ROEL",
+    "primerApellido": "POSADAS",
+    "segundoApellido": "GONZÁLEZ",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Quimico",
+      "nivel": "BJRDT"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CROSBY",
+      "segundoApellido": "CASTREJON"
+    }
+  },
+  {
+    "id": "62f6d48d4fed2f57415a048e",
+    "fechaCaptura": "2015-12-01T10:49:05Z",
+    "nombres": "NANCY AZUCENA",
+    "primerApellido": "RUIZ",
+    "segundoApellido": "SAENZ",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Enfermera Especialista",
+      "nivel": "IBUSX"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "SAENZ",
+      "segundoApellido": "DÍAZ"
+    }
+  },
+  {
+    "id": "62f6d48d4fed2f57415a0491",
+    "fechaCaptura": "2015-12-01T10:56:53Z",
+    "nombres": "MABEL",
+    "primerApellido": "SÁNCHEZ",
+    "segundoApellido": "BAHENA",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Lider B De Proyecto",
+      "nivel": "X8O1Q"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "BERNAL",
+      "segundoApellido": "MILLAN"
+    }
+  },
+  {
+    "id": "62f6d48d4fed2f57415a049a",
+    "fechaCaptura": "2015-12-01T10:58:33Z",
+    "nombres": "ALEJANDRINO",
+    "primerApellido": "GALVÁN",
+    "segundoApellido": "BENÍTEZ",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Ingeniero Biomédico",
+      "nivel": "4T7I9"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "MORA",
+      "segundoApellido": "CAMPUZANO"
+    }
+  },
+  {
+    "id": "62f6d48e4fed2f57415a049f",
+    "fechaCaptura": "2015-12-01T11:01:01Z",
+    "nombres": "JIMMY OSVALDO",
+    "primerApellido": "SOLORZANO",
+    "segundoApellido": "GARDUZA",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Ingeniero Biomédico",
+      "nivel": "4T7I9"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "MORA",
+      "segundoApellido": "CAMPUZANO"
+    }
+  },
+  {
+    "id": "62f6d48e4fed2f57415a04a2",
+    "fechaCaptura": "2015-12-01T11:05:12Z",
+    "nombres": "JORGE",
+    "primerApellido": "GONZÁLEZ",
+    "segundoApellido": "MATIAS",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Jefe De Departamento De Cartera Vencida",
+      "nivel": "3R5OY"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "VARELA",
+      "segundoApellido": "ALPIZAR"
+    }
+  },
+  {
+    "id": "62f6d48e4fed2f57415a04a5",
+    "fechaCaptura": "2015-12-01T11:06:44Z",
+    "nombres": "RICARDO",
+    "primerApellido": "MIRANDA",
+    "segundoApellido": "HERNÁNDEZ",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Jefe De Departamento De Creditos",
+      "nivel": "82HG5"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "MIRANDA",
+      "segundoApellido": "HERNANDEZ"
+    }
+  },
+  {
+    "id": "62f6d48e4fed2f57415a04aa",
+    "fechaCaptura": "2015-12-01T11:32:22Z",
+    "nombres": "ARACELI",
+    "primerApellido": "CUANDON",
+    "segundoApellido": "MENDOZA",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Subdirectora De Ingenieria De Sistemas",
+      "nivel": "L5ISH"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "VILCHIS",
+      "segundoApellido": "GARCÍA"
+    }
+  },
+  {
+    "id": "62f6d48e4fed2f57415a04ad",
+    "fechaCaptura": "2015-12-01T11:38:51Z",
+    "nombres": "GUILLERMO",
+    "primerApellido": "LÓPEZ",
+    "segundoApellido": "FLORES",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Jefe De Departamento De Estudios Actuariales",
+      "nivel": "K9HFY"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "ALVAREZ",
+      "segundoApellido": "PÉREZ"
+    }
+  },
+  {
+    "id": "62f6d48e4fed2f57415a04b0",
+    "fechaCaptura": "2015-12-01T11:40:23Z",
+    "nombres": "MAURICIO",
+    "primerApellido": "MARTÍNEZ",
+    "segundoApellido": "SÁNCHEZ",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Suplente De La Subdirección De Prestaciones Potestativas",
+      "nivel": "V01EK"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CERVANTES",
+      "segundoApellido": "SOTO"
+    }
+  },
+  {
+    "id": "62f6d48e4fed2f57415a04b5",
+    "fechaCaptura": "2015-12-01T11:41:50Z",
+    "nombres": "JUAN MANUEL",
+    "primerApellido": "RODRÍGUEZ",
+    "segundoApellido": "RODRÍGUEZ",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Responsable Administrativo",
+      "nivel": "W09EL"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CERVANTES",
+      "segundoApellido": "SOTO"
+    }
+  },
+  {
+    "id": "62f6d48f4fed2f57415a04b8",
+    "fechaCaptura": "2015-12-01T11:45:33Z",
+    "nombres": "JORGE ARTURO",
+    "primerApellido": "GONZÁLEZ",
+    "segundoApellido": "ESPINOZA",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Jefe De Departamento De Centros Asistenciales",
+      "nivel": "RPKMD"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "VILLALOBOS",
+      "segundoApellido": "ESCAMILLA"
+    }
+  },
+  {
+    "id": "62f6d48f4fed2f57415a04bb",
+    "fechaCaptura": "2015-12-01T12:12:16Z",
+    "nombres": "JOSÉ",
+    "primerApellido": "QUEZADA",
+    "segundoApellido": "MONRROY",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Delegado De La Dirección De Desarrollo Y Administración De Personal",
+      "nivel": "X8NWS"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RODRIGUEZ",
+      "segundoApellido": "HERNANDEZ"
+    }
+  },
+  {
+    "id": "62f6d48f4fed2f57415a04be",
+    "fechaCaptura": "2015-12-01T12:14:57Z",
+    "nombres": "SUCELL",
+    "primerApellido": "SÁNCHEZ",
+    "segundoApellido": "SERRANO",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Subdirctora De Personal",
+      "nivel": "KC3TO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RODRIGUEZ",
+      "segundoApellido": "AMBROSIO."
+    }
+  },
+  {
+    "id": "62f6d48f4fed2f57415a04c3",
+    "fechaCaptura": "2015-12-01T12:17:20Z",
+    "nombres": "JULIETA",
+    "primerApellido": "SANTAMARÍA",
+    "segundoApellido": "TORIJA",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Subdirectora De Desarrollo De Personal",
+      "nivel": "XQI9B"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "MARTÍNEZ"
+    }
+  },
+  {
+    "id": "62f6d48f4fed2f57415a04c6",
+    "fechaCaptura": "2015-12-01T12:23:38Z",
+    "nombres": "RICARDO",
+    "primerApellido": "HERNÁNDEZ",
+    "segundoApellido": "GÓMEZ",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Lider \"A\" De Proyecto, Responsable De La Delegación Administrativa De La Coor. De Innovación Y Cal.",
+      "nivel": "3Q52E"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "MARTÍNEZ",
+      "segundoApellido": "IBARROLA"
+    }
+  },
+  {
+    "id": "62f6d48f4fed2f57415a04c9",
+    "fechaCaptura": "2015-12-01T12:32:03Z",
+    "nombres": "JUAN MANUEL",
+    "primerApellido": "ESQUIVEL",
+    "segundoApellido": "GALICIA",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Operativo",
+      "nivel": "8KDXU"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "COLIN",
+      "segundoApellido": "CARMONA"
+    }
+  },
+  {
+    "id": "62f6d4904fed2f57415a04ce",
+    "fechaCaptura": "2015-12-01T12:34:14Z",
+    "nombres": "JORGE",
+    "primerApellido": "SERRANO",
+    "segundoApellido": "ROSALES",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Operativo",
+      "nivel": "8KDXU"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "COLIN",
+      "segundoApellido": "CARMONA"
+    }
+  },
+  {
+    "id": "62f6d4904fed2f57415a04d1",
+    "fechaCaptura": "2015-12-01T12:35:56Z",
+    "nombres": "CINDY PAOLA",
+    "primerApellido": "JASSO",
+    "segundoApellido": "GONZÁLEZ",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Subdirectora",
+      "nivel": "PT8KM"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "JASSO",
+      "segundoApellido": "GONZALEZ"
+    }
+  },
+  {
+    "id": "62f6d4904fed2f57415a04d6",
+    "fechaCaptura": "2015-12-01T13:06:34Z",
+    "nombres": "BRENDA AZENETH",
+    "primerApellido": "QUEZADA",
+    "segundoApellido": "LÓPEZ",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Jefa Del Departamento De Pensiones",
+      "nivel": "B72LY"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "QUINTO",
+      "segundoApellido": "CAMPUZANO"
+    }
+  },
+  {
+    "id": "62f6d4904fed2f57415a04d9",
+    "fechaCaptura": "2015-12-01T13:17:20Z",
+    "nombres": "ALEJANDRO",
+    "primerApellido": "COLIN",
+    "segundoApellido": "LAGARDE",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Analista",
+      "nivel": "NYIXH"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CHAPARRO",
+      "segundoApellido": "ENRIQUEZ"
+    }
+  },
+  {
+    "id": "62f6d4904fed2f57415a04dc",
+    "fechaCaptura": "2015-12-01T13:28:32Z",
+    "nombres": "JULIETA",
+    "primerApellido": "ALVARADO",
+    "segundoApellido": "OCAMPO",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Enfermera Jefe De Servicio",
+      "nivel": "KE8AQ"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GUERRERO",
+      "segundoApellido": "AGUIRRE"
+    }
+  },
+  {
+    "id": "62f6d4904fed2f57415a04df",
+    "fechaCaptura": "2015-12-01T14:08:20Z",
+    "nombres": "VERÓNICA",
+    "primerApellido": "SERRANO",
+    "segundoApellido": "JIMÉNEZ",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Suplente De La Dirección De Desarrollo Y Administración De Personal",
+      "nivel": "1GL2B"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RODRIGUEZ",
+      "segundoApellido": "HERNANDEZ"
+    }
+  },
+  {
+    "id": "62f6d4904fed2f57415a04e2",
+    "fechaCaptura": "2015-12-01T14:23:35Z",
+    "nombres": "JOSÉ AARON",
+    "primerApellido": "BARRERA",
+    "segundoApellido": "LOREDO",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Suplente De La Coordinación De Servicios De Salud/Vocal",
+      "nivel": "X06JK"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GUERRERO",
+      "segundoApellido": "AGUIRRE"
+    }
+  },
+  {
+    "id": "62f6d4914fed2f57415a04e5",
+    "fechaCaptura": "2015-12-01T15:31:53Z",
+    "nombres": "LILIA ESTHELA",
+    "primerApellido": "MANCILLA",
+    "segundoApellido": "GARDUÑO",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Jefe de Área",
+      "nivel": "PHCSR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GUERRERO",
+      "segundoApellido": "AGUIRRE"
+    }
+  },
+  {
+    "id": "62f6d4914fed2f57415a04e8",
+    "fechaCaptura": "2015-12-01T15:33:51Z",
+    "nombres": "JOSÉ LUIS",
+    "primerApellido": "VILCHIS",
+    "segundoApellido": "MORENO",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Jefe De Departamento De Investigación E Innovación Educativa En Salud",
+      "nivel": "BTL6C"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GALINDO",
+      "segundoApellido": "MONTEAGUDO"
+    }
+  },
+  {
+    "id": "62f6d4914fed2f57415a04eb",
+    "fechaCaptura": "2015-12-01T16:30:49Z",
+    "nombres": "ITZKA DEMI ADOLFO",
+    "primerApellido": "MALDONADO",
+    "segundoApellido": "TRUJILLO",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Director De Desarrollo Y Calidad",
+      "nivel": "D0LA1"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "SANTIN",
+      "segundoApellido": "MORALES"
+    }
+  },
+  {
+    "id": "62f6d4914fed2f57415a04f0",
+    "fechaCaptura": "2015-12-01T17:29:56Z",
+    "nombres": "JAIME",
+    "primerApellido": "PINEDA",
+    "segundoApellido": "RUIZ",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Vocal Suplente De La Coordinación De Finanzas Ante El Comité",
+      "nivel": "BP30U"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "MELESIO",
+      "segundoApellido": "SANDOVAL"
+    }
+  },
+  {
+    "id": "62f6d4914fed2f57415a04f6",
+    "fechaCaptura": "2015-12-01T17:47:53Z",
+    "nombres": "GUILLERMO",
+    "primerApellido": "VICTAL",
+    "segundoApellido": "VAZQUEZ",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Director De Educación E Investigación En Salud",
+      "nivel": "FTVAE"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "VICTAL",
+      "segundoApellido": "VAZQUEZ"
+    }
+  },
+  {
+    "id": "62278872294e7e4afffcfbea",
+    "fechaCaptura": "2015-12-03T13:05:16Z",
+    "nombres": "BERENICE",
+    "primerApellido": "LÓPEZ",
+    "segundoApellido": "VIZCAYA",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Analista de Ofertas",
+      "nivel": "YQJEI"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RESCALA",
+      "segundoApellido": "JIMENEZ"
+    }
+  },
+  {
+    "id": "62278872294e7e4afffcfbef",
+    "fechaCaptura": "2015-12-03T13:07:59Z",
+    "nombres": "WENDY",
+    "primerApellido": "RAMIREZ",
+    "segundoApellido": "MARIN",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Estudio de Mercado y Cotizador",
+      "nivel": "WAUJQ"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RESCALA",
+      "segundoApellido": "JIMENEZ"
+    }
+  },
+  {
+    "id": "62278872294e7e4afffcfbf4",
+    "fechaCaptura": "2015-12-03T13:27:08Z",
+    "nombres": "SERGIO",
+    "primerApellido": "RODRÍGUEZ",
+    "segundoApellido": "JAIMES",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Elaboración y Trámite de Contratos",
+      "nivel": "RP4NM"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RESCALA",
+      "segundoApellido": "JIMENEZ"
+    }
+  },
+  {
+    "id": "62278872294e7e4afffcfbf9",
+    "fechaCaptura": "2015-12-03T13:30:14Z",
+    "nombres": "AIDA",
+    "primerApellido": "ROSSANO",
+    "segundoApellido": "MEJÍA",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Elaboración y Trámite de Contratos",
+      "nivel": "RP4NM"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RESCALA",
+      "segundoApellido": "JIMENEZ"
+    }
+  },
+  {
+    "id": "62278872294e7e4afffcfbfe",
+    "fechaCaptura": "2015-12-04T11:41:41Z",
+    "nombres": "VÍCTOR DANIEL",
+    "primerApellido": "BENÍTEZ",
+    "segundoApellido": "GARDUÑO",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Apoyo Administrativo",
+      "nivel": "EKGI2"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RESCALA",
+      "segundoApellido": "JIMENEZ"
+    }
+  },
+  {
+    "id": "62278873294e7e4afffcfc03",
+    "fechaCaptura": "2015-12-04T11:47:41Z",
+    "nombres": "ROSA DE JESÚS",
+    "primerApellido": "MARTÍNEZ",
+    "segundoApellido": "NAVARRETE",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Soporte Administrativo",
+      "nivel": "681ZF"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RESCALA",
+      "segundoApellido": "JIMENEZ"
+    }
+  },
+  {
+    "id": "62278873294e7e4afffcfc08",
+    "fechaCaptura": "2015-12-04T12:10:02Z",
+    "nombres": "HERLINDA",
+    "primerApellido": "LEYVA",
+    "segundoApellido": "LEYVA",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Apoyo Administrativo",
+      "nivel": "EKGI2"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RESCALA",
+      "segundoApellido": "JIMENEZ"
+    }
+  },
+  {
+    "id": "62278873294e7e4afffcfc0d",
+    "fechaCaptura": "2015-12-04T12:16:55Z",
+    "nombres": "JESÚS ANTONIO",
+    "primerApellido": "FUENTES",
+    "segundoApellido": "ROMERO",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Jefe De Departamento De Concursos Contratos Y Estimaciones",
+      "nivel": "J0KFV"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RESCALA",
+      "segundoApellido": "JIMENEZ"
+    }
+  },
+  {
+    "id": "62278873294e7e4afffcfc12",
+    "fechaCaptura": "2015-12-04T12:30:22Z",
+    "nombres": "JOSÉ RODOLFO",
+    "primerApellido": "REYES",
+    "segundoApellido": "MANRÍQUEZ",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Soporte Administrativo A",
+      "nivel": "7LPBH"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RESCALA",
+      "segundoApellido": "JIMENEZ"
+    }
+  },
+  {
+    "id": "62278874294e7e4afffcfc17",
+    "fechaCaptura": "2015-12-04T12:35:19Z",
+    "nombres": "GEORGETTE",
+    "primerApellido": "PORRAS",
+    "segundoApellido": "ARZATE",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Soporte Administrativo",
+      "nivel": "681ZF"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RESCALA",
+      "segundoApellido": "JIMENEZ"
+    }
+  },
+  {
+    "id": "62278874294e7e4afffcfc21",
+    "fechaCaptura": "2015-12-04T12:43:13Z",
+    "nombres": "ARIADNA DULCE MARÍA",
+    "primerApellido": "ELIZALDE",
+    "segundoApellido": "CARMONA",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Soporte Administrativo",
+      "nivel": "681ZF"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RESCALA",
+      "segundoApellido": "JIMENEZ"
+    }
+  },
+  {
+    "id": "62278874294e7e4afffcfc26",
+    "fechaCaptura": "2015-12-04T12:52:36Z",
+    "nombres": "PABLO",
+    "primerApellido": "ROSALES",
+    "segundoApellido": "CANALES",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Apoyo Administrativo",
+      "nivel": "EKGI2"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RESCALA",
+      "segundoApellido": "JIMENEZ"
+    }
+  },
+  {
+    "id": "62278875294e7e4afffcfc2b",
+    "fechaCaptura": "2015-12-04T12:56:03Z",
+    "nombres": "ALICIA CARIDAD",
+    "primerApellido": "OJEDA",
+    "segundoApellido": "ALCAZAR",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Soporte Administrativo",
+      "nivel": "681ZF"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RESCALA",
+      "segundoApellido": "JIMENEZ"
+    }
+  },
+  {
+    "id": "62278875294e7e4afffcfc30",
+    "fechaCaptura": "2015-12-04T13:16:50Z",
+    "nombres": "LUCELY",
+    "primerApellido": "ESQUIVEL",
+    "segundoApellido": "GARCÍA",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Soporte Administrativo",
+      "nivel": "681ZF"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RESCALA",
+      "segundoApellido": "JIMENEZ"
+    }
+  },
+  {
+    "id": "62278875294e7e4afffcfc35",
+    "fechaCaptura": "2015-12-04T13:20:33Z",
+    "nombres": "RAÚL",
+    "primerApellido": "CRUZ",
+    "segundoApellido": "HERNÁNDEZ",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Soporte Administrativo",
+      "nivel": "681ZF"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RESCALA",
+      "segundoApellido": "JIMENEZ"
+    }
+  },
+  {
+    "id": "62278875294e7e4afffcfc3a",
+    "fechaCaptura": "2015-12-04T14:08:39Z",
+    "nombres": "EMILIO ALEJANDRO",
+    "primerApellido": "ALVAREZ",
+    "segundoApellido": "RAMÍREZ",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Soporte Administrativo",
+      "nivel": "681ZF"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RESCALA",
+      "segundoApellido": "JIMENEZ"
+    }
+  },
+  {
+    "id": "62278875294e7e4afffcfc3f",
+    "fechaCaptura": "2015-12-04T14:11:13Z",
+    "nombres": "JORGE FIDEL",
+    "primerApellido": "AMBRIZ",
+    "segundoApellido": "ARREOLA",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Soporte Administrativo",
+      "nivel": "681ZF"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RESCALA",
+      "segundoApellido": "JIMENEZ"
+    }
+  },
+  {
+    "id": "62278876294e7e4afffcfc44",
+    "fechaCaptura": "2015-12-04T14:31:07Z",
+    "nombres": "EDWIN SALVADOR",
+    "primerApellido": "CRUZ",
+    "segundoApellido": "VILCHIS",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Soporte Administrativo",
+      "nivel": "681ZF"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RESCALA",
+      "segundoApellido": "JIMENEZ"
+    }
+  },
+  {
+    "id": "62278876294e7e4afffcfc49",
+    "fechaCaptura": "2015-12-04T14:33:20Z",
+    "nombres": "JESÚS GILBERTO",
+    "primerApellido": "DELGADO",
+    "segundoApellido": "ARELLANO",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Soporte Administrativo",
+      "nivel": "681ZF"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RESCALA",
+      "segundoApellido": "JIMENEZ"
+    }
+  },
+  {
+    "id": "62278876294e7e4afffcfc4e",
+    "fechaCaptura": "2015-12-04T14:37:17Z",
+    "nombres": "ITZELI EDNA AMELIA",
+    "primerApellido": "DÍAZ",
+    "segundoApellido": "PORRAS",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Soporte Administrativo",
+      "nivel": "681ZF"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RESCALA",
+      "segundoApellido": "JIMENEZ"
+    }
+  },
+  {
+    "id": "62278876294e7e4afffcfc53",
+    "fechaCaptura": "2015-12-04T14:52:00Z",
+    "nombres": "JOSÉ LUIS",
+    "primerApellido": "FLORES",
+    "segundoApellido": "AVELLANEDA",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Soporte Administrativo",
+      "nivel": "681ZF"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RESCALA",
+      "segundoApellido": "JIMENEZ"
+    }
+  },
+  {
+    "id": "62278877294e7e4afffcfc58",
+    "fechaCaptura": "2015-12-04T14:59:11Z",
+    "nombres": "ANTONIO",
+    "primerApellido": "GUADARRAMA",
+    "segundoApellido": "RENEDO",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Soporte Administrativo",
+      "nivel": "681ZF"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RESCALA",
+      "segundoApellido": "JIMENEZ"
+    }
+  },
+  {
+    "id": "62278877294e7e4afffcfc5d",
+    "fechaCaptura": "2015-12-04T15:23:40Z",
+    "nombres": "NOE",
+    "primerApellido": "LUGO",
+    "segundoApellido": "TIMOTEO",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Soporte Administrativo",
+      "nivel": "681ZF"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RESCALA",
+      "segundoApellido": "JIMENEZ"
+    }
+  },
+  {
+    "id": "62278877294e7e4afffcfc62",
+    "fechaCaptura": "2015-12-04T15:44:44Z",
+    "nombres": "JAIME",
+    "primerApellido": "SÁNCHEZ",
+    "segundoApellido": "RÍOS",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Soporte Administrativo",
+      "nivel": "681ZF"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RESCALA",
+      "segundoApellido": "JIMENEZ"
+    }
+  },
+  {
+    "id": "62278878294e7e4afffcfc6c",
+    "fechaCaptura": "2015-12-04T15:54:08Z",
+    "nombres": "SAUL",
+    "primerApellido": "VILLAFUERTE",
+    "segundoApellido": "AYALA",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Soporte Administrativo",
+      "nivel": "681ZF"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RESCALA",
+      "segundoApellido": "JIMENEZ"
+    }
+  },
+  {
+    "id": "62d3da6cb598ee27666c122f",
+    "fechaCaptura": "2015-12-07T16:27:20Z",
+    "nombres": "MONSERRAT",
+    "primerApellido": "SÁNCHEZ",
+    "segundoApellido": "HERNÁNDEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Mecánico",
+      "nivel": "5BAY4"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "ARISTA",
+      "segundoApellido": "VAZQUEZ"
+    }
+  },
+  {
+    "id": "62d3da6db598ee27666c1237",
+    "fechaCaptura": "2015-12-07T16:30:27Z",
+    "nombres": "GONZALO",
+    "primerApellido": "MARCIAL",
+    "segundoApellido": "AQUINO",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Radio Operador",
+      "nivel": "597YH"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "ARISTA",
+      "segundoApellido": "VAZQUEZ"
+    }
+  },
+  {
+    "id": "62d3da6eb598ee27666c1267",
+    "fechaCaptura": "2015-12-07T17:03:30Z",
+    "nombres": "PATRICIA",
+    "primerApellido": "OLMEDO",
+    "segundoApellido": "MEDINA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Analista De Servicios",
+      "nivel": "BVKYA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GUZMAN",
+      "segundoApellido": "CARIÑO"
+    }
+  },
+  {
+    "id": "62d3da6fb598ee27666c126a",
+    "fechaCaptura": "2015-12-07T17:04:53Z",
+    "nombres": "ERIKA",
+    "primerApellido": "GARCÍA",
+    "segundoApellido": "PALACIOS",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Analista De Servicios",
+      "nivel": "BVKYA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GUZMAN",
+      "segundoApellido": "CARIÑO"
+    }
+  },
+  {
+    "id": "62d3da6fb598ee27666c1272",
+    "fechaCaptura": "2015-12-07T17:08:07Z",
+    "nombres": "JOSÉ LUIS",
+    "primerApellido": "AGUILAR",
+    "segundoApellido": "LÓPEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Responsable De Almacén",
+      "nivel": "YJ72E"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GUZMAN",
+      "segundoApellido": "CARIÑO"
+    }
+  },
+  {
+    "id": "6340696e7943e2ab46bb58dc",
+    "fechaCaptura": "2015-12-07T17:11:17Z",
+    "nombres": "FRANCISCO",
+    "primerApellido": "MELGAREJO",
+    "segundoApellido": "CAREAGA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Auxiliar Del Parque Vehicular",
+      "nivel": "9TW2F"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GUZMAN",
+      "segundoApellido": "CARIÑO"
+    }
+  },
+  {
+    "id": "62d3da6fb598ee27666c127f",
+    "fechaCaptura": "2015-12-07T17:20:26Z",
+    "nombres": "MARTHA",
+    "primerApellido": "ANTOLÍN",
+    "segundoApellido": "REYES",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Analista De Vehículos",
+      "nivel": "WJI6S"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GUZMAN",
+      "segundoApellido": "CARIÑO"
+    }
+  },
+  {
+    "id": "62d3da70b598ee27666c1288",
+    "fechaCaptura": "2015-12-07T17:57:58Z",
+    "nombres": "JUVENTINO",
+    "primerApellido": "MARTÍNEZ",
+    "segundoApellido": "ALPÍZAR",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Subdirector De Servicios",
+      "nivel": "WR7I3"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "ARISTA",
+      "segundoApellido": "VAZQUEZ"
+    }
+  },
+  {
+    "id": "62d3da70b598ee27666c128d",
+    "fechaCaptura": "2015-12-07T18:00:12Z",
+    "nombres": "JAIME",
+    "primerApellido": "GUZMÁN",
+    "segundoApellido": "BECERRIL",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Jefe Del Departamento De Servicios Generales",
+      "nivel": "GMNEQ"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "ARISTA",
+      "segundoApellido": "VAZQUEZ"
+    }
+  },
+  {
+    "id": "62d3da70b598ee27666c1290",
+    "fechaCaptura": "2015-12-07T18:01:47Z",
+    "nombres": "GERARDO",
+    "primerApellido": "ESTRADA",
+    "segundoApellido": "ROMERO",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Analista \"C\"",
+      "nivel": "KY1ZG"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "ARISTA",
+      "segundoApellido": "VAZQUEZ"
+    }
+  },
+  {
+    "id": "62d3da70b598ee27666c1295",
+    "fechaCaptura": "2015-12-07T18:03:40Z",
+    "nombres": "HÉCTOR MIGUEL",
+    "primerApellido": "VEGA",
+    "segundoApellido": "MÁRQUEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Ayudante De Servicios De Oficina De Servidor Público Superior",
+      "nivel": "Y6GR2"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "ARISTA",
+      "segundoApellido": "VAZQUEZ"
+    }
+  },
+  {
+    "id": "62d3da70b598ee27666c1298",
+    "fechaCaptura": "2015-12-10T16:48:49Z",
+    "nombres": "MARÍA LETICIA",
+    "primerApellido": "MANZUR",
+    "segundoApellido": "QUIROGA",
+    "institucionDependencia": {
+      "nombre": "Servicios Educativos Integrados al Estado de México",
+      "siglas": "seiem",
+      "clave": "eje-036"
+    },
+    "puesto": {
+      "nombre": "Directora De De Preparatoria Abierta",
+      "nivel": "K5FUZ"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "LEGORRETA",
+      "segundoApellido": "MARTINEZ"
+    }
+  },
+  {
+    "id": "62d3da70b598ee27666c12a2",
+    "fechaCaptura": "2015-12-10T17:03:15Z",
+    "nombres": "JOSE GUADALUPE",
+    "primerApellido": "SARABIA",
+    "segundoApellido": "ORTIZ",
+    "institucionDependencia": {
+      "nombre": "Servicios Educativos Integrados al Estado de México",
+      "siglas": "seiem",
+      "clave": "eje-036"
+    },
+    "puesto": {
+      "nombre": "Director De Informatica Y Telecomunicaciones",
+      "nivel": "431YI"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "LEGORRETA",
+      "segundoApellido": "MARTINEZ"
+    }
+  },
+  {
+    "id": "62d3da71b598ee27666c12a5",
+    "fechaCaptura": "2015-12-10T17:10:13Z",
+    "nombres": "MARGARITA",
+    "primerApellido": "BUSTAMANTE",
+    "segundoApellido": "RAMÍREZ",
+    "institucionDependencia": {
+      "nombre": "Servicios Educativos Integrados al Estado de México",
+      "siglas": "seiem",
+      "clave": "eje-036"
+    },
+    "puesto": {
+      "nombre": "Jefa De La Unidad De Modernización Para La Calidad Del Servicio",
+      "nivel": "RJ6EU"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "IBARGUENGOITIA",
+      "segundoApellido": "FRANZONY"
+    }
+  },
+  {
+    "id": "62d3da71b598ee27666c12a8",
+    "fechaCaptura": "2015-12-11T11:59:47Z",
+    "nombres": "DAVID ANTONIO MACARIO",
+    "primerApellido": "SERVIN",
+    "segundoApellido": "VEGA",
+    "institucionDependencia": {
+      "nombre": "Servicios Educativos Integrados al Estado de México",
+      "siglas": "seiem",
+      "clave": "eje-036"
+    },
+    "puesto": {
+      "nombre": "Jefe De La Oficina De Escuelas Particulares",
+      "nivel": "EJ3HI"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "IBARGUENGOITIA",
+      "segundoApellido": "FRANZONY"
+    }
+  },
+  {
+    "id": "62f6d49f4fed2f57415a05e5",
+    "fechaCaptura": "2016-01-18T14:36:42Z",
+    "nombres": "VICTOR MANUEL",
+    "primerApellido": "HERNÁNDEZ",
+    "segundoApellido": "COLUNGA",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Ingeniero Biomédico",
+      "nivel": "4T7I9"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GUERRERO",
+      "segundoApellido": "AGUIRRE"
+    }
+  },
+  {
+    "id": "62f6d49f4fed2f57415a05ea",
+    "fechaCaptura": "2016-01-18T14:38:56Z",
+    "nombres": "ALAN ROLLIE",
+    "primerApellido": "ESCAMILLA",
+    "segundoApellido": "ESQUIVEL",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Ingeniero Biomédico",
+      "nivel": "4T7I9"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GUERRERO",
+      "segundoApellido": "AGUIRRE"
+    }
+  },
+  {
+    "id": "62f6d49f4fed2f57415a05ef",
+    "fechaCaptura": "2016-01-18T15:05:44Z",
+    "nombres": "WALFRED JOSÉ",
+    "primerApellido": "GÓMEZ",
+    "segundoApellido": "VILCHIS",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Suplente De La Unidad Juridica",
+      "nivel": "XKSI0"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "QUIJANO",
+      "segundoApellido": "ROMERO"
+    }
+  },
+  {
+    "id": "62f6d4a04fed2f57415a05f4",
+    "fechaCaptura": "2016-01-18T15:08:37Z",
+    "nombres": "VIRGINIA",
+    "primerApellido": "CASTAÑEDA",
+    "segundoApellido": "RODEA",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Enfermera Especialista",
+      "nivel": "IBUSX"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GUERRERO",
+      "segundoApellido": "AGUIRRE"
+    }
+  },
+  {
+    "id": "62f6d4a04fed2f57415a05f7",
+    "fechaCaptura": "2016-01-18T15:10:39Z",
+    "nombres": "GERMAN",
+    "primerApellido": "LECHUGA",
+    "segundoApellido": "ROSAS",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Subdirector De Administracion Crediticia",
+      "nivel": "GWI5D"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "MIRANDA",
+      "segundoApellido": "HERNANDEZ"
+    }
+  },
+  {
+    "id": "62d3da74b598ee27666c12f2",
+    "fechaCaptura": "2016-01-27T12:19:08Z",
+    "nombres": "GERARDO",
+    "primerApellido": "NIETO",
+    "segundoApellido": "MORALES",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Jefe A De Proyecto",
+      "nivel": "ZGDKW"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "BARRERA"
+    }
+  },
+  {
+    "id": "62d3da75b598ee27666c1306",
+    "fechaCaptura": "2016-01-27T12:56:21Z",
+    "nombres": "CÉSAR ARMANDO",
+    "primerApellido": "RIVERA",
+    "segundoApellido": "RUÍZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Secretaria C",
+      "nivel": "K3WNY"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "BARRERA"
+    }
+  },
+  {
+    "id": "62d3da75b598ee27666c1311",
+    "fechaCaptura": "2016-01-27T13:27:46Z",
+    "nombres": "BERTHA LOURDES",
+    "primerApellido": "RAMÍREZ",
+    "segundoApellido": "DÍAZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Lider B Proy",
+      "nivel": "N8LKG"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "BARRERA"
+    }
+  },
+  {
+    "id": "62d3da75b598ee27666c1319",
+    "fechaCaptura": "2016-01-27T13:35:14Z",
+    "nombres": "SERGIO",
+    "primerApellido": "ALEGRÍA",
+    "segundoApellido": "REYES",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Jefe de Departamento",
+      "nivel": "JCYN9"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "BARRERA"
+    }
+  },
+  {
+    "id": "62d3da76b598ee27666c1321",
+    "fechaCaptura": "2016-01-27T13:45:50Z",
+    "nombres": "MARTÍN",
+    "primerApellido": "CARRANZA",
+    "segundoApellido": "MERCADO",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Director",
+      "nivel": "4K08I"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "BARRERA"
+    }
+  },
+  {
+    "id": "62d3da77b598ee27666c1337",
+    "fechaCaptura": "2016-01-27T14:07:42Z",
+    "nombres": "EDGAR AGUSTÍN",
+    "primerApellido": "VILCHIS",
+    "segundoApellido": "VILCHIS",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Jefe de Departamento",
+      "nivel": "JCYN9"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "BARRERA"
+    }
+  },
+  {
+    "id": "62d3da77b598ee27666c133c",
+    "fechaCaptura": "2016-01-27T14:09:36Z",
+    "nombres": "FERNANDO BENJAMÍN",
+    "primerApellido": "HERNÁNDEZ",
+    "segundoApellido": "ORNELAS",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Subdirector",
+      "nivel": "G575X"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "BARRERA"
+    }
+  },
+  {
+    "id": "62d3da78b598ee27666c1341",
+    "fechaCaptura": "2016-01-27T14:12:08Z",
+    "nombres": "IGNACIO",
+    "primerApellido": "SAMPERIO",
+    "segundoApellido": "SALAZAR",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Ing Sistem Sei",
+      "nivel": "472U9"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "BARRERA"
+    }
+  },
+  {
+    "id": "62d3da79b598ee27666c1355",
+    "fechaCaptura": "2016-01-27T20:02:23Z",
+    "nombres": "BERENICE",
+    "primerApellido": "CUERVO",
+    "segundoApellido": "ACEVES",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Jefe De La Unidad De Seguimiento De Programas Y Apoyo Administrativo",
+      "nivel": "SHEPK"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "INDA",
+      "segundoApellido": "GONZALEZ"
+    }
+  },
+  {
+    "id": "62d3da79b598ee27666c1358",
+    "fechaCaptura": "2016-01-27T20:06:29Z",
+    "nombres": "MARCOS",
+    "primerApellido": "LÓPEZ",
+    "segundoApellido": "SALAZAR",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Lider  B De Proyectos",
+      "nivel": "631ZP"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "INDA",
+      "segundoApellido": "GONZALEZ"
+    }
+  },
+  {
+    "id": "62d3da79b598ee27666c1362",
+    "fechaCaptura": "2016-01-28T17:18:55Z",
+    "nombres": "LUIS ORLANDO",
+    "primerApellido": "MUÑOZ",
+    "segundoApellido": "FLORES",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Jefe \"B\" Proyecto",
+      "nivel": "M2FT0"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CORENO",
+      "segundoApellido": "RUBIO"
+    }
+  },
+  {
+    "id": "62d3da7ab598ee27666c1366",
+    "fechaCaptura": "2016-01-29T11:55:08Z",
+    "nombres": "IMELDA SOCORRO",
+    "primerApellido": "SALINAS",
+    "segundoApellido": "CARMONA",
+    "institucionDependencia": {
+      "nombre": "Instituto Mexiquense de la Infraestructura Física Educativa",
+      "siglas": "imife",
+      "clave": "eje-035"
+    },
+    "puesto": {
+      "nombre": "Analista D",
+      "nivel": "ZHGM3"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "FADRIQUE",
+      "segundoApellido": "MARUGAN"
+    }
+  },
+  {
+    "id": "62d3da7ab598ee27666c1369",
+    "fechaCaptura": "2016-02-04T12:19:59Z",
+    "nombres": "MARCELINO",
+    "primerApellido": "AVÍLES",
+    "segundoApellido": "MUNGUIA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Jefe De Analistas",
+      "nivel": "W2BMI"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "INDA",
+      "segundoApellido": "GONZALEZ"
+    }
+  },
+  {
+    "id": "62d3da7ab598ee27666c136c",
+    "fechaCaptura": "2016-02-04T12:22:11Z",
+    "nombres": "ALBERTO",
+    "primerApellido": "ALARCÓN",
+    "segundoApellido": "ORDOÑEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Analista",
+      "nivel": "NYIXH"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "INDA",
+      "segundoApellido": "GONZALEZ"
+    }
+  },
+  {
+    "id": "62d3da7ab598ee27666c1375",
+    "fechaCaptura": "2016-02-08T16:17:12Z",
+    "nombres": "GABRIELA",
+    "primerApellido": "GOMEZ",
+    "segundoApellido": "BERNAL",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Verificador De Documentos De Servicios Al Publico",
+      "nivel": "D873A"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "PADILLA",
+      "segundoApellido": "HANESSIAN"
+    }
+  },
+  {
+    "id": "62d3da7bb598ee27666c137a",
+    "fechaCaptura": "2016-02-08T16:20:59Z",
+    "nombres": "NADIA BERENICE",
+    "primerApellido": "COLMENARES",
+    "segundoApellido": "VILCHIS",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Capturista A",
+      "nivel": "RZHO3"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "PADILLA",
+      "segundoApellido": "HANESSIAN"
+    }
+  },
+  {
+    "id": "62d3da7bb598ee27666c137f",
+    "fechaCaptura": "2016-02-08T16:36:14Z",
+    "nombres": "YADIRA",
+    "primerApellido": "GAONA",
+    "segundoApellido": "CERNA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Operador De Proyectos De Transporte",
+      "nivel": "3QA8M"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "PADILLA",
+      "segundoApellido": "HANESSIAN"
+    }
+  },
+  {
+    "id": "62d3da7bb598ee27666c1382",
+    "fechaCaptura": "2016-02-08T16:49:13Z",
+    "nombres": "GUILLERMO",
+    "primerApellido": "PALOS",
+    "segundoApellido": "MARTINEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Jefe De Oficina R1",
+      "nivel": "FYAG1"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "POSADA",
+      "segundoApellido": "FLORES"
+    }
+  },
+  {
+    "id": "62d3da7bb598ee27666c1387",
+    "fechaCaptura": "2016-02-09T18:01:23Z",
+    "nombres": "WINDY",
+    "primerApellido": "DELGADILLO",
+    "segundoApellido": "LAGUNAS",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Oficial De Operaciones Aeronáuticas",
+      "nivel": "RCIKG"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "ARISTA",
+      "segundoApellido": "VAZQUEZ"
+    }
+  },
+  {
+    "id": "62d3da7bb598ee27666c138c",
+    "fechaCaptura": "2016-02-11T11:11:19Z",
+    "nombres": "CARLOS",
+    "primerApellido": "CASILLAS",
+    "segundoApellido": "TORRES",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Recursos Financieros",
+      "nivel": "P95UQ"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "MIRANDA",
+      "segundoApellido": "ALVAREZ"
+    }
+  },
+  {
+    "id": "62d3da7bb598ee27666c138f",
+    "fechaCaptura": "2016-02-16T13:49:37Z",
+    "nombres": "EVA GUADALUPE",
+    "primerApellido": "GONZALEZ",
+    "segundoApellido": "SANDOVAL",
+    "institucionDependencia": {
+      "nombre": "Instituto Mexiquense de la Infraestructura Física Educativa",
+      "siglas": "imife",
+      "clave": "eje-035"
+    },
+    "puesto": {
+      "nombre": "Analista Auxiliar",
+      "nivel": "0MAG0"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "NEMER",
+      "segundoApellido": "ORIVE"
+    }
+  },
+  {
+    "id": "62d3da7bb598ee27666c1392",
+    "fechaCaptura": "2016-02-17T13:57:26Z",
+    "nombres": "SANDRA",
+    "primerApellido": "VELASCO",
+    "segundoApellido": "CAZARES",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Secretaria A",
+      "nivel": "WRIVF"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "PADILLA",
+      "segundoApellido": "HANESSIAN"
+    }
+  },
+  {
+    "id": "62d3da7cb598ee27666c1395",
+    "fechaCaptura": "2016-02-17T14:23:58Z",
+    "nombres": "SANDRA GUADALUPE",
+    "primerApellido": "CASTAÑEDA",
+    "segundoApellido": "VARGAS",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Analista B",
+      "nivel": "K4QIE"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "PADILLA",
+      "segundoApellido": "HANESSIAN"
+    }
+  },
+  {
+    "id": "62d3da7cb598ee27666c1398",
+    "fechaCaptura": "2016-02-19T14:17:07Z",
+    "nombres": "NUBIA ELIZABETH",
+    "primerApellido": "RIVERA",
+    "segundoApellido": "RAMIREZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Verificador De Documentos De Servicios Al Publico",
+      "nivel": "D873A"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d3da7cb598ee27666c139d",
+    "fechaCaptura": "2016-02-19T14:20:23Z",
+    "nombres": "FRANCISCO JAVIER",
+    "primerApellido": "VALDES",
+    "segundoApellido": "BECERRA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Jefe De Oficina R3",
+      "nivel": "ULBXH"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d3da7cb598ee27666c13a0",
+    "fechaCaptura": "2016-02-19T15:17:08Z",
+    "nombres": "ODALIS YESENIA",
+    "primerApellido": "CASTILLO",
+    "segundoApellido": "ARZATE",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Inspector Verificador De Transporte",
+      "nivel": "ERCQZ"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d3da7cb598ee27666c13a3",
+    "fechaCaptura": "2016-02-19T15:18:23Z",
+    "nombres": "ALEJANDRO",
+    "primerApellido": "PEREZ",
+    "segundoApellido": "DUARTE",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Analista C",
+      "nivel": "42ZFV"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d3da7cb598ee27666c13a6",
+    "fechaCaptura": "2016-02-19T15:20:01Z",
+    "nombres": "TOMASA",
+    "primerApellido": "GUTIERREZ",
+    "segundoApellido": "VALDES",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Analista D",
+      "nivel": "ZHGM3"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d3da7db598ee27666c13ab",
+    "fechaCaptura": "2016-02-19T15:22:49Z",
+    "nombres": "ISRAEL",
+    "primerApellido": "BALDERAS",
+    "segundoApellido": "HERNANDEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Verificador De Documentos De Servicios Al Publico",
+      "nivel": "D873A"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d3da7db598ee27666c13b0",
+    "fechaCaptura": "2016-02-19T15:25:16Z",
+    "nombres": "ESTELA",
+    "primerApellido": "MARTINEZ",
+    "segundoApellido": "MONTIEL",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Jefe De Oficina R1",
+      "nivel": "FYAG1"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d3da7db598ee27666c13b5",
+    "fechaCaptura": "2016-02-19T15:28:53Z",
+    "nombres": "MARIA DE LOS ANGELES",
+    "primerApellido": "VALDES",
+    "segundoApellido": "ARRIAGA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Analista C",
+      "nivel": "42ZFV"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d3da7db598ee27666c13b8",
+    "fechaCaptura": "2016-02-19T15:29:59Z",
+    "nombres": "ROGELIO",
+    "primerApellido": "CARBAJAL",
+    "segundoApellido": "PEREZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Analista D",
+      "nivel": "ZHGM3"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d3da7db598ee27666c13bb",
+    "fechaCaptura": "2016-02-19T15:31:22Z",
+    "nombres": "LEONARDO",
+    "primerApellido": "CASAS",
+    "segundoApellido": "LOPEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Analista C",
+      "nivel": "42ZFV"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d3da7db598ee27666c13be",
+    "fechaCaptura": "2016-02-19T15:33:19Z",
+    "nombres": "JOSE JUAN",
+    "primerApellido": "VARGAS",
+    "segundoApellido": "ESTRADA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Verificador De Documentos De Servicios Al Publico",
+      "nivel": "D873A"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d3da7db598ee27666c13c1",
+    "fechaCaptura": "2016-02-19T15:35:23Z",
+    "nombres": "YESSICA ADRIANA",
+    "primerApellido": "JUAREZ",
+    "segundoApellido": "MENDEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Preparador De Trabajos",
+      "nivel": "NZAXT"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "MARTINEZ",
+      "segundoApellido": "CORONA"
+    }
+  },
+  {
+    "id": "62d3da7eb598ee27666c13c4",
+    "fechaCaptura": "2016-02-19T15:36:42Z",
+    "nombres": "EDUWIGIS",
+    "primerApellido": "GUEVARA",
+    "segundoApellido": "BOBADILLA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Analista C",
+      "nivel": "42ZFV"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d3da7eb598ee27666c13c7",
+    "fechaCaptura": "2016-02-19T15:38:04Z",
+    "nombres": "ERICK ARTURO",
+    "primerApellido": "ARCHUNDIA",
+    "segundoApellido": "CAMACHO",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Jefe De Oficina R1",
+      "nivel": "FYAG1"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d3da7eb598ee27666c13ca",
+    "fechaCaptura": "2016-02-19T15:43:56Z",
+    "nombres": "SUSANA",
+    "primerApellido": "SANCHEZ",
+    "segundoApellido": "OJEDA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Jefe de Área",
+      "nivel": "PHCSR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d3da7eb598ee27666c13d0",
+    "fechaCaptura": "2016-02-19T16:20:31Z",
+    "nombres": "GUADALUPE",
+    "primerApellido": "SANTOYO",
+    "segundoApellido": "PEÑA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Verificador De Documentos De Servicios Al Publico",
+      "nivel": "D873A"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d3da7eb598ee27666c13d5",
+    "fechaCaptura": "2016-02-19T16:38:18Z",
+    "nombres": "EVA",
+    "primerApellido": "AVENDAÑO",
+    "segundoApellido": "HERNANDEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Secretaria E",
+      "nivel": "YBSJD"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d3da7fb598ee27666c13d9",
+    "fechaCaptura": "2016-02-19T16:40:39Z",
+    "nombres": "ILIANA NAYELI",
+    "primerApellido": "ALFARO",
+    "segundoApellido": "GONZALEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Secretaria D",
+      "nivel": "8QU29"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d3da7fb598ee27666c13dc",
+    "fechaCaptura": "2016-02-19T16:42:30Z",
+    "nombres": "ERIC NEFTALI",
+    "primerApellido": "GIL",
+    "segundoApellido": "BARRIOS",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Proyectista",
+      "nivel": "WI2NU"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d3da80b598ee27666c13df",
+    "fechaCaptura": "2016-02-19T16:53:58Z",
+    "nombres": "MAXIMO CARLOS",
+    "primerApellido": "DIAZ",
+    "segundoApellido": "GOMEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Auxiliar De Tramites Transporte",
+      "nivel": "4QZFD"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d3da80b598ee27666c13e3",
+    "fechaCaptura": "2016-02-19T17:23:58Z",
+    "nombres": "MARIA ANTONIA",
+    "primerApellido": "ALVAREZ",
+    "segundoApellido": "DOMINGUEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Verificador De Documentos De Servicios Al Publico",
+      "nivel": "D873A"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d3da80b598ee27666c13e6",
+    "fechaCaptura": "2016-02-19T17:25:23Z",
+    "nombres": "ELIA",
+    "primerApellido": "TORRES",
+    "segundoApellido": "CASTAÑEDA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Secretaria E",
+      "nivel": "YBSJD"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d3da80b598ee27666c13e9",
+    "fechaCaptura": "2016-02-19T18:42:37Z",
+    "nombres": "ROBERTO",
+    "primerApellido": "ORTIZ",
+    "segundoApellido": "SEGUNDO",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Verificador De Documentos De Servicios Al Publico",
+      "nivel": "D873A"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d3da80b598ee27666c13ec",
+    "fechaCaptura": "2016-02-19T18:56:44Z",
+    "nombres": "SALVADOR",
+    "primerApellido": "MARTINEZ",
+    "segundoApellido": "ROJAS",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Líder A De Proyecto",
+      "nivel": "QWIPO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d3da80b598ee27666c13ef",
+    "fechaCaptura": "2016-02-19T19:16:45Z",
+    "nombres": "PEDRO",
+    "primerApellido": "CORTES",
+    "segundoApellido": "RUBIO",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Inspector De Transporte",
+      "nivel": "5JSZQ"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d3da80b598ee27666c13f4",
+    "fechaCaptura": "2016-02-19T19:17:58Z",
+    "nombres": "CAROLINA",
+    "primerApellido": "RESENDIZ",
+    "segundoApellido": "MARTINEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Verificador De Documentos De Servicios Al Publico",
+      "nivel": "D873A"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d3da81b598ee27666c13f7",
+    "fechaCaptura": "2016-02-19T19:22:54Z",
+    "nombres": "VALENTINA",
+    "primerApellido": "RESENDIZ",
+    "segundoApellido": "TOVAR",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Auxiliar De Tramites Transporte",
+      "nivel": "4QZFD"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d3da81b598ee27666c13fa",
+    "fechaCaptura": "2016-02-19T19:46:59Z",
+    "nombres": "ANA BELEM",
+    "primerApellido": "MEJIA",
+    "segundoApellido": "PICHARDO",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Secretaria E",
+      "nivel": "YBSJD"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d3da81b598ee27666c1400",
+    "fechaCaptura": "2016-02-19T19:48:12Z",
+    "nombres": "ALEJANDRA CAROLINA",
+    "primerApellido": "FLORES",
+    "segundoApellido": "GONZALEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Verificador De Documentos De Servicios Al Publico",
+      "nivel": "D873A"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d3da81b598ee27666c1403",
+    "fechaCaptura": "2016-02-19T19:57:10Z",
+    "nombres": "KAREN AZUCENA",
+    "primerApellido": "RAMIREZ",
+    "segundoApellido": "SILVA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Verificador De Documentos De Servicios Al Publico",
+      "nivel": "D873A"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d3da81b598ee27666c1406",
+    "fechaCaptura": "2016-02-19T20:11:19Z",
+    "nombres": "SUSANA",
+    "primerApellido": "HERNANDEZ",
+    "segundoApellido": "PAEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Capturista A",
+      "nivel": "RZHO3"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d3da81b598ee27666c1409",
+    "fechaCaptura": "2016-02-19T20:16:17Z",
+    "nombres": "SERGIO",
+    "primerApellido": "OSORNIO",
+    "segundoApellido": "HERNANDEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Verificador De Documentos De Servicios Al Publico",
+      "nivel": "D873A"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d3da82b598ee27666c140c",
+    "fechaCaptura": "2016-02-19T20:30:48Z",
+    "nombres": "ESTELA",
+    "primerApellido": "HERNANDEZ",
+    "segundoApellido": "SANCHEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Secretaria E",
+      "nivel": "YBSJD"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d3da82b598ee27666c140f",
+    "fechaCaptura": "2016-02-19T20:35:28Z",
+    "nombres": "MARTHA",
+    "primerApellido": "ESQUIVEL",
+    "segundoApellido": "MEJIA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Secretaria D",
+      "nivel": "8QU29"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d3da82b598ee27666c1412",
+    "fechaCaptura": "2016-02-19T20:38:44Z",
+    "nombres": "BRENDA OLIVIA",
+    "primerApellido": "POPOCA",
+    "segundoApellido": "MANJARREZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Verificador De Documentos De Servicios Al Publico",
+      "nivel": "D873A"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d3da82b598ee27666c1415",
+    "fechaCaptura": "2016-02-19T20:43:38Z",
+    "nombres": "LETICIA",
+    "primerApellido": "MARTINEZ",
+    "segundoApellido": "PIÑA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Auxiliar De Tramites Transporte",
+      "nivel": "4QZFD"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d3da82b598ee27666c1418",
+    "fechaCaptura": "2016-02-19T20:44:33Z",
+    "nombres": "LETICIA",
+    "primerApellido": "NOGUEZ",
+    "segundoApellido": "ROMERO",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Movilidad",
+      "siglas": "smovilidad",
+      "clave": "eje-101"
+    },
+    "puesto": {
+      "nombre": "Secretaria E",
+      "nivel": "YBSJD"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CABRERA",
+      "segundoApellido": "CORREA"
+    }
+  },
+  {
+    "id": "62d3da83b598ee27666c1429",
+    "fechaCaptura": "2016-03-03T13:43:40Z",
+    "nombres": "PAULA",
+    "primerApellido": "VALDES",
+    "segundoApellido": "HINOJOSA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Analista  B",
+      "nivel": "ANHV1"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GUZMAN",
+      "segundoApellido": "CARIÑO"
+    }
+  },
+  {
+    "id": "637515e97943e2ab46eb8f05",
+    "fechaCaptura": "2016-03-16T12:50:35Z",
+    "nombres": "IVAN",
+    "primerApellido": "MARTINEZ",
+    "segundoApellido": "AGUIÑAGA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Desarrollo Económico",
+      "siglas": "sedeco",
+      "clave": "eje-075"
+    },
+    "puesto": {
+      "nombre": "Lider B De Proyecto",
+      "nivel": "X8O1Q"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": " ",
+      "segundoApellido": " "
+    }
+  },
+  {
+    "id": "637515e97943e2ab46eb8f08",
+    "fechaCaptura": "2016-03-16T13:03:16Z",
+    "nombres": "OSCAR",
+    "primerApellido": "VELAZQUEZ",
+    "segundoApellido": "MONDRAGON",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Desarrollo Económico",
+      "siglas": "sedeco",
+      "clave": "eje-075"
+    },
+    "puesto": {
+      "nombre": "Jefe de Área",
+      "nivel": "PHCSR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": " ",
+      "segundoApellido": " "
+    }
+  },
+  {
+    "id": "62d3da84b598ee27666c143e",
+    "fechaCaptura": "2016-04-05T19:41:05Z",
+    "nombres": "JOSÉ",
+    "primerApellido": "ALTAMIRANO",
+    "segundoApellido": "SALDIVAR",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Jefe De La Unidad De Apoyo Técnico Administrativo",
+      "nivel": "AWG18"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "LOZANO",
+      "segundoApellido": "ENRIQUEZ"
+    }
+  },
+  {
+    "id": "62d3da84b598ee27666c1441",
+    "fechaCaptura": "2016-04-05T19:53:49Z",
+    "nombres": "ALBERTO AGAPITO",
+    "primerApellido": "VALDÉS",
+    "segundoApellido": "MEJÍA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Jefe \"B\" De Proyecto",
+      "nivel": "WCB8I"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "LOPEZ",
+      "segundoApellido": "VIDEZ"
+    }
+  },
+  {
+    "id": "62d3da85b598ee27666c1450",
+    "fechaCaptura": "2016-04-06T10:15:12Z",
+    "nombres": "ABEL",
+    "primerApellido": "ÁVILA",
+    "segundoApellido": "SÁNCHEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Analista \"A\"",
+      "nivel": "OZI61"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "ESQUIVEL",
+      "segundoApellido": "MARTINEZ"
+    }
+  },
+  {
+    "id": "62d3da85b598ee27666c145c",
+    "fechaCaptura": "2016-04-19T16:43:58Z",
+    "nombres": "ISIDRO",
+    "primerApellido": "GALINDEZ",
+    "segundoApellido": "MARTÍNEZ",
+    "institucionDependencia": {
+      "nombre": "Servicios Educativos Integrados al Estado de México",
+      "siglas": "seiem",
+      "clave": "eje-036"
+    },
+    "puesto": {
+      "nombre": "Director De Educación Elemental",
+      "nivel": "EFGYD"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "LEGORRETA",
+      "segundoApellido": "MARTINEZ"
+    }
+  },
+  {
+    "id": "638542a41e5398f68d0dc5d9",
+    "fechaCaptura": "2016-04-25T11:09:42Z",
+    "nombres": "JUAN GABRIEL",
+    "primerApellido": "CORNEJO",
+    "segundoApellido": "QUINTANA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad del Estado de México",
+      "siglas": "ssem",
+      "clave": "eje-012"
+    },
+    "puesto": {
+      "nombre": "Subdirector",
+      "nivel": "G575X"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "MADRAZO",
+      "segundoApellido": "LEMARROY"
+    }
+  },
+  {
+    "id": "638542a41e5398f68d0dc5dc",
+    "fechaCaptura": "2016-04-25T11:14:34Z",
+    "nombres": "CARMEN YESENIA",
+    "primerApellido": "ESCAMILLA",
+    "segundoApellido": "GONZALEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad del Estado de México",
+      "siglas": "ssem",
+      "clave": "eje-012"
+    },
+    "puesto": {
+      "nombre": "Policía R-3",
+      "nivel": "RZHFM"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CORNEJO",
+      "segundoApellido": "QUINTANA"
+    }
+  },
+  {
+    "id": "638542a51e5398f68d0dc5df",
+    "fechaCaptura": "2016-04-25T11:17:09Z",
+    "nombres": "ALMA DELIA",
+    "primerApellido": "FUENTES",
+    "segundoApellido": "COELLO",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad del Estado de México",
+      "siglas": "ssem",
+      "clave": "eje-012"
+    },
+    "puesto": {
+      "nombre": "Analista C De Actividad Delincuencial",
+      "nivel": "LEOM4"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CORNEJO",
+      "segundoApellido": "QUINTANA"
+    }
+  },
+  {
+    "id": "638542a51e5398f68d0dc5e4",
+    "fechaCaptura": "2016-04-25T11:19:41Z",
+    "nombres": "LAURA NALLELY",
+    "primerApellido": "GOMEZ",
+    "segundoApellido": "MONTES DE OCA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad del Estado de México",
+      "siglas": "ssem",
+      "clave": "eje-012"
+    },
+    "puesto": {
+      "nombre": "Policía R-3",
+      "nivel": "RZHFM"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CORNEJO",
+      "segundoApellido": "QUINTANA"
+    }
+  },
+  {
+    "id": "638542a51e5398f68d0dc5e7",
+    "fechaCaptura": "2016-04-25T11:24:01Z",
+    "nombres": "ALEJANDRA",
+    "primerApellido": "PIÑA",
+    "segundoApellido": "REYES",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad del Estado de México",
+      "siglas": "ssem",
+      "clave": "eje-012"
+    },
+    "puesto": {
+      "nombre": "Policía R-3",
+      "nivel": "RZHFM"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CORNEJO",
+      "segundoApellido": "QUINTANA"
+    }
+  },
+  {
+    "id": "62d3da86b598ee27666c146f",
+    "fechaCaptura": "2016-05-09T13:18:11Z",
+    "nombres": "MIGUEL ANGEL",
+    "primerApellido": "MENDOZA",
+    "segundoApellido": "PERALTA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Jefe de Departamento",
+      "nivel": "JCYN9"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CASILLAS",
+      "segundoApellido": "CRUZ"
+    }
+  },
+  {
+    "id": "62f6d4b14fed2f57415a0721",
+    "fechaCaptura": "2016-05-19T17:47:19Z",
+    "nombres": "INGRID PAOLA",
+    "primerApellido": "MADRIGAL",
+    "segundoApellido": "MARTÍNEZ",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Jefe De La Unidad De Comunicación Social Y Vocal Ante El Comité (Área Usuaria)",
+      "nivel": "KEFRS"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "MORENO",
+      "segundoApellido": "MANRIQUEZ"
+    }
+  },
+  {
+    "id": "638542a51e5398f68d0dc5f2",
+    "fechaCaptura": "2016-05-25T12:18:42Z",
+    "nombres": "FRANCISCO",
+    "primerApellido": "RUBIO",
+    "segundoApellido": "GALLEGOS",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Seguridad del Estado de México",
+      "siglas": "ssem",
+      "clave": "eje-012"
+    },
+    "puesto": {
+      "nombre": "Enlace Regional De Seguridad Ciudadana \"A\"",
+      "nivel": "KDTOI"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CORNEJO",
+      "segundoApellido": "QUINTANA"
+    }
+  },
+  {
+    "id": "637515ea7943e2ab46eb8f21",
+    "fechaCaptura": "2016-06-01T10:22:29Z",
+    "nombres": "IAN GUILLERMO",
+    "primerApellido": "NIÑO",
+    "segundoApellido": "MORALES",
+    "institucionDependencia": {
+      "nombre": "Secretaría del Medio Ambiente",
+      "siglas": "sma",
+      "clave": "eje-081"
+    },
+    "puesto": {
+      "nombre": "Inspector De Ecología",
+      "nivel": "EV3I5"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": " ",
+      "segundoApellido": " "
+    }
+  },
+  {
+    "id": "62278878294e7e4afffcfc76",
+    "fechaCaptura": "2016-06-02T10:54:08Z",
+    "nombres": "ALVARO",
+    "primerApellido": "MORELOS",
+    "segundoApellido": "GONZALEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación",
+      "siglas": "educacion",
+      "clave": "eje-027"
+    },
+    "puesto": {
+      "nombre": "Horas Clase",
+      "nivel": "SOWIA"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "VALLES"
+    }
+  },
+  {
+    "id": "62278878294e7e4afffcfc7b",
+    "fechaCaptura": "2016-06-02T10:56:15Z",
+    "nombres": "SLADJANA AZALMABETH",
+    "primerApellido": "JAIMES",
+    "segundoApellido": "DOMINGUEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación",
+      "siglas": "educacion",
+      "clave": "eje-027"
+    },
+    "puesto": {
+      "nombre": "Pedagogo A",
+      "nivel": "LXZ3G"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "VALLES"
+    }
+  },
+  {
+    "id": "62278879294e7e4afffcfc80",
+    "fechaCaptura": "2016-06-02T11:01:04Z",
+    "nombres": "CLAUDIA GABRIELA",
+    "primerApellido": "DIAZ BARRIGA",
+    "segundoApellido": "BIELCHOUWSKY",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación",
+      "siglas": "educacion",
+      "clave": "eje-027"
+    },
+    "puesto": {
+      "nombre": "Horas Clase A Me",
+      "nivel": "5DHZX"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "VALLES"
+    }
+  },
+  {
+    "id": "62f6d4b34fed2f57415a0736",
+    "fechaCaptura": "2016-06-30T14:20:07Z",
+    "nombres": "EDUARDO",
+    "primerApellido": "VILLAGRAN",
+    "segundoApellido": "MUÑOZ",
+    "institucionDependencia": {
+      "nombre": "Instituto de Seguridad Social del Estado de México y Municipios",
+      "siglas": "issemym",
+      "clave": "eje-018"
+    },
+    "puesto": {
+      "nombre": "Jefe de Área",
+      "nivel": "PHCSR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "ALCANTAR",
+      "segundoApellido": "MONDRAGON"
+    }
+  },
+  {
+    "id": "62278879294e7e4afffcfc8f",
+    "fechaCaptura": "2016-07-01T12:53:21Z",
+    "nombres": "FREDI",
+    "primerApellido": "LOZADA",
+    "segundoApellido": "CORDOBA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación",
+      "siglas": "educacion",
+      "clave": "eje-027"
+    },
+    "puesto": {
+      "nombre": "Director De Tecnologías De La Información",
+      "nivel": "XPAT1"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "VALLES"
+    }
+  },
+  {
+    "id": "6227887a294e7e4afffcfca3",
+    "fechaCaptura": "2016-07-01T13:02:24Z",
+    "nombres": "DIANA",
+    "primerApellido": "CHIGORA",
+    "segundoApellido": "JASSO",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación",
+      "siglas": "educacion",
+      "clave": "eje-027"
+    },
+    "puesto": {
+      "nombre": "Auxiliar Administrativo",
+      "nivel": "WPOMB"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "VALLES"
+    }
+  },
+  {
+    "id": "6227887e294e7e4afffcfd07",
+    "fechaCaptura": "2016-08-05T14:41:46Z",
+    "nombres": "NICTE-HA",
+    "primerApellido": "CATZIN",
+    "segundoApellido": "CADENA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación",
+      "siglas": "educacion",
+      "clave": "eje-027"
+    },
+    "puesto": {
+      "nombre": "Asesor Academico",
+      "nivel": "PFVKP"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "VALLES"
+    }
+  },
+  {
+    "id": "6227887f294e7e4afffcfd0c",
+    "fechaCaptura": "2016-08-05T14:43:10Z",
+    "nombres": "TANIA MIROSLAVA",
+    "primerApellido": "CRUZ",
+    "segundoApellido": "HINOJOSA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación",
+      "siglas": "educacion",
+      "clave": "eje-027"
+    },
+    "puesto": {
+      "nombre": "Asesor Academico",
+      "nivel": "PFVKP"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "VALLES"
+    }
+  },
+  {
+    "id": "6227887f294e7e4afffcfd11",
+    "fechaCaptura": "2016-08-05T14:44:51Z",
+    "nombres": "MARIA GUADALUPE",
+    "primerApellido": "DOTOR",
+    "segundoApellido": "ALARCON",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación",
+      "siglas": "educacion",
+      "clave": "eje-027"
+    },
+    "puesto": {
+      "nombre": "Asesor Academico",
+      "nivel": "PFVKP"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "VALLES"
+    }
+  },
+  {
+    "id": "62278880294e7e4afffcfd20",
+    "fechaCaptura": "2016-08-05T14:48:43Z",
+    "nombres": "MARIA ELDA",
+    "primerApellido": "JAIMES",
+    "segundoApellido": "BAUTISTA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación",
+      "siglas": "educacion",
+      "clave": "eje-027"
+    },
+    "puesto": {
+      "nombre": "Asesor Academico",
+      "nivel": "PFVKP"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "VALLES"
+    }
+  },
+  {
+    "id": "62278880294e7e4afffcfd2f",
+    "fechaCaptura": "2016-08-05T14:55:19Z",
+    "nombres": "EDGAR",
+    "primerApellido": "RENDON",
+    "segundoApellido": "MARTINEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación",
+      "siglas": "educacion",
+      "clave": "eje-027"
+    },
+    "puesto": {
+      "nombre": "Asesor Academico",
+      "nivel": "PFVKP"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "VALLES"
+    }
+  },
+  {
+    "id": "62278881294e7e4afffcfd34",
+    "fechaCaptura": "2016-08-05T14:57:13Z",
+    "nombres": "ADRIANA",
+    "primerApellido": "RODRIGUEZ",
+    "segundoApellido": "CASTROPAREDES",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación",
+      "siglas": "educacion",
+      "clave": "eje-027"
+    },
+    "puesto": {
+      "nombre": "Asesor Academico",
+      "nivel": "PFVKP"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "VALLES"
+    }
+  },
+  {
+    "id": "62278881294e7e4afffcfd3e",
+    "fechaCaptura": "2016-08-05T15:05:54Z",
+    "nombres": "JAVIER",
+    "primerApellido": "CASTRO",
+    "segundoApellido": "RUIZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación",
+      "siglas": "educacion",
+      "clave": "eje-027"
+    },
+    "puesto": {
+      "nombre": "Responsable Del Área De Automatizacion De Procesos",
+      "nivel": "YNTE9"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "VALLES"
+    }
+  },
+  {
+    "id": "637515ed7943e2ab46eb8f52",
+    "fechaCaptura": "2016-09-02T14:51:22Z",
+    "nombres": "EMILIO",
+    "primerApellido": "GARDUÑO",
+    "segundoApellido": "ESQUIVEL",
+    "institucionDependencia": {
+      "nombre": "Secretaría del Trabajo",
+      "siglas": "trabajo",
+      "clave": "eje-022"
+    },
+    "puesto": {
+      "nombre": "Jefe",
+      "nivel": "8VXRZ"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": " ",
+      "segundoApellido": " "
+    }
+  },
+  {
+    "id": "62d3da8bb598ee27666c14c7",
+    "fechaCaptura": "2016-09-06T12:20:15Z",
+    "nombres": "CESAR FERNANDO",
+    "primerApellido": "GUTIERREZ",
+    "segundoApellido": "TREJO",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Lider \"A\" de Proyecto",
+      "nivel": "8S6UB"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "VAZQUEZ",
+      "segundoApellido": "SANCHEZ"
+    }
+  },
+  {
+    "id": "62d3da8bb598ee27666c14cd",
+    "fechaCaptura": "2016-10-05T11:47:43Z",
+    "nombres": "AUGUSTO",
+    "primerApellido": "BOLAN",
+    "segundoApellido": "MEJIA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Lider De Supervivion De Planeación Y Presupuesto",
+      "nivel": "FP0UZ"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "INDA",
+      "segundoApellido": "GONZALEZ"
+    }
+  },
+  {
+    "id": "62d3da8cb598ee27666c14d3",
+    "fechaCaptura": "2016-10-05T18:04:51Z",
+    "nombres": "ONEIDA",
+    "primerApellido": "VALENCIA",
+    "segundoApellido": "DE LA CRUZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Analista C",
+      "nivel": "42ZFV"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "AGUILAR",
+      "segundoApellido": "GONZALEZ"
+    }
+  },
+  {
+    "id": "62278898294e7e4afffcff7d",
+    "fechaCaptura": "2016-11-10T15:26:18Z",
+    "nombres": "FILIBERTO",
+    "primerApellido": "ARAIZA",
+    "segundoApellido": "HUARACHA",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Soporte Administrativo \"D\"",
+      "nivel": "NEWF1"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RESCALA",
+      "segundoApellido": "JIMENEZ"
+    }
+  },
+  {
+    "id": "62278899294e7e4afffcff82",
+    "fechaCaptura": "2016-11-10T15:29:05Z",
+    "nombres": "IVAN",
+    "primerApellido": "LOPEZ",
+    "segundoApellido": "GONZALEZ",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Soporte Administrativo \"b\"",
+      "nivel": "6A0RH"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RESCALA",
+      "segundoApellido": "JIMENEZ"
+    }
+  },
+  {
+    "id": "62278899294e7e4afffcff87",
+    "fechaCaptura": "2016-11-10T15:30:35Z",
+    "nombres": "JUAN BERNARDO",
+    "primerApellido": "SANCHEZ",
+    "segundoApellido": "SANCHEZ",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Soporte Administrativo \"A\"",
+      "nivel": "A048Q"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RESCALA",
+      "segundoApellido": "JIMENEZ"
+    }
+  },
+  {
+    "id": "62278899294e7e4afffcff8c",
+    "fechaCaptura": "2016-11-10T15:34:11Z",
+    "nombres": "HOMERO ANIBAL",
+    "primerApellido": "GALLEGOS",
+    "segundoApellido": "VIRUES",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Soporte Administrativo \"C\"",
+      "nivel": "OTVFV"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RESCALA",
+      "segundoApellido": "JIMENEZ"
+    }
+  },
+  {
+    "id": "62278899294e7e4afffcff91",
+    "fechaCaptura": "2016-11-10T15:35:19Z",
+    "nombres": "JUAN JOSE",
+    "primerApellido": "GONZALEZ",
+    "segundoApellido": "URBINA",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Soporte Administrativo \"D\"",
+      "nivel": "NEWF1"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RESCALA",
+      "segundoApellido": "JIMENEZ"
+    }
+  },
+  {
+    "id": "6227889a294e7e4afffcff96",
+    "fechaCaptura": "2016-11-10T15:46:20Z",
+    "nombres": "FELIPE",
+    "primerApellido": "VENCES",
+    "segundoApellido": "GARCÍA",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Soporte Administrativo A",
+      "nivel": "7LPBH"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RESCALA",
+      "segundoApellido": "JIMENEZ"
+    }
+  },
+  {
+    "id": "62d3da8db598ee27666c14eb",
+    "fechaCaptura": "2016-12-06T12:19:57Z",
+    "nombres": "ERICK",
+    "primerApellido": "AGISS",
+    "segundoApellido": "ORTÍZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Director de Área",
+      "nivel": "8OL1B"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "CASILLAS",
+      "segundoApellido": "CRUZ"
+    }
+  },
+  {
+    "id": "62d3da8eb598ee27666c14f9",
+    "fechaCaptura": "2017-02-01T16:56:19Z",
+    "nombres": "ANABEL",
+    "primerApellido": "ESQUÍVEL",
+    "segundoApellido": "MARTÍNEZ",
+    "institucionDependencia": {
+      "nombre": "Instituto Mexiquense de la Infraestructura Física Educativa",
+      "siglas": "imife",
+      "clave": "eje-035"
+    },
+    "puesto": {
+      "nombre": "Subdirectora De Administración",
+      "nivel": "RDVNO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "ESQUIVEL",
+      "segundoApellido": "MARTÍNEZ"
+    }
+  },
+  {
+    "id": "62d3da8eb598ee27666c14fc",
+    "fechaCaptura": "2017-02-01T17:49:43Z",
+    "nombres": "ESTHER",
+    "primerApellido": "BERNAL",
+    "segundoApellido": "ALCÁNTARA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Analista Especializado \"C\"",
+      "nivel": "Y90IV"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "VAZQUEZ",
+      "segundoApellido": "SANCHEZ"
+    }
+  },
+  {
+    "id": "62d3da8fb598ee27666c1508",
+    "fechaCaptura": "2017-03-24T10:09:15Z",
+    "nombres": "BERNARDO",
+    "primerApellido": "ESPINOZA",
+    "segundoApellido": "LÓPEZ",
+    "institucionDependencia": {
+      "nombre": "Instituto Mexiquense de la Infraestructura Física Educativa",
+      "siglas": "imife",
+      "clave": "eje-035"
+    },
+    "puesto": {
+      "nombre": "Jefe Del Departamento De Programas De Inversion",
+      "nivel": "Y4XPH"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "ESPINOZA",
+      "segundoApellido": "LOPEZ"
+    }
+  },
+  {
+    "id": "6227889a294e7e4afffcffa0",
+    "fechaCaptura": "2017-07-03T10:26:18Z",
+    "nombres": "PARIS RODRIGO",
+    "primerApellido": "MALVAIZ",
+    "segundoApellido": "LÓPEZ",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Estudio de Mercado y Cotizador",
+      "nivel": "WAUJQ"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RESCALA",
+      "segundoApellido": "JIMENEZ"
+    }
+  },
+  {
+    "id": "62d3da8fb598ee27666c1513",
+    "fechaCaptura": "2017-07-06T12:38:58Z",
+    "nombres": "MARIO",
+    "primerApellido": "REYES",
+    "segundoApellido": "MARCIAL",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Jefe De Proyecto",
+      "nivel": "A2MR5"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "BARRERA"
+    }
+  },
+  {
+    "id": "6227889a294e7e4afffcffaa",
+    "fechaCaptura": "2017-08-04T15:11:40Z",
+    "nombres": "IVONNE JOCELYN",
+    "primerApellido": "RAMIREZ",
+    "segundoApellido": "HERNANDEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación",
+      "siglas": "educacion",
+      "clave": "eje-027"
+    },
+    "puesto": {
+      "nombre": "Auxiliar Administrativo",
+      "nivel": "WPOMB"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "VALLES"
+    }
+  },
+  {
+    "id": "6227889b294e7e4afffcffb4",
+    "fechaCaptura": "2017-09-01T10:45:20Z",
+    "nombres": "KAREN",
+    "primerApellido": "KURI",
+    "segundoApellido": "SANCHEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación",
+      "siglas": "educacion",
+      "clave": "eje-027"
+    },
+    "puesto": {
+      "nombre": "Profesor Titulado (Responsable Del Área De Energía Eléctrica)",
+      "nivel": "2SOFR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "VALLES"
+    }
+  },
+  {
+    "id": "6227889b294e7e4afffcffc3",
+    "fechaCaptura": "2017-09-01T10:51:26Z",
+    "nombres": "HUGO ENRIQUE",
+    "primerApellido": "GARCIA",
+    "segundoApellido": "PEREZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación",
+      "siglas": "educacion",
+      "clave": "eje-027"
+    },
+    "puesto": {
+      "nombre": "Profesor Titulado (Encargado Del Área De Mantenimiento Correctivo Y/O Preventivo De Vehículos)",
+      "nivel": "79WV6"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "VALLES"
+    }
+  },
+  {
+    "id": "6227889c294e7e4afffcffd2",
+    "fechaCaptura": "2017-09-04T17:25:14Z",
+    "nombres": "TULIA TERESA DE JESUS",
+    "primerApellido": "MORENO",
+    "segundoApellido": "MACIAS",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación",
+      "siglas": "educacion",
+      "clave": "eje-027"
+    },
+    "puesto": {
+      "nombre": "Profesor Titulado",
+      "nivel": "S6LXN"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "VALLES"
+    }
+  },
+  {
+    "id": "6227889c294e7e4afffcffd7",
+    "fechaCaptura": "2017-09-04T17:26:43Z",
+    "nombres": "SANDRA MARICELA",
+    "primerApellido": "BARRIGA",
+    "segundoApellido": "TORRES",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación",
+      "siglas": "educacion",
+      "clave": "eje-027"
+    },
+    "puesto": {
+      "nombre": "Líder A De Proyecto",
+      "nivel": "QWIPO"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "VALLES"
+    }
+  },
+  {
+    "id": "6227889c294e7e4afffcffdc",
+    "fechaCaptura": "2017-09-05T12:51:51Z",
+    "nombres": "JORGE ENRIQUE",
+    "primerApellido": "ACOSTA",
+    "segundoApellido": "MONROY",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Educación",
+      "siglas": "educacion",
+      "clave": "eje-027"
+    },
+    "puesto": {
+      "nombre": "Coordinador de Estudios y Proyectos Especiales",
+      "nivel": "PUYKJ"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "VALLES"
+    }
+  },
+  {
+    "id": "62d3da91b598ee27666c152e",
+    "fechaCaptura": "2017-10-09T10:42:12Z",
+    "nombres": "BLANCA AZUCENA",
+    "primerApellido": "MARTÍNEZ",
+    "segundoApellido": "GARCÍA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Jefa De Departamento",
+      "nivel": "5EZ2I"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "GONZALEZ",
+      "segundoApellido": "BARRERA"
+    }
+  },
+  {
+    "id": "637515f17943e2ab46eb8f90",
+    "fechaCaptura": "2017-10-30T11:24:05Z",
+    "nombres": "SERGIO DANIEL",
+    "primerApellido": "FUENTES",
+    "segundoApellido": "MORALES",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Desarrollo Económico",
+      "siglas": "sedeco",
+      "clave": "eje-075"
+    },
+    "puesto": {
+      "nombre": "Lider De Proyecto",
+      "nivel": "YFZ5M"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": " ",
+      "segundoApellido": " "
+    }
+  },
+  {
+    "id": "637515f17943e2ab46eb8f95",
+    "fechaCaptura": "2017-10-30T11:26:15Z",
+    "nombres": "RAMÓN",
+    "primerApellido": "GONZÁLEZ",
+    "segundoApellido": "SALAVERRÍA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Desarrollo Económico",
+      "siglas": "sedeco",
+      "clave": "eje-075"
+    },
+    "puesto": {
+      "nombre": "Subdirector De Recursos Materiales Y Servicios Generales",
+      "nivel": "ATGSV"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": " ",
+      "segundoApellido": " "
+    }
+  },
+  {
+    "id": "6227889d294e7e4afffcffeb",
+    "fechaCaptura": "2017-11-03T11:33:32Z",
+    "nombres": "JUAN CARLOS",
+    "primerApellido": "AVILA",
+    "segundoApellido": "BELLO",
+    "institucionDependencia": {
+      "nombre": "Instituto de Salud del Estado de México",
+      "siglas": "isem",
+      "clave": "eje-099"
+    },
+    "puesto": {
+      "nombre": "Elaboración y Trámite de Contratos",
+      "nivel": "RP4NM"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "RESCALA",
+      "segundoApellido": "JIMENEZ"
+    }
+  },
+  {
+    "id": "62d3da91b598ee27666c153b",
+    "fechaCaptura": "2017-11-06T10:41:45Z",
+    "nombres": "MARÍA AURORA",
+    "primerApellido": "SOSA",
+    "segundoApellido": "OBLEA",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Coordinadora Administrativa \"E\"",
+      "nivel": "DRL0Q"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "ARISTA",
+      "segundoApellido": "VAZQUEZ"
+    }
+  },
+  {
+    "id": "62d3da92b598ee27666c154b",
+    "fechaCaptura": "2017-11-07T14:23:49Z",
+    "nombres": "LLUVIA AZARETH",
+    "primerApellido": "ARIAS",
+    "segundoApellido": "MÉNDEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Directora De Profesionalización",
+      "nivel": "I8M0E"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      },
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      },
+      {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y SUS PRÓRROGAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "FLORES",
+      "segundoApellido": "ORONA"
+    }
+  },
+  {
+    "id": "62d3da92b598ee27666c1550",
+    "fechaCaptura": "2017-11-07T14:29:18Z",
+    "nombres": "BRENDA",
+    "primerApellido": "VÁZQUEZ",
+    "segundoApellido": "SÁNCHEZ",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Coordinadora De Gestión Gubernamental",
+      "nivel": "JODIG"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "VAZQUEZ",
+      "segundoApellido": "SANCHEZ"
+    }
+  },
+  {
+    "id": "62d3da92b598ee27666c1554",
+    "fechaCaptura": "2017-11-07T14:31:02Z",
+    "nombres": "LUIS ALBERTO",
+    "primerApellido": "GARCÍA",
+    "segundoApellido": "GUERRERO",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Director General De Enlace Interinstitucional",
+      "nivel": "LUOTR"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "R",
+        "valor": "RESOLUCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "VAZQUEZ",
+      "segundoApellido": "SANCHEZ"
+    }
+  },
+  {
+    "id": "62d3da92b598ee27666c1557",
+    "fechaCaptura": "2017-11-07T14:33:22Z",
+    "nombres": "TERESA DOLORES",
+    "primerApellido": "SÁNCHEZ",
+    "segundoApellido": "GIL",
+    "institucionDependencia": {
+      "nombre": "Secretaría de Finanzas",
+      "siglas": "finanzas",
+      "clave": "eje-013"
+    },
+    "puesto": {
+      "nombre": "Secretaria De Servidor Público Superior",
+      "nivel": "IW283"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "VAZQUEZ",
+      "segundoApellido": "SANCHEZ"
+    }
+  },
+  {
+    "id": "62d3da93b598ee27666c155a",
+    "fechaCaptura": "2017-11-15T10:00:56Z",
+    "nombres": "ERENDIDA",
+    "primerApellido": "GRAVE",
+    "segundoApellido": "OSUNA",
+    "institucionDependencia": {
+      "nombre": "Servicios Educativos Integrados al Estado de México",
+      "siglas": "seiem",
+      "clave": "eje-036"
+    },
+    "puesto": {
+      "nombre": "Directora De Recursos Materiales Y Financieros",
+      "nivel": "FG7ET"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "LEGORRETA",
+      "segundoApellido": "MARTINEZ"
+    }
+  },
+  {
+    "id": "62d3da93b598ee27666c155d",
+    "fechaCaptura": "2017-11-15T14:06:10Z",
+    "nombres": "GUILLERMO",
+    "primerApellido": "TALAVERA",
+    "segundoApellido": "MARURI",
+    "institucionDependencia": {
+      "nombre": "Servicios Educativos Integrados al Estado de México",
+      "siglas": "seiem",
+      "clave": "eje-036"
+    },
+    "puesto": {
+      "nombre": "Jefe De Departamento De Adquisiciones",
+      "nivel": "FZ6LP"
+    },
+    "nivelResponsabilidad": [
+      {
+        "clave": "A",
+        "valor": "ATENCIÓN"
+      },
+      {
+        "clave": "T",
+        "valor": "TRAMITACIÓN"
+      }
+    ],
+    "tipoProcedimiento": [
+      {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS"
+      }
+    ],
+    "superiorInmediato": {
+      "primerApellido": "IBARGUENGOITIA",
+      "segundoApellido": "FRANZONY"
+    }
+  }
+]
