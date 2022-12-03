@@ -31,7 +31,7 @@ for ramo in listaDependencias:
             return False
      #en filter solo regresan los que dan true en la funcion    
     resultado = list(filter(filtro,datos)) #se busca filtrar por genero que será siempre 'FEMENINO' y por la dependencia en turno 
-    q = len(resultado)
+    q = len(resultado) #se captura la cantidad counteable de cada dependencia analizada
 
     listaRanking.append(Ranking(ramo,q))
 
