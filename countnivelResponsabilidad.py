@@ -6,7 +6,7 @@ datos = json.load(archivo) #2. Se carga el archivo JSON dentro del ecosistema de
 counter = 0
 def filtro(x):  #3. Se consulta por Institución (ramo) y se filtra para obtener solo a las mujeres
     try:
-        return x['genero']['valor'] == 'FEMENINO' and x['ramo']['valor'] == 'INSTITUTO MUNICIPAL DE PLANEACIÓN DE MAZATLÁN'
+        return x['genero']['valor'] == 'FEMENINO' and x['nivelResponsabilidad'][0]['valor'] == 'RESOLUCIÓN'
     except (KeyError, TypeError):
         return False
 
